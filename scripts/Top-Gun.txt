@@ -1,0 +1,6803 @@
+
+
+
+
+TopGun-byChipProser
+
+	
+
+	
+	TOPGUN
+		
+	by
+	
+	ChipProser
+	
+	REVISED
+	
+	April4,1985
+	
+	Registered,WGAw.
+	
+		NOTE:AerialdialogueinCAPSisUHFradio;
+		planetoplane,planetocarrier.
+	
+		AerialdialogueinsmallcaseisICS;
+		aninter-cockpitsystem;alivemike,
+		heardbypilotandRIOonly.
+	
+	TG1REVISED04APR85.
+	
+	
+	1.EXT.NIGHT.-THEPACIFICISANYTHINGBUT
+	
+	WINDSHOWL.Raindriveshorizontal.Theseasurgesup,
+	nearlytotheflightdeckoftheAircraftCarrierUSSKitty
+	Hawk.Thecarrierplunges,drivingitsbowintoawallof
+	greywater.Thedeckpitchesforwardandback,rollsleftto
+	right,andyawsinacorkscrewmotion.Theentire93,000ton
+	behemothrisesandfallsintheTYPHOON-DRIVENSWELL.
+	
+	
+	2.SOMETHINGDROPSDOWNOUTOFTHENIGHT
+	
+	AROAR.Silverwingsflashby,acockpit,fieryjet
+	exhausts.Afortytonmonsterdropsat120knotsintoanarea
+	thesizeofatenniscourtinaCONTROLLEDCRASH.
+	
+	2A.ASHOWEROFSPARKS,ASCREECHOFRUBBERANDMETALas
+	thegearhitsthedeck.Thehookcatchesthe3wireandthe
+	F-14TOMCATisslammedtoahalt.It'sthescariestthing
+	you'veeverseen,themostdangerousmaneuverinaviationand
+	justanotherdayattheofficeforaNavalAviator.
+	
+	TITLESOVER
+	
+	HARDDRIVINGROCKANDROLL-THECARS-RIDEMEHIGH
+	
+	
+	3.FLIGHTDECK-THELANDINGSIGNALOFFICER-(LSO)
+	
+	Leansalmosthorizontalintothewinds.Heholdsthepickle,
+	controllingthelandinglightsandspeaksintoamike.His
+	calm,professionalcommandsbelietheextremeconditions.
+	
+			LSO
+	POWER,POWER...DON'TCLIMB...
+	OKAY,HOLDWHATYOUGOT.
+	
+	
+	4.ANOTHERTOMCATFLIESOVERTHERAMP
+	
+	Itslamsin.Thepilothitsfullpower,catchesthewire,slams
+	toastop,cutshisengines.
+	
+	5.OMITTED
+	
+	6.AIROPS-BELOWDECK
+	
+	Lotsofscopesandelectronicgear.TheCARRIERCONTROLAPPROACH
+	OFFICER(CCA)watchesabliponradar,reachesforhismikekey.
+	
+	
+	
+	7.EXT.THETWILIGHT'SLASTGLEAMING-(AERIAL)
+	
+	Wefloatlikegods,abovethestorm,abovethecloudcover,
+	lookingdown.Fromoverhead,aprobeslidesintoframe,then
+	agracefulnose.Thecockpitsidesby,Pilot,thenRadar
+	InterceptOfficer(RIO)barelyilluminatedbytheorangeglow
+	oftheirinstruments.Thefuselagegracefullyswellstotwo
+	enormousairintakes,thenvariableanglewings,sweptback
+	forhighspeedflight.Twintailboomscantoutward,
+	horizontalstabilizersmakeconstantadjustments.Enormous
+	twinjetexhaustportsglowredinthemoonlight.
+	
+	
+	8.INT.COCKPIT-(AERIAL)
+	
+	WebecomeawareofWINDWHISTLE,JETENGINESOUNDS,RADIO
+	STATIC.Thepilot,COUGAR,iscalm,steady.TheRadar
+	InterceptOfficerinthebackseat,GOOSE,isawildman,
+	alwaysanedgeofhumorinhisvoice.AUHFtransmission
+	breaksin..
+	
+			STRIKE(V.O.filtered)
+	GHOSTRIDER,THISISSTRIKE...WE
+	HAVEUNKNOWNCONTACTINBOUND,
+	MUSTANG.YOURVECTORZERONINEZERO
+	FORBOGEY.
+	
+	AlmostimmediatelytheRIOpicksupatargetandresponds.
+	
+			GOOSE
+	CONTACT20LEFTAT25,900KNOTS
+	CLOSURE.
+	
+	
+	8A.ANGLE-SECONDF-14-115-COUGAR'SWINGMAN
+	
+	Comeinonthecockpitwithstencilednameandcallsigns:LT.
+	EVANMITCHELListhepilot,MAVERICK.Inflightsuitandoxygen
+	mask,wecanonlyseehiseyes.theyareconfident.Inhis
+	mid-twenties,heislean,hard,athletic...thearchetypefighter
+	pilot.Hisrear-seaterisLTJG.WALTERMERLIN;WIZARD.
+	
+			MAVERICK
+	I'LLI.D.HIM,YOUHOOK'EM.
+	
+	Maverickpeelsofftoright,tohighcoverposition;5o'clock.
+	
+	
+	9.INT.GHOSTRIDER117-COUGAR'SPOV
+	
+	HEADSUPDISPLAY(HUD)glowsdimlyonthewindscreen.Directly
+	infrontofthestick,twoCRTscreensdisplaydata.Thebottom
+	screenshowsaradarsweep.Wedgedbetweentheinstrumentsisa
+	snapshotofaprettyyoungwomanwitha2month-oldbaby.
+	
+	
+			GOOSE
+	Closingfast.MUSTANG,THISIS
+	GHOSTRIDERONEONESEVEN.CONTACT
+	ONEBOGEY,090AT15MILES,900
+	KNOTSOFCLOSURE.
+			COUGAR
+	Lookforthetrailer.
+	
+			GOOSE
+	Idon'tseeanything.MAVERICK,
+	YOUHAVEATRAILER?
+	
+	
+	10.MAVERICK'SF-14
+	
+	Flyingincombatspread,1mileabeam,higher.
+	
+			GOOSE
+	NEGATIVE,COUGAR.LOOKSLIKEHE'S
+	SINGLE.
+	
+	
+	11.INT.117-COUGAR'SCOCKPIT
+	
+			COUGAR
+	HANGBACKANDWATCHFORHIM.HERE
+	COMES...MIGONE.
+	
+	
+	12.EXT.SKY
+	
+	Closingat900knots,TheMiGisaspeck,thenaflashanda
+	ROAR,aknife-edgepassat300feet.Itrocketspasthisleft
+	wingtipanddisappears.Cougarkicksrudder,whipsthestick,
+	screamsintoatightturningrollanddivesafterhim.Heslams
+	thethrottleforwardtoZONE5AFTERBURNER.
+	
+	
+	13.EXT.-MAVERICK'SF-14
+	
+	MaverickseesaSECONDMiGdropfromaboveontoCougar'stail.
+	
+	
+			MAVERICK
+	BOGEYONYOURSIX.I'MONHIS.
+	
+	Maverickswingsafterhim,lightsit.
+	
+	
+	13A.ALLFOURJETSSCREAMDOWNINAPOWERDIVE.
+	
+	Theypunchthroughcloudcoverintothesoup.
+	
+	
+	
+	14.EXT.COUGAR'SF-14
+	
+	HeisclosingonthefirstMiGwhenashockingBLIPBLIPBLIPBLIP
+	tonebreaksintotheirheadsets.
+	
+			GOOSE
+	I'vegotasixstrobe.Ithink
+	he'slockedonus.
+	
+			COUGAR
+	It'saMiG21.Theydon'thave
+	radarmissiles!
+	
+			GOOSE
+	Let'shopeyou'reright!
+	
+			COUGAR
+	Whatishedoing?
+	
+			GOOSE
+	He'spissingmeoff!
+	
+	Cougarswingsmadgyrations,cuttingbackandforthacrossthe
+	frontMiG'stailpipe,tryingtobreakthelock-on.TheTONEgrows
+	moreinsistant.
+	
+			COUGAR
+	Can'tshakehim.
+	
+			MAVERICK(V.O.)
+	WHAT'SMIGONEDOING?
+	
+			COUGAR
+	Maintainingcourse.Straightfor
+	Mustang.
+	
+			GOOSE
+	Staywithhim.
+	
+	Thetonegrowssteady,BLIPBLIPBLIPBLIP.
+	
+			GOOSE
+	(alarmed)
+	That'smissilelock!
+	
+			COUGAR
+	Hebetterbekidding!
+	
+			GOOSE
+	Lordy!EyeballtoAsshole.
+	Hopenobodyburps!
+	
+	
+	
+	14A.INT.MAVERICK'SF-14
+	
+			MAVERICK
+	I'LLLOCKONTHEM,COUGAR.(tohimself)
+	Gotchacovered,don'tnobodymove.
+	
+			COUGAR
+	I'MUPHERETOO,MAVERICK.
+	
+			MAVERICK
+	ROGER,COUGAR.(tohimselfandhisRIO)
+	Okayboys,pulloutwithyourhandsup
+	andnobody'llgethurt.
+	
+	
+	14B.INT.COUGAR'SF-14
+	
+	Upfront,Cougarcheckshisgunsight...HegetsI.R.lock...
+	
+			COUGAR
+	We'relockedonMiGONE.Why
+	doesn'thedisengage?
+	
+			GOOSE
+	Theseguysaregettingonmy
+	nerves.
+	
+	
+	14C.FINALLY,MIGONETURNSAWAY.
+	
+			GOOSE
+	GHOSTRIDERTOMUSTANG.BANDITS
+	TURNINGAWAY.
+	
+	ButCougarpressesforward,andMiGTWOstaysonhistail.
+	
+	
+			MAVERICK
+	COUGAR,BREAKLEFT.TRYAHIGHG
+	ROLLUNDERNEATH.BREAKOUTTHE
+	BOTTOM.
+	
+	Angergiveswaytodiscipline.Cougar'sTomcatbreaksleft,
+	divesintodensecloud.MiGTWOstillfollows.
+	
+			MAVERICK
+	HE'SSTILLONYOU,COUGAR.
+	
+	
+	15.EXT.COUGAR-INTHECLOUDS
+	
+	Stillhearsthetone,BLIPBLIPBLIP...
+	
+			COUGAR
+	
+	IKNOW.IKNOW.
+	
+	Herollsoverintowildevasivemaneuvers,finallybreakslock.
+	
+	
+	16.INT.MIG
+	
+	Breaksoutofcloud,looksaround,startled.Thereisnothing,
+	noF-14.Hescanstheskyfrantically,whilerollingthe
+	aircraft....Suddenly,hefeelsapresence.Helooksstraightup
+	andbehindhim.Afewfeetaway,aTOMCATslidesintoposition
+	canopytocanopy,anincrediblefeatofflying.Maverickand
+	Wizardstareathim.Maverickslidesevencloser,canopiesnearly
+	touching.TheMiGpilotacknowledgesthemwithaweakwave.
+	Maverickstaresforamoment,thenflipshimthebird.
+	
+	TheMiGpushesnegativeG,harddownandaway.Heheadsforthe
+	deck.
+	
+			WIZARD
+	He'srunningforit.
+	
+	
+			MAVERICK
+	Ah,thethrillofvictoryandthe
+	agonyofdefeat.
+	
+			WIZARD
+	Speakingoffeet,fuel'sdownto
+	4.0.We'regonnagetthemwet
+	unlesswefindaSonocostation.
+	
+			MAVERICK
+	COUGAR,THISISMAVERICK.I'M
+	GETTINGHUNGRY,LET'SHEADFORTHE
+	BARN....COUGAR,WHEREAREYOU?
+	
+	
+	17.EXT.KITTYHAWKFLIGHTDECK-THELSO
+	
+	Standstheonplungingdeck,peeringintotheroaringnight.
+	
+			CCA(Filtered)
+	GHOSTRIDERONE-ONE-FIVE,THISIS
+	MUSTANG.WXTHREEHUNDRED.ONE
+	MILEVISIBILITYWITHHEAVYRAIN.
+	FINALINBOUNDBEARINGTHREE-FOUR-
+	ZERO.DECKISMOVING.
+	
+	
+	18.INT.COCKPIT117-COUGAR
+	
+			COUGAR
+	
+	Thisiscrazy.Howthehellwe
+	supposedtolandonsomethingwe
+	can'tevensee!
+	
+			GOOSE
+	Hey,ifitwaseasy,everybody
+	wouldwanttocomeuphereanddo
+	it.....Insteadofjustus.
+	
+			COUGAR
+	(correctshim)
+	You.
+	
+			MUSTANG(V.O.filtered)
+	MUSTANGTOGHOSTRIDER115...110
+	SPIN,42LOCK.AT5MILESREAD
+	YOURNEEDLES.
+	
+	
+	19.INT.COCKPIT115-MAVERICK
+	
+			MAVERICK
+	NEEDLESREADDOWNANDLEFT.
+	
+			CCA(V.O.filtered)
+	CONCUR,FLYYOURNEEDLES.
+	
+			MAVERICK
+	NEEDLESCENTER.
+	
+			CCA(V.O.filtered)
+	ROGER.CALLTHEBALL.
+	
+			MAVERICK
+	Calltheball?Idon'tseethe
+	ship!
+	
+	
+	20.INT.COCKPIT117-COUGAR'SPOV
+	
+	
+	BLASTSslamtheairframe.Raintattoosthecanopy.Agustrolls
+	theTomcat,hestraightensit,Agustflipsitagain.
+	
+	
+	20A.MAVERICK'SPOV
+	
+	TheCarrierlightsappearanddisappearthroughthestorm.
+	
+	
+	21.INT.COCKPIT117-COUGAR
+	
+			GOOSE
+	(ToHimself)
+	
+	Awalkinthepark,Mustang.You
+	withme,catman?...Cougar...you
+	withme?
+	
+	Gooseisthrownaboutasthewingdips,straightens,dips.
+	
+			COUGAR
+	Helpmewiththisone,I'mreally
+	screwedup.
+	
+			GOOSE
+	Bringitleft.Bringitleft,
+	You'rehigh.
+	
+			COUGAR
+	Thisiscrazy!
+	
+			GOOSE
+	Whatis?
+	
+			COUGAR
+	Wait!Hell!..Something'swrong!
+	
+			GOOSE
+	What?Whatisit?
+	
+			COUGAR
+	Wereupsidedown!
+	
+			GOOSE
+	You'recrazy.We'relevel.
+	
+			COUGAR
+	Can'tyoufeelit?I'mhangingin
+	mystraps!
+	
+			GOOSE
+	You'renot.We'relevel.Lookat
+	theinstruments,we'reokay!
+	
+			COUGAR
+	Theymustbebroken.I'mhangingin
+	mystraps!We'reinverted!
+	
+			GOOSE
+	We'renot!Trustme!We'reokay.
+	
+	
+	22.FLIGHTDECK-LSOCONTROLLING115-MAVERICK
+	
+			LSO
+	ALITTLEPOWER...FLYTHEBALL.
+	LOOKINGGOOD...HOLDWHATYOUGOT.
+	
+	
+	
+	23.MAVERICK'SF-14-ONFINALAPPROACH.
+	
+	
+	24.INT.COCKPIT-MAVERICK
+	
+	HehearsCougar'schatterovertheair.
+	
+			COUGAR(V.O.filtered)
+	WE'REUPSIDEDOWN!WECAN'TLAND!
+	
+			GOOSE(V.O.filtered)
+	WELL,WECAN'TSTAYUPHEREEITHER.
+	
+	
+	25.FLIGHTDECK
+	
+	Maverick'splanesettlesinovertheramp,suddenly,BLASTSFROM
+	IT'SAFTERBURNERS...itROARSoverthedeckwithouttouchingand
+	offintothenight.TheLSOisshockedintocomment.
+	
+	
+			LSO
+	WHERETHEHELLYOUGOING?
+	
+	
+	26.MAVERICK'SCOCKPIT-(AERIAL)
+	
+			MAVERICK
+	I...FORGOTSOMETHING.
+	
+			WIZARD
+	Whatthehellyoudoing?
+	
+			MAVERICK
+	Helpinghimin.
+	
+			WIZARD
+	Whatmakesyouthinkwecanget
+	backin?Wedon'thavethefuel
+	forthis.
+			MAVERICK
+	Justgetmetohim.
+	
+			WIZARD
+	He'snineo'clockhigh.We'retwo
+	thousandpoundslow!
+	
+	
+	27.DARKTURBULENTCLOUDS
+	
+	Maverick'splanepullsupbehindCougar's.Cougar'splane
+	suddenlyflipsover,flyinginverted.
+	
+	
+			COUGAR
+	I'mpullingup.
+	
+			GOOSE
+	No!Nowwe'reinverted!
+	
+	
+	Maverickpullsupoffthewingoftheinvertedaircraft.His
+	voiceiscalmnessitself.
+	
+			MAVERICK
+	HEY,ANYOFYOUGUYSSEENAN
+	AIRCRAFTCARRIERAROUNDHERE?
+	
+	Cougarlooksover,surprised.
+	
+			COUGAR
+	WHATAREYOUDOINGHERE?
+	
+			MAVERICK
+	EVERYBODY'SGOTTOBESOMEWHERE.
+	..NOWWE'RERIGHTWITHYOU.
+	YOUAREINVERTED.ROLLIT,COUGAR.
+	
+	Nothinghappens.
+	
+			MAVERICK
+	COUGAR,THISISMAVERICK.HALFROLL
+	IT.NOW!
+	
+	
+	Cougar'splanecompletestheroll,isnowupright.
+	
+			GOOSE
+	We'reonvapor,Cougar,yougotto
+	putitdown.
+	
+			COUGAR
+	It'scrazy,man.Instrumentsare
+	crazy.We'regonnahavetoeject.
+	
+			GOOSE
+	TELLHIM,WILLYOUTELLHIM?OUR
+	INSTRUMENTSAREOKAY.
+	
+			MAVERICK
+	YOU'RESTRAIGHTANDLEVEL,COUGAR.
+			COUGAR
+	I'MHANGINGINMYSTRAPS.ITURNIT
+	OVERANDI'MSTILLHANGINGINMY
+	STRAPS.WHATTHEHELLISGOINGON
+	UPHERE?
+	
+			MAVERICK
+	YOU'RENOTINTHESTRAPS.IT'S
+	VERTIGO,THAT'SALLITIS.STAYON
+	MYWING.I'LLDROPYOUOFF.
+	
+	Maverickpullsupwingtiptowingtip,inchesapart.
+	
+			COUGAR
+	MAVERICK.
+	
+			MAVERICK
+	YEAH,COUGAR?
+	
+	
+			COUGAR
+	YOUBETTERNOTBERAGGINGME...
+	IFYOU'REFLYINGUPSIDEDOWN...
+	
+			MAVERICK
+	NOJOKE,COUGAR.ONTHELEVEL.
+		EVENIWOULDN'TDOTHATTOYOU.
+	
+			COUGAR
+	I'MUPSIDEDOWN.IKNOWIT.I'M
+	GONNAEJECT.
+	
+			GOOSE
+	Lookattheweather!They'llnever
+	findus!We'renearoutoffuel.
+	Putitdown.
+	
+			MAVERICK
+	COUGAR,YOU'REONTHEBALL.
+	
+			COUGAR
+	OKAY...OKAY.BUTIFILANDTHIS
+	THINGUPSIDEDOWN.ANDILIVE.I'LL
+	HAVEYOURBUTT!
+	
+			GOOSE
+	You'llhavemine,Cougar.It'llbe
+	whereyourheadusedtobe.
+	
+	
+	28.EXT.FLIGHTDECK
+	
+	Alleyesareonwhattheycanseeoftheapproachofthetwo
+	planes.Maverickdropshimoffatthepatternandcircles.The
+	LSOwatchestheapproach.TheTomcatdropsawing,straightens,
+	dropsthewing,straightens...theapproachofapilot
+	experiencingvertigoasCougartriestosatisfyhisinnerear.
+	
+			LSO
+	LEVEL...YOURWINGS...EASY...
+	YOU'RESETTLING....FLYTHEBALL.
+	
+	Awindshearjustofftherampdrivestheplanesuddenlydown.
+	
+			LSO
+	POWER...POWER!..POWER!...WAVEOFF!
+	WAVEOFFWAVEOFF!
+	
+	
+	AFTERBURNERSBLAST,buttheTomcathorrifyinglysettlestail-low
+	towardthedeck.Thedeckcrewwatchesinterrorastheplane
+	wallowsintowardthem.TheLSO'Sturn,takeafewstepsand
+	throwthemselvesofftheflightdeck.
+	
+	Theysailintothenighttowardthesurgingseasahundredfeet
+	below,thenarecaughtinsafetynetshungofftheside.
+	
+	
+	28A.THEPLANE
+	
+	Settles,settles,standingonit'sengines,tryingtoarrest
+	it'sdownwardmomentum.Thehookraisessparksasitskidsacross
+	thedeck...Theplanestopsfallingandhangsforamoment,about
+	toblastbackup,whenthehookcatchesthelastwire..Thewire
+	snagsit,plucking45,000poundsoffuel,metalandmenoutof
+	theairandslammingitalltothedeck.WHAMMMM!Rightwheel
+	fliesupthedeckandovertheside...thegearcollapses.The
+	planeSCREECHESsideways.Thecrewwatcheshelplesslyasitskids
+	slamsintoitandcomestorestincloudoffuelvaporandsteam.
+	
+	TheLSOrunsup,shoutingintothemike.
+	
+			LSO
+	COUGAR,GOOSE...COMEINCOUGAR!
+	SHUTYOURENGINESDOWN,YOU'VE
+	ARRIVED.
+	
+			AIRBOSS
+	GHOSTRIDER!ACKNOWLEDGE!
+	GHOSTRIDER!ACKNOWLEDGE!
+	
+	Crashcrewleapsintoaction.Thefirecrewisthere.Themanin
+	theSilverSuitjumpsuponthewingandcrawlstothecockpit.
+	Thefiguresinsidearenotmoving.Hehitsthecanopyrelease.
+	Thecanopypopsopen.Silversuitgrabsattherearseatharness
+	release.Hescreamsthroughhissuit'saluminizedcloth...
+	
+			SILVERSUIT
+	Goose,canyouhearme?Goose!
+	
+	Nothingforamoment.He'sdead!ThentheRIO'Shelmet
+	moves...Hisheadturns.Hetearsthemaskawayfromhisface,
+	looksupatSilverSuit.Hisheadclears.
+	
+			GOOSE
+	Oh,Hello...Valetparking?
+	
+	Silversuitisstunnedforamoment.Hestraightensup,hishead
+	inclinesquizzically.Thenithitshim.
+	
+			SILVERSUIT
+	Sonofabitch!
+	
+			GOOSE
+	Youwillputitupfront,
+	withthePorsches?
+	
+	Hegrabshimunderthearmpits,dragshimoutoftheplane.
+	
+			GOOSE
+	Hey...easy...Takeiteasy...
+	I'maveteran!
+	
+	
+	Goosegrabsapassingcrewmanbythearm.
+	
+			GOOSE
+	Canyoucheckunderthehood.I
+	thoughtIheardafunnynoise.
+	
+	OthercrewmembershelpCougarout.Heseemsstunned,butGoose
+	reactstohisfearwithfranticone-liners.Hegrabsacrew
+	member'sradio,asSilverSuithelpshimawayandlookstothe
+	figuresoftheAdmiralandtheAirBossfaruponthebridge...
+	Hewavestothem,doeshisbestimpression...DesiArnaz.
+	
+			GOOSE
+	Lucy...Ricky...I'nHome!
+	
+	
+	28B.BRIDGEFLIGHTDECK
+	
+	Amomentofdisbelief...Thenhysterical,tensionrelieving
+	laughter.
+	
+	
+	28C.FLIGHTDECK
+	
+	GoosespotsCougarbeinghelpedout.Hepullsaway,reachesback
+	intothecockpitandgrabsCougar'ssnapshotofwifeandkid.
+	TheyleadGooseawayasfiremenblasttheaircraftwithfoam.
+	
+			GOOSE
+	Isitextraforthehotwax?
+	
+	28D.BRIDGE-FLIGHTDECK-AIRBOSS
+	
+			AIRBOSS
+	Cleartheflightdeck.
+	
+	
+	
+	29.FLIGHTDECK
+	
+	ATILLIE,afourwheelmobilecrane,slamsuptotheplaneand
+	slingsitsliftingharness.GooseturnstoSilverSuit.
+	
+			GOOSE
+	Well...theregoesyourtip.
+	
+	30.INT.MAVERICK'SPLANE
+	
+	Theyhavemonitoredthechatter.
+	
+			WIZARD
+	It'sGoose.He'salright.Bringit
+	left...You'resettling.ISTHE
+	DECKCLEAR?
+	
+			LSO(V.O.filtered)
+	(softly)
+	ROGER,BALL,LITTLEPOWER...DON'T
+	CLIMB...OKAY,HOLDWHATYOUGOT!
+	
+	Wizarddoesaquicksignofthecross,reachesdown,grabshis
+	balls...as...
+	
+	
+	30A.FLIGHTDECK
+	
+	TheTOMCATslamsontothedeck,clearingthewreckagebyinches.
+	
+	
+	31.INT.CARRIERHATCHWAY-FLIGHTSURGEON,OTHERS
+	
+	WatchastheybringashakenCougarpast.Goose,eyeswild,
+	wavesatMaverickandWizard,rollingup.Theyflameout-
+	VVOOOMMMMM!Theysitthere,immobile,waitingforatow,looking
+	numb.Goosedoeshis"stewardess".
+	
+			GOOSE
+	OnbehalfofyourCaptainandyour
+	crew,Iwanttothankyoufor
+	flyingVF101.Andnexttimeyour
+	plansincludethemiddleofthe
+	goddamnoceaninthedeadof
+	friggingnight,Ihopeyou'llthink
+	ofNavalAviation.
+	
+	ThesurgeonlooksintoGoose'seyes.
+	
+			SURGEON
+	Stressreaction...
+	
+			XO
+	
+	Checkhishead.
+	
+			GOOSE
+	(wobblingoff)
+	Nevermindmyhead,checkmy
+	shorts!
+	
+	
+	32.SICKBAY-LATER
+	
+	Cougarliesaloneinthedimness,staringattheoverhead.
+	
+	33.03LEVEL-BELOWDECKS-OFFICER'SCOUNTRY
+	
+	TheusualCLANGS,WHISTLES,ENGINESofNavylifesoundFORLORN
+	ECHOINGthroughthedim,desertedpassage.Fromthedistance,a
+	singlefigurepassesinandoutoftheglowoftheoverhead
+	lights.Cougarcomescloser,hobblingunsteadily.
+	
+	Hereachesadoor,pullshimselferectandknocksonthesign:
+	
+	CommanderTomOtawoczek
+	COVF101
+	STINGER
+	
+	
+	34.STINGER'SCABIN
+	
+	Theskipperworksathisdesk,respondswithoutlookingup.
+	
+			STINGER
+	Comein.
+	
+	Helooksup.Cougarstandsinthedoorway,astrange,dazedlook
+	onhisface.
+	
+			STINGER
+	Cougar,whatisit?Youshouldbe
+	insickbay.Whatareyoudoing?
+	
+	Hewalksovertotheskipper'sdesk.Hiseyesareglazed,but
+	hisjawisfirm.
+	
+			COUGAR
+	Thinkingofmywifeandkid.
+	
+	Adeterminedmovement.Handtochest.
+	
+	
+	34A.OMITTED
+	
+	Somethingmetalhitsit,skidsacrossthepolishedsurfaceand
+	clangsupagainstthecoffeemug:goldwings.
+	
+	
+	
+	35.PASSAGEWAY
+	
+	CougarcomesoutofStinger'sroom,bumpsintoGoose,and
+	Maverick.Heturnstheotherway.
+	
+			GOOSE
+	Cougar!
+	
+	Hestops,turnstothem.Thereisnothingtosay.Goosehands
+	himhissnapshot.Cougarlooksathiswifeandkidforamoment,
+	thenlooksupatthem.Heturnsaway.
+	
+			MAVERICK
+	Cougar?		STINGER(O.S.)
+	Maverick,Goose...Comeinhere.
+	
+	
+	36.STINGER'SOFFICE-DOORWAY
+	
+	Maverickappears,followedbyGoose.Theystandat
+	attention.
+	
+			MAVERICK
+	Sir?
+	
+	TheSkippersaysnothing.Maverickseesthewingsonthe
+	desk.Heenters,walksover,staresdownatthem.Hepicks
+	themup.
+	
+			GOOSE
+	Don'tworry.I'lltalktohim.
+	
+			STINGER
+	Don't.
+	
+			MAVERICK
+	He'sagoodpilot.
+	
+			STINGER
+	Italkedamanbackonce.Three
+	monthslater,welosthim.It'shis
+	decision.Onlyheknows.
+	
+			GOOSE
+	He'sthebestyouhave.He'sgoing
+	TopGun!
+	
+			STINGER
+	Was.
+	
+			MAVERICK
+	What?
+	
+	
+			STINGER
+	Wasgoing.(TurnstoMaverick.)Now
+	youare.
+	
+			MAVERICK
+	Me?
+	
+	Maverickstaresatthewings,lostinconflictingemotions.
+	
+			STINGER
+	Well,he'sgoing(indicatingGoose)
+	andheneedssomeonetoflythe
+	plane.
+	
+			GOOSE
+	Skipper,youcan'tdothis!
+	
+			STINGER
+	Ididn'tdoit,hedidithimself.
+	Somethingaboutawifeandkid.The
+	factis,he'slostit.Heknowsit.
+	Iknowit.Youwereupthere,you
+	knowit,too.
+			GOOSE
+	Givehimabreak,Skipper.Itwas
+	rainingsnakesupthere.He'llbe
+	alright,soonasallthegorillasgo
+	home...
+	
+	TheSkipperstaresatGoose,non-plussedforamoment.
+	
+			STINGER
+	IknowsomeRIOSarealittle
+	wiggy...butyouabusethe
+	priviledge!Idon'tbelieveI'm
+	goingtohavetoputthetwoofyou
+	inthesamecockpit...butthereit
+	is!ItmaybegoodfortheNavy.It
+	mightbegoodforyou,butmostof
+	all,it'sgoodforme.It'llget
+	yououtofmysight.
+	
+	
+			GOOSE
+	But,Skipper,Cougar'sbeenpicked
+	forTopGun...He'sthebestofthe
+	best!
+	
+			STINGER
+	Well,you'lljusthavetomakedo
+	withhim(indicatesMaverick).
+	
+	GooseandMaverickexchangelooks.
+	
+	
+			GOOSE
+	Mav'sagreatflyerbut....
+	
+			STINGER
+	He'sahellofaflyer.Infact,
+	he'ssodamngoodhemighthave
+	beenpickedforTopGunhimself.
+	Exceptforonething.(SCREAMS)He
+	justcan'tseemtofolloworders!
+	
+	
+	Stingermovesslightly,tostandnow,directlyinfrontof
+	Maverickandspeakeyetoeyeatfourinches.
+	
+			STINGER
+	Youjustdidanincrediblybravething!
+	Whatyoushouldhavedonewaslandyour
+	plane.Youdon'townthatplane,the
+	taxpayersdo.Ishouldreamyououtfor
+	it.Butitjustdoesn'tworkwithyou.
+	You'reahellofaflyer.Youaremaybe
+	...toogood.Youneverreallysteppedin
+	ityet.Sothisisyourchance.I'm
+	gonnasendyouupagainstthebest.They
+	arebetterthanyou.Maybethey'llknock
+	thatshineoffyoureagleandyou'll
+	see,finally,wheredisciplineand
+	teamworkfitit.
+	Maverickhasn'treallyheardanythingbutTOPGUN.Hesnapsout
+	ofit.
+	
+			MAVERICK
+	Sir?
+	
+			STINGER
+	Thatisall.TellmeabouttheMiG
+	someothertime...
+	
+			MAVERICK
+	Yessir!
+	
+	Hesnapsoffasaluteanddoesanaboutface.
+	
+			STINGER
+	Maverick..
+	
+	Heturnsback.
+	
+			MAVERICK
+	Yessir..
+	
+			STINGER
+	Thewings..
+	
+	
+	Helooksdownatthewingsinhishands,slowingwalksover
+	placesthemgentlyontheSkipper'sdesk.
+	
+			STINGER
+	Gentlemen!
+	
+			MAVERICK/GOOSE
+	Sir?
+	
+	
+	Hisfacadecracksjustslightly.
+	
+			STINGER
+	Goodluck.
+	
+	
+	37.INT.PASSAGEWAY
+	
+	MaverickandGoosepushthroughagauntletofaircrews.They
+	havebecomenotorious.Guysgrabatthem...questions...the
+	MiGs?..Whathappenedupthere?Howclosedidtheyget?Whatdid
+	theMiGsdo?Onewordisheardoverandover..."TopGun".Gooseis
+	leftbehindinthecrowd.Maverickpushesthrough.Hewalks
+	fast...faster.Upladders,aroundturns,downladders,through
+	passageways.Faster.Hebreaksintoatrot,thenacanter,
+	squeezingpastenlistedmen,partslockers,thenhebreaksintoa
+	run...
+	
+	38.EXT-CARRIER-NIGHTANDSTORM
+	
+	AhatchslamsopenonthesideoftheCarrier.He'soutona
+	catwalk,instantlysoaked,runningonrainslickedstairs
+	cantileveredhighoverthebreakingseas.Heplungesforwardto
+	thebowoftheship,standsontheverypeak.Heisyelling
+	something.Hestandsthereasthebowplungesterrifyinglyinto
+	thetrough.Thewaterriseslikeagreenmountain,up,upto
+	breakjustafewfeetbelowhim,showeringhimwithspray.The
+	noiseisincredible.
+	
+	Comearoundonhisface.Itismaddened.Heraiseshisfistand
+	punchesthenight.
+	
+	
+	Thefoamingslopeofthewaverushesup,changingcolorasit
+	DISSOLVESTO:
+	
+	DesertSandwhippingby...
+	
+	39.MOJAVEDESERT-1WEEKLATER
+	
+	Abigbike,arealbigbike,aturbo...rocketsacrossthe
+	desert.Fast.Realfast.Aviatorshadeslowabovethehandlebars
+	--Maverick.Goosehangsoninback.Itcranksfaster,pulls
+	closer...ENGINESCREAMING.Itcranksupanotch,it'sgoingto
+	
+	explode.Itcan'tgofaster,butitdoes.ItSCREAMSHIGHER.It
+	ROARSunder,byandaway,leavingdust...
+	
+	
+	39A.THEBIKE-STILL
+	
+	Silence.JusttheHISSANDPOPOFMETALCOOLING.Mavericksits
+	onit,staringoutpastus.GooselooksoverMaverick'sshoulder.
+	
+	Weseewhy.Feetcomeintotheframe.Thentheuniform:
+	CaliforniaHighwayPatrol.
+	
+	
+	40.COUNTRYROAD-NEARSANDIEGO
+	
+	40A.ANGLEONMAVERICK.CHPenterstheframe,theusual
+	hypercivilarrogancetingedwithaweddisbelief.Theusual
+	questionsarespacedforeffectasifhemightbetalkingtosome
+	otherformoflife.Maverickisoffthebike,standingat
+	attention.Goosefollowsmoreslowly.
+	
+			CHP
+	Son.Doyouknowwhy
+	Istoppedyou?
+	
+	Maverickhassomegoodideahowtodealwithauthority.
+	
+			MAVERICK
+	Yessir.Idosir
+	
+	TheCHPadjustshisownaviatorshades.
+			CHP
+	Well...Whatisit?
+	
+			MAVERICK
+	(morethansincere)
+	Sir.Youaregoingtogivemea
+	warning,Sir!
+	
+	
+	CHP-Atouchofasmile,quicklysurpressed.
+	
+			CHP
+	Licenseandregistration.
+	
+	MaverickhandsthemoverwithhisNavyID.CHPscansthem,
+	hesitatesamomentoverthelast,looksupwithatouchmore
+	respect.
+	
+			CHP
+	Lieutenant,doyouknowhowfast
+	youweregoing?
+	
+	
+			MAVERICK
+	Yessir.Ido,Sir.
+	
+			CHP
+	Well?
+	
+			MAVERICK
+	Sir.IwasgoingMachpointone
+	five.
+	
+	CHPnodssagely.
+	
+			CHP
+	OneSIXTHthespeedofsound!
+	
+			MAVERICK
+	Yessir.
+	
+			CHP
+	(aguess)
+	Lieutenant...Whatdoyou...
+	usuallyfly?
+	
+			MAVERICK
+	F-14'ssir.
+	
+			CHP
+	(newrespect)
+	Tomcats?
+	
+			MAVERICK
+	Yessir!
+	
+	Alongpause.Respectinthecop'seyes.HetapstheNavyIDon
+	thehandlebars...staringatthissincereyoungman.
+	
+			CHP
+	Lieutenant...Isthere...
+	aRussianattack?
+	
+			MAVERICK
+	Nosir!Butyouhavetobeready.
+	
+	
+	Thecopnodsandstaresathim.
+	
+	
+	41.EXT.MIRAMARNAVALAIRSTATION-LATER
+	
+	
+	41A.OMIT
+	
+	
+	ThebikeisBLURPING...barelygoingfastenoughtostay
+	upright.Maverickcoolinshadesandcampaigncapdorkspastthe
+	hangerwiththesign:FIGHTERTOWN,USA.Hepullsahead.Inback
+	ofhim,escortingwithflashers...theCHP.Theypullupatthe
+	gate.MaverickandGoosesalutetheguard,handsovertheirID.
+	TheCHPgetsoutofhiscar,leansagainstthedoor.
+	
+			CHP
+	Lieutenant.
+	
+	Maverickturnstohim.
+	
+			MAVERICK
+	Yes,Sergeant?
+	
+			CHP
+	Rememberonething.
+	
+			MAVERICK
+	Sir?
+	
+			CHP
+	Outsideofthisgate...
+	I...amTopGun.
+	
+			MAVERICK
+	Yessir!
+	
+	Hesalutes.TheCHPreturnsasnappyone.Hegetsbackinhis
+	carandturnsaway.MaverickreceiveshisIDandclearance.Ashe
+	passesthrough,acoupleofpilotsinflightsuits(ICEAND
+	HOLLYWOOD)stareathim.Thetaller,dark,coolonespeaksina
+	dryvoice,meanttobeoverheard.
+	
+			ICE
+	Uhoh,policeescort.Thisonemust
+	bearealkiller.
+	
+	Thesecondpilotgrinsbigatthem.Maverickturnsslightly
+	staresoverhisshadesatthemashepasses.Goosegrinsbackthe
+	challenge.
+	
+	42.AERIALCOMBAT-VIETNAMERA-F4'S,MIG17'S-STOCK
+	
+	TheDoorsonthesoundtrack.Jetsswoop,missilesfire,aplane
+	explodes.GuncameraviewsofMiGs,SAMS,flak,bombingruns...
+	
+			VIPER(V.O.)
+	DuringtheKoreanWar,theNavykill
+	ratiowastwelve-to-one.Weshotdown
+	twelveoftheirjetsforeveryoneof
+	ours.InVietnam,thisratiofellto
+	three-to-one.Ourpilotsdependedon
+	missles.Theylosttheirdogfighting
+	skills.
+	
+	
+	
+	F-14'sfightingwithF-5's.Musicbecomescurrent.
+	
+			VIPER(V.O.)
+	TopGunwascreatedtoteachACM.Air
+	CombatManeuvering...Dogfighting.
+	Richthofen,Guynemer,Rickenbacker,
+	Galland,Rudel,Bongwouldenvyus.We
+	dojustwhattheydid,butwedoit
+	beyondthespeedofsound.
+	
+	
+	43.INT.DAY-TOPGUNORIENTATIONROOM.
+	
+	
+	VIPER-Atough-looking,confidentleaderinablueflightsuit,
+	standsbeforeavideo-tapemonitor.Behindhim,onthemonitor,
+	thedogfightingcontinues.
+	
+			VIPER
+	BytheendofVietnamweuppedour
+	killratiotothirteentoone.
+	
+	
+	Heturnsonthelights.WeseehisaudienceinF.G.
+	
+			VIPER
+	You'rehere'causeyou'rethetop
+	onepercentofallnavalaviators.
+	
+	THECLASS
+	
+	Sixteenyoungmen-eightflightcrews-sitatattention.They
+	aretrim,fitandconfident-highschoolheroes,collegejocks.
+	
+			VIPER(V.O.)
+	You'retheelite,thebestofthe
+	best.We'regonnamakeyoubetter,
+	becauseyou'rejobisdamned
+	important.
+	
+	ANOTHERANGLE-THEMEN
+	
+	Thecameramovesamongthem.Holdononeofthemen;theonewho
+	greetedMaverickatthegate,Ice.
+	
+			VIPER(V.O.)
+	Withthetensionsintheworldtoday,thepotentialforconfron-
+	tationisgreaterthanever,and
+	carrierpilotswillbethefirst
+	onesthere.Aircombatexcellence
+	isvital.
+	
+	
+	Iceisnotlookingatthespeaker,but,rather,inour
+	direction.HOLLYWOOD,ablond,good-lookingpilot,whispers
+	somethingtohim,andgestures.Iceisgettingthelowdownon
+	someone.Thecameramovesandweseewhothatsomeoneis,as
+	Maverickenterstheframe.
+	
+			VIPER
+	...Someoneonceaskedmeif
+	trainingmenforaircombatmade
+	theworldlesssafe--flyingloaded
+	guns...anaccidentalconfrontation
+	andsoforth...
+	
+	Maverickfeelsthestareoftheothermanandglancesinhis
+	direction.Theireyesmeet.Icesmilescoldly.
+	
+	
+	ANGLE-VIPER
+			VIPER(Con't)
+	Myansweris:thedangerousthing
+	isbeingunprepared.Youwant
+	trouble,that'swhatyougetwhen
+	thingsdon'tworkout,whenyou
+	can'tdowhatyousayyoucan.When
+	youdon'tknowwhatyoucando.And
+	whenyouropponentsaren'tsure
+	either.Wearenotpolicy.Wedon't
+	makepolicy.Electedofficials
+	...civilians,dothat.Wearethe
+	instrumentofpolicy.Thetipof
+	thespear.Sowehadbestbesharp.
+	
+	MaverickhasturnedtolookatIce.Iceglancesbackinhis
+	direction.Mavericklooksatthebackoftheroomwhereguysin
+	blueflightsuitsstand.Theyaretheinstructors.Theylook
+	relaxed,poised,mean.Gooseislookingupfront...WhereViper
+	hasstopped.GoosenudgesMaverick.
+	
+			GOOSE
+	(whispers)
+	Whatareyoudoing?
+	
+			MAVERICK
+	Nothing...That'sMcGown...that's
+	Singer,isn'tit?
+			GOOSE
+	Turnaround,payattention.What
+	areyoudoing?
+	
+			MAVERICK
+	(musingtohimself)
+	...Justwondering...(turnsback)
+	...whoisthebest.
+	
+	
+	He'sshockedtofindViperstaringrightathim,withakiller
+	grinonhisface.He'sfeelscaughtlikeanaughtyschoolboy.
+	
+			VIPER
+	Really...(smiles)
+	Yaknow.We'dliketoknowwho's
+	besttoo.That'swhywe'vegotthat
+	plaqueonthewall...withtheTop
+	TopGuncrewfromeachclass.You
+	thinkmaybeyourname'sgonnabeon
+	it?
+	
+	Maverickknowshe'sintrouble,considersthesocial
+	alternatives,thentellshimthetruth.
+	
+			MAVERICK
+	Yessir.
+	
+	Acoupleofooo'sandaahh'sfromtheguys.Theinstructors
+	starethechallengeathim.Heslideslowerinhisseat.
+	
+			VIPER
+	Consideringthecompanyyou'rein,
+	that'saprettyarrogantattitude.
+	
+			MAVERICK
+	(somewhatchastised)
+	Yessir.
+	
+			VIPER
+	Ilikethatinafighterpilot.
+	(coupleoflaughsfromtheguys)
+	It'sokaytobeconfident.Youhave
+	tothinkyou'reKingKongtowant
+	totrytolandoncarriers.Just
+	keepinmindtheothercomponentof
+	success...teamwork.
+	
+	Vipergathershisnotes,thelectureisover.
+	
+			MAVERICK
+	Yessir.
+	
+	Viperturnsbackforonemorethought.
+	
+			VIPER
+	Gentlemen,thisisaboutcombat.
+	Remember,therearenopointsfor
+	secondplace.Dismissed.
+	Viperwalksout.MaverickfindsGooselookingathim,
+	quizzically.Othersmillaroundtheplaque.Abig,friendlybear
+	ofaRIOspeaks.
+	
+	
+	
+			WOLFMAN
+	Aplaque?
+	
+			HOLLYWOOD
+	It'snottheplaque.Thewinnercan
+	getassignedhereasinstructor.He
+	getstofighteveryday.
+	
+	Theymoveclosertoexaminethenamesontheplaque.
+	
+	
+	44.EXT."O"CLUB-NIGHT.
+	
+	Fastcarsinthedriveway,fastmusicblaresintothe
+	night.It'sWednesday;AnimalNight.Maverick,Goose
+	HollywoodandWolfmanwalktotheentrance.
+	
+	
+	
+	45.INT.WOXOFBAR
+	
+	
+	Loudmusic,lowceiling,plaquesofthesquadronslinethe
+	walls.Adancergyratesonstage,largelyignoredbypilots
+	talkingwiththeirhands.EveryprettygirlinSanDiego
+	seemstobehere.It'sanoisy,rowdyplace--a"steam
+	releaser"forpeopleunderpressure.Nevertheless,thereis
+	acontroltoitall,therearenoneoftheusualbartypes,
+	justpilotsandNavalOfficers.
+	
+	TheGhostRidersenter.Theplaceisonfire:amobof
+	dancers,flashinglights,blaringHARDROCKMUSIC.Beer
+	flows.Pilotstalkflyingandhustlegirls.
+	
+	NEARBY-ANA7pilotstandsbythebar.HeknowsGooseand
+	speaksloudlyforhisbenefit..
+	
+			A7PILOT
+	YouknowtheFighterPilotsmotto?
+	It'sbettertobedeadthantolook
+	bad.
+	
+	Theygrinbroadly.Gooserepliesastheybrushpast.
+	
+			GOOSE
+	Idon'tknow,Frank,anybodygets
+	offonbombingtheshitoutofdirt
+	hasgottobequeer.
+	
+	Gooseexchangesfriendlypuncheswiththeattackpilots.
+	Maverick'sintroductionsandfriendlybarbsaredrownedbythe
+	music.Maverickisabitreserved.Hedoesn'tmoveamongthe
+	crowdasnaturallyasGoosedoes.HollywoodandWolfmandrift
+	
+	away,searchingforquarry.Gooseordersbeer.Henodstowarda
+	TALLYOUNGMANacrosstheroom.
+	
+			GOOSE
+	Keller,BlackLionSquadron.Iknew
+	himatPensacola.He'sdamngood.
+	
+			MAVERICK
+	IsthereanybodyintheNavyyou
+	don'tknow?
+	
+			GOOSE
+	Gottakeeptrackofthe
+	competition.
+	
+	Goosesuddenlyreachesoutandgrabsaguymovingpast.
+	
+			GOOSE
+	Slider--theyletyouintoTop
+	Gun?Ifyou'reamongthebestin
+	theNavy,Itrembleforthe
+	securityofthiscountry.
+	
+			SLIDER
+	WhyGoose,whosebuttdidyoukiss
+	togethere?
+	
+			GOOSE
+	Thelistislong,but
+	distinguished.
+	
+			SLIDER
+	So'smyJohnson.
+	
+			GOOSE
+	ThisisMaverick.
+	
+	Smilesgood-naturedly,shakeshandswithMav.
+	
+			SLIDER
+	SoI'veheard.
+	
+			GOOSE
+	Who'syourpilot?
+	
+			SLIDER
+	TomKazansky.
+	
+			GOOSE
+	(veryimpressed)
+	Noshit.TheIceman....
+	
+			SLIDER
+	Mistertoyou.
+	
+	
+			GOOSE
+	Youthinkyoucanstayupwithus.
+	
+			SLIDER
+	Ithink,yeah,we'llshowyoua
+	thingortwo.
+	
+			GOOSE
+	ThisisEvanMitchell,hesteers
+	thething.
+	
+			SLIDER
+	SoIheard.Steersitprettyclose.
+	SorrytohearaboutCougar.Hewas
+	agoodman.
+	
+			MAVERICK
+	Stillis..
+			SLIDER
+	Yeah.That'swhatImeant.
+	
+	Suddenly,behindthem,aflameshootsup.Someoneduckshishead
+	andswallowsit.Thepilotsetsanemptyglassonthebar.
+	
+			SLIDER
+	Whatwasthat?
+	
+			GOOSE
+	FlamingHooker.Sortofan
+	institutionaroundhere.Ormaybe
+	thisistheinstitution,Iforget
+	which.It'sthehousedrink.It'll
+	warmthecocklesofyourheart...
+	andotherthingsdependingonwhere
+	youspillit.
+	
+	Hemotionstothebarmaidandshemovesover,setsthemup.
+	GOOSEholdsademitasseglass.ThebarmaidpoursDrambuie.They
+	lookatGooseapprehensively.Gooselooksatnearbyflyersin
+	Camofatigues.
+			GOOSE
+	Youcan'tshowfearinfrontof
+	Marines...They'relikeDoberman's
+	they'llgoforyourthroat,it's
+	instinctive.
+	
+	Hetakesoutmatchandlightsit.Maverickholdshisarm.
+	
+			MAVERICK
+	Youeverdonethisbefore?
+	
+			GOOSE
+	What,beendrunk?Sure!Plenty!
+	
+	
+	Hedownsitallinonegulp,slapstheglassonthebar,still
+	aflame.Hestandsthere,blinking.
+	
+			SLIDER
+	Howwasit?
+	
+			GOOSE
+	Coulduseadashmorejetfuel.
+	
+	Theothersaredulyimpressed.Maverick'sgazefallsonIce
+	watchingfromtheendofthebar-Slidertakesone,Maverick
+	takesonetoo,downsitinagulp.Sundown,takingupthe
+	challenge,motionsforone.Thebarmaidpoursit.
+	
+			GOOSE
+	Careful,don'tmakeanashof
+	yourself...
+	
+	Hetriestodrinktheflamingconcoction.Hetriestogofora
+	sip,butit'stooclosetohisface,hetriestotilttheflame
+	away,butthatdoesn'twork.Finallyhegoesforthegulp.He
+	burnshislipandmisses.Hesetshishaironfire.Itgoesup
+	inaWHOOOSH!!
+	
+			SUNDOWN
+	Yeow!
+	
+			GOOSE
+	Mayday!Downinflames!
+	
+	HethrowsabeerinSundown'sface,quenchingthefire.Sundown
+	blinksthroughthebeer.
+	
+			SUNDOWN
+	Thanks,Ineededthat.
+	
+			HOLLYWOOD
+	Youguysarenotonlycrazy,you're
+	dangerous!
+	
+	Icecomesupfromtheendofthebar.HemotionstheBarmaidfor
+	another;itcomes.Gooselightsit.Hegulpsitdown,coolas
+	hell.
+			ICE
+	(Disdainfully)
+	Fratboys.
+	
+	
+	Hewalksaway.Slidergoesafterhim.
+	
+			MAVERICK
+	Whoisthatguy?
+	
+	
+			HOLLYWOOD
+	That'sKazanski.
+	
+			GOOSE
+	Noshit!ThatwhytheycallhimIce?
+	
+			HOLLYWOOD
+	Nope.It'sthewayheflies-Icecold.
+	Nomistakes.Wearsyoudown.After
+	enoughtime,youjustgetboredand
+	frustrated,youdosomethingstupid,and
+	he'sgotyou.
+	
+	MaverickmovesinIce'sdirection.HepassesWolfmandancing
+	withagirlwithbrightpurplefingernails.
+	
+	ANGLE-DANCEFLOOR.
+	
+			GIRL
+	Whydoyouallhavesuchfunny
+	names?
+	
+			WOLFMAN
+	Yougottahaveacallsignthat's
+	justyourown...neverchanges...you
+	havetorecognizeitimmediately.
+	Then,ifsomeoneshouts"Wolf,
+	breakleft!"..youreactrightaway.
+	
+			GIRL
+	WhydotheycallyouWolf?
+	
+			WOLDFMAN
+	(smiles)
+	Oh,Idon'tknow.
+	
+	Goosecomesupwithhisarmaroundagirl.
+	
+			GOOSE
+	HeyMav,thisisSally.Shedoesn't
+	believeawordIsay.TellherI'm
+	married,willyou?
+	
+			MAVERICK
+	Yeah,he'smarried--butthenagain,
+	he,snotdead.
+	
+	SallylaughsandtriestopullGoosebacktowardthedance
+	floor.SomethinginMaverick'seyesmakeshimhangbackwithhis
+	partner.
+	ANGLE-THEDANCEFLOOR-DANCERS
+	
+			GIRL
+	CouldIgetacallsign?
+	
+	
+			WOLFMAN
+	Well,Idon'tknow.Thatdepends.
+	
+			GIRL
+	Onwhat?
+	
+			WOLFMAN
+	Well,itdoesn'tjusthappen,you
+	gottadosomethingfamous.
+	
+			GIRL
+	Likewhat?
+	
+			WOLFMAN
+	Oh...I'llthinkofsomething.
+	
+	Mavericksmilesatthis,butseemsonedge...Hewatchesafew
+	prettygirlsenterandeyethepilotsintheirflightsuits,then
+	turnsandwalksuptoIce,whosits,drinkingwithSlider.
+	Maverickwalksovertohim.IcenoticesSlider'sattentiongoing
+	toMaverick.Heturnsandgrinsathim.
+	
+			ICEMAN
+	Figureditoutyet?
+	
+			MAVERICK
+	Figuredoutwhat?
+	
+			ICEMAN
+	Whoisthebest.
+	
+			MAVERICK
+	Nope.
+	
+			ICEMAN
+	Needahint?
+	
+			MAVERICK
+	IthinkIcanworkitoutonmy
+	own.
+	
+			ICEMAN
+	Youliketoworkalone.I'veheard
+	thataboutyou.
+	
+			MAVERICK
+	I'veheardofyou,too.Youwerein
+	124withBargamian.
+	
+			ICEMAN
+	AndyouwerewithCougar.Hewasmy
+	roommateinflightschool.
+	
+	
+			MAVERICK
+	He'sagoodman.
+			ICEMAN
+	Thebest.
+	
+			SLIDER
+	Youmusthavesoloedunderalucky
+	star.FirsttheMiG,thenyouslide
+	intoCougar'splace.
+	
+			GOOSE
+	It'snotCougar'splace.It'sours.
+	
+			ICE
+	Whatdoyouthinkitwas?Wasit
+	thatMiGcontactthatdidit?
+	
+			GOOSE
+	Didwhat?
+	
+			ICE
+	Gotyouhere.
+	
+			GOOSE
+	We'reherebecausewe'rethebest
+	flyersinthewing.Notbecauseof
+	someMiGencounter.
+	
+			SLIDER
+	Whatluck!Guysflytheirwhole
+	careerwithoutseeingaMiGup
+	close...You'refamous.
+	
+			ICE
+	Youmeannotorious.
+	
+	Somethinginthewayhesaysit.It'snotquiteajoke,morean
+	insult.Maverick'sabouttotakethewholeconversationtoofar
+	whensomething...someonecatcheshiseye.Shecatchesquiteafew
+	eyesinthisroom.Sheisveryprettyandshe'swalkinginonthe
+	armofaCommander.Maverickturnsback,butthemomenthas
+	passed.Icedismisseshimwithanodandweaksmile.Goosepulls
+	himaway.
+	
+			MAVERICK
+	Whatdotheseguysthink,Imade
+	Cougarquit?
+	
+			GOOSE
+	Paynoattentiontoit.They're
+	justtryingtorattleyou.It'sall
+	psychological.Sitdown..anddrink.
+	
+	
+	HedepositsMaverickatachairbyatablewhereotherpilots
+	clusterwatchingandlisteningtoBugsshootdownhiswristwatch.
+	Maverickbroods...
+			BUGS
+	Wewerejustreallydivingdownandby
+	thenwewererightoverdowntown
+	Haiphong.Itwassomegreatshit.Jack
+	says,"Whatareyoudoing?""What,what
+	amIdoing,Jack?"Hesays,"Whatare
+	youdoing?"Isaid,"I'mrollingin,
+	Jack.""Bugs,we'reatthirty-two
+	hundredfeet.Ohshit,wewerelike
+	zooom...Sowescrapeddownathundred
+	feetrightover--downtownHanoi!Oh
+	shit,goddamnit!Andblowingdownthe
+	river.Andsoonceweweretherewelet
+	downtoaboutfiftyfeetjustgoingdown
+	theriverandJacksays..."Bugs...
+	don'teverdothatagain!""Okay,right,
+	Jack,I'llneverdothatagain!"
+	
+	Maverickpayslittleornoattention.Hebroodsanddrinks.
+	Suddenly,Hollywoodnudgeshim,heturns.
+	
+			MAVERICK
+	What,whatisit?
+	
+			HOLLYWOOD
+	Targetpassing.Checkyoursix.
+	
+			MAVERICK
+	Nevermindmine.Checkhers.
+	
+	Theyturn.Longlegs,greatass,beautiful.
+	
+			HOLLYWOOD
+	Hersixisaten!Uhoh,aturnto
+	engage.
+	
+	
+	
+	HISPOV-ACROSSACROWDEDROOM
+	
+	Maverickseesastranger,andsomehowheknows,heknowseven
+	then.Wolfmanturns,seesherwalkingtoo.
+	
+			WOLFMAN
+	Bogey...9o'clocklevel.
+	
+			SUNDOWN
+	Ninethirty.Bogey?Youpresume
+	thathostile?
+	
+			HOLLYWOOD
+	
+	Well,weshouldcontactandcheck
+	itout.
+	
+	
+	Shehasturnedtowardthem.Shepassesby.Theystarttomakea
+	moveforher.Butjustthenshefindsherdateatthebar;a
+	distinguishedmanwithCaptain'sstripes.Theirsmilesfreezeand
+	theyslidebackintheirchairs.Maverickcan'tstoplookingat
+	her...Afterawhile,theintensityofhisgazedrawsher
+	attention.Shefeelshim.Sheisnoddingandsmilingtoherdate,
+	buthereyesscantheroomlikeradar.Awarningtonegoesoffin
+	hisbraindoludoludoluastheylockonhim.Hefeelsthat
+	thrillofexcitementandfearyougetwhenyouknowyou're
+	targetedinsomeone'sscope.Hereyesholdonhimforalong
+	moment...longenough,andthensweepbytherestoftheroom.She
+	turnsherattentionbacktotheCaptainandlaughsatsomething
+	hesays.
+	
+	
+	Overinacorner,GoosechatsupacoupleofSanDiegogirls.
+	
+			GOOSE
+	Thefamilyunit--that'sthemost
+	importantthing.It'stheonly
+	thingyoucancounton.I'mmarried
+	--didItellyouthat?
+	
+			FIRSTGIRL
+	Fourtimes.Wedon'tbelieveyou.
+	
+			GOOSE
+	I'vebeenmarriedsinceIwas
+	eighteen.Whydon'tyoubelieveme?
+	
+			SECONDGIRL
+	Becauseyoudon'tlookmarried.
+	
+			FIRSTGIRL
+	You'renotevenwearingaring.
+	
+			GOOSE
+	(bigsmile)
+	ItakeitoffwhenI'mchasing
+	women.It'stheonlyhonorable
+	thingtodo.
+	
+	
+	ANGLE-MAVERICK
+	
+	He'shalflisteningtoBugsrattleon.Hiseyesaredrawnback
+	tothewoman.Hetriesnottostare.Sheseemstoknowalotof
+	peopleintheclub.Helooksaway.Hollywoodischattingupa
+	girlwithasinceritythatcannotbetaught.Hislineisjustas
+	polishedashisappearance.
+	
+	
+			HOLLYWOOD
+	Youdon'tthinkaboutdeathup
+	there,butyouthinkalotabout
+	thedanger.Onemistakeandyou're
+	asmokingholeintheground.
+	
+			GIRL
+	Ineverknewitwassodangerous.
+			HOLLYWOOD
+	Ohyeah,itmakeseverythingdown
+	heremoremeaningful.Youfeela
+	certainintensityoflife,andyou
+	wanttograbontoeverymoment.
+	
+	Mavericklooksupatthebaragain.Ashock.She(Charlie)is
+	staringrightathim,intensely,asherdatewhisperssomething
+	inherear.Shenoticeshim,staringback,quicklylooksaway,
+	embarrassed.Shesayssomethingtotheman.Henodsandturns
+	awayassomeoneelsegrabshisattention.Thewoman,nowwouldn't
+	lookthiswayforanything.Shepicksupherpursefromthebar
+	andwalksthroughthecrowdandoutoftheroom.Impulsively,
+	Maverick'sup,hefollows.
+	
+	
+	46.INT.HALLWAY-OUTSIDETHEBAR
+	
+	Hebreaksout,looksaround,doesn'tseeher.Someonedisappears
+	aroundacorner.Hemovesafter.
+	
+	CORNER-Adoorslamsshut.Impulsively,beforeherealizeswhat
+	heisdoing,he'sthroughit.
+	
+	
+	47.WOMEN'SROOM.
+	
+	AfeminineGASP!Heshouldhavelookedatthesignonthedoor.
+	Therealizationofwhereheishitshimtoolate.Sheisstanding
+	bythemirror,withhermake-upout,lookingbackathim.He's
+	notquitesurewhattodo.Ahastyretreatwouldbeappropriate,
+	ifembarrassing.Ah,whatthehell,heisafighterpilot!He
+	justwalksrightovertoher...noideawhathewillsay.She's
+	gotherlipstickout,twistingit.Shelooksoverathimwithan
+	amusedsmile.
+	
+			CHARLIE
+	Longcruise,wasit?
+	
+	Sheleansoverthesink,putsonlipstick,seeshiseyescover
+	her.
+	
+			CHARLIE
+	AnythingIcandotohelp,Lieutenant?
+	
+	
+			MAVERICK
+	Lotsofthings.
+	
+	Shelaughs.Heissortofattractive,butthereareothergirls
+	intheroom,shedoesn'twanttobetooencouraging...Shetries
+	nottogrinathisembarrassment.
+	
+			CHARLIE
+	I'llbet!
+	
+			MAVERICK
+	Uhhh...AnythingIcandoforyou?
+	Shelaughsagain,doesn'tknowwhatitis...couldbechemical,
+	butshe'sinstinctivelyattracted.
+	
+			CHARLIE
+	Yeah.Holdthis.Itmightbesafer.
+	
+	Shehandshimamakeupmirror.Startsredoingherlipstick.He
+	juststaresather...Shelooksupathim,thanbacktoher
+	warpaint.Finally,whenitcomes,itiscoolandamused.
+	
+			CHARLIE
+	NowIknowwhyallthegirlscome
+	here.Theyknowhowhornyyouguys
+	get.Butthis...isridiculous.
+	
+			MAVERICK
+	It'snotthat.
+	
+	Mockanger.She'stoyingwithhim.
+	
+			CHARLIE
+	Itisn't?
+	
+			MAVERICK
+	Well,itis.Itisthat,too.
+	
+			CHARLIE
+	That'sabigcomforttome.
+	
+			MAVERICK
+	Icouldbe,too.
+	
+			CHARLIE
+	Howso?
+	
+			MAVERICK
+	Saveyoufromabigmistakewith
+	thatotherguy.
+	
+			CHARLIE
+	Andontoabiggeronewithyou?
+	
+	
+			MAVERICK
+	Yeah,mostlikely.
+	
+			CHARLIE
+	Wasthereeveragirlwhodidn't
+	likefighterpilots?
+	
+			MAVERICK
+	Iheardofoneonce.
+	
+	Shelaughsagain,shakesherhead...anothercowboy!Shegently
+	takesthecompactoutofhishands,snapsitclosed.
+	
+			CHARLIE
+	I'mreallyflattered,Lieutenant,
+	butIdon'tgooutwithpilots.
+			MAVERICK
+	Thenwhatareyoudoinghere?
+	
+	ThreeprettyblondesenterandlookatMaverickquizzicallybut
+	notwithoutinterest.
+	
+			CHARLIE
+	Ithinkthequestionis...whatare
+	you?
+	
+	Shetriestokeepastraightfaceasshewalksoutoftheroom.
+	
+	Theothergirlslookathimexpectantly.Abeat.Hejust
+	standsthere,thenrealizeshe'sholdingherlipstick.
+	
+			MAVERICK
+	Hi.I'mheretotalkaboutanew
+	conceptincosmetics...
+	
+	47A.WOXOFBAR.Shereturns,spotstheCaptain,motioningto
+	her.Maverickenters,goestotheotherendofthebar.He
+	ordersadrink.Itcomes.Hedrinksit,paysforit,movesoff
+	towardthedoor.Someonebacksintohispath,hemovesquickly
+	andbumpsintosomeoneelse;her.
+	
+			CHARLIE
+	Sorry.
+	
+	Sheseesit'shim.
+	
+			MAVERICK
+	Myfault.Shouldhavewatched
+	whereIwasgoing.
+	
+	Herhandgoestohiscollar.Sheadjustshisinsignia.She
+	smiles.
+	
+			CHARLIE
+	
+	Where'syourwingman?Who's
+	watchingyoursix?
+	
+			MAVERICK
+	Uh,nobody,Iguess.
+	
+	Onefinaladjustment.
+	
+			CHARLIE
+	Toobad.
+	
+	Shebreaksthespellabruptly,turnsaway.
+	
+			CHARLIE
+	Seeyouaround.
+	
+	Maverickfindshisvoice.
+	
+			MAVERICK
+	CanIwalkyouout?Sheturnsbacktohim,asmile.
+	
+			CHARLIE
+	I'mwithsomeone.
+	
+	
+	48.EXT."O"CLUB-LATERTHATNIGHT
+	
+	P.O.V.-
+	
+	Fromacarintheparkinglot,weseeCharlieandtheCaptain
+	leavetheclub.Theywalkdirectlytowardusandstop.Sheturns,
+	sayssomethingpolite...apeckonthecheek.Heturnsaway.A
+	domelightbrieflyilluminatestheinteriorofthecarasadoor
+	opens.Itrocksslightlyassomeonegetsin.Charlieturnsback
+	andwalksover,takingherkeysout.Sheopensthedoortothe
+	carandgetsin.
+	
+	
+	48A.EXT.CAR-NIGHT
+	
+	Shestartsthecarandpullsaway.Suddenly,afiguresitsupin
+	theback.
+	
+			MAVERICK
+	Ithoughthe'dneverleave.
+	
+			CHARLIE
+	Yeow!
+	
+	Startled,shenearlydrivesofftheroad.Sheturnstohim,
+	startled.
+	
+			CHARLIE
+	You!Whatareyoudoinghere?
+	
+	
+			MAVERICK
+	Everybody'sgottobesomewhere.
+	
+			CHARLIE
+	WhatifCaptainDawsonhadcome
+	withme?
+	
+			MAVERICK
+	Itwouldhavebeenreally
+	embarrassing!
+	
+			CHARLIE
+	Howdidyouknowthiswasmycar?
+	
+			MAVERICK
+	Simplededuction.It'sfast.It's
+	pretty.Sleekandstylish...It's
+	yourcolor...matchesyourlipstick.
+	
+			CHARLIE
+	That'sall!
+	
+			MAVERICK
+	AndIaskedsomeone.
+			CHARLIE
+	Youthinkyou'reprettysmart.
+	
+			MAVERICK
+	IthinkI'minlove.
+	
+	
+	49.EXT.GUARDGATE
+	
+	Shepullsupattheguardgate,aMARINECORPORALisonduty.He
+	seestheprettygirlpullupandstop,leansoverhelpfully.
+	
+			MARINE
+	CanIhelpyou,Ma'am?
+	
+	Shesmilesevenmoresweetly.
+	
+			CHARLIE
+	Idon'tknow,Corporal.Canyoudo
+	anythingaboutthislunatic?
+	
+	Thecardoorswingsopen.Maverickgetsout.Thecarroarsaway.
+	Hestandsintheglareofthespotlight...rockingonhisheels,
+	lookingacrossattheguard,whosnapstoattentionandstares
+	holesinhischest.
+	
+	
+	50.INT.TOPGUN-NEXTMORNING.
+	
+	
+	TwoguysinflightsuitsrundownstairspaststencilsofMiG
+	killsonwalls,thendowncorridor.
+	
+			FLEX
+	Notsofast...myhead.
+	
+	Theyskidtostopoutsideadoor.
+	
+	
+	51.INT.HANGAR
+	
+	GroundcrewsworkonplanesinB.G.Jesterinmiddleoflecture.
+	Doorburstsopen.SundownandFlexskidtoahaltwhentheysee
+	wholeclasslookingatthem.
+	
+			JESTER
+	Whoareyou?
+	
+			SUNDOWN
+	I'mSundown.
+	
+			JESTER
+	Yeah,right.You'relate.
+	
+	
+	Viperbreaksin,indicatingFlex.
+	
+			VIPER
+	Andwhoareyou?
+	
+			FLEX
+	Flex
+	
+			VIPER
+	Flex...?Youdon'tlooklikeFlex
+	tome.Youcallthatmuscle?
+	Doesn'tlooklikemuscle.Looks
+	like...Pork.
+	
+	Theylaugh.EvenSundownhastolaugh,scratchinghischest.
+	
+			VIPER
+	What'reyoulaughingat?You're
+	Fungus.
+	
+	Stopsscratching.
+			SUNDOWN/FUNGUS
+	Fungus!
+	
+			PORK
+	Don'tmakeanissueofit,it'll
+	stick.
+	
+			FUNGUS(Unhappily)
+	
+	It'llstickanyway.
+	
+	Viperturnsaway...
+	
+			VIPER
+	Nowtocontinue.Inthisclasswe
+	willbedealingwithF-5'sand
+	A4's,asourMiGsimulators.
+	TechnicallytheF-5doesnothave
+	thethrusttoweightratioofthe
+	MiG-21--italsodoesnotbleed
+	energybelow300knotslikethe
+	MiG-21does.TheA4doesnotturn
+	aswellastheMiG-17buthas
+	significantlybettervisibility.
+	
+	Mavericklooksbacktohisnotes.SFXfootsteps...door
+	opening.Viperlooksuptobackofroomdoor.
+	
+			VIPER
+	Hi,Charlie.Good,ourTAGREF's
+	here.Charlie'sthemostqualified
+	togetintoPsubsandcurves,and
+	VNdiagrams.
+	
+	MaverickturnstoseetheTAGREFwalkforward.Maverick
+	staresatherasshepasseswithoutacknowledginghim.Heis
+	surprised,embarrassed.
+	
+			VIPER
+	CharlotteBlackwood--codenameCharlie--
+	notyourordinaryTAGREF.Charliehas
+	herPh.D.inastrophysics--she'sa
+	civiliancontractorsoyoudon'tsalute
+	her...oranythingelse.Isthatclear?
+	
+	Shewalkstothefrontandstartsherpresentation.She
+	talksaboutsomethingverytechnical,arcane.MiGtactics,
+	technology.Asthebriefingrattleson,Maverickreactsto
+	her.Gooseglancesoverathim.He,too,recognizesthegirl.
+	Helooksathispartner.Maverickfeelshisstare.
+	
+			CHARLIE
+	Hello,IthinkIhavesomenewdatafor
+	you...NowaMiG21hasaproblemwith
+	theinvertedflighttanks.Itwon'tdoa
+	NegativeGpushover.EvenbelowoneG,
+	theyriskaflameout.Operationally,
+	theywilldoazerotooneGonly.
+	
+	Asnickerfromtheaudience.Shehesitatesmomentarily,goes
+	on.
+			CHARLIE
+	
+	Thelatestintelligenceshowsthat
+	themosttheywilldoinoperation
+	isone....istheresomethingwrong,
+	Lieutenant.
+	
+			MAVERICK
+	Idon'tthinkyou'realtogether
+	right...abouttheMiG,thatis.
+	
+	Shestops--someofthepilotslookathim.Viperglares.
+	
+			CHARLIE
+	Ibegyourpardon.
+	
+			MAVERICK
+	No,Ibegyours.ButIdon'tthink
+	you'rerightonthat.
+	
+			CHARLIE
+	Whynot?
+	
+			MAVERICK
+	Isawone.
+	
+			CHARLIE
+	YousawaMiG21?
+	
+			MAVERICK
+	IsawaMiGdoa4Gnegativedive.
+	
+			CHARLIE
+	(Shedoesn'tbelievehim)
+	Wheredidyouseethat?
+	
+			MAVERICK
+	It'sclassified.
+	
+	Nervousbuzzintheroom.Vipergoesrigid.Charliecan't
+	believeit.
+	
+			CHARLIE
+	It'swhat?
+	
+			MAVERICK
+	It'sclassified.LikeHollywood
+	says,Icouldtellyou,butthen
+	I'dhavetokillyou.
+	
+	Porkstiflesalaugh,theotherschuckle.Viperis
+	embarrassed.
+	
+			VIPER
+	Maverick!!!
+	
+	
+	ShestopsViperwithaglance.
+	
+			CHARLIE
+	It'sallright.
+	
+	Shecanhandleit.Sheisverycool,notoverbearing.She
+	saysitcalmly.Shedoesn'twanttoembarrasshimanymore
+	thanheis,butshehastogetthefactsstraight.
+	
+			CHARLIE
+	Lieutenant,Ihaveatopsecret
+	clearance.ThePentagonseestoit
+	thatIknowmorethanyou.
+	
+			MAVERICK
+	Notinthiscase.
+			CHARLIE
+	(Flatly.)
+	YousawaMiGpushnegative4G?
+	
+			MAVERICK
+	Yes,ma'am.
+	
+			CHARLIE
+	Wherewereyou?
+	
+			MAVERICK
+	Onhissix.
+	
+	Littlestifledlaughs.
+	
+			CHARLIE
+	Hewasina4GNegativediveand
+	youwereonhissix?
+	
+			MAVERICK
+	Yes,ma'am,Atfirst.ThenIwas
+	directlyabovehim.
+	
+	Shestaresathimforamoment,thenshehashim.Shegoes
+	forthekill.
+	
+			CHARLIE
+	Ifyouweredirectlyabovehim,how
+	didyouseehim?
+	
+			MAVERICK
+	Iwasinverted.
+	
+	Arealbuzzintheroom.Icelaughsaudibly.
+	
+			CHARLIE
+	Youwereina4Ginverteddivewith
+	aMiG21?(Shecan'tbelieveit.)
+	
+	Atwhatrange?
+	
+			MAVERICK
+	Two.
+	
+			CHARLIE
+	Twomiles.
+	
+			MAVERICK
+	Twometers.
+	
+	
+	Chuckles,barelysuppressed.Goosepipesuptodeflect
+	attention.
+	
+			GOOSE
+	Oneandahalf,actually.Igota
+	polaroid.
+	
+			CHARLIE
+	(Flatly.)
+	Lieutenant...
+			MAVERICK
+	Ma'am?
+	
+			CHARLIE
+	Whatwereyoudoingthere?
+	
+			MAVERICK
+	Givinghimthebird.
+	
+	Openlaughter.Shethinksit'sather.Shegrowsred.
+	
+			CHARLIE
+	Thewhat?
+	
+			MAVERICK
+	Youknow.Thefinger.
+	
+	Heshowsher,butshecanhandlethis.
+	
+			CHARLIE
+	Soyou'rethereasonthose
+	SALTtalksfailed.
+	
+	Theroombreaksintolaughter.Athim.Nowhegrowsred.
+	GooseputshishandonMaverick'sarm,shakeshisheadasif
+	tosay:"Letitgo,pal,shegotyou".
+	
+	ShelooksatViper.Hedoesn'tknowwhethertolaughorcry.
+	Heknowsthere'ssomethingherehedoesn'tcontrol.
+	
+			VIPER
+	Lieutenant!
+	
+	
+			GOOSE
+	It'sjustlikehesays,sir.
+	
+			VIPER
+	(Hesnaps)
+	Idon'tcare!
+	
+	
+	51A.CORRIDOR-OUTSIDELECTUREHALL
+	
+	Shewalksaway.Herunsupandstopsher.
+	
+			MAVERICK
+	Whydidn'tyoutellmeyouwerea
+	TAGREF?
+	
+	Shestudieshimcoollyforamoment,likeaspecimen.
+	
+			CHARLIE
+	Itnevercameup.
+	
+			MAVERICK
+	Youletmemakeafoolofmyself.
+	
+			CHARLIE
+	Youseemeddeterminedtodothat
+	anyway..Whydidn'tyoutellmeyou
+	wereafamousMiGinsulter?
+			MAVERICK
+	Wouldithavemadeadifference?
+	
+			CHARLIE
+	No.
+	
+			MAVERICK
+	Whatwould?
+	
+			CHARLIE
+	Youknow,I'massignedtothis
+	school.Iseesixteennewhotshots
+	everyeightweeks.Yourattention
+	isflattering,butnotreally
+	productive.Whydon'tyoukeepyour
+	mindonflying.
+	
+	Shereachesoverandalignshiscollarinsignia.
+	
+			CHARLIE
+	Whycan'tyoukeepthisstraight?
+	
+	Shesmilesathimandwalksaway.Maverickturns,seesthe
+	otherssizinghimup.Mostofthemgrin.Maverickmovesdown
+	thecorridorpasttheCO'sOffice.Viperleansagainstthe
+	
+	doorsill.Helightsapipe,laconicallyeyesMaverick.His
+	tonegivesawaynothing,likeanELINTprobeelicitinga
+	response.
+	
+			VIPER
+	Maverick...Where'dyougetthat
+	callsign?
+	
+			MAVERICK
+	Ahhh...Runsinthefamily,sir.
+	
+			VIPER
+	You'refatherwasMarvinMitchell..
+	
+			MAVERICK
+	Yessir.
+	
+			VIPER
+	Agoodman.Goodflyer.
+	
+	Viperturnsaway.
+	
+			MAVERICK
+	Yessir.Thankyousir.
+	
+	Maverickwatcheshimforabeat,he'sbeentested,buthe's
+	notsurehoworwhy.HeturnstocatchupwithGooseandthe
+	others.
+	
+	EXT.SKY-LATER
+	
+	Attwenty-eightthousandfeet,thetwoplanescircleeach
+	other,goinginoppositedirections.Astheyjockeyfor
+	position,theysnappasteachotherlikeendsofbullwhips.
+	
+	Theearthspins,thehorizonappearsanddisappears.With
+	eachhardturn,MaverickandGoosecanbeheard"grunting"to
+	keepbloodintheirbrains,tokeepfrompassingout.
+	
+	Thefightishard,physical,andexhausting.TheextremeG
+	forces--6.5--flattenthemagainsttheirseats,causingtheir
+	headstoweighoveronehundredpounds.Maverickstrainsto
+	turnhisheadandtracktheotherjetasitstreakspastat
+	MachOne.
+			MAVERICK
+	I'velosthim--whereishe?
+	
+			GOOSE
+	Onyoursix--cominghard.Four
+	hundred.Losingairspeed!He'son
+	yoursixandclosingfast!
+	Hardleft!HARDLEFT!
+	
+	
+	Maverickjerksthestickleft,andtheF-14takesan
+	astonishingturn.JesterROARSpastintoawidearc.
+	
+			GOOSE
+	Greatmove.Great
+	
+			MAVERICK
+	Heshould'vehadme.
+			GOOSE
+	Takeitdown.Let'sbugoutof
+	here.Callforadraw.
+	
+			MAVERICK
+	Noway.I'llnailhimthistime.
+	Goingvertical.
+	
+	
+	THEPLANEEXPLODESINTOAFTERBURNER-rocketingtoward
+	space.Jesterisleftindirectlinewiththesun,andhis
+	canopyissprayedwithablindingglare.Goingballisticis
+	dangerous.Theplaneflyslikeabullet,obeyingthelawsof
+	physics,notthepilot'stouchoncontrolsurfaces.The
+	ballisticcallwarnsotheraircraftthatheis,forthe
+	moment,outofcontrol.
+	
+			GOOSE
+	He'sblind--yougothim!
+	
+			JESTER
+	NOJOY!NOJOY!WHEREAREYOU?
+	I'VELOSTSIGHT.
+	
+			GOOSE
+	He'soutofenergy!Yougot
+	control?Unload!
+	
+	TheF-14peelsovertheegg,inabackwarddive.Itrockets
+	downtheoutside,gainingenergy.OvertheROARofjets,the
+	SCREAMofthewind,Gooseshoutsdata,butitismuffled,a
+	distantvoiceinatyphoon.Throughthecanopy,wesee
+	Jester,andhehangsintheairlikeasparrowinthepathof
+	afalcon.
+	
+	PILOT'SPOV-HUDinwindscreen-adiamondinabox.
+	MavericklinesupthediamondwithJester,andwehearthe
+	highpitchedtoneBEEPING.
+	
+			JESTER
+	WE'REBELOWTHEHARDDECK.FIGHT'S
+	OFF.
+	
+			GOOSE
+	He'sright.We'reattenthousand.
+	
+	
+			MAVERICK
+	Noway.Igotyou,sucker.You're
+	goingdown.
+	
+	Jestermaneuvers,butMaverickkeepshiminthegunsight.
+	TheBEEPINGislouder,faster.
+	
+			MAVERICK
+	Intheenvelope.FOXTWOMISSILE
+	SHOT.YOU'REGONE,JESTER,DEAD!
+			GOOSE
+	(stunned)
+	Goddamn!Webeathim!
+	
+	ThereisanedgeofangerinJester'svoice.
+	
+			JESTER
+	ROGERFOXTWO.GETYOURBUTTSABOVE
+	THEHARDDECK.RETURNTOBASE
+	IMMEDIATELY.
+	
+	Theyarebroughtupshortforamoment,thenthethrillof
+	victorygetsthebestofthem.Gooseletsoutawarwhoop.
+	TheF-14sweepsup,rollsintoanImmelman..
+	
+			MAVERICK
+	Wedidit!
+	
+			GOOSE
+	Look,Ma,topoftheworld!
+	
+	
+	52A.EXT.MIRAMAR-LANDINGPATTERN.
+	
+	Maverick'sTomcatbreakshardandhigh,rollsoveronits
+	side,wingsperpendiculartotheground.Gooseseestheworld
+	gosideways.
+	
+			GOOSE
+	Ahhh...Alittlehighontheleft,
+	don'tyouthink?
+	
+			MAVERICK
+	Right.
+	
+	Heaileronrollsanotherquarterturn.Inverted,theypass
+	rightdowntherunway.Gooselooksoutandinsouciantly
+	watchestheworldgobyat300knots,upsidedown.
+	
+			GOOSE
+	Right.Muchbetter....Ahhh...what
+	doyoucallthis?
+	
+	
+	
+			MAVERICK
+	It'savictoryroll.
+	
+			GOOSE
+	Iwouldn'tcallitvictory.It's
+	morelike...selfimmolation.
+	
+	
+	52B.INT.CONTROLTOWER
+	
+	Controllerswork.Officerswatchthelandingactivity.One
+	oldsalt,turnsfromthecoffeemachine,acupofsteaming
+	Javamicronsfromhislips.AROAR.VABOOM!TheTomcatroars
+	over.Heyelpsashotcoffeeflysalloverhisshirt.
+	52C.
+	EXT.MAVERICK'SF-14
+	
+	Theycompletetheroll,bankleft,zoomrightbythetower,
+	levelwiththeobservationwindow.
+	
+	
+	52D.F-14'SPOV.ControllerslookoutattheF-14,mouths
+	dropopen.
+	
+	
+	52E.ANGLEGOOSE
+	
+	Hewavesjauntily.
+	
+			GOOSE
+	Hi...Hithere.Howyadoingin
+	there?Mav...Ahhh...youknow,at
+	onepointIdidwantaNavycareer.
+	
+			MAVERICK
+	Comeon,relax...
+	
+			GOOSE
+	Youseeallthoseguyswithgoldon
+	theirshoulders!!?...Oh,no,I
+	thinkthatwasJohnson,AirBossof
+	theKittyHawk!
+	
+			MAVERICK
+	Comeon,webeataninstructor.How
+	manytimesinyourlifedoyouget
+	todoavictoryroll?
+	
+			GOOSE
+	Justonce,iftheytakeyourplane
+	away.
+	
+	Theyrollout,breakovertherunway.
+	
+	
+	***
+	52F.EXT.FLIGHTLINE.
+	
+	MaverickandGoosewalkbyparkingTomcats...Iceis
+	unstrapping,Sliderisclimbingdown.IcelooksatMaverick,
+	saysoneword.
+	
+			ICEMAN
+	Cowboys!
+	
+	Maverickkeepswalking...Goosehangsback.
+	
+			SLIDER
+	Nice.Alwaysagoodideatoshowup
+	yourinstructors.
+	HenodstowardJester,glaringatthemfromhisA4.Goose
+	indicatesthebackseatoftheTomcat.
+	
+			GOOSE
+	Hey,seeanycontrolsbackthere?
+	(thinksaboutteamloyalty,
+	reactstoJester'sglare...)
+	Andanyway...webeattheSonofa
+	Bitch!
+	
+	HeturnsandrunstocatchupwithMaverick.
+	
+	
+	53.INT.LOCKERROOM-DAY
+	
+	Pilotshalfundressed.MaverickandGooseentertheroom,
+	carryingtheirhelmets.Thestudentslookupatthem,and
+	Goosesuddenlyflashesathumb'supsignwithagrin.The
+	studentsreactwithclenchedfists,adlibs,highfives,
+	victorypunches.
+	
+			WOLFMAN
+	Youwon?!!!
+	
+			MAVERICK
+	Didn'teverybody?
+	
+	"Oooo"--theyallgo"ooo"andlaugh.
+	
+			WOLFMAN
+	No,we...gotourbuttskicked.
+	
+			HOLLYWOOD
+	Thirtyseconds.That'sallittook
+	toblowusoutofthesky.
+	
+			WOLFMAN
+	
+	Wewentlikethis,hewentlike
+	that.IsaytoHollywood:Where'd
+	hego?Hollywoodsays:where'dwho
+	go?
+	
+			HOLLYWOOD
+	Andhe'slaughing.Rightoverthe
+	radio,He'slaughingatus.
+	
+	AttentionturnstothedoorwayasIceandSliderenter.Ice
+	givesabriefdramaticpause,thenflashesthumbsupand
+	smiles.ThestudentscelebrateIce'swin.Icehandlesthe
+	attentionwiththeeasycomposureofonewhoisusedtoit.
+	MaverickignoreshimandbeginstopeeloutofhisG-suit.
+	Icemovestowardhislocker.
+	***
+			GOOSE
+	Youwon.
+	Congratulations.		HOLLYWOOD
+	MaverickandGoosewontoo.
+	
+	Icetalksintohislocker.
+	
+			ICE
+	That'snotwhatIheard.
+	
+			GOOSE
+	Wewon!
+	Iceturnsback,staresthemdown,thenturnsbackintohis
+	locker,dismissingthem.
+	
+			ICE
+	Belowtheharddeckdoesn'tcount.
+	Youguysarethesecondteam,
+	aren'tyou?
+	
+	Maverickgetsup,movestohim,startstosaysomething,
+	whenJester,breaksintotheroom.
+	
+			JESTER
+	Maverick,Goose.Viper'soffice.Now!
+	
+	
+	53A.INT.TOPGUNCORRIDOROUTSIDECO'SOFFICE.
+	
+	
+	SCREAMINGANDYELLING.Alotofscreamingandyelling,
+	muffledbythedoor.
+	
+	
+	53B.INT.ANTEROOM.
+	
+	EnlistedYeomenandChiefsgoabouttheirclericaldutiesin
+	acuteembarrassmentmixedwithcuriousity.BehindtheCO'Sdoor,
+	someoneisscreaminghisheadoff.
+	
+	
+	BOOM!Thedoorburstsopen.Abig,brawlingOfficer-Johnson,
+	theAirBoss-blastsout,nearlysmashingintoafemalepetty
+	officer.Shealmostspillshercoffee.Johnsonlooksrightand
+	leftinfurytoostrongforwords.Helookslikehewantsto
+	smashsomething.Theymoveoutofhisway,buthejustsblasts
+	throughthedooranddisappearsdownthehall.
+	TheenlistedmenturntoViper'soffice.
+	
+	
+	53DTHEIRPOV
+	
+	Jesterstandsinsidestonefaced.MaverickandGooseare
+	rigid.Viper...withexcesscalmdeliberation,softlywalks
+	over,graspsthedoornob.Heglancesinthisdirection.The
+	glanceistotallywithoutexpression,andevenscarierfor
+	that.
+	***
+	53D.ANGLEENLISTED(MEN)
+	
+	Inaflash,eachmanfindssomethingtotallyengrossingin
+	hiswork,orsomethingterriblyimportanttodoelsewhere.
+	Slowly,steadily,Viperswingshisdoorclosed.54.INT.
+	VIPER'SOFFICE
+	
+	HemovesovertofaceMaverick.ThereisaSILENCElike
+	afteratrainwreck;nothingbutthePOPPINGofsprungmetal
+	andthelowGASPofescapingsteam.Viperspeaksquietly,
+	likeafuneraldirectorconsolingtheliving.Makesyouwant
+	toscream.
+	
+			VIPER
+	Well....Thataboutcoversthe
+	flyby.
+	
+	Jesteralmostbreaksintoagrin.
+	
+			VIPER
+	Now...inaddition...youbroketwo
+	majorrulesofengagement.And...
+	That's...notgood.
+	
+	
+	Maverickgivesnoresponse.Vipercontinues.
+	
+			VIPER
+	LieutenantCandelalostsightof
+	you,andcalled"nojoy".You
+	failedtorespond.
+	
+	HestopsandlooksatMaverick...Abeat.Maverickfinally
+	nods
+			VIPER
+	Why?
+	
+	
+	Maverickisexhausted.It'sbeenalong,roughday.His
+	voiceisahorsewhisper.
+	
+			MAVERICK
+	Ihadhiminview.Iwaspeeling
+	overtheegg,intoadive.Hesaw
+	mewhenImovedinforthekill.
+	Therewasn'tanydanger...
+	
+			VIPER
+	(toGoose)
+	Isthathowyourememberit?
+	
+			GOOSE
+	Yes,sir.Bythetimewecould
+	respond,weweredivingrightinto
+	hisview.
+	
+	Viperisnotsatisfiedwiththeanswer,buthemoveson.
+	
+			VIPER
+	Theharddeckforthishopwasten
+	thousandfeet.Jester,atwhat
+	pointdidyoucalloffthefight?
+	
+			JESTER
+	Justbelowtenthousand.
+	
+			VIPER
+	Butyoucontinuedtofight.
+	
+	Anotherpause,anothergrudgingnod.
+	
+			VIPER
+	Why?
+	
+			MAVERICK
+	Weweren'tbelowformorethanten
+	seconds.Therewasnodanger.Ihad
+	theshot.Itookit.
+	
+			VIPER
+	Therulesofengagementarenot
+	flexible.Theyexistforyour
+	safety.Youwillobeythem.
+	Isthatclear?
+	
+	Maverickthinksaboutcontinuingthediscussion,butthe
+	thoughtismomentary.Hequicklycutshislosses,givesViper
+	whathethinkshewants...Heisjustonthecuspoftoo
+	sincere.
+	
+			MAVERICK
+	
+	Yessir,perfectlyclear.Iguess
+	wewere...Iwas...justalittle
+	overenthusiastic.
+	
+	Vipermeasureshimforamoment,thenletsitgo.
+	
+			VIPER
+	Iguessyouwere.Dismissed.
+	
+	MaverickandGooseleavetheroom.ViperlooksatJester,
+	picksupMaverick'sfitnessreport.Doesn'treadit,looks
+	backatJester.
+	
+			JESTER
+	Idon'tknowwhattotellyou,
+	Skip.
+	
+			VIPER
+	Tellmeonething.
+	
+	Jesterwaits.
+	
+	
+			VIPER
+	...Ifyouhadtogointocombat,
+	wouldyouwanthimwithyou?
+	
+	Jesterturns,walksslowlyaroundtheroom.Thewallsare
+	linedwithpictures;planesandpilots...history.Thereare
+	MiGkillers,attacksquadrons,groundpersonnel...There'sone
+	pictureofaPhantominflightwiththebackseatermooning
+	thecamera.Otherpicturesshowcarriers,famousflyers,
+	previousCO's.FinallyJesterreplys.
+	
+			JESTER
+	Yep.
+	
+	Viperslapsshutthefitnessreport.
+	
+			JESTER
+	He'sseatofthepants...
+	Completelyunpredictable--nothing
+	bythebook.Alloverthesky.But
+	Idon'tknow,Skip,he'sreallygot
+	something.
+	
+			VIPER
+	Yeah,wegetoneoftheseguys
+	everydamnclass.(laughs)
+	"Maverick!"
+	
+	Hethrowsthereportonthedesk.
+	
+			JESTER
+	
+	Yup,awildpony.
+	
+	
+	55.OMITTED
+	
+	
+	56.INT.COCKPIT-NIGHT
+	
+	WindROAR,jetWHINE.HollywoodandWolfmanarebeingthrown
+	aboutasHollywoodfightsthestick.
+	
+	
+			WOLFMAN
+	No.No.Lookout,youlostit.
+	
+	
+	Theydepartflight.Tumble.Thehorizonswingswildlyas
+	theygointoflatspin.
+	
+			WOLFMAN
+	We'redead!
+	
+	
+	Afaceappearsat12,000feet,rightinfrontoftheir
+	canopy.Goose'seyesbugatthem.
+	
+			GOOSE
+	Man,youguysgoonedit.Yourlaser
+	buttsarescatteredacrossKANSAS.
+	
+			HOLLYWOOD
+	(disgustedwithhimself)
+	Comeon.Idiedenoughforone
+	night.
+	
+	
+	56A.EXT.COCKPIT
+	
+	Theyclimboutofthesimulator-Acockpitsprungon
+	moveablerams,surroundedbyadomeonwhichvideoimagesare
+	projected.
+	
+	Astheyclimbdown,MaverickandGooseclimbupintothe
+	cockpittotaketheirplace.
+	
+			GOOSE
+	Haveyouguyseverconsidered
+	careercounseling?
+	
+	
+	57.OMITTED
+	
+	
+	56B.SIMULATORCONTROLROOM-Filledwithcomputers,tape
+	transportsandvideoscreenrepresentationsofcomputer
+	generatedcombat.NowMaverickfliesitasCharlieandother
+	techswatch.
+	
+	56C.COCKPIT
+	
+	Maverickflystheheckoutofit.It'sreal.Itlurchesand
+	bumps,theNOISESandsightslookreal.Hegetsonthetail
+	ofaMiG.Itbreaks,hebreaks,thenwhathedoesisjusttoo
+	fasttofollow.Itscreamsaroundinaturn.Suddenly,there
+	isaWHUMMP...ALARMS...thelightscomeon.
+	
+			GOOSE
+	Whathappened.
+	
+			TECH(V.O.FILTERED)
+	Whatdidyoudointhere?
+	
+			GOOSE
+	Whatdidyoudo?Youbrokeit!
+	58.COMPUTERANALYSISROOM
+	
+	MaverickandGooseenter.Thetechsclusteraroundthe
+	keyboardstryingtoreprogram,tofigureoutwhatwentwrong.
+	
+			CHARLIE
+	Youflewitoffthetemplate.
+	Nobodyeverdidthatbefore.
+	
+			GOOSE
+	That'swhatshesaidlastnight.
+	
+	ShestaresatGooseuntilhegrinsandmovesofftogivethe
+	othershisvaluableopinionsonhowtoreprogramthe
+	computers.
+	
+			CHARLIE
+	Whatisitaboutyou?
+	
+	Hejustshrugsatherandsmiles.
+	
+			MAVERICK
+	Whatwouldyousay,toofast...too
+	quick...
+	
+			CHARLIE
+	Andfartooaggressive.
+	
+			MAVERICK
+	Itiscombat.Everysecondcounts.
+	
+			CHARLIE
+	
+	Thehottestmovesintheworld
+	aren'tgonnahelpyouifyouwind
+	upalone.Yourwingman'sgottobe
+	abletofollowyou.Trustyou.Know
+	thathecandependonyou.It's
+	morethanjustfancyflying.
+	
+			MAVERICK
+	Well,whatyouneed...whatyouhave
+	tokeeplookingfor...whatyouwant
+	togetisawingmanwhocanstayup
+	withyou.Whocanmatchyoumove
+	formove.Thenyou'vegot
+	something.I'msorry.
+	
+			CHARLIE
+	Forwhat?
+	
+			MAVERICK
+	ThatstuffabouttheMiG.Iwasout
+	ofline.
+	
+			CHARLIE
+	Apologyacknowledged.
+	
+			MAVERICK
+	Isthatall?
+			CHARLIE
+	Whatelsedoyouwant?
+	
+			MAVERICK
+	Um.You.
+	
+			CHARLIE
+	Thereyougowiththosemoves
+	again.
+	
+			MAVERICK
+	Tooaggressive?
+	
+			CHARLIE
+	Idon'tmixwiththeboys.Iwork
+	here.Let'skeepitprofessional.
+	
+			MAVERICK
+	I'mspecial.
+	
+			CHARLIE
+	(laughs)
+	Yes.I'llgiveyouthat!
+	
+			MAVERICK
+	Givemeabreak,I'maskingyou
+	out.
+	
+	
+			CHARLIE
+	Ican't.
+	
+			MAVERICK
+	Ithoughttherewassomething...
+	Thatnightintheclub...
+	
+			CHARLIE
+	Lieutenant...
+	
+			MAVERICK
+	Evan...orMaverick.
+	
+			CHARLIE
+	Maverick...youknowtherulesof
+	engagement.
+	
+			MAVERICK
+	(can'tbelieveit.)
+		Thewhat?
+	
+			CHARLIE
+	Someonecomesuphotonyoursix,
+	whatdoyoudo?
+	
+			MAVERICK
+	Whatareyoutalkingabout?
+	
+			CHARLIE
+	Youturnintohim,checkhimout,
+	identifyfriendorfoe.
+	
+			MAVERICK
+	I'mnotyourfoe.
+			CHARLIE
+	Andifhe'sharmless,you
+	disengage.
+	
+			MAVERICK
+	Harmless!
+	
+			CHARLIE
+	Uhhum.
+	
+			MAVERICK
+	Whatifhe'snot?
+	
+			CHARLIE
+	Youhavetoshoothimdown....If
+	he'ssmart,he'llturnawaybefore
+	thathappens.
+	
+			MAVERICK
+	
+	Harmless.Nobodyevercalledme
+	harmlessbefore...
+	
+			CHARLIE
+	Andprobablyneveragain.It's
+	nothingpersonal.It'sjust...I
+	knowalotofpilots.MaybeI'm
+	immune...
+	
+			MAVERICK
+	Don'tworry,I'manewstrain.And
+	Idon'tgiveup.EverythingI've
+	everwantedI'vehadtoworklike
+	hellfor.Well,howaboutit?
+	
+			CHARLIE
+	Howaboutwhat?
+	
+			MAVERICK
+	Howaboutanything,anythingyou
+	wanttodo.
+	
+			CHARLIE
+	Hardtoarguewiththat,isn't
+	it...
+	
+			MAVERICK
+	Adate...Coffee...Adrink...A
+	walkinthepark.
+	
+			CHARLIE
+	Whatabouttheplane?
+	
+			MAVERICK
+	Whatplane.
+	
+			CHARLIE
+	Mostoftheminvitemetositin
+	thecockpit...playwiththelevers
+	andthings.
+			MAVERICK
+	Well,getusedtoit.
+	
+			CHARLIE
+	Usedtowhat?
+	
+			MAVERICK
+	I'mdifferent.
+	
+			CHARLIE
+	I'mstartingtosensethatnow.
+	
+			MAVERICK
+	
+	You'reslowtoengage.Butyou'll
+	comearound.
+	
+	Shepusheshimoutthedoor
+	
+			MAVERICK
+	Let'smakeitateight.
+	
+			CHARLIE
+	Makewhat?
+	
+			MAVERICK
+	Anything.
+	
+			CHARLIE
+	Okay,anything.Just...go.I've
+	gottawork.
+	
+	Sheclosesthedoor,turnsbacktoherscreen.
+	
+	
+	59thru61OMITTED
+	
+	***
+	59A.BEACHLAJOLLA-DAY
+	
+	Adayoff.Pilots,otherpersonnelareenjoyingadayatthe
+	beach.Therearebikinis,andbeer,sunfishesandwater
+	skiing.TheannualOver-the-Line(avariationofsoftball)
+	tournamentisinprogress.TheteamfromtheTeddyKennedy
+	DrivingSchooliswhippinganotherknownasScumdeTerre.
+	Thepilotsaredoingprettywellatblowingoffsteam.
+	
+	59B.UNDERSEA
+	
+	Undulatingseagrass.MuffledHISSofthesurf.Apretty
+	fishcomesintoview.Aspearshootsthroughit,andnailsit
+	totheoceanfloor.
+	
+	59C.SHORELINE
+	
+	Twofigurespoptothesurfaceandwadeintothebeach.
+	Maverickholdsthewrigglingfish.Charlieisrepulsed.She
+	pullsoffhermaskandsnorkle,followshimintoshore..
+	59D.THEBEACH
+	
+	Theyflopdown.Hedropsthefishinfrontofher,seesher
+	reactionatwatchingitsdeaththroes.
+	
+			CHARLIE
+	Why'dyoudothat?
+	
+			MAVERICK
+	(surprised)
+	
+	Ihadtheshot.
+	
+	Shelooksathimforamoment,thenturnsaway,fiddleswith
+	hermask.
+	
+			MAVERICK
+	Itdies.Welive.
+	
+			CHARLIE
+	You'reananimal.
+	
+			MAVERICK
+	That'strue.Whatareyou?
+	
+			CHARLIE
+	Idon'tenjoywatchingthings
+	suffer.
+	
+	Hesmashesthefishonarock.Itisstill.
+	
+			CHARLIE
+	No!
+	
+			MAVERICK
+	It'snotsufferinganymore.
+	
+			CHARLIE
+	(shelooksathimstrangely,
+	halfjokes)
+	You'rehorrible
+	
+			MAVERICK
+	You'renot,causeyoueatfrozen
+	meatballs?(heputsitdown)
+	Thingsdie.Everytimeyoubreathe,
+	youkillmillionsoftiny
+	organisms.Everytimeyoueat,
+	somethinghadtodie.
+	
+			CHARLIE
+	Youdon'thavetokillit.
+	
+			MAVERICK
+	Somebodydoes.It'smorehonest
+	thisway.Youdoyourowndirty
+	work.
+	
+			CHARLIE
+	Youeverthinkaboutkilling
+	anotherhumanbeing?
+	
+			MAVERICK
+	Aboutasmuchastheythinkabout
+	killingme.
+	
+	
+			CHARLIE
+	Doesitbotheryou?
+	
+			MAVERICK
+	Theyknowtherules...(thisistoo
+	strongforher,sheturnsaway,he
+	comesaroundtoher.)That'sthe
+	deal.That'swhyyou'reupthere.
+	It'shimorme.That'sthepriceof
+	admission.(shedrawsaway)It
+	bothersyou,why?You'repartof
+	it.(Shestiffens,he'slosingher.
+	Hesoftens)Everybodydies.Most
+	peopledon'tgettodiefor
+	something.
+	
+	Youdon'twanttoconfrontit,do
+	you.Youwanttokeepitallclean,
+	cerebral...velocityvectors,
+	wing-loaddiagrams...Youeverbeen
+	up?
+	
+			CHARLIE
+	Flying?
+			MAVERICK
+	Youuseyourmindtokeepthingsat
+	adistance.Youeverjustletgo?
+	
+	Shedoesn'tanswer.
+	
+			MAVERICK
+	Youknowwhatreallyscaresme?
+	Livingtoolong.Losingmyhairand
+	myteeth...andmygutsandmywind.
+	Andmybrains...Sittinginaroom
+	withmyhandsinmylap,watching
+	daytimeTV.
+	
+			CHARLIE
+	Youdon'tbelieveanyofthis.You
+	don'tthinkyou'lleverdie.
+	
+			MAVERICK
+	That'sit,ofcourse.WhenI'mup
+	thereanddoingit,I'mcheatingit
+	everysecond.I'msubvertingall
+	laws...gravity...whatever.I'm
+	skatingtheedgeofit.
+	
+			CHARLIE
+	WinstonChurchill.
+	
+			MAVERICK
+	
+	What?
+	
+			CHARLIE
+	Whathesaid..."There'snothingso
+	exhilaratingasbeingshotat
+	withoutresult."
+	
+			MAVERICK
+	Allyou'vegotisonelife.Iguess
+	it'sworthaboutthesametoevery
+	body.Youeverseeanoldwoman
+	afterherhusbandhasdied?Andthe
+	meaninglessyearsofdecline
+	stretchahead...Whenyou'rein
+	theairanddoingsomethingreally
+	dangerous,youcanlookahead...
+	maybetenseconds.That'syour
+	wholefuture.That'sasfarasit
+	goes.Butimaginewhatthose
+	secondsareworth.
+	
+			CHARLIE
+	Whatifyoukillyourself?Thinkof
+	everythingyou'llmiss.
+			MAVERICK
+	ThereislotsofstuffIdon'tknow
+	about...Finewine...greatart...
+	theopera.IguessifIlivelong
+	enough,I'llgettoit.IfIdon't,
+	I'llnevermissit.
+	
+			CHARLIE
+	Areyoureallythatbrave?
+	
+			MAVERICK
+	(shakeshisheadno.)
+	Iwatchedmymotherdie.Cancer.
+	Shehadalongtimetothinkabout
+	it.Theysayyoureachanagreement
+	withdeath.Cometoacceptthefact
+	thatprettysoonyouwon'tbehere.
+	Ididn'tseethat.She...wasvery
+	brave...braverthanIam.Yougoup
+	there,thereisn'ttimetothink.
+	Ifyoumakeamistake,you'rejust
+	asmudgeontheground.Simplifies
+	funeralarrangements.
+	
+			CHARLIE
+	It'sjustasIthought.
+	
+			MAVERICK
+	What?
+	
+	
+			CHARLIE
+	You'retotallyinsane.
+	
+			MAVERICK
+	(hesmiles)
+	Thanksverymuch.
+	(heliftsthefish)
+	Careforsomesuchi?.
+	
+	
+	59E.THEOTHERENDOFTHEBEACH-LATER
+	
+	Akillervolleyballgameinprogress.MaverickandCharlie
+	wandertowardit,talkingsoftlytothemselves.Gooserunsup
+	andgrabshimaway.
+	
+			GOOSE
+	Comeon,we'renext.
+	
+			MAVERICK
+	What?
+	
+			GOOSE
+	Comeon,Igotoversixbuckson
+	theline.
+	
+	Mavericklooksupandseestheothertwo-manteam,the
+	victors,waitingontheothersideofthenetforthem.Of
+	courseithadtobeIceandSlider.Charliesitsandwatches
+	asthegamegetsimmediatelyoutofhand.Inmoments,
+	MaverickandIcerotatetoforwardpositionsdirectly
+	oppositeeachotheracrossthenet.Otherrevelersturnto
+	watchasitdegenerates(?)tomorethanagame.Maverick
+	glancesatCharlie.Heseemsuncomfortable,butirrevocably
+	drawnintotheconfrontation.Shesaysnothing,buther
+	attitudeisapparent.Backtothegame:SliderandGooseset
+	themup,astheytrytospiketheballineachother'sface.
+	Thefinalpoint...upoverthemiddle.Theybothgoup,
+	Mavericksmashes,Iceblocks,buttheballsailsaway,off
+	hisforearm.Forthefirsttimeever,Maverickbeatshim.He
+	looksoveratCharlie,sheisstaringouttosea.Shelooks
+	backathimandhe'ssuddenlyhadenoughcompetition.They
+	callforanothergame,butMaverickturnsaway...
+	
+			GOOSE
+	Comeon,comeon!It'sdoubleor
+	nothing..We'retalkingtwelve
+	bucksAmerican,here.
+	
+			MAVERICK
+	I'vehadenough...fornow.
+	
+	HegrabsCharlieandhisgear..
+	
+	
+			MAVERICK
+	Comeon.
+	
+			CHARLIE
+	Where?
+	
+			MAVERICK
+	Youwanttogoballistic?
+	
+			CHARLIE
+	Idon'tknow.Idon'tlikebeing
+	outofcontrol.
+	
+	
+	HelooksbackatIce,bouncingtheballandstaringathim.
+	
+			MAVERICK
+	Stickwithme,you'llgetusedtoit.
+	
+	
+	59F.EXT.DESERT
+	
+	TheBikedoing130,140,150mph.Charlieisunfazed.He
+	turnstocheckherout,shesmilesbackathim.
+	
+	CUTTO
+	
+	59G.EXT.RUSTICADOBECANTINA-SUNSET
+	
+	Thebikeisparkedinfront.
+	
+	MONTAGEONLOCKEDOFFCAMERA-toshowthepassageoftime...the
+	latticedterrace,streaksoflight.Maverickisfeedingadog.
+	Charliesitsonarailwatchinghim.
+	
+			MAVERICK
+	Ialwayswantedtofly...ever
+	sinceIfirstsawajet.Iwanted
+	toflyjets,thenIwantedF-14's,
+	thenIwantedtoflyoffcarriers,
+	thenIwantedTopGun.
+	
+			CHARLIE
+	Andnow?
+	
+			MAVERICK
+	AndnowIwantyou.
+	
+			CHARLIE
+	Youalwaysgetwhatyouwant?
+	
+			MAVERICK
+	Idon'tknowyet.
+	
+	
+	DISSOLVE
+	
+	Heputsmoneyinjukebox.Shewatcheshim...eyetoeye
+	contact.Themusiccomeson.
+	
+			CHARLIE
+	Iwantitunderstood.
+	
+			MAVERICK
+	Anything.
+	
+			CHARLIE
+	Nofoolingonbase,nosigns,
+	nocomments,notalk.Byanyone.
+	
+			MAVERICK
+	Why?
+	
+			CHARLIE
+	I'maprofessional.Youguysare
+	inmylineofwork.
+	
+	
+	Alongbeat.Helooksather--makesthepact:likea
+	sailor.
+	
+			MAVERICK
+	Acknowleged.
+	
+	Shelooksathiseyesforanysignofaput-on,insincerity.
+	Finallyhesmilesatherbutshecanreadit.It'stime.She
+	movesinandcovershisgrinwithagentlekiss.
+	DISSOLVE
+	
+	Tothemsittingwithinstrikingdistanceatatable.Thedog
+	sleepsbeneath.Theireyesarenowlocked.Theelectricity
+	almostarcsbetweenthem.
+	
+	TCUScrubpinetable.Theirfingertipstouch.
+	
+	TIGHTSHOT.Waisttohead.Holding,closetogether,swaying
+	intimewiththemusic.Theirlipsgentlybrush.
+	
+	60.61.OMITTED
+	
+	
+	62.EXT.DAY-DESERT-TACTSRANGE
+	
+	AnF-14swoopsoverthedesert,ROARSoveranantenna
+	complex.
+	
+	TheJET.-Init'smissilerack,itcarriesaTACTS
+	transponder.TheTACTSRangeisanareaofthedesert
+	completelyenvelopedbycomputerizedradar.Thecomputers
+	
+	calculateanumberofaircraft'spositionsandvelocitiesby
+	meansoftranspondersintheshipsandgroundstationsthat
+	talktoeachotherthousandsoftimesasecond.Usingthis
+	system,itispossibletotrackaerialcombatinstantaneously
+	andgivepilotsdirectionsandalsotoplaybackthecombats
+	foranalysis.
+	
+	
+	63.INT.TACTSRANGETRAILER-DAY
+	
+	Thedoubleviewingscreensarefivefeethigh;high
+	technology,stateoftheart.Onthescreensarecomputer
+	animatedfiguresshowingjetsfromvariousangles.Flight
+	dataisdisplayed.Theoperatorspunchbuttonstoshow
+	variouspoints-of-viewofthebattle:apilot'sp.o.v.;God's
+	p.o.v.fromoverhead,alongrangep.o.v.,showingtopography
+	ofthelandscapeandheightofmountains.
+	
+	Studentsandinstructorssitonchairsinthepeanut
+	gallery,facingViperatthefrontoftheroom.Charlieisin
+	theback.
+	
+			VIPER
+	Thebandithasgoodpositionright
+	here.Allright,freezehere.The
+	momentofchoice--Maverickis
+	defensive.Hehasachancetobug
+	outrighthere....Bettertoretire
+	andsaveyourplanethanforcea
+	badposition.Stayinthediamond
+	anotherthreeseconds,thebandit
+	willblowyououtofthesky...make
+	ahardright,selectzone
+	5...(turnstoMavericktodrive
+	pointhome)youcanextendand
+	escape.Youmakeabadchoice.Roll
+	forward.
+	
+	Thecomputerizedrenderingresumesonthescreen.
+			VIPER(Con't)
+	YouperformasplitS.That'sthe
+	lastthingyoushoulddo.The
+	banditisrightonyourtail--
+	Freezethere...thebandithasyou
+	inhisgunsight.Whatwereyou
+	thinkinghere,Maverick?
+	
+			MAVERICK
+	Iwasn'tthinking.Ijustdidit.
+	
+			VIPER
+	Biggamblewithathirtymillion
+	dollarplane!
+	
+	
+			MAVERICK
+	(smiling)
+	Noguts,noglory.
+	
+	It'sajoke.Viperdoesn'tlikethatansweratall,butsome
+	ofthestudentslaughandmockinglywhistleatthecockiness
+	ofit.TheygiveMaverickthehighsign.Sliderleansforward
+	tohim.
+			SLIDER
+	Yourguts.Hisglory.
+	
+	MaverickslumpsdowninhischairunderViper'sglare.The
+	computerrenderingrollsforwardagain.Heglancesbackat
+	Charlie.Shesmilessympatheticallyathim.
+	
+			VIPER
+	Unfortunately,thegambleworked,
+	oryoumighthavelearned
+	something.Thebanditnevergetsa
+	cleanshot...Maverickmakesan
+	aggressiveverticalmovehere,
+	comesoverthetopanddefeatsthe
+	banditwithamissileshot.The
+	encounterwasavictory,butwe've
+	shownitasanexampleofwhatnot
+	todo.Iceisnext.
+	
+	Anothercomputerizedrenderingcomesuponthescreen.
+	HollywoodleansclosetoMaverickandspeaksquietly.
+	
+			HOLLYWOOD
+	GutsiestmoveIeversaw.
+	
+	Maverickgiveshimasmallnodofappreciation.
+	
+			VIPER
+	Andthedumbest...Okay,lookat
+	this.It'stextbook.Icetakes
+	controlofthebattleimmediately.
+	Henevergivesthebanditachance
+	totaketheoffensive.Anearly
+	turnhere--excellent.Hegoesfor
+	thejugular,andit'soverjust
+	thatquick.Let'srunthatagain,
+	it'sexactlyhowitshouldbedone.
+	
+	
+	64.through75B.OMITTED
+	
+	76.EXT.MIRAMARRUNWAY-DAY
+	
+	Infullflightgear,carryingtheirhelmetsandtryingto
+	stufffooddowntheirgullets,thestudentsrush/stumble
+	towardtheflightline.Hollywoodtakesabitofasandwich
+	andmakesaface.
+			GOOSE
+	Whatthehellisthis?
+	
+			MAVERICK
+	Don'tchewit,youwon'thaveit
+	thatlong.Easiertocleanthe
+	cockpitifitcomesupinbig
+	chunks.
+	
+	Jesteryellsfromthedistance.
+	
+			JESTER
+	Ontherun.Let'sgo.Moveit!
+	
+			GOOSE
+	Afighterpilot'slunch...ahot
+	dogandapuke.
+	
+	
+	Theyscurryahead,overtakingtheothers.
+	
+			HOLLYWOOD
+	Iwasavictimofcircumstance.
+	
+			GOOSE
+	Theyshouldhavewarnedyouabout
+	thatone.
+	
+			HOLLYWOOD
+	She'skinkyforflightsuits--said
+	thatshe'dneverseensomany
+	zippers--playedwiththemall
+	night.Thenoisealonekeptmeup.
+	
+			GOOSE
+	What'dyoudo?
+	
+			HOLLYWOOD
+	Pulledleft,rolledout,
+	underneath.
+	
+			WOLFMAN
+	It'skindofironic.Allyouguys
+	havewomentroublesandIdon't.
+	
+			HOLLYWOOD
+	That'sbecauseyoudon'thaveany
+	women.
+	
+			WOLFMAN
+	Untillastnight.Didyouseethe
+	movesIwasmakingonthatgirlat
+	theparty?
+	
+			HOLLYWOOD
+	Thegirlwiththepurple
+	fingernails?
+	
+			WOLFMAN
+	That'sher--tallhungrywomanwith
+	fireinhereyes.Itwasgreat.
+	
+			MAVERICK
+	Itwasbad.
+	
+			WOLFMAN
+	Bad?
+	
+			MAVERICK
+	Thegirlwiththepurple
+	fingernailswasCoogan'ssister.
+	
+	Theyalllaugh.Wolfmanlooksstunned.
+	
+			HOLLYWOOD
+	Cooganspenthalfthenightlooking
+	forher.Hesaidhewasgonnakill
+	theson-of-a-bitchwhoruinedhis
+	sister.
+	
+			WOLFMAN
+	Ididn'truinher.
+	
+			MAVERICK
+	Youdidn'thelp.
+	
+			WOLFMAN
+	No,really.Shecameruined!...
+	Yathinkheknowsitwasme?
+	
+			GOOSE
+	Seemednotto.Butit'shardto
+	know.Younevercantellwhat'sin
+	themindofapsychopath.
+	
+	Wolfmanlooksveryunsettled.
+	
+			HOLLYWOOD
+	HearaboutIce?
+	
+			WOLFMAN
+	Whatnow?
+	
+			HOLLYWOOD
+	Hewonagain.
+	
+	GoosewalksbesideMavericknow.
+	
+			GOOSE
+	Somethingbotheringyou?
+	
+			MAVERICK
+	Nothing.Let'sjustgofight.
+	
+	
+	WolfmanlooksveryapprehensiveastheyapproachtheF-14's.
+	MECHANICSsurroundbothplanes,makinglastminutechecksof
+	allsystems.AmongthemisCOOGAN,sixandahalffeettall,
+	lookingmean.Mavericktosseshimawave.
+	
+			MAVERICK
+	Morning,Coogan.
+	
+			WOLFMAN
+	How'sitgoin',Coog?
+	
+			HOLLYWOOD
+	Everfindyoursister,Coogan?
+	
+			COOGAN
+	Youguysknowsomethin'aboutthat?
+	
+	Wolfmanswallowshardandhurriesquicklyintotheplane.
+	Cooganglaresatthemallwithalookthatcouldkill.
+	
+	
+	77.OMITTED
+	
+	78.EXT.F-14'S-DAY
+	
+	Hollywoodleads,Maverickfollows.Theypointtheirnoses
+	downanddive.Twobogiesflysidebysideatfivethousand,
+	outlinedagainstthebluePacific.Smaller,slower,theyseem
+	helplessforamoment.WeheartheinstructorsintheF-5's.
+	
+	
+			VIPER(V.O.filtered)
+	TWOATSEVENO'CLOCK,JESTER.
+	SCRAMBLE.
+	
+			JESTER
+	ROGER.COMINGLEFT.
+	
+			HOLLYWOOD
+	Holyshit,it'sViper.
+	
+			MAVERICK
+	Keepyourshirton,he'ssaying
+	holyshitit'sus.
+	
+	Thebogiessplit.BogeyOnehardleft.BogeyTwohardright.
+	Hollywoodsweepsleft,pursuingBogeyOne.Maverickhangs
+	backtocoverhim.
+	
+	BogeyOnemakesastrongverticalmove.Hollywoodstayson
+	him.
+			MAVERICK
+	STAYWITHHIM,WOOD...YOURSIX
+	CLEAR!
+	
+	BogeyOneloopsandcomesdown,andHollywoodalmostloses
+	himforamomentbeforeregainingtheangle.
+	
+			MAVERICK
+	STAYWITHHIM!TIGHTENYOURTURN!
+	
+			GOOSE
+	Bogeyatthreeo'clockhigh!Nose
+	on!
+	
+	Mavericklooksquicklyatthreeo'clockhigh,seesBogeyTwo
+	returningtothefight.Hejerksthestickright,andthetwo
+	planesmakeaquickpass.
+	
+			VIPER
+	SNAPSHOT..MISSEDHIM..
+	
+			MAVERICK
+	ENGAGINGTHEOTHERGUY.
+	WOOD,YOU'REONYOUROWN.
+	
+			GOOSE
+	JustcoverWood,Maverick.
+	Mutualsupport,man!
+	
+			MAVERICK
+	I'mgonnatakehim,Goose.
+	
+			GOOSE
+	Don'tbegreedy.StaywithWood.
+	
+			MAVERICK
+	Iwanthim!
+	
+	Maverickgoessuddenlyvertical,zoomsstraightup.
+	
+			GOOSE
+	Hey,comeon--hey!
+	
+	MaverickloopstheF-14downtogetthequickangleonViper
+	inBogeyTwo.Vipertakesoff,runningfromthefightagain.
+	MavericklooksoverhisshoulderandseesthatHollywood
+	stillhasagoodpositiononBogeyOne.Hetakesahardright
+	andstreaksoffafterViper.
+	
+			GOOSE
+	Whatwhatareyoudoing?
+	We'recover!
+	
+			MAVERICK
+	Wood'sokay.IwantViper.
+	
+	GooselooksbackatHollywoodandBogeyOne.
+	
+			GOOSE
+	Butwe'recover!
+	
+	
+	ViperstreaksacrosstheskywithMaverickclosebehind.He
+	pushesthethrottleforwardtoZONE5-fullafterburner.
+	Vipershowsallhistricks...hardleft,hardright,rolling
+	intovertical,flippingintoadive.Maverickstayswithhim.
+	
+	
+			VIPER(Tohimself)
+	Goddamn,rookie,you'reallright!
+	
+	
+	79.INT.F-14
+	
+	MaverickturnstogetViperinthediamond.Hehearsa
+	SIDEWINDERGROWLinhisheadset.
+	
+			MAVERICK
+	What'stherange,Goose.I'vegota
+	goodtone.
+	
+	ViperjinksbutMaverickstayswithhim.Viperisinthe
+	diamond,andtheTONEGOESCRAZY.Butsuddenly....
+	
+			GOOSE
+	Twobogies!Threeo'clockhigh,
+	nineo'clockhigh!Break!
+	
+	Theycomeoutofnowhere,flashingdowntowardMaverick--a
+	crossfireambush.Maverick'seyesarestartled.
+	
+			JESTER
+	ATOLLONTHENORTHERNF-14.HE'S
+	OUTOFTHEFIGHT..
+	
+	Maverickisstunned.Hehasbeentricked,humiliated.
+	There'salittlesaltforthewoundasViperandJester
+	celebrate.
+	
+			VIPER
+		WALKEDRIGHTINTOIT.
+	
+			JESTER
+	NOTONLYTHAT,BUTZORROGOTYOUR
+	WINGMAN.NICEGOING.
+	
+			GOOSE
+	THEDEFENSEDEPARTMENTREGRETSTO
+	INFORMYOUTHATYOURSONSAREDEAD
+	BECAUSETHEYWERESTUPID!
+	
+	Slapshishelmetlikeadolt...
+	
+			VIPER
+	KNOCKOFFTHECHATTER,TOPGUNS.
+	LET'SRTB.VIPERHASTHELEAD.
+	
+	
+	80.INT.LOCKERROOM-DAY
+	
+	Silence.Severalpilotsinvariousformsofundress.
+	MaverickandGoosesitwiththeirheadsdown,ahangdog
+	expressionontheirfaces.
+	
+	81.INT.DIRTYDAN'S-ABAR-
+	LATER
+	
+	Maverickmopesatthebar,afigurecomesupbehindhim.
+	
+			VIPER
+	Yaknow,thatwasthebestflying
+	I'veseensinceNam...(Hegrins)
+	...Rightuptothatpartwhereyou
+	gotkilled.
+	
+	Vipersitsdown.He'sinajovial,tauntingmood.Maverick
+	watcheshimguardedly.
+	
+			VIPER
+	Twentyyears'experience,I
+	couldn'tshakeyou.Youmaybea
+	greatflyer.Imeanthat.
+	
+			MAVERICK
+	Ilost.
+	
+			VIPER
+	Ofcourseyoudid.Isaidagreat
+	flyer,notasmartone.Youfly
+	reckless.Greatinstincts.No
+	discipline.Thatambushtoday,you
+	followedyouremotionsinsteadof
+	yourwingman.Ofcourseyougot
+	killed...andwelldeservedto.It
+	wasareallystupidmistake.In
+	battle,itgetspeoplekilled.
+	
+	Mavericknodsandstaresathisbeer.
+	
+			MAVERICK
+	Icantakecareofmyself.
+	
+			VIPER
+	Talentisnoholyshield.Von
+	Richtofenwaskilledbyafarmboy.
+	Instinctsarenotenough.Doitour
+	way.We'veworkedthesethingsout.
+	Thegoodpilotscanbecomebetter
+	andthegreatonescanlearnhowto
+	stayalive.(hestudieshimfora
+	moment)Whydoyouhavetodo
+	everythingthehardway?
+	
+			MAVERICK
+	It'smyownway.Itworksforme.
+	Idon'tcareabouttherestofthat
+	stuff.
+	
+			VIPER
+	Thenwhyareyouhere?
+	
+			MAVERICK
+	Forthesamereasonyouare.
+	
+			VIPER
+	Oh,youmeanthethrill!
+	
+			MAVERICK
+	Theflying.Thefighting.I'dgo
+	uptheretentimesadaytofight.
+	I'dwinatleastnineofthem.
+	That'sallIwanttodo.It'swhat
+	Idobest.Iamrealgood.Just
+	givemethejet.
+	
+	Viperstudieshim,
+	
+			VIPER
+	It'snotagift,justaloan...
+	
+	Hefinisheshisbeer,thenrises.
+	
+			VIPER
+	Nineoutoftenisokay,aslongas
+	it'sonlyfunandgames.Butthis
+	isn'taboutthat.Thisisserious
+	business.Itisdangerousupthere!
+	At500knots,thingscanchangea
+	lotinasecond.Disciplineiswhat
+	protectsus.
+	
+	Hesignalsthebartenderanddropssomemoneyonthebar.He
+	stretches,looksaround.
+	
+			VIPER
+	Itwasagoodday.Youlearned
+	something.Youlostandyou're
+	stillalivetothinkaboutit.And,
+	youlostyourwingman.That'sa
+	cardinalsin...don'teverdoit
+	again.YouoweHollywoodanapology
+	andyouowemeabeer.
+	
+	VipertouchesMaverick'sshoulderashemovesaway.Itwas
+	justthegestureMaverickneeded,forheseemstorelaxfrom
+	histension.Hesipshisbeeralone.
+	
+	
+	82.INT.SANDIEGOAIRPORT-NIGHT
+	
+	MaverickandGoosemovethroughtheterminal,
+	anxious/expectantlooksontheirfaces.
+	
+			GOOSE
+	Relationshipsareabitch,here.
+	It'shardenoughtoconcentrate
+	...underthepressure.Havinga
+	womanhereisaskingforit.
+	
+			MAVERICK
+	Iguessthat'swhatI'mdoing,
+	then.
+	
+			GOOSE
+	Wheredoyoufindthetime?Where
+	doyoufindtheenergy.It'stough
+	enoughtokeepyourmindonschool.
+	Awomanhereisarealpainin
+	the...
+	
+	
+	Aprettywomanemergesfromthecrowdandspotsthemfirst.
+	Sherushesthem,happily,carryinghersleepyfour-year-old,
+	RICKY.Gooseundergoesanimmediatechange,beamingabig
+	smilethathehaspracticedonherforyears.Shesetsdown
+	thekid.
+	
+			GOOSE
+	...butt...Hi,honey,God,amIglad
+	toseeyou!Imissedyou.
+	
+	GoosewrapshisarmsaroundCarol,smack,akiss.Shesmiles
+	atMaverick,turnsbacktoGoose.
+	
+			CAROL
+	Ihadtocome,Willard,Igotso
+	lonesomeIjustcouldn'tstandit.
+	
+			GOOSE
+	Sure,honey,Iunderstand.It's
+	greattoseeyou.Heywhere'syour
+	backseater,where'stheworld's
+	smallestRIO..
+	
+	Helooksallaroundandthendownatthekid,hidingshyly
+	behindhismother'sskirts.Goosegrabsupthekidandzooms
+	himaround,agamethey'veplayedbefore,everysixmonthsor
+	so.Thekidlaughshappily.Maverickjustsortofsmilesto
+	himselfandshakeshishead.
+	
+	83.OMITTED
+	
+	84.APOOL(ORBEACH)
+	
+	Maverickcomestothesurface.Sheentersframebytheside
+	ofthepool.Shehandshimasplitfreshpineapple.Heeats
+	itinthemostsalaciousmannerpossible.He'ssocontented,
+	he'sbabbling.
+	
+			MAVERICK
+	Food...andyou...myF-14!
+	
+			CHARLIE
+	Inthatorder?
+	
+			MAVERICK
+	Wellno...inverseorder.
+	
+			CHARLIE
+	I'mstillsecondbest.
+	
+			MAVERICK
+	YoueverflyanF-14?
+	(Shelaughs.)
+	
+			CHARLIE
+	Idon'tflyinanythingthat
+		doesn'tshowmovies.
+	
+	Hegetsout,grabsatowel,movesovertosomechairs.His
+	flightsuitisdrapedoverone.Hemovesittositdown.
+	
+	
+			MAVERICK
+	Ahhh,you'dloveit.Nightcarrier
+	landings!Themostdangerousthing
+	youcanthinkof!...nextto
+	you...Andthemostexciting.You're
+	livingatonehundredandtenper
+	cent.Greatesthighintheworld...
+	
+	
+			CHARLIE
+	Danger?
+	
+			MAVERICK
+	(ofcourse).
+	Yeah!
+	
+			CHARLIE
+	Doesn'titeverbotheryou?
+	
+			MAVERICK
+	Why,what'sgonnahappen?
+	
+	Hisflightsuitslipsontotheground.Charlieretrievesit.
+	Assheliftsthesuit,somethingfallsoutofthepocket.
+	Lookslikeagoldcoin.Shepicksitup.Maverickisdrying
+	hishair.Sheholdstheobjectouttohim,questioning.He
+	seesit,quicklytakesit,stuffsitbackintohispocket.
+	
+			MAVERICK
+	Luckycharm.
+	
+			CHARLIE
+	Whatdoyoutakemefor?It'sa
+	NavyCross.
+	
+			MAVERICK
+	Justgoodluck.
+	
+			CHARLIE
+	Where'dyougetit.
+	
+			MAVERICK
+	Pawnshop.What'stoeat?
+	
+	Herootsthroughapicnicbasket.
+	
+	
+	84A.MONTAGE-PREFLIGHTACTIVITY
+	
+			VIPER(V.O.)
+	...MiGsweepoverthewater.You
+	willproceeddowntheone-seven
+	-zerodegreeradiallookingfor
+	MiGs.Youwillengageallthatyou
+	find,destroythem,andreturnto
+	base.Maverick,hasthelead.Any
+	questions?Allright,let'sgo.
+	Movelikeyou'vegota
+	purpose....
+	
+	85.EXT.CLOUDCOVER-
+	20,000FT.-DAY
+	
+	FourF-14'sflyinformationoverthePacific,searchingfor
+	(MiGs).Theyspotthem,engage.Thecombatantsflyscissor
+	patterns,slashingpasteachother,anglingforposition.
+	
+	WeheartheVOICESOFCOMBATfromtheplanes,abarrageof
+	informationexchangesbetweenpilotsandRIO's.Maverickand
+	Iceswoopclosetogetheroneachother'swing--movingoneach
+	other,testing,theyglanceateachotherandnod.The
+	Challenge...thefightison.SuddenlyanF-5risesupoutof
+	thecloudsinfrontofthem--Icehastheadvantageandrolls
+	inonhim.
+	
+			ICE
+	ENGAGINGBANDIT12O'CLOCK.
+	
+			MAVERICK
+	SHIT!!
+	
+	TheF-5seeshispursuers.Goesintoahardleft.
+	
+			ICE
+	MIG'SINALEFT.MIG'SINA
+	LEFTHAND.I'MENGAGING.
+	
+	
+	IcestrugglesagainsttheG'stobringhisnosetobear.
+	TheygoaroundintoaLufbery--atightcircle,Icehasthe
+	advantage.HeisclosertotheF-5'stailthantheF-5isto
+	his.Buthecan'tclose,can'tlineuptheshot.Hegrunts
+	andstrainsastheGforcepusheshimdown.
+	
+			MAVERICK
+	COMEOFFRIGHT--COMEOFFHIGH--I'M
+	IN--I'LLENGAGE.
+	
+			ICE
+	STAYWHEREYOUARE.HE'SMINE.I'M
+	ENGAGED.I'MIN.
+	
+	Maverickmaneuversclosetotheirleftcircle.
+	
+			ICE
+	GETOUTOFTHERE,YOU'REUNSAFE.
+	GETOUTOFTHERE.
+	
+			MAVERICK
+	FIRE,ORCLEAROUT,ICE.
+	
+			ICE
+	GETLOST!
+	
+			MAVERICK
+	YOUGOTTOOMUCHNOSETOTAIL--
+	I'MCOMINGIN.
+	
+			ICE
+	IT'SMYSHOT.
+	
+	
+			MAVERICK
+	COMEOFF--COMEOFFRIGHT.I'MONMY
+	WAYIN.YOUGOFREE,I'MENGAGING.
+	
+			ICE
+	STAYOUTOFIT.STAYOUTOFIT,
+	MAVERICK.
+	
+			MAVERICK
+	YOUCAN'TSHOOTHIM,ICAN.I'MIN.
+	
+	
+	MAVERICK-ABOVE.
+	
+			MAVERICK
+	ICE,ROLLOFF,ICANSHOOTHIM.
+	
+			ICE
+	NO,NO,NO,HE'SMINE.
+	
+	
+	MaverickispullingalogofG's,butcan'ttargethis
+	weapons,hecontinuestoturninahardcircle,goinground
+	androundwithoutgaining.Hecan'tbringhisnosetobear.
+	
+			MAVERICK
+	IFYOUCAN'TSHOOTHIM,ICAN.
+	
+			ICE
+	NO,IGOTHIM.ICANTAKEHIM.
+	
+	Icestays.
+	
+			MAVERICK
+	COMINGIN.
+	
+	Maverickdivesdownbetweenthetwoplanespulling6.5G's,
+	exposinghisundersidetoIce.AllIceseesisbelly.
+	Obviously,inthisattitudeMaverickcan'tseehim.
+	
+			ICE
+	(underbreath.)
+	Sonofabitch.
+	
+	HeslamsthestickhardrightintowardMaverick.
+	Icequicklyrollsupright,infrontofhim.
+	
+			ICE
+	LOOKOUT!
+	
+	
+	Maverickseeshimflashintohisview.Hehastoslamthe
+	stickforwardtoavoidcollision.Heswingsbyrealclose.
+	Tooclose.
+	
+			GOOSE
+	Oh,no!
+	
+	
+	
+	TheypassthroughIce'sturbulence.Theblastdistortsthe
+	airflowtoMaverick'sleftengine.BOOMBOOMBOOM.Theengine
+	flamesout.Fullthrustontheright,engineswingsthetail
+	aroundinayaw.Maverickslamsthestickrighttocorrect
+	buttoolate.
+	
+			GOOSE
+	Plane'scouplingup!Plane's
+	couplingup!
+	
+	
+	Theplanecouplesoneyawtothenext--thetailswings
+	around--whichbecomesaneverincreasingflatspin,likean
+	out-of-controlfrisbee.
+	
+			GOOSE
+	Thisisnotgood!...(Risingpanic)
+	We'relow!
+	
+	
+	Maverickispinnedtotheinstrumentpanelbycentrifugal
+	force,desperatelytriestoreachbackfortheejection
+	lever--butisfallingshortbyaboutafoot.
+	
+			MAVERICK
+	I'mpinnedtothepanel.
+	
+			GOOSE
+	Timetogo.
+	
+			MAVERICK
+	Ican'teject.
+	
+	
+	Theplaneisspinningeverfaster,outofcontrol.Hedrops
+	thegear.Stillspins.Gooseisclosertocenterofspin--G
+	forcesareless.Hereachesbehindhimfortheejecthandle,
+	startstheejectsequence.
+	
+			GOOSE
+	3000feet.I'lldoit.
+	
+			MAVERICK
+	Goahead.Ican'treach.2000feet!
+	
+	
+	85A.BOOM-AHURRICANEOFWINDANDNOISE
+	
+	ThecanopyBLASTSaway--butisheldspinningabovethe
+	cockpitbythevortexofthesinkingjet.Gooseglancesupat
+	it.
+	
+			GOOSE
+	1000.
+	
+			MAVERICK
+	Let'sgo.Eject.
+	
+	
+	Gooseyankstheejectionhandle.Thingshappeninasplit
+	second.Gooseisfiredupandoutbytherocketunderhis
+	seat.Almostinstantlyheimpactsthespinningcanopy.A
+	sickeningCRUNCH.Thecanopyisknockedaway.Maverickis
+	slammedbackinhisseatastheejectionseatstrapswindup.
+	HeisBLASTEDoutoftheplanejustbeforeitspinsin.
+	
+	
+	85B.TIGHTONMAVERICKASHETUMBLESINSLOWMOTION
+	
+	He'sinshock..theloudTHUMPINGofhisheart,labored
+	breathing,ascreamthatstaysinhismind.
+	
+	Instinctively,hegropesforstraps.Hereleasesthepilot
+	seat,ittumblesaway.Hischutestreams,balloonsopen,
+	snappinghisbodylikeabullwhip.Hedriftsmomentarily,
+	thenplungesintothesea.
+	
+	
+	85C.UNDERWATER
+	
+	Hisface,distortedinthewater;wildeyes,disoriented,
+	chokingforair.Hereachesout,findsnothingtograb.
+	Suddenly,heisyankedhardtotheside.
+	
+	
+	85D.SURFACE
+	
+	Theparachuteiscaughtbythewind,anddragged,pulling
+	Maverickalongbeneaththesurface.Heistwistinginthe
+	water,turningoverandover,tryingdesperatelytoslipout
+	ofthetangledstraps.Hefinallyhitsthesurfaceofthe
+	waterandsucksairintohislungs.Withtheendofhis
+	strength,hehitsthereleasesnapsandbreaksfreefromthe
+	parachute.Itwhipsawaylikeakiteinatyphoon.
+	
+	Theseaischoppyandrough.Hestrugglesashisequipment
+	dragshimunder.Hetwists,findstheinflatableraft
+	attachedtohisharness.Maverickpullsthecord,andthe
+	rafthissesopen.Hepullshisbodyintothesix-by-twofoot
+	raftandcollapses,completelyexhausted.Thesurvivalhas
+	beenalmostwithoutthinking:aninstinctualphysical
+	struggle.
+	
+	
+	85E.TWILIGHT
+	
+	Maverickbeginstofocusonthesituation.Hestainsthe
+	waterwithdye,thenseesanotherparachutefloatingnearby.
+	Paddlingtotheparachute,hereachesoverthesideand
+	beginstopullontheheavycordsthataresubmergedinthe
+	water.
+	
+	Agreatstruggle.Theweightisextremelyheavy.Finally,he
+	pullsabodytothesurface.Goose.Gooseisdead.Maverick
+	releasestheparachuteandpullsGooseintotheraftontop
+	ofhim.HeholdsGooseinhisarms.Hismindshutsdown
+	again.
+	
+	Fromhighabovetheocean,weseethedebrisonthewater.
+	Anoilslick,piecesofhoneycombtitanium,andthesmall,
+	helplessfigureintheraft.
+	
+	DISSOLVETO:
+	
+	86.EXT.OCEAN-NIGHT
+	
+	Searchlightsskimovertheblackocean.Abrilliantlight
+	flashesasMaverickpopsapencilflare.Helicopterblades
+	flickpowerfully.Thelightsofthechoppersdescendtoward
+	thewreckagearea,scanningthedebris,searchingforlife.
+	ThespotlightsfindMaverickandGooseintheraft.
+	
+	Thedraftfromthechopperchurnsthewater.AFROGMANdrops
+	fromthechopperandhitswithaheavysplashes.Hesurfaces
+	andswimstotheraftasarescueharnessislowered.
+	
+	MaverickwatchescuriouslyashestartstoexamineGoose.He
+	hugsGoosecloserandlooksthreatened.
+	
+	
+			FROGMAN
+	Lethimgo,sir.Takeiteasy.
+	
+	HetriestopryGoosefree,butMaverickhasadeathgripon
+	thebody.
+	
+			FROGMAN
+	Sir!Lethimgo.It'sallright.
+	Lethimgo.
+	
+	
+	Maverickglaresatthemanashebobsinthewater.
+	
+	Anotherlongmoment,thenMaverickreleasesGoose.The
+	frogmanquicklystrapsMaverickintotheharness.
+	
+	HISPOV.-Hewatchesthelifelessbodyinthewaterashe
+	ispulledupandaway.Heshiversfromthecold.
+	
+	
+	87.INT.HOSPITALROOM-NIGHT
+	
+	ExtremeCLOSEONMaverick'sface.Heisemotionless.His
+	eyesareflatandabsolutelywithoutexpression.Thereis
+	completesilenceintheroom.Thenwehearthequiet,calm,
+	probingvoiceofViper.
+	
+			VIPER
+	Howdoyoufeel?
+	
+			MAVERICK
+	Allright.
+	
+			VIPER
+	Gooseisdead.
+	
+			MAVERICK
+	Iknow.Iwasthere.
+	
+	
+	
+	NotonesignofemotionfromMaverick.Notonetoneof
+	expression.WeseeVipernow,andhisfaceisstrainedfroma
+	verylongday.
+	
+			VIPER
+	Ifyouflyjetslongenough,
+	somethinglikethishappenstoyou.
+	Nooneescapesit.Ittouchesus
+	all.
+	
+	MavericklooksatViper,andhiseyesareverydisturbed.
+	
+			MAVERICK
+	Hewas...myresponsibility--myRIO.
+	
+			VIPER
+	MyfirstsquadroninVietnam,we
+	losteightoutofeighteenplanes.
+	Tenguys.Thefirstonekillsyou,
+	butthere'llbeothers--youcan
+	countonit.
+	
+	
+	NoreactionfromMaverick.Hecan'tquitefaceuptothat
+	realityrightnow.
+	
+			VIPER
+	You'vegottoputhiminthebox.
+	
+	
+	MaverickiswatchingViper,buthedoesn'thaveanythingto
+	say.
+	
+	
+	88.EXT.CHARLIE'SSPORTSCAR-NIGHT
+	
+	TheRADIOplaysJohnLennon;"StandbyMe".Maverickopens
+	hiseyes,doesn'tknowwhereheisforamoment.
+	
+			CHARLIE
+	...theysayyou'realright.
+	
+			MAVERICK
+	I'mfine.
+	
+			CHARLIE
+	Thisisit,then.
+	
+			MAVERICK
+	What?
+	
+			CHARLIE
+	Thedarkside.Thepriceyoupay
+	forallthefunyou'rehaving.You
+	knewaboutit,ofcourse.Didn't
+	you?
+	
+			MAVERICK
+	Hewasafriendofmine.Agood
+	guy...greatguy.Itwasmy
+	fault.
+	
+			CHARLIE
+	That'snotwhatIhear.
+	
+			MAVERICK
+	Iwasflying...myresponsibility.
+	
+			CHARLIE
+	That'swhatyougetflightpayfor.
+	
+			MAVERICK
+	MaybeIshouldn'ttakeit.
+	
+			CHARLIE
+	(Insurprise)
+	Why?Youactlikeyoudidn'tknow
+	onedaythiswouldhappen.
+	
+			MAVERICK
+	Nottome.
+	
+			CHARLIE
+	Youknewit.Youalldo.It'spart
+	ofit.Maybethemostimportant
+	part.
+	
+	
+	88A.ONTHEBEACH-NIGHTANDFOG
+	
+	Charlie'scarpullsup.Theygetoutandwalkdowntoward
+	thewater.Maverickseemsdazed.Sheissoftlytaunting.
+	
+			MAVERICK
+	Wherearewe?
+	
+			CHARLIE
+	Wherearewe?Youknowwherewe
+	are.It'scalledthebeach.It's
+	wherelifefirstcrawledupoutof
+	thesea.Icomeheresometimes...
+	whenIfeellikecrawlingbackin.
+	
+			MAVERICK
+	Youdon'thavetodothis.
+	
+			CHARLIE
+	Dowhat,showyouagoodtime?
+	
+			MAVERICK
+	I'mnotgoodcompany.Ishouldbe
+	alone.
+	
+			CHARLIE
+	Idon'tthinkso,butifthat's
+	whatyouwant...
+	
+	Theystandthere,notmakingamove.
+	
+			MAVERICK
+	No.
+	
+			CHARLIE
+	Whatdoyouwant?
+	
+			MAVERICK
+	Iwantitback.
+	
+			CHARLIE
+	What?
+	
+			MAVERICK
+	Yesterday.
+	
+	Sheturns,nodsout,pastthemoon.
+	
+			CHARLIE
+	Youlookwayoutthere.Outpast
+	thedateline.WestbecomesEast,
+	allthingschange.Youcrossthe
+	line...todaybecomesyesterday...or
+	tomorrow,Iforgetwhich.
+	
+			MAVERICK
+	That'swhatIwant.
+	
+			CHARLIE
+	Ofcoursetheline'sjust
+	imaginary.Youcancrossittwenty
+	times...nothingreallychanges.
+	
+	Sheturnsandwalksalongthesurfline.
+	
+			CHARLIE
+	Onthebeach...It'swhattheysay
+	whenNavymenretire...He's"OnThe
+	Beach".Ialwayslikedthat.Ihad
+	apicture...inmyhead...allthese
+	oldguyswanderingaroundhere,
+	lookingoutintothepast.
+	
+	Hewalkstothesurf,kicksthesandwithhisbarefeet.
+	
+	
+			MAVERICK
+	Ifweknewthen,whatweknownow,
+	wemightneverhavecomeupoutof
+	there.
+	
+	Heturnstoher.Shejustlooksathim.
+	
+			CHARLIE
+	Youdon'tbelievethat.
+	
+			MAVERICK
+	Hardlyever.
+	
+			CHARLIE
+	Onlywhenyou'redepressed.Thenit
+	passes.
+	
+			MAVERICK
+	Itdoes.
+	
+			CHARLIE
+	Everythingpasses.Immutablelawof
+	theUniverse.
+	
+	
+	Hepicksupapieceofflotsam,atwig,wornsmooth.
+	
+			CHARLIE
+	Thistoo...shallpass.Youputas
+	muchlifeasyoucanbetweenitand
+	you.Youstartpilingupexperience
+	betweenthenandnow.
+	
+	Heturnsandwalks.
+	
+			MAVERICK
+	Whatdoyoudowhenyoucomehere?
+	
+			CHARLIE
+	Isit.Ithink.Iplaygames.
+	
+			MAVERICK
+	Whatkindofgames?
+	
+			CHARLIE
+	Iliketoplay"reality".
+	
+	Shestopsandturns.
+	
+			MAVERICK
+	Howdoyouplayreality.
+	
+			CHARLIE
+	It'sstripreality,actually,like
+	whatthepilotsalwayswantto
+	play.
+	
+			MAVERICK
+	(thisgetsasmalllaugh)
+	Stripreality!Howdoyouplay
+	that?
+	
+			CHARLIE
+	It'slikestrippoker,only,
+	withoutthebluffing.(helaughs
+	again)Onepersonsayssomething
+	andiftheotheroneacceptsthat
+	it'strue,theonewhosaysit,
+	getstotakeoneitemofclothing
+	off.
+	
+			MAVERICK
+	You'recrazy.(Shestops,hegoes
+	on,softer)That'saprettysilly
+	game.
+	
+			CHARLIE
+	Notassillyassome.Youknowthe
+	silliestone?...thatwearegods.
+	Thatwecontroleventsonthe
+	beach...thatwecanturnback
+	time...
+	
+	Shemovesinclose.
+	
+			CHARLIE
+	Wanttoplaythegame?
+	
+			MAVERICK
+	Howdoesitgo?
+	
+			CHARLIE
+	Yousaythetruth.(abeat...)
+	Goahead.Don'tbeafraid.Youwant
+	towinthegame,don'tcha?
+	
+			MAVERICK
+	Whattruth?
+	
+			CHARLIE
+	Thebigone.Theonethat'smoston
+	yourmind.
+	
+	Alongpause...itcomeshard.
+	
+			MAVERICK
+	Gooseisdead.
+	
+			CHARLIE
+	(shenods)
+	True.
+	
+			MAVERICK
+	Now?
+	
+			CHARLIE
+	Takesomethingoff.
+	
+			MAVERICK
+	Offmeoroffyou?
+	
+			CHARLIE
+	That'suptoyou.
+	
+	
+	Hetakestheribbonfromherhair.Itfallsdownoverher
+	faceandshoulders.Nowit'sherturn.
+	
+			CHARLIE
+	It'sdangerous...whatyoudo.
+	
+	Henods.Sheslowlyloosenshistieandpullsitfromaround
+	hisneck.
+	
+			MAVERICK
+	Itwasmyfault.
+	
+	
+	Shesaysnothing,standslookingintohiseyes.Heslowly,
+	asifinatrance,takesherblouseoff.
+	
+			CHARLIE
+	Youcan'tbringhimback.
+	
+	Shetakesoffhisshirt.
+	
+			MAVERICK
+	Itwasmyfault.
+	
+	
+	
+	Hestartstoreachforher.Shepullsback.
+	
+			CHARLIE
+	Nope.Alreadyusedthat.
+	
+	Sheturnsandthinksforamoment,lookingatthemoon.
+	
+			CHARLIE
+	Yourlifegoeson.
+	
+	
+	RatherthanstrugglehisTshirtoverhishead,shegrabsit
+	withbothhands.Sheleansincloseandbitesit.Shegrabs
+	bothsidesofthetearandslowlyripsitoffhisbody.
+	
+	
+			MAVERICK
+	Whatdoesitmean?
+	
+			CHARLIE
+	(shakesherheadno)
+	Thatwasn'tfair.Itwasa
+	question.Penaltyround!
+	
+	
+	Shedropsherskirt.
+	
+			CHARLIE
+	Youdidn'tmeanit.Youdidn't
+	think.You'ddoanythingtotakeit
+	back.
+	
+			MAVERICK
+	That'sthree.
+	
+			CHARLIE
+	Andthat'sone!
+	
+	
+	Sheunbuckleshisbelt,slowlyslidesitoff.Sheunzipshis
+	pants,theyfall.
+	
+			MAVERICK
+	Onemore.
+	
+			CHARLIE
+	Yourwatch.
+	
+	Sheunbucklesit.
+	
+			MAVERICK
+	Youowemeone.
+	
+	
+	Herestshisheadonhershoulder,unhooksherbra.She
+	shrugsitoff.
+	
+	Theystandonthebeachinshortsandbikinibottom,looking
+	intoeachother'seyes.
+	
+			CHARLIE
+	Lookslikeatie.
+	
+			MAVERICK
+	Who'sgonnawin?
+	
+			CHARLIE
+	We'llsayittogether.Onthecount
+	ofthree...One...two...
+	
+	Leaningin,softerandharder...theybothjumpthegun.
+	
+			BOTHTOGETHER
+	Ilove.ovey.you.
+	
+	Theyembracemadlyandsinktothesand.Fromthedistance
+	itlookslikeastrangeslitheringcreaturecrawlingbackto
+	thesea.
+	
+	
+	89.INT.GOOSE'SROOM-NIGHT
+	
+	ThelightsareoutinGoose'sroomattheBachelorOfficers'
+	Quarters.Thedooropens,andMaverickenters.Hesetsa
+	cardboardboxonthebed.
+	
+	Silently,MaverickgatherstogetherGoose'sfewpersonal
+	possessions.Hefillstheboxwithclothes,books,aclock,a
+	radio,awalkman,andarticlesfromthebathroom.Heexamines
+	eachclosely,likeanartifact...asifhemightfindsome
+	messageormeaninginthem.Hefumblesthemintothebox.He
+	can'tseetoowell,hiseyesarefulloftears.
+	
+	Maverickclosestheboxandcarriesittothedoor.Hetakes
+	onelastglancearound,thenleavesandclosesthedoor
+	behindhim.
+	
+	
+	89A.INT.BOQRECEPTIONAREA*
+	
+	Carolandthekid,stand,staringatasilentTV.Carol
+	looksdazed,lost.Maverickwalksin,findsher.Anawkward
+	silencewhiletheybothtrytothinkofsomethingtosay.
+	MaverickhandstheboxtoCarol.
+	
+	90.OMITTED
+	
+	89B.CLOSEUP-MAVERICK.
+	
+	Hesitsstaringrightthroughus...thethousand-yardstare.
+	Astrangewhiteunreallightwashesoverhim.Theonlycolor,
+	theNavyandgoldofthestripesonhisshoulderboards.Alow
+	rumblingmumblingfiltersthroughtheHISSofsurforfansor
+	something...Snatchesoflowwhispered
+	conversation....disregardof...basicair-safety
+	principles...tooaggressive...incident....29July...within
+	performanceparameters...disciplinaryaction...tactical
+	doctrine....evenrecklessattimes...
+	conjecture...unsupported...benefitofthedoubt...
+	
+	Maverick's
+	eyesslowlyfocus.Thelightattenuates.Thesurrounding
+	imagebecomesdenser.Thingsbecomereal.
+	
+	
+	89C.INT.CONFERENCEROOM-DAY-MAVERICK'SPOV
+	
+	ABOARDOFINQUIRY,aCOMMANDERandotherNAVYOFFICERS
+	seatedbehindtablesatthefrontoftheroom.Maverickfaces
+	them,wearingdresswhites.Viperisalsopresent.The
+	CommanderlooksateachoftheOfficers.Theyeachnod,in
+	turn,indicatingreadiness.TheCommanderturnstoMaverick,
+	andstatesfortherecord:
+	
+			CDR.
+	TheBoardofInquiryfindsthatLt.
+	EvanMitchellwasnotatfaultin
+	theaccidentoftwenty-nineJuly.
+	
+	NoresponsefromMaverick,onewayortheother.Viper
+	studieshisfacewithconcern.
+	
+			CDR.
+	Lt.Mitchell'srecordwillbe
+	clearedofthisincident.
+	
+	
+	StillnoresponsefromMaverick.
+	
+		CDR.
+	Lt.Mitchellisrestoredtoflight
+	statuswithoutfurtherdelay.These
+	proceedingsareclosed.
+	
+	Maverickdoesn'trespond.
+	
+	
+	91.INT.MAVERICK'SROOM-NIGHT
+	
+	Maverickliesonhisbunkandstaresattheceiling.The
+	phonenexttohisbedisRINGING.ItRINGSEIGHTORNINE
+	TIMES,thenstops.Hemakesnomovetoreachforit.
+	
+	
+	92.through95.OMITTED
+	
+	
+	94A.INT.COCKPIT-F-14ONFLIGHTLINE
+	
+	Mavericksitsinthecockpitstaringatthecontrolswhile
+	thegroundcrewprepstheaircraftforflight.Cooganhelps
+	himstrapin.HespeakssolicitouslytoMaverick.Itis
+	unheardovertheJETNOISEandRADIOBABBLE.Mavericklooks
+	atthecockpitasifit'sastrangeterritory,suddenly
+	foreigntohim.Hegrabsthesticklikeit'ssomepeculiar
+	talisman.Heturnsandlooksaft.Heseemssurprisedthatit
+	movesthecontrolsurfacesinthetails.
+	
+	96.INT.F-14-DAY
+	
+			FUNGUS
+	BOGEYATTENO'CLOCKLOW.YOU'VE
+	GOTTHEANGLE--PIECEOFCAKE.
+	
+	
+	Maverickchecksteno'clocklow.Heisdisturbed.Hetries
+	tomakethemove,butheisamanwithnosecret:heis
+	afraid.
+	
+			FUNGUS
+	ENGAGE,MAVERICK-ANYTIME.
+	
+	
+	Thebogeyabruptlyturnsintohim.Maverickhesitates.Then
+	suddenly,hejerksthestickhardrightandtakestheF-14
+	awayfromthebogeyatgreatspeed.Fungusisstartled.
+	
+			FUNGUS
+	WHAT?WHERE'REYOU--HEY,WHEREIN
+	THEHELLAREYOUGOING?
+	
+		MAVERICK
+	DIDN'T...AHHH...LOOKGOOD.
+	
+			FUNGUS
+	WHATDOYOUMEAN?ITDOESN'TGETTO
+	LOOKMUCHBETTERTHANTHAT?
+	
+			MAVERICK
+	NO.NOGOOD.
+	
+	
+	96A.INT.FLIGHTLINE-DAY
+	
+	JesterwalksuptoViperwhowaitsnearanF-5.
+	
+			JESTER
+	Hejustwon'tengage.Hecan'tdo
+	it,Skipper.Hecan'tgetbackon
+	thehorse.
+	
+			VIPER
+	It'sonlybeenaweek.Keepsending
+	himup.
+	
+			JESTER
+	I'veseenthisbefore.
+	
+			VIPER
+	SohaveI.
+	
+			JESTER
+	Someguysnevergetitback.
+	
+	
+	Hewalksoff.
+	
+	
+	
+	97.through102.OMITTED
+	
+	
+	103.INT.LOCKERROOM-IMMEDIATELYAFTER
+	
+	Maverickgrabshisstuffoutofthelocker,throwsthemina
+	bag.HeglancesupasFungusenters,continuestopack.
+	
+			FUNGUS
+	Whatareyoudoing?
+	
+			MAVERICK
+	Savingthemsomepaperwork.
+	
+			FUNGUS
+	Sincewhendidyoucareabout
+	paperwork?
+	
+	Maverickwalksaway.Fungushesitates,thenfollowshim.
+	
+			FUNGUS
+	IfIcouldflylikeyouI'dhave
+	everythingIwant.IfIcouldfly
+	atall.Ican'tfly.Ican'tfly
+	likethat.Nobodycan.Whateverit
+	is,you'vegotit!
+	
+			MAVERICK
+	Notanymore.
+	
+			FUNGUS
+	So,you'rescared--sowhat?You
+	evergetagoodlookatmeinthe
+	backseat,I'mgoddamnterrified.
+	
+	Grabbingthesuitcase,MaverickbrushespastJesterand
+	walksupthecorridor.JesterandFunguswatchhimgo.Fungus
+	goestothephone.
+	
+	
+	104.EXT.SANDIEGOAIRPORT-NIGHT
+	
+	Charlieparkshercar,jumpsout,andrunstowardthemain
+	entrancetotheterminal.
+	
+	
+	105.INT.TERMINAL
+	
+	Charliehurriesthroughthecrowd,bumpingpastpeople,
+	searchingfranticallyforMaverickinthehugeterminal.She
+	movespastbenchafterbench,andhereyesflickinall
+	directions.Aquickglanceatthesouvenirshop,thecoffee
+	shop,andthensheheadsforthebar.
+	
+	Maverickisthere,sittingaloneinaboothwithhis
+	suitcasebesidehim,staringintoadrink.Charliecomposes
+	herself,thenwalkstotheboothandsitsdownacrossthe
+	tablefromhim.Maverickdoesnotlookpleased.
+	
+			CHARLIE
+	Neverlikedfighterpilotsanyway.
+	
+	
+	
+	Helooksuptryingtobeangry,buthecan'thelpit,she
+	makeshimlaugh.
+	
+			MAVERICK
+	Youcametotherightplace.
+	
+	Thewaitresscomesup.
+	
+			MAVERICKWhatareyouhaving?
+	
+	Turnstothewaitress.
+	
+			CHARLIE
+	I'llhavewhathe'shaving...
+	Hemlock,isit?
+	
+	Thewaitressdeparts.Hetriesnottosmile,butcan'thelp
+	it.
+	
+			CHARLIE
+	Youweren'tgonnasaygoodbye?
+	
+			MAVERICK
+	Iwas,later.
+	
+			CHARLIE
+	Longdistance?Iwouldn'tdothat
+	toyou.I'datleasttalktoyou.
+	
+			MAVERICK
+	Ididn'twanttoseeyou.Imean,I
+	did...butIdidn't..
+	
+			CHARLIE
+	Iknowexactlywhatyoumean.
+	
+			MAVERICK
+	Howcouldyou?
+	
+		CHARLIE
+	I'vegotagiftjustlikeyoudo.
+	MygiftisIjustknowwhatpeople
+	mean,eveniftheycan'tsayit.It
+	helpswhenyou'retryingto
+	communicatewithfighterpilots.
+	Likewhatyoujustsaidwas"I'm
+	embarrassed,IfeelI'vedone
+	somethingwrong,thatI'vefailed,
+	andIdon'tthinkIcanliveupto
+	theexpectationsofawonderful
+	interesting,intelligentwomanlike
+	yourself."Thataboutit?
+	
+			MAVERICK
+	(laughs)
+	...Somethinglikethat.
+	
+	
+			CHARLIE
+	AndI'mgonnasneakoff,andbeby
+	myselfforawhile,likeuntilIcan
+	thinkofanewcareer...hotel
+	managementorsomething...
+	
+			MAVERICK
+	Bigtalkforsomeonewho'snever
+	beenshotoffhercomputer.
+	
+			CHARLIE
+	Hey,IneversaidIwasafighter
+	pilot...Ineverclaimedtothinkit
+	wasfuntobeshotofftheendofa
+	shipinastorm.Icanfind
+	contentmentinagoodbook.Idon't
+	havetoroarbysomeoneatMachtwo
+	withmyhaironfire.Sometimes...I
+	justgethappybeingwiththeright
+	man.
+	
+			MAVERICK
+	Ihopeyoufindhim.
+	
+			CHARLIE
+	IthinkIhave...Icouldbewrong.
+	Ihavebeenbefore.Justremember
+	onething.Ifyou'renotTopGun,
+	ifyou'renotfightingjets,you're
+	notgonnabeabletoactlikea
+	fighterpilot...You'regonnahave
+	toactliketherestofus.You're
+	gonnahavetomasterhumility.For
+	youguys,that'sthetoughest
+	maneuverofall.
+	
+	Shegetsup...laysabilloutforthedrinks...
+	
+			CHARLIE
+	Solong,Sailor.Seeyouonthe
+	beachsometime.
+	
+	
+	Sheswingsaway.Herwakesucksinthestaresofeveryman
+	intheplace.ThentheylookovertoMaverick,quickflicks
+	ofenvyintheireyes.Hestaresthembackandcan'tquite
+	meettheireyes.
+	
+	
+	106.EXT.BEACHATVIPER'SHOUSE-LATER
+	
+	Viperistuggeddownthebeachbyathreeyearoldkid.They
+	comeacrossonecreaturewho'shadabadnight...Viperspots
+	him,hespotsViper,andVipermovestowardhim.Tim,Viper's
+	kid,wantstoheadfortheseaandpullshisfatherinthat
+	direction.Hestops,putshishandonhishipslikehe'sseen
+	thepilotsdo.
+	
+			TIM
+	Dad...Ofalltheaminalsinthe
+	ocean,whichone'sthebaddest?
+	
+	
+			VIPER
+	Idon'tknow,Tim.You'llhaveto
+	askthem.
+	
+	Viperturnstothecreature,Maverick,andshrugs.
+	
+			VIPER
+	Runsinthefamily...
+	
+	Maverickstandsup.
+	
+			MAVERICK
+	Skipper,sorrytobotheryou.
+	
+			VIPER
+	Nobother.
+	
+			MAVERICK
+	Icalledyourhouse.
+	
+			VIPER
+	Mywife'shouse.
+	
+			MAVERICK
+	Shesaidyoutookyourkidtothe
+	each.EverysecondSunday.Zooor
+	beachortheballgame.Y'havethe
+	option...(Maverickthinksfora
+	beat.Seguestothequestion...)
+	Whataboutme?
+	
+	Viperturns,theystrolltogether.
+	
+			VIPER
+	Wecansendyoubacktoyour
+	squadronwithnothingnotedonyour
+	recordexcept"CNC"--coursenot
+	completed,noexplanationrequired.
+	Theoretically,itdoesn'thurtyour
+	career,butpeoplealwayswonder
+	aboutthingslikethat.
+	
+			MAVERICK
+	Or....
+	
+			VIPER
+	Oryoucanquit.
+	
+			MAVERICK
+		Idon'tknow...
+	
+			VIPER
+	Ididn'tknoweither.That'swhyI
+	toldJestertoprepareyourpapers.
+	
+	Mavericklooksirritated.Viperstopsatanicecreamvendor
+	andordersthreewithagesture.
+	
+			MAVERICK
+	You'vealreadymadeupyourmind.
+	
+	
+			VIPER
+	It'snodisgrace,kid.Thatspin
+	washell.Itwouldwreckanyone's
+	confidence.Youcouldbeagood
+	pilotagainsomeday...
+	
+			MAVERICK
+	(startstogethisbackup)
+	YouthinkIshouldquit?!
+	
+			VIPER
+	Ididn'tsaythat.That'supto
+	you.ButIhaveresponsibilityfor
+	theotherguysupthere,notjust
+	you.Theyneedtoknowyou'reall
+	right...thattheycandependon
+	you.
+	
+	
+	Thevendorhandsthemicecream,theytakeit.
+	
+			MAVERICK
+	Here,letmegetthis.We'llbe
+	even.
+	
+	Hereachesintohispocketforchange,comesoutwitha
+	handful.Slamsitonthecounter,starspickingtheproper
+	changeout.Viperspotssomethingandreachesfor
+	it...Maverickseesandtriestoblockit,butVipercomesup
+	withtheNavyCross.
+	
+			MAVERICK
+	Luckycharm.
+	
+	ButViperrecognizesitforwhatitis.
+	
+			VIPER
+	Sometimesit'sluck,butinthis
+	case,heearnedit...Iservedwith
+	youroldman.
+	
+			MAVERICK
+	Iknow.
+	
+			VIPER
+	VF51,theOriskany.Youremindme
+	ofhim.You'rejustlikehewas,
+	onlybetter...andworse.
+	
+			MAVERICK
+	I'mnothinglikehim.
+	
+			VIPER
+	Youmaynotthinkso,butyouare.
+	
+			MAVERICK
+	Hewasbythebook,alltheway.
+	
+			VIPER
+	Theywavedhimoff.Hethoughthe
+	knewbetter.Hehitthe
+	ramp.
+	
+			MAVERICK
+	Ineverheardthat.
+	
+			VIPER
+	Notsomethingtheytelldependents.
+	
+			MAVERICK
+	It'snottrue.
+	
+	
+	Viperlooksathim,foralongbeat,throwshisicecream
+	away.
+	
+			VIPER
+	WhywouldIlie?
+	
+	Heturns,walksaway.Maverickstandsthereforamoment,
+	thinking,thencatchesuptohim,stopshim...struggleswith
+	thethought...asViperbreaksin...
+	
+			VIPER
+	Youstartonawrongheading...the
+	moreyousticktoit,thefurther
+	yougetfromyourtarget.Agood
+	pilotalwaysquestionshimself,
+	alwaysquestionshisjudgments,
+	staysalertfordriftandmakesthe
+	corrections...Youmayfindalittle
+	disciplinehelpswiththefear.You
+	don'thavetobealoneupthere.
+	
+	Apause...quietintensity.
+	
+			MAVERICK
+	HowcanIgoon?Ifeelso...
+	responsible.
+	
+			VIPER
+	Kid,theplainfactis...youare.
+	I'mnotgonnastandhereandblow
+	sunshineupyourass.Technically,
+	theyabsolvedyou.YouandIknow
+	whatreallyhappened.Youpushed
+	it.Youareresponsibleandyou'll
+	alwayscarrythat.Youknowwhat,
+	I'llcarryittoo.Ishouldhave
+	takenyououtofthatcockpit.
+	IguessI'mahopelessromantic...
+	Ialwaystrytofindsomething
+	worthwhileinsomeone'sdeath.It's
+	notrade-off.It'snotoneforone.
+	Whatyoulearnedisn'tworthhis
+	death.Itcouldn'tbe.Butmaybe
+	thereissomevalueinit.Iknow
+	it'sthefirstthingI'veeverseen
+	that'sreallygottentoyou.Now
+	thequestionis,whatwillyoudo
+	withit.Ifitgetsyououtof
+	flightstatus...soyoudon'tkill
+	yourselforanybodyelse...that's
+	good.That'sonegoodthing.You
+	wereanaccidentwaitingto
+	happen.
+	
+			MAVERICK
+	YouthinkIshouldn'tfly.
+	
+			VIPER
+	Ididn'tsaythat.That'supto
+	you.Ithinkthatifyoudo,ifyou
+	choosetocomeback,you'llbea
+	betterpilot...abetterman.
+	
+			MAVERICK
+	Wouldyoutakemeback?Wouldthey?
+	
+			VIPER
+	I'llhavetothinkaboutit.I
+	don'tknowaboutthem.Idoknow
+	onething,We'vegotalotinvested
+	inyou.We'dhatetoloseit.Even
+	morethanthoseotherguys,Naval
+	Aviationneedsaveryfew,very
+	goodmen.
+	
+	107through114.OMITTED
+	
+	
+	115.INT.TOPGUNOFFICE
+	
+	LOUDROCKANDROLL.Thegraduationceremoniesareinfull
+	swing...Theyconsistofinformalribbing,laughing,andalot
+	oftalkingwiththehands.everynowandthen,thenameGoose
+	comesupandashadowpassesacrossaface.Forthemost
+	part,theypresson,havingagoodtime.Fungusshrugsat
+	someone'squestionandlooksaround.
+	
+			FUNGUS
+	Idon'tknowwhereheis...
+	
+			PORK
+	Whatarehisplans?
+	
+			FUNGUS
+	Idon'tknow.
+	
+	IcestandsproudlyholdingtheTopGunplaqueasothers
+	congratulatehim...Hollywoodlooksupasthedooropens,
+	Maverickisthere.Helooksuncomfortable,unsure.Hesees
+	Icewiththeplaque.Fungusmovesovertohim,bringshimin.
+			FUNGUS
+	I'mglad.
+	
+			WOLFMAN
+	Goodtoseeyou,man.
+	
+	Onebyone,theycomeover,shakehishand.Viperstands
+	there,lookingpleasedbutgruff.Maverickwalksover,shakes
+	hishand.Thepartystartstopickup.Arealcelebration,
+	now.
+	
+	Jesterenters,asheafofmessagesinhishand.Hetakes
+	Viperasideforaword.Vipernodsathim.Thegroup's
+	attentiongraduallyswingsontothem.Theyquietdown
+	instinctively.Viperfinallyturnstothem.
+	
+			VIPER
+	Gentlemen,youknowhowIhateto
+	breakupthispartybeforeithasa
+	chancetogetreallyoutofhand...
+	(moreserious)
+	...butthere'samajorflapon.
+	
+			HOLLYWOOD
+	We'rebeingcalledback?
+	
+			VIPER
+	You'reonyourway.Don'tbother
+	goingtoBOQ.Yourbagsarepacked.
+	
+	Hehandsthemorders.Someoneturnsthemusicbackup...as
+	theyshakehandsallaround,themusicgrows,becomespurer
+	asthebackgroundvoicesdropout.
+	
+	115A.TIGHTONMAVERICK'S
+	EYES
+	
+	WIDENOUT-
+	
+	Toincludehishelmet.Stereoheadphonesfromhiswalkman
+	carrythesamemusicfromthepartyashesitsinthecockpit
+	andstaresatthegreywaterrushingunder.Hesitsinhis
+	TomcatonReady5Alert.Intheback,Fungusplaysahand
+	computergame-JetAttack.
+	
+	
+	116.EXT.USSKITTYHAWK-SOMEWHEREATSEA
+	
+	Maverick'sTomcatsitswaitingforalaunchorderonthe
+	forwardcatapult.
+	
+	
+	116A.ANGLE-MAVERICK
+	
+	Hegoesoverthebriefinginhismind...Stinger'svoice
+	breaksthroughthemusic.:
+	
+			STINGER(V.O.)
+	...Navyoceanographicship...
+	internationalwaters...fired
+	upon...unknownforces...
+	
+	
+	117.INT.READYROOM-USSKITTYHAWK-MOMENTSBEFORE
+	
+	Infullflightgear,sixteenteamsoffighterpilotsand
+	RIO'spaycloseattentiontotheSquadronCO,Stinger.
+	
+			STINGER
+	...byunknownforces...byMigs.We
+	don'tknowwhotheyare.AllI
+	knowisthatit'sourship,andour
+	ordersaretoescortitoutofthe
+	area.
+	
+	Stingercirclesanareaonthemap.
+	
+	
+	117A.TOMCATONTHEDECK-MAVERICK
+	
+	Hestudieshiscopyofthesamemap,headingsandvectors
+	pencilledin.
+	
+			STINGER(V.O.)
+	Thisis"Bullseye".Arescue
+	operationistobeginwithinthe
+	hour.Yourmissionistogiveair
+	supporttothatrescue.Thereare
+	MiGsinthearea,andtensionsare
+	high.Ifyouwitnessahostileact
+	youwillreturnfire.Wewillbe
+	covering360degreesofthecompass
+	bysection.Bepreparedfor
+	anything.
+	
+	117B.INT.READYROOM
+	
+	Stingerisspeakingtoindividualpilots.
+	
+			SLIDER
+	IceandHollywood,sectortwo.
+	
+	HeturnstoMaverickwhostandsnearby.
+	
+			SLIDER
+	AndMaverick.You'llbackthemup,
+	onReadyFive.
+	
+	
+	117C.CLOSEONHISFACE
+	
+	Amoment'sdisappointmentpassessofleetingly,youhardly
+	seeit.
+	
+			MAVERICK
+	Yessir.
+	
+	Astheaircrewsfileout,tensebutexcited.
+	
+	
+	118.ICEANDHOLLYWOODFLYTOGETHERATTENTHOUSANDFEET
+	
+	Theireyessearchthehorizon,whileSliderandWolfman
+	watchtheirinstruments.
+	
+			ICE
+	MUSTANG,THISISVOODOOONE,
+		WEAREONSTATION.
+	
+	Thetwojetsstreakacrossthesky.
+	
+	
+	118A.INT.COCKPIT
+	
+	Suddenly,thereareBLIPSontheradarscope.
+	
+			HOLLYWOOD
+	CONTACT.TWOBOGEYS20RIGHT.AT12
+	MILES,CLOSING.
+	
+	
+	118B.INT.COCKPIT-THEIRPOV
+	
+	TwoMiGsflyinglowtothedeck.
+	
+			HOLLYWOOD
+	TALLYHO.TWOMIGSATTWO
+		O'CLOCKLOW.
+	
+	118C.THEMIGSSUDDENLYPULLVERTICAL,STREAKSTRAIGHTUP.
+	
+	
+	118D.ICEANDHOLLYWOODWATCHCAREFULLY.
+	
+			HOLLYWOOD
+	WHATAREYOURINTENTIONS,
+	BOYS?
+	
+			ICE
+	THEY'REJUSTHASSELING.LET'SWORK
+	THEMOUTOFTHEAREA.
+	
+			WOLFMAN
+	I'VEGOTTWOMOREBOGEYSCOMINGIN
+	ATFOURO'CLOCKHIGH.
+	
+			HOLLYWOOD
+	GOT'EM.
+	
+	
+	118E.THEFOURMIGS
+	
+	Jointogetherinaboxformation,begintocirclethearea.
+	
+			HOLLYWOOD
+	TWOMORE--TWOMORECONTACTS.
+	2-7-0at10MILES.WENEEDSOME
+	HELPHERE,MUSTANG.
+	
+			ICE
+	MUSTANG,WEHAVEFOURMIGSINTHE
+	AREAOFBULLSEYE.REQUESTYOU
+	LAUNCHTHEALERT5FORSUPPORT.
+	
+	
+	119.DECK-KITTYHAWK
+	
+	MavericksitsinhisTomcatontheCatapultonreadyalert,
+	listeningtothemessagetraffic.Hegetsalaunchorder,
+	turnstotheLSO.TheLSOsalutes,Mavericksalutesandflips
+	himthebird.TheLSOdropstothedeck.Maverickisslammed
+	backastheF-14isfiredoffthedeckandrocketsintothe
+	sky.
+	
+			CCA(V.O.filtered)
+	ROGER,VOODOO.
+	
+	
+	120.EXT.SKY-HOLLYWOODANDICE
+	
+	ThetwoMiGscrossinascissorpatternintheirpath...a
+	provocation...theyjointogetheragainandflylevelatten
+	thousandfeet.OneoftheMiGsdoesasuddencanopyroll.
+	
+			HOLLYWOOD
+	VERYFANCY!
+	
+	BOOM!AFLASH!Suddenly,Outofnowhere,Hollywood'shit.
+	WHAM!Justthatfast,he'shitandgoesdown.Hisf-14
+	disappearsintotheclouds.
+	
+			ICE
+	WOOD!WOOD,ACKNOWLEDGE!
+	
+	Iceputshisnosedownandfollowshim.
+	
+			ICE
+	VOODOOONE,MUSTANG.VOODOOTHREE
+	ISHIT.GOINGDOWN.WILLATTEMPT
+	SAR.
+	
+	
+	Hecomesoutofcloudsat1500,nothingbutemptywater
+	below.
+			ICE
+	Doyouhavethem?Didtheygetout
+	ornot?
+	
+			SLIDER
+	(confusion)
+	Nocontact.Idon'tknow.
+	
+	
+	121.EXT.MAVERICK'SF-14
+	
+			MAVERICK
+	VOODOO,GHOSTRIDERONE.I'MONTHE
+	WAY.WAITFORME.
+	
+	
+	122.THESKY-MIGSANDTOMCATSCIRCLE
+	
+			SLIDER
+	THEYGOTWOLF,THEYGOTWOOD.THEY
+	GOTTHEM..
+	
+			ICE
+	MUSTANG,GHOSTRIDER.PERMISSIONTO
+	FIRE.
+	
+			STRIKE(V.O.)
+	GHOSTRIDER,THISISMUSTANG.
+	PERMISSIONTOFIRE.PERMISSIONTO
+	FIRE.
+	
+			ICE
+	ROGER.ENGAGING.IHAVETHELEAD.
+	
+	
+	122A.INT.MAVERICK'SF-14
+	
+			FUNGUS
+	Let'sgo!Diveonthosebastards!
+	
+	Maverickhesitates.
+	
+			FUNGUS
+	Comeon,man,engage.Thisisit.
+	Getyournoseinthere.
+	
+	Maverickhesitatesagain.Heseesthehornet'snestbelow;
+	planesalloverthesky.
+	
+			FUNGUS
+	Banditatseveno'clocklow--solo.
+	Takehim.Pullonthegoddamn
+	stick,man!
+	
+			MAVERICK
+	Okay,okay.
+	
+			FUNGUS
+	Don'ttellmeokay.Doit!
+	
+	Maverickdrawsabreath,thenforceshimselftopullthe
+	stickover.TheF-14rollsinhardtowardthebattle.
+	Suddenly,theclusterbreaksapart.TheMiGsbreakinevery
+	directionasMaverickBLASTSthroughtheirformation.
+	Somethingcomesupthroughtheclouds.AMiGBLASTSby.
+	Anotherrollsinandlocksontothem.
+	
+	TheMiGsswarmtowardtheTOMCATS,comingfromevery
+	direction.CANNONFIREeruptsfromoneoftheMiGs.
+	
+			MAVERICK
+	MAVERICK'SEMGAGED.HARDLEFT,ICE,
+	PADLOCKTHEEASTERNSECTION.
+	
+	TheF-14'sexecutealeftobliqueturninunison.Theycome
+	downinasectionattackwiththeircannonsblazing.From
+	Maverick'scockpit,everythinglookschoppy:MiGsslidepast
+	atincrediblespeed.CannonsBLAST,astheplanesscramble
+	forposition.
+	
+	Out-numberedfourtotwo,MaverickandIcefight
+	defensively.MaverickhastheangleonaMIG,whenFungus
+	spotsamissilelaunch.
+	
+			FUNGUS
+	BREAKLEFT!BREAKLEFT!CHAFF!
+	FLARES!
+	
+			MAVERICK
+	BREAKINGLEFT!
+	
+	MaverickreleasesaflareashetakestheF-14intoahard
+	left.Themissiletrackstheheatoftheflareandsailsout
+	ofthearea,missingtheTomcatandfallingtowardthesea.
+	
+			ICE
+	TWOMIGSONMYTAIL,MAVERICK.I'M
+	DEFENSIVE.
+	
+	MaverickjerkshisstickrightandstreakstowardIce.He
+	cutsoffoneoftheMiGswithCANNONFIRE,drivingitdown
+	towardthedeck.Icegoesintoverticalandcomesaroundto
+	gainanangleontheotherMiG.HisRIOisinpositionto
+	checkMav'srear.
+	
+			SLIDER
+	MAVERICK!SIXO'CLOCK!
+	
+	Maverickturnstolookandjerksahardleft.TheMiGison
+	him,CANNONBLAZING.IceYoYosinsideandcutstheMiGoff.
+			ICE
+	FOXONE.
+	
+	Hefiresasidewinder.TheMiGturnshard,themissilesails
+	away.
+	
+	
+			SLIDER
+	BANDIT,THREEO'OLOCKHIGH!
+	
+	Ice'sF-14issuddenlycaughtinaHAILOFCANNONFIREasa
+	MiGsweepsdownfromthreeo'clock.Hebreaks,dives.The
+	jetsstreakacrossthesky,lowtothedeck,skimmingthe
+	surface.
+	
+			FUNGUS
+	ICE'SDEFENSIVE,HELPHIMOUT.
+	
+	Maverick'sF-14Rollawaysinandinterceptsthebogeyon
+	Ice'stail.
+	
+			MAVERICK
+	REVERSERIGHT.
+	
+	Iceturnsright,theMiGbugsandjerksintovertical.
+	Maverickswoopsafterhim.
+	
+			FUNGUS
+	STAYWITHHIM.YOURSIXISCLEAR.
+	
+	
+	Maverickcloses,jerkingleft,right,twistingandturning,
+	stayingonhistail.
+	
+	
+	122B.MAVERICK'SCOCKPIT
+	
+			FUNGUS
+	ONEONOURSIX!BUGOUT!BUGOUT!
+	
+	BULLETSflybyMaverick'sF-14fromtheMiGonhissix.He
+	pullsahardleft,thentakestheplanestraightup.Wehear
+	instructionsshoutedbyFungus,butitisallobscuredinthe
+	SOUNDSANDFURYOFTHEBATTLE.Maverickpeelsoverthetop
+	andcomesdownlikeacomet.AseriesofpassesattheMiGs.
+	Astheycomeby,oneoftheMiGspullsup,
+	
+			MAVERICK
+	OKAY,GOINGUP.ICE,GOHIGH.
+	
+			ICE
+	LOOKOUT!
+	
+	
+	Theylookup.AnMiG21iscomingdown,bellytothem,close
+	toamid-aircollision.
+	
+			MAVERICK
+	JESUS!
+	
+	
+	Hepushesdown.TheMiGROARSBY.Thewholeairplanegoes
+	"BOOOMMMM"it'sthatclose.
+	
+			FUNGUS
+	OHHHHHSHIT!
+	
+	Theshock,theairpressureSLAMSthemasitgoesby,
+	missingby4-5feet.Maverickpullsbackin,seesaMiG21
+	below.Ittakesoff,buggingout.Icegoesafterhim.TheMiG
+	maneuvers,jerkinghardleft,hardright,twistingup,down.
+	
+	Iceisrightinhisshadow.Theycomeinhardandlowover
+	thesea.HehastheMiGinthediamond.
+	
+			ICE
+	GOODTONE,FOXONE
+	
+	TheMiGstartsturning.
+	
+			ICE
+	AhNuts!
+	
+	
+	Themissilegoesbythetail.
+	
+			ICE
+	Sonofabitch!
+	
+	Thenhistailcomesoff,theairplanegoesover,achute
+	comesout.TheMiGEXPLODESintoathousandsmallpieces.
+	TheyroarbytheMiGpilothanginginhisstraps.
+	
+			SLIDER
+	JESUS!HEYSPLASHONE,SPLASHONE
+	BANDIT!SPLASHTHATSUCKER!
+	
+			MAVERICK
+	IGOTONEHERE.ONTHENOSE.
+	COMINGDOWN.
+	
+	Rollingdownonhim,goodSIDEWINDERTONE.TheMiG'Ssense
+	him,theybreak,oneguydownlow.
+	
+			ICE
+	ONTHENOSE?
+	
+			MAVERICK
+	GOT'EM.GOTGOODTONE.
+	
+	Hesqueezesthetrigger.
+	
+	
+	123.EXT.THEMISSILESTARTSTOGO
+	
+	Thevaportrailcomesoff,theMiG21turnslikehe'sbeen
+	bouncedoffarubberwall,comesaroundonthemissile,beats
+	it.Themissilefliesbyhim.
+	
+	
+			MAVERICK
+	AH,SHIT!GODDAMNIT!
+	
+	MiGcomesbackturningintohim.
+	
+			FUNGUS
+	THERE'SANOTHERONEUPTHERE!
+	
+			MAVERICK
+	IGOTONECOMINGUP.
+	
+			FUNGUS
+	ANDHE'SGUNNING.
+	
+	Helooksback.30millimetertracersgoby;theyjustkind
+	offloat.Hebreaks,hitsairbrakes,thetrailingMiGdives
+	through.
+	
+	SuddenlyanotherMiGappears,rocketingstraightforhim.
+	Theycloseat900knots--VABOOOM!--Theypassnosetonose,
+	canopytocanopy.Bothplanespitchstraightup,tryingfor
+	thealtitudeadvantage.
+	
+			MAVERICK
+	Zone5burners.
+	
+	TheF-14outclimbstheMiGsittingonitstail,full
+	thruster,itrocketsstraightup,awayfromtheplanet.
+	Maverickhastheadvantage.Suddenly,hisF-14runsoutof
+	energy.FUNGUSisthefirsttocallit.
+	
+			FUNGUS
+	We'reballistic!OhhhhhhShit!
+	
+	Theplanebacksdownonitself,backsintoitsownsmokeas
+	itflipsover,fallsaway...Hecatchesit,justregains
+	control,when...AROAR.Helooksup.
+	
+	SECONDMIGcomingdown.Rightonhim.ItfillstheCanopy!
+	Instinctive-APushtomisshim,Maverickbreaksfastdown
+	intohim,alastditchmaneuver,andtheairplane
+	DEPARTS...therollratesandthepitchratescombineandit
+	tumblesoverthetop;theairplanejustgoesend-over-end.
+	Theyarebeingslammedandrattledalloverthe
+	cockpits...bone-jarring,neck-snappingwhips.SHRIEKSand
+	SCREAMSfromtheairframe.Terriflying?
+	
+			FUNGUS
+	OhhhMother!
+	
+			MAVERICK
+	(strangelycalm)
+	Goddamnit,Mav,youreallyarea
+	slowlearner.Don'tworry,Fung,
+	I'vegotit.
+	
+	
+	Fungusisgettinghisteethrattled.He'shelpless,hehas
+	nocontrols,there'snothinghecandobutholdon.
+	
+	
+			FUNGUS
+	Don'tWORRY!!!?You'veGOTit!!?
+	AreyouCRAZY?
+	
+			MAVERICK
+	Roger,I'vegotit.
+	
+	Theplane'sgyrationsarerattlingFungus'shelmetoffthe
+	canopy.
+	
+			FUNGUS
+	You'vegotit?Good!Causefora
+	minutethere,youhadmeworried.
+	
+	Ityawsandrolls,startsintoaspin.
+	
+			FUNGUS
+	Nowhaveyougotit?Haveyou
+	stillgotit?
+	
+			MAVERICK
+	Yawingright.
+	
+			FUNGUS
+	Iknow!
+	
+			MAVERICK
+	Rudder'sleft,stick'sforward.
+	
+			FUNGUS
+	Swell!Passingtenthousand!
+	
+	
+			MAVERICK
+	I'vegotit--holdon!
+	
+			FUNGUS
+	Passing8.Passing6.Lockyour
+	harness!
+	
+			MAVERICK
+	Icanrecover.Holdon!
+	
+	They'reinaprogressivespiral,noselow.Thealtimeter
+	unwinds,speedpicksup.TheGforcesareforcingthemaway
+	fromtheaxisofspin,jammingMaverickagainstthe
+	instrumentpanelatthefrontofthecockpit.
+	
+			MAVERICK
+	Youwithme?
+	
+	Fungus,also,isjammedtohispanel.
+	
+			FUNGUS
+	Rightbehindyou.
+	
+	Heisclosertothecenterofspinandlessstronglyheld.
+	Itdoesn'tdomuchgood,however,hecan'tcontroltheplane.
+	Theonlythinghecanreachistheyellowandblackloop;the
+	ejectionhandle.Hereachesforit.
+	
+			FUNGUS
+	Speed'supto150.
+	
+	Fungus'seyesarewide.Theearthgrowslargerasitrises
+	towardsthem.Gforcesflattenthem.They'velongsincelost
+	theMiG.Nobodybutanidiotwouldtrytofollowtheminthis
+	maneuver.
+	
+			FUNGUS
+	5000feet.Speedtwohundred.
+	
+			MAVERICK
+	Okay.
+	
+	
+	Theearthgrowslarger.
+	
+			FUNGUS
+	4500.Criticalpoint.
+	
+	
+	FUNGUSgrabstheejectionhandlewithbothhands.
+	
+			MAVERICK
+	No!Notagain!
+	
+			FUNGUS
+	Whatareyoutalkingabout,
+		wegottago!
+	
+			MAVERICK
+	I'mnotlosingitagain!
+	
+	Thejetisstandingonitsnose,gainingspeed,plunging
+	towardstheocean.
+	
+			FUNGUS
+	Gottago,man.
+	
+			MAVERICK
+	280,290,300knots.
+	
+			FUNGUS
+	3,000feet.Wegottago,man.
+	3,000feet,wegottago!
+	
+			MAVERICK
+	Yougo.I'mstayingwithit.
+	
+			FUNGUS
+	I'mgonnago!THREE...TWO...ONE...
+	
+	Then,justassuddenly,ashe'sabouttopull...Maverick
+	catchesit.Theplaneresponds.They'reoutofthespin.He
+	getscontrol.Fungussitstheredumbly,handsonhandle.
+	Stillnotbelieving...
+	
+			FUNGUS
+	ONE....ONE....ONE...
+	
+	
+	SEALEVEL
+	
+	Maverickstopsthetumble,pullsthenoseupquicklyandthe
+	F-l4sweepsintolevelflightnomorethanahundredfeet
+	abovethedeck.HecomesupandlooksrightatIce.Iceis
+	downlow.Hecomesaround,aMiG-21alloverhimlikeacheap
+	suit.Aflick,awhip,andMaverickinperfectposition,
+	rollsrightinontheMiG.Funguslookslikehejustsaw
+	Jesus.
+	
+			FUNGUS
+	WhatintheChrist...wasthat?
+	
+	HelooksattheMigtargetset-upinfrontofhiminawe.
+	
+			FUNGUS
+	Didyouplanthat?Wasallthat
+	somethingyouplanned?
+	
+	
+	Maverick'sacquiredthetargetandisallbusiness.
+	
+			MAVERICK
+	ALLRIGHT,ICE.COMEHARD
+	STARBOARD,THENEXTENDTOTHEEAST.
+	
+	
+	Fungusisstilllividlyfrazzled.
+	
+			FUNGUS
+	Because...ifthatwas...Nexttime
+	youtellmefirst.
+	
+			ICE
+	ROG.
+	
+	Maverickbreaksdown,Icezoomsup,breaksinandtakesthe
+	MiGtheotherway.MaverickYoYo'sin,comesrightupbehind
+	theMiG,astheMiGstartsacceleration.
+	
+	
+	MaverickrollsinonIceandtheMiG.
+	
+			MAVERICK
+	IGOTAWINDERLEFT,BUTNOGOOD
+	TONEONIT.
+	
+			ICE
+	ICAN'TLOSEHIM,CANYOUGETOFF
+	ASHOT?
+	
+			MAVERICK
+	IGOTNOTONE.ITMIGHTGETYOU.
+	
+			ICE
+	WHATCHOICEDOIHAVE?SHOOTIT.
+	
+			MAVERICK
+	WHENISHOOT,YOUBREAKLEFT..3..2
+	
+	TheMiGfires.
+	
+			MAVERICK
+	HEFIRED,BREAKNOW!
+	
+	Icebreaksleft,dropsflares.TheMiG'smissilefollowsthe
+	flares.MaverickFIRES.Themissiledoesn'ttwitch.Itflys
+	rightupthetailpipeoftheMiG,thecanopyfliesoff,the
+	pilotcomesoutofit,andthentheMiGblowsup,Wegoright
+	throughthefireball.VVVARRRUOOMMM!
+	
+			MAVERICK
+	He'sout!Wegothim!
+	
+	TheMiGrollsintotheground...KABOOM!Theyswoopbythe
+	pilot,hanginginhisstraps...Hewatchesthem,dumbly.
+	Funguswaves.
+	
+			FUNGUS
+	Whatadope!Maybethey'll
+		givehimanotherplane...andwe
+		canshoothimdownagain.
+	
+	MaverickandIcejoinup,lightit,standontheirburners
+	andblaststraightforthesun.
+	
+	
+	MAVERICK'SF-14
+	
+	Withoutwarning,atripleroll,astheelationhitshim.
+	
+	
+	125.INT.MAVERICK'SCOCKPIT
+	
+			FUNGUS
+	Whatisit?What'swrong?
+	
+	
+	Fungusnervouslylooksaroundathiscircuitbreakers.
+	
+			FUNGUS
+	IstheresomethingIshouldknow?
+	
+			MAVERICK
+	Justrelax.
+	
+			FUNGUS
+	Isittheplane?
+	
+			MAVERICK
+	Theplaneisfine.
+	
+			FUNGUS
+	Isityou?
+	
+			MAVERICK
+	Yeah,Iguessitis.Wedidit!We
+	didit...Damn!Wesuredidit!
+	
+			MAVERICK
+	HELLOMUSTANG,THISISMAVERICK.
+	I'VEGOTAMESSAGEFORSTINGER.
+	
+			STRIKE
+	(V.O.)
+	ROGER,MAVERICK.GOAHEAD.
+	
+			MAVERICK
+	TELLSTINGERMAVERICKHASGOODNEWS
+	ANDSOMEBADNEWS.THEGOODNEWSIS
+	THATICEGOTAMIG.THEBADNEWSIS
+	THATMAVERICKGOTTWO!
+	
+	HelooksoveratIce.
+	
+			MAVERICK
+	IGOTTAHAVEONE.
+	
+	
+	126.INT.ICE'SCOCKPIT
+	
+			SLIDER
+	We'relowonfuel,Ice.
+	
+	Iceconsidersforamoment,thenresponds.
+	
+			ICE
+	Iknow.Iknow....Awhell,let'sdo
+	it!
+	
+	
+	127.INT.MAVERICK'SCOCKPIT
+	
+			FUNGUS
+	You'renotsupposedto...
+	
+			MAVERICK
+	ButIhaveto!
+	
+			FUNGUS
+	Then...shit!Goahead.I'mright
+	behindyou.
+	
+			MAVERICK
+	MUSTANG,THISISMAVERICK,REQUEST
+	AFLYBY.
+	
+	
+	128.PRI-FLYBRIDGE-(PrimaryFlightControl)USSKITTY
+	HAWK
+	
+	TheAirBossspeakstoMaverickovertheUHF.TheAdmiral,
+	theXOandotherofficerswatchandlisten.
+	
+			AIRBOSS
+	NEGATIVE,GHOSTRIDER,THE
+	PATTERN'SFULL.
+	
+			MAVERICK(V.O.filtered)
+	MUSTANG,THISISGHOSTRIDER.
+	REQUESTAFLYBYFORTWO.
+	
+			OFFICER
+	Whoisthatguy?
+	
+	
+			ADMIRAL
+	Mitchell...
+	
+			XO
+	(surpressingagrin)
+	...Likestobreakat600,'steadof
+	300knots.TheAirBosshateshim.
+	Onetime,hecameoverthedeckat
+	twohundred,shakestheshitoutof
+	thebridge.LiftedJohnsonright
+	offhisfeet.
+	
+	
+	129.INT.MAVERICK'SF-14
+	
+	HeglancesoveratIce,whogiveshimthumbsup.
+	
+			MAVERICK
+	BOSS,YOUBETTERCLEARITOUT,
+		WE'REFIVEMINUTESOUT
+		ANDWE'REDOINGIT!
+	
+	
+	130.INT.PRI-FLYBRIDGE
+	
+	TheAdmirallooksoutoverthewaterandsmiles.
+	
+			MAVERICK(V.O.filtered)
+	TENMILESASTERN,BOSS.HOWABOUT
+	IT?
+	
+	
+	TheAirBossislivid.Heclenchesthemike.
+	
+			AIRBOSS
+	MUSTANGTOGHOSTRIDER!...
+	
+	JustthentheAdmiralpipesup.
+	
+			ADMIRAL
+	Johnson!
+	
+			AIRBOSS
+	Yes,Sir,Admiral?
+	
+			ADMIRAL
+	Givehimhisflyby.
+	
+	
+	TheAdmirallooksattheothers,triestosurpresshisown
+	grin.Heslidesintohis(borrowed)commandchair,looksinto
+	thewind.Onthebackofthechair,aclue;hisnameand
+	rank:RADM.BufordClancy,"BOOMER"
+	
+	TheAIRBOSSburns,buthasnochoice.
+	
+			AIRBOSS
+	(reallypissedoff)
+	ROGER,GHOSTRIDER,YOU'RECLEAR.
+	
+	131.EXT.
+	KITTYHAWKDAY
+	
+	Sailorslinethedeckandsearchthesky.Theycranetheir
+	necksfromtheirbattlestations,sweatingintothesun,
+	watchingfortheapproachofF-14's.Someoneseesit--he
+	pointsandSHOUTS.TheF-14appears,andeverymanstandsand
+	CHEERS.
+	
+	
+	132.POV-
+	
+	WECOMESCREAMINGIN,5FEETOVERTHEWATER,throwingup
+	roostertailsbehind.WESPLITOFFandZOOMalongeachside
+	ofthecarrier,at100feetandROLLIT.
+	
+	
+	133.INT.PRI-FLYBRIDGE--VVVAAAAABBOOOOM!
+	
+	ItliftstheAirBossrightoffhisfeet.Thewallswarp,
+	dustsiftsfromtheoverhead.ThewholetowerjustgoesBOOM!
+	
+			AIRBOSS
+	Goddamnthatguy!"
+	
+	
+	134.EXT.FLIGHTDECK
+	
+	Theybreakat500knots.Iceisfirstdownovertheramp,
+	wavedin.TheF-14comesinalittlerocky.Itbounceshard
+	butgrabsthewire,thenjerkstoasuddenhalt.Thesailors
+	CHEERANDAPPLAUD,throwingfistsofvictoryintotheair,
+	strainingtogetalookatIceasthecrewdirectshisplane
+	offtotheside.Openingthecanopy,IceandSliderunstrap.
+	Stingerandtheothersarethere.Guysareclimbingup,
+	climbingallovertheairplane.They'realreadypaintinga
+	MiGontheside,andthey'relookingatIceinawe.
+	
+	
+	135.POV-MAVERICK-THROUGHTHEWINDSHIELD-ASHELANDS
+	
+	Hecatchesthewire,theviewslamsdowntowardthedeckas
+	theplanearrests,thencomesup...Hereleasesthecockpit
+	andcanheartheROAROFTHECROWD...
+	
+	
+	136.EXT.FLIGHTDECK
+	
+	HeswingsthenosearoundpastIce's.Ice'splaneiscovered
+	incoloredjerseysasthegroundcrewpullshimout.
+	Maverick'splaneswingstowardsthePRI-FLYBRIDGE.Pilotsin
+	flightsuitspourfromthedeckhatchAPPLAUDING...
+	
+	
+	137.HECUTSHISENGINESASTHEGROUNDCREWSWARMS
+	
+	AsMaverickandFungusclimbdown,theyseetheirwingmenon
+	thedeck.IceislookinginMaverick'sdirection.Hisfaceis
+	inscrutable.Maverickgetsmobbed,butpushesovertoIce.
+	Theystareateachotherforamoment,eyetoeyeevenas
+	theyarebuffetedbythecrowd.Finally,Icebreaks...agrin.
+	
+	
+			ICE
+	IguessIoweyouone.
+	
+			MAVERICK
+	Youdon'towemeanything.
+		We'reonthesameteam.
+	
+			ICE
+	Yousavedourlives.Youdidit!
+	
+			MAVERICK
+	Wedidit.
+	
+			ICE
+	You'reahellofaflyer.
+		(hecan'tresist)
+		Youcanbemywingmananytime.
+	
+			MAVERICK
+	(laughs)
+	No.Youcanbemine!
+	
+	NowIcelaughs.Nobody'severgonnawinonthisone.ButIce
+	smilesathim...It'snowarunningjokebetweenthem.
+	
+			ICE
+	Whateveryousay,Commander.
+	
+	
+	HeandSlidersnaptoandproudlysalute.Maverick
+	hesitates,thenreturnsit.AsIceandSlidersnapitoff,it
+	turnsintothepilot'ssalute,theygivethemthebird.
+	MaverickandFunguslaughandreturnthecompliment.
+	
+	Astheyaremobbedbysailors,Maverickiselatedtoseetwo
+	familiarfigures:HollywoodandWolfmanturnfromtheir
+	battledamagedTOMCATontheforwardelevatorasitsinksout
+	ofsightbelowdecks.
+	
+	
+	138.EXT.FLIGHTDECK
+	
+			FUNGUS
+	Whathappenedtoyou?
+	
+			WOLFMAN
+	Hegotourradio,andanengine.We
+	wereluckytomakeitback.
+	
+			HOLLYWOOD
+	Notluck.Skill.
+	
+	
+	ANOTHERANGLE
+	
+	Stingerrushesup,grabsIceandMaverickinabearhug.
+	
+			STINGER
+	MiGkillers!Younameit,boy.
+	Sky'sthelimit.Younameit.A
+	medal.Anythingyouwant.Anything.
+	
+	
+			ICE
+	MiGkillers!Whatelseisthere?
+	
+	Maverickgrins,turnsawayfromthem.Hehelooksout,at
+	thedyingsunglintingoverthesea.Hethinkshowbeautiful
+	itisouthere!Fungusgrabshimfrombehind.
+	
+			FUNGUS
+	Youhearthat?Anythingwewant.
+	Anything...Well???
+	
+			MAVERICK
+	Wellwhat?
+	
+			FUNGUS
+	Whatdoyouwant?
+	
+			MAVERICK
+	WhatdoIwant?
+	
+			FUNGUS
+	Whatdoyouwant?
+	
+			MAVERICK
+	(hethinks.)
+	AnymoreMiGs?
+	
+	Stingershakeshisheadno.
+	
+			STINGER
+	Theydon'tseemtowanttocomeup
+	anymore.There'snothingonthe
+	scopes.Infact,everybody's
+	denyingtheincidenteverhappened.
+	So...whatisit?Whatdoyouwant?
+	
+	
+	Maverickturnsaway,consideringtheoptions.
+	
+	
+	139.EXT.FLIGHTDECK-ANOTHERANGLE
+	
+	AnotherTomcatrollsuptoparknearby.Helooks
+	attheplane.OverthedeckLOUDSPEAKER,comesthe
+	finalcalltotheF-14:
+	
+			LSO(V.O.filtered)
+	(atouchofsarcasm)
+	OKAY,GENTLEMEN.YOUCANCUTYOUR
+	ENGINES...YOUHAVEARRIVED....
+	
+	
+	WWHHHEEEEZZZZEEERRRRRUUUUUMMMMMMMMM...
+	
+	ASTHEENGINESFADE,SODOESTHEPICTURE.
+	
+	
+	FADEIN-WEEKSLATER
+	
+	140.EXT.DAY-FLIGHTLINEMIRAMAR-TOPGUN
+	
+	Viper,Jesterandotherswalkoutofhangartowatchawing
+	return.
+	
+	
+	141A.EXT.MIRAMARRUNWAY-DAY
+	
+	THEIRPOV.SuddenlyanF-14breaks,ROARSinoverthefield
+	inverted,ahundredfeetofftheground.
+	
+	
+	142.FLIGHTLINEMIRAMAR-DAY
+	
+			JESTER
+	Who'sthehellisthat?
+	
+			VIPER
+	Threeguesses.
+	
+			JESTER
+	Well,he'sintroubleandhedidn't
+	evengethereyet.
+	
+	
+	Jesterlooksoveratanadmiral,whostepsoutofastaff
+	car,squintsupattheswoopingplane,turns,barksanorder
+	tohisdriver,jumpsinthecarandSLAMSthedoor,thecar
+	takesoff.
+	
+	
+	143.EXT.MIRAMARRUNWAY-DAY-FURTHERDOWNTHERUNWAY
+	
+	MPjeeps-lightsflashing,pulloutandheadfortheflight
+	line.
+	
+			VIPER
+	Comeon.
+	
+	Theyheadforthehangar
+	
+	
+	144.OVERTHEENDOFTHERUNWAY
+	
+	Thejetbreaksat500knotsandsetsdownneatlyonthe
+	tarmac.Therestofhisflightfollowsinperfectformation.
+	
+	
+	145.EXT.MIRAMARRUNWAY-DAY-MAVERICK'SJET-PULLINGUP
+	
+	Heunbuckleshisstraps,takeshishelmetoff.Helooksover
+	attheapproachingcaravan.
+	
+			FUNGUS
+	Ithinktheyknowwe'rehere.
+	
+	
+			MAVERICK
+	Letmedothetalking.
+	
+			FUNGUS
+	Oh,no.Youdidtheflying,I'lldo
+	thetalking!
+	
+	Hestandsupinthecockpit,givesasnappysalute.
+	
+			FUNGUS
+	WhyAdmiral....Howreallygoodit
+	istoseeyou!
+	
+	
+	Maverickturnsaway.Ashebacksdownthesteps,ajeep
+	screechesup,doorsslamopen,footsteps.
+	
+			AVOICE
+	Who'sinchargehere?
+	
+			MAVERICK
+	Iam.
+	
+	He'sansweredautomatically,butnowithitshim.Heknows
+	thevoice.Heturns.
+	
+	HISPOV-CHARLIE,HANDSONHIPS
+	
+			CHARLIE
+	Notforlong,youkeepthatup.
+	
+	Hehopsdown,standstherespeechless,grinninghappilyat
+	her.
+	
+			CHARLIE
+	Well?
+	
+			MAVERICK
+	Wellwhat?
+	
+			CHARLIE
+	YougotyourF-14,yougotTopGun,
+	yougotyourMiGs....You'reournew
+	TopGuninstructor...Nowwhat?
+	
+			MAVERICK
+	Oh...I'llthinkofsomething...
+	Whatareyoudoinghere?
+	
+			CHARLIE
+	Ilivehere,remember?
+	
+			MAVERICK
+	Rightontheflightline?
+	
+	He'sgotheronthatone.Shelaughs.
+	
+			CHARLIE
+	Everybody'sgottobesomewhere.
+	
+	
+			MAVERICK
+	Maybeyoursomewhere'swithme...
+	
+	Heputshisarmsaroundher.Self-conscious,shepullsaway,
+	alittleembarrassedtoshowthisontheflightline.He
+	laughs.
+	
+			MAVERICK
+	That'sokay.Ialwayslookforward
+	toachallenge.
+	
+	
+	Nowshelaughsbackandputsherarmsaroundhim.Shekisses
+	himandnowshedoesn'tgiveadamnwhoseesit.
+	
+	
+	
+	TOPGUN
+	
+	
+	
+	ChipProser
+	Hollywood
+	April19,1985
+	
+	
+	
+
+
+
+
+
+
+
+
+TopGun
+Writers:  ChipProser
+Genres:  Action  Drama
+UserComments
+
+
+
+
+
+
+
+

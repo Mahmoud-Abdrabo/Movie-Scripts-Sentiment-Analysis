@@ -1,0 +1,5839 @@
+
+
+
+PlanetoftheAples-1967
+
+
+
+
+
+
+back
+
+
+
+
+				"PLANETOFTHEAPES"
+
+				Screenplay
+				by
+				MichaelWilson
+
+
+				BasedonNovel
+				By
+				PierreBoulle
+
+
+
+
+
+
+
+
+							SHOOTINGSCRIPT
+							May5,1967
+
+							REVISED:
+							05/11/67
+							05/16/67
+							05/23/67
+							06/09/67
+							06/15/67
+							06/22/67
+							07/06/67
+							07/27/67
+
+
+
+
+
+
+
+
+
+	FADEIN
+	
+1	EXT.CONSTELLATIONOFORION-NIGHT
+
+	Starsglitterlikediamondsontheblackvelvetbackdropofspace.
+	TheBeltofOrioniscenterscreen,butmuchnearerandlarger
+	thaneverseenbyanEarth-boundastronomer.
+
+	Aspeckoflightappearsinthelowerleftcornerofthescreen.
+	Nospaceshipcanbeseen,butonlyaglowworm,asolitarysperma-
+	tosoanglidingthroughthewomboftheuniverse.OverthisweHEAR
+	thevoiceofanastronaut.Heisconcludingareport.
+
+				ASTRONAUT'SVOICE
+				(o.s.)	
+			Soendsmylastsignaluntilwereach
+			ourdestination.Wearenowonautomatic,
+			amerehundredandfivelightyearsfrom
+			ourbase...andatthemercyofcom-
+			puters.I'vetuckedinmycrewforthe
+			longsleep.I'lljointhempresently.
+
+2	INT.CABINOFSPACESHIP-ESTABLISHINGSHOT-NIGHT
+
+	Thecabinisneithercrampednorspacious,butaboutthesizeofthe
+	President'scabininAirForceOne.Intheimmediatef.g.isaconsole
+	ofdialsandswitchesflankedbyfourchairs.Onlyoneofthechairs
+	isoccupied.Theastronaut'sbackistoCAMERA.Thereisaladder
+	amidshipswhichleadstoanescapehatch.TheafterDartofthecabin
+	isobscuredindarkness.WeheartheMUSICofaMozartsonataemanating
+	fromaphonographofstereotape.Theastronautisspeakingintoa
+	microphone.
+
+				ASTRONAUT
+			Withinthehourweshallcomplete	
+			thesixthmonthofourflightfrom
+			CapeKennedy.Byourtime,thatis...
+
+	Hepauses,lookingupat:
+
+3	TWOLARGECLOCKS-ONCABINWALL
+
+	OneclockismarkedSELFTIME,butinsteadoftwelvenumeralsithas
+	twenty-four.Oneoftheneedlesismovingveryslowly.
+
+	TheotherclockislabeledEARTHTIME,anditsunits,likethoseofa
+	tachometer,aregivenbyhundredsandthousands.
+
+	Thelargestneedleofthisclockmakesonerevolutioneverysecond.
+	Overthiswehear:
+
+				ASTRONAUT'SVOICE
+				(o.s.)
+			ButaccordingtoDr.Hassleintheoryof
+			timeinavehicletravelingatcloseto
+			thespeedoflight,oldMotherEarthhas
+			agedafewthousandyearssinceourde-
+			parture--whilewehavescarcelyaged
+			atall.
+
+4	CLOSEONASTRONAUT
+
+	ThisisTAYLOR.Hewearssimpledungarees(orChurchillsuit)and
+	comfortableboots.Heseemscalmandpensive.Extractingthebuttof
+	acigarfromthebreastpocketofhisdungarees,helightsit,then
+	continues:
+
+				TAYLOR
+			Itmaybeso.Thismuchisprobable:the
+			menwhosentusonthisjourneyhavelong
+			sincebeenmolderinginforgottengraves;
+			andthose,ifany,whoreadthismessage
+			areadifferentbreed.Hopefully,a
+			betterone.
+
+	Hebeginstorolluphisleftsleeve.
+
+				TAYLOR
+			Ileavethetwentiethcenturywithout
+			regret.Whowasit?Marshall?...said
+			'Modernmanisthemissin'alinkbetween
+			theapeandthehumanbeing.'
+
+	Heremovesthecigarfromhismouth,turnstolookoutthroughone
+	oftheportholesintotheastralnight.
+
+				TAYLOR
+			Onefinalthought--nothingscientific,
+			purelypersonal.Seenfromuphere,
+			everythinglooksdifferent...Timebends
+			andspaceisboundless.Itsquashesa
+			man'sego.Hebeginstofeellikenomore
+			thanamoteintheeyeofeternity.And
+			heisnaggedbyaquestion:ahatifany-
+			thing,willgreetusontheendofman's
+			firstjourneytoastar?Arewetobelieve
+			thatthroughoutthesethousandsofgalaxies,
+			thesemillionsofstars,onlyone,that
+			speckofsolardustwecallEarth,has
+			beengraced--orcursed--byhumanlife?
+				(pause)
+			Ihavetodoubtit.
+
+	Heextractsahypodermicneedlefromhisbreastpocketandinjects
+	itintotheveinofhisforearm.Hecontinuesspeaking.
+
+				TAYLOR
+				(sardonically)
+			That'saboutall.IwonderifMan,that
+			marveloftheuniverse,thatglorious
+			paradoxwhohassentmetotheunknown...
+			stillmakeswaragainsthisbrother.,and
+			letshisneighbor'schildrenstarve.
+
+	Taylorwithdrawsthehypodermicneedlefromhisveinandsecuresitin
+	adraweroftheconsole.
+
+				TAYLOR
+			Wellthen,Earthmen:Amissinglink
+			salutesyou.Blessyou,mydescendants.
+
+	Taylorsnuffsoutthecigarbuttandplacesitinthedrawerbesidethe
+	hypodermic.Then,flickingaswitchAucutofftheMozart,herisesand
+	looksupagainat:
+
+5	THECLOCKMARKEDEARTHTIME
+
+	Thelongestneedleofthisclocknowmakesnearlytworevolutionsper
+	second.Theshortestneedlepointstothenumeral2105.
+
+6	INT.CABIN-TRACKINGWITHTAYLOR
+
+	Spacescientistshavepresumablysolvedtheproblemofweightlessness,
+	forTaylorwalkstheshortdistancefrom;theconsoletotheafter
+	sectionwithoutparticulareffort.CAMERAFOLLOWShim,andwecannow
+	seefourglasscapsules,or"caskets",intherearofthecabin.Taylor
+	looksdownatthem.
+
+7-	SEVERALSHOTS-THEFOURCASKETS-FROMTAYLOR'SP.O.V.
+10
+	Oneofthemisopen.Theotherthreeareoccupiedbyastronauts:DODGE,
+	LANDONandSTEWART.They,too,weardungareesandboots.Dodgeand
+	Landonarethirtyish,clean-shaven,virile--America'sfinest.Stewart
+	isahandsomeyoungwoman,herhairbobbedshort.Theireyesareclosed
+	andtheydonotappeartobebreathing--yetnoundertakercouldmake
+	themsoalive.
+
+11	ANOTHERANGLE-FAVORINGTAYLOR
+
+	Hegraspsthehandleofhisowncasketandslowlypullshimselfinto
+	it.ContinuingSILENCE.CAMERAMOVESINasTaylorDullstheglasslid
+	shutandsecuresit.Headjuststwodialsinsidethecapsuleandlies
+	back,bucklinghissafetybelt.CAMERAMOVESINTOACLOSEUPofTaylor.
+	Hiseyesareopen.Heseemsserene,evenenraptured.
+
+		
+	(NOTE:Creditswillappearhereoveraseriesofshotsdesignedto
+	conveyasenseofloneliness,ofseparation,andofthepassageof
+	time.)
+
+								DISSOLVETO:
+
+12-	ASERIESOFSHOTS-ADISTANTGLOBE(MINIATURE)
+16	
+	Weseeastrangeanddistantplanet.Atfirsttheglobeoccupiesbuta
+	smallareaofthescreen;butwitheachnewVIEWitcomescloserand
+	loomslarger,asif"observedfromaspaceshipinaspiralingorbitof
+	descent.
+
+	Thetopographyoftheplanetbearslittleresemblancetoourown.Much
+	ofitisobscuredbycloudcover;evenmoreof-itappearstobe
+	cratereddesertofreddishhue.Wecan,however,makeoutafewnarrow
+	"greenbelts"andapatchofbluewater.
+
+	IntheFINALSHOTSofthisSEQUENCEweseethestrangeplanetasit
+	wouldbeobservedfromaspacecraftplummetingfromtwentythousand
+	feettoonethousandfeet.Itappearsthattheshipwillfallintoa
+	vastlakesurroundedbysoaringsandstonepinnacles.Thewateris
+	blue-black,thepinnaclesvermillion.(ThisistheLakePowell
+	location,atLoneRock.)
+
+17	INT.SPACESHIP-FULLSHOT-DAY
+
+	Fouremptypilotseatsareseeninf.g.,thefourglasscasketsin
+	b.g.WeHEARtheRHYTHMICBLEATofaWARNINGSIGNAL,aRUSHOFWIND
+	asinarapiddescent,andperhapstheROAROFRETROJETS.Then,a
+	greatCRASHasthecrafthitswater.Thewholeshipshuddersonimpact.
+	Looseequipmentfallstothecabinfloor.CAMERAMOVESDOWNthecabin
+	aisleastheshipbeginstorollinthewaterandHOLDSonthefour
+	glasscaskets.ThereareTHREELOUDMETALLICCLICKSastheglass
+	domesofthecasketsswingopenautomatically.
+
+18	CLOSEONTAYLOR
+
+	Henowhasafullbeard.Hiseyescomeopen.Instantlyalert,he
+	risestoasittingposition,gazingacrossat:
+
+19	DODGEANDLANDON-FROMTAYLOR'SP.O.V.
+
+	They,too,awakenandsitup,starringatTaylor.They,too,are
+	bearded.
+
+				TAYLOR'SVOICE
+				(o.s.)
+			Youallright?
+
+	Theynod.
+
+20	BACKTOTAYLOR-CLOSESHOT
+
+	Heglancesatthecasketbesidehisown.
+
+				TAYLOR
+			Stewart?
+				(strugglingtohisfeet)
+			Stewart?
+
+21	CLOSE-SHOT--THEFOURTHCASKET
+
+	Itsdomeremainsunopened.Theyoungwomanisaskeletonina
+	Churchillsuit.
+
+22	REACTIONSHOT-THETHREEASTRONAUTS
+
+	DodgeandLandonhavejoinedTaylorand-stareatthegrinningskull
+	oftheirdeadcomrade.Alow,descendingHUMofequipmentisheard.
+	SimultaneouslythelightsbegintoFADE.Amomentlatertheybrighten,
+	butnotasmuchasbefore.
+
+				TAYLOR
+			Theregoesourprimarypower.We'reon
+			auxilliary.
+
+	AslightCRACKINGsoundisheard.Taylorturnsquicklyawayando.s.:
+
+23	REVERSEANGLE-THEFORWARDCABIN
+
+	Atrickleofwaterhasbeguntoseepthrougharupturedseaminthe
+	cabin.Taylordartstoaportholeandpeerscut.
+
+24	LONGSHOT-WHATTAYLORSEES:
+
+	water
+
+	Theportholeisnomorethansixinchesabovetheline.Inthe
+	distancewediscernashorelineofreddesert.
+
+				TAYLOR'SVOICE
+				(o.s.)
+			We'reinthesoup.We'resinking.
+
+25	INT.CABIN-FULLSHOT
+
+	Theleakintheseambecomesagrowingsprayofwater.Taylor
+	turnsawayfromtheporthole,calling:
+
+				TAYLOR
+			Dodge!Readtheatmosphere!
+
+	Dodgemovesinstantlytotheladderbeneathanescapehatchand
+	mountsit.Taylorstumblesdowntheaisleoftherollingshiptoward
+	theconsoleandaddressesLandon,whoisstillstaringatStewart's
+	skeleton.
+
+				TAYLOR
+			Landon!Sendalastsignal.
+
+				LANDON
+				(dazed)
+			Whatsignal?
+
+				TAYLOR
+			ToEarth!Thatwe'velanded!
+
+	AsLandonlurchestowardthecommunicationsequipmentinf.g.
+
+								CUTTO:
+
+26	EXT.TIMSTRANGEPLANET-LONGPANORAMICSHOT-LATEAFTERNOON(LONE
+	ROCK,LAKEPOWELL)
+
+	Wearelookingatalifelessdesertofsandstonebuttesandpinnacles.
+	Thereisnosignofvegetationanywhere.CAMERAPANSDOWNtoabody
+	ofwaterthatcouldbethebayofaninlandsea.Thedeepblueofthe
+	seacontrastssharplytotheredsandsoftheshoreline.CAMERAHOLDS
+	onthestrickenspaceship,wallowinglikeabeachedwhaleahundred
+	yardsoffshore.Theportholesofthecraftarebeneaththewater,and
+	onlyitsroofandthetailfinofitstailassemblyarevisible.The
+	red-hotskinoftheshipvaporizesthewateraroundit.
+
+	Suddenlyasnorkel-liketubesproutsfromtheescapehatch,whichis
+	locatedamidships.
+
+27	INT.CABIN-CLOSEONCLOSEDESCAPEHATCH
+
+	Dodge,standinghalfwayuptheladder.,hasfastenedakitofgauges
+	totheendofthesnorkeltube.Hereadsthedials,removesthekit,
+	sniffstheairinthetubeandthen,takingadeepbreath,announces:
+
+				DODGE
+			It'sbreathable.
+
+				TAYLOR'SVOICE
+				(o.s.)
+			Okay!Blowthehatchbeforewelose
+			auxilliarypower.
+
+	Dodgereachesforacontrolmechanismneartheescapehatch.
+
+28	CLOSEONTAYLORANDLANDON
+
+	Thesprayofwatercomingthroughtherupturedseamisincreasing.
+	TheLIGHTSDIMagainandtheSOUNDofthewarningsignalFADES.While
+	Landonfiddleswiththeradio,Taylortriestogetthetaperecorder
+	rolling,butallweheararescrambledandunintelligiblenoises.
+
+				LANDON
+			It'snouse...thereshegoes.
+
+				TAYLOR
+			Forgetit.Abandonship.
+
+29	WIDERANGLE-TIMCABIN
+
+	Theescapehatchisnowopen.Taylordartsovertotheladderand
+	passesafoldedliferaftuptoDodge.WhenLandonreachestheladder,
+	Taylorhandshimtwoneatlypackedrucksacks,andLandonclimbs
+	throughtheescapehatch.Taylorisabouttofollowwithathird
+	rucksack,thenturnsandcrossesthecabinforalastlookat:
+
+30	THETWOCLOCKS-FROMTAYLOR'SP.O.V.
+
+	Bothclockshavestopped:theredneedleoftheclocklabeledSELF
+	TIMErestsonthenumeral18;theredneedleoftheclockmarked
+	EARTHTIMErestsonthenumeral3975.
+
+31	EXT.TOPOFSPACECRAFT-MED.SHOT
+
+	Dodgeinflatestheraftwithacartridgeofcompressedairand
+	tossesitintothewater.HeandLandonjumpintothewaterand
+	climbontotheraftasTayloremergesfromthehatch,Taylorslips
+	intothewaterandclimbsontotheraft.HeandLandonbeginto
+	paddletowardshore,whileDodgeimmediatelyopensanotherkitand
+	takesasampleofthewater.	
+
+32	CLOSEONTHEMENINTHERAFT
+
+				DODGE
+				(halftohimself)
+			Briny...twenty-fivepercentsalinity.
+			Nearthesaturationpoint.
+
+				LANDON
+				(lookingback)
+			She'sstillsinking...
+
+33	THESPACESHIP-FROMTHEIRP.O.V.
+
+	Onlytheradioantennaandthetipofthetailfinremainvisible.
+
+				LANDON'SVOICE
+				(o.s.)
+			Going...going...
+
+	Thecraftvanishesbeneaththewater.
+
+34	CLOSEONTHEMENINTHERAFT
+
+	Dodgeisstillbusywithhiskit.Landonisstilllookingback,but
+	Taylordoesn'tbothertoturnhishead.
+
+				LANDON
+			Gone.
+
+				TAYLOR
+				(flatly)
+			We'reheretostay.
+
+35	ANOTHERANGLE-MOVINGWITHTHERAFT
+
+	Theygazeattheforbiddingsandstonebattlementsastheynearthe
+	shore.
+
+				LANDON
+			Well?Wherearewe?Haveanynotion,
+			skipper?
+
+				TAYLOR
+				(confidently)
+			We'resomethreehundredandtwenty
+			lightyearsfromEarth.Onanunnamed
+			planetinorbitaroundastarinthe
+			constellationofOrion.
+				(looksoffat
+				the"sun")
+			ThatcouldbeBellatrix.
+
+36	THESUN-FROMTHEIRP.O.V.
+
+	Lowonthehorizon,seenthroughadenseenvelopeofdustparticles.
+
+				DODGE'SVOICE
+				(o.s.)
+			TooredforBellatrix.
+
+37	BACKTOASTRONAUTSINRAFT
+
+	LandonglancesskepticallyatTaylor.
+
+				LANDON
+			Youdidn'thavetimetocheckthe
+			tapes,soyoudon'treallyknow,
+			doyou?
+				(asTaylorignores
+				him)
+			Whatwentwrong?
+				(sardonically)
+			Weweren'tprogrammedtoland
+			inwater.
+
+				DODGE
+				(grinning)
+			Thequestion,Landon,isnotsomuch
+			whereweareaswhenweare.
+
+				TAYLOR
+			(standsupinraft)
+			We'vehadanicesnooze.Let'sstart
+			earningallourbackpay.
+
+38	WIDERANGLE-THEBEACH
+
+	Asthethreeastronautsstepoutintoshallowwaterandpullthe
+	raftashore.
+
+				TAYLOR
+			Takeyoursoiltest,Dodge.I'll
+			checktheequipment.
+
+	Dodgemovesinlandabouttenyards,removesasmallhanddrill
+	fromhisbelt,extendstherodofthedrillthreefeetandbegins
+	totakesomesubsoilsamplings.Taylorbeginstoexaminethecontents
+	ofthethreerucksacks.Landonsitsdownonthebeach.,handsaround
+	hisknees,gazingmoodilyatthesunkenspaceship.Duringthisand
+	succeedingsceneswesensethatDodge'sobsessionwithscientific
+	inquiryleaveshimimmunetofear:Landonispossiblymorecourageous
+	andcertainlymore"human,"forhehasmanyfearstocontrol:while
+	Taylor--detached,coolandmisanthropic--issomethingofanenigma.
+
+				TAYLOR
+				(callsDodge)
+			Gotyoursensors?
+
+				DODGE
+			Yo!
+
+				TAYLOR
+			Geigercounter?
+
+				DODGE
+			Yo!
+
+				TAYLOR
+				(takinginventory)
+			Onepistol...twenty-fourroundsof
+			ammo.twomedicalkits..onecamera...
+			oneTX9.
+				(loudlytothe
+				others)
+			We'veenoughfoodandwaterforthree
+			days.
+
+				DODGE
+			Buthowlongisaday?
+
+				TAYLOR
+			Goodquestion.
+				(turning)
+			Landon--checkyourcommunications
+			kit.
+
+39	ANOTHERANGLE-FAVORINGLANDON
+
+	Heseemsnottohaveheard.
+
+				TAYLOR
+				(sharply)
+			Landon!Jointheexpedition.
+
+				LANDON
+				(rising)
+			Sorry...
+				(crossingtohiskit)
+			IwasthinkingofStewart.What
+			d'yousupposehappened?
+
+				TAYLOR
+				(flatly)
+			Airleak.Diedinhersleep.
+
+				LANDON
+			Youdon'tseemverycutupabout
+			it.
+
+				TAYLOR
+			It'salittlelateforawake.She's
+			beendeadnearlyayear.
+
+				LANDON
+			Thenwe'vebeenawayfromEarthfor
+			eighteenmonths.
+
+				TAYLOR
+			Byourtime.
+				(smilingatLandon)
+			You'veturnedgray.
+
+	LandoninvoluntarilytouchesthegrayhairofhistempleasTaylor
+	addslightly:
+
+				TAYLOR
+			Apartfromthat,youlookprettychipper
+			foramanwho'stwothousandandthirty
+			oneyearsold.
+				(casually)
+			Ireadtheclocks.TheybearoutHasslein's
+			hypothesis.We'vebeenawayfromEarthfor
+			twothousandyears,giveortakeadecade.
+				(pause)
+			Stillcan'tacceptit,huh?
+
+				LANDON
+				longpause)
+			Youknowit.
+
+				TAYLOR
+			Becausetimehaswipedouteveryoneand
+			everythingyoucaredfor--they'redust.
+
+				LANDON
+			Proveit.Ifwecan'tgetback,it'sstill
+			justatheory.
+
+				TAYLOR
+			It'safact,Landon.Buyit.You'llsleep
+			better.
+
+	Dodgeentersscene.Ahandfulofreddishsanddribblesthroughhis
+	fingers.
+
+				DODGE
+			Nothingwillgrowhere....there'sjusta
+			traceofhydrocarbons,andmostofthe
+			nitrogenislockedintonitrates.
+
+				TAYLOR
+			Anysignofdangerousionization?
+
+				DODGE
+			No.
+
+				TAYLOR
+				(rising)
+			Okay.Ifthere'snolifehere,we'vegot
+			justseventy-twohourstofindit.That's
+			whenthegroceriesrunout.
+
+	Hepicksuponeoftherucksacksandputsiton.Theothersfollow
+	suit.
+
+				DODGE
+			Whichdirection?
+
+				TAYLOR
+				(decisively,pointing
+				west)
+			Thatway.
+
+				DODGE
+			Anyparticularreason?
+
+				TAYLOR
+			Noneatall.
+
+	Hemovesout.Dodgefollows.CAMERAPANSwiththem.Theyhavegone
+	onlyafewpaceswhenTaylorlooksbackoverhisshoulderandhalts.
+
+40	REVERSEANGLE-FEATURINGLANDON
+
+	Landonissquattinginthesand,stickingsomethingintothesoil.
+	ItisasmallAmericanflag,thesizeofahandkerchief.
+
+41	REVERSEANGLE-FEATURINGTAYLORANDDODGE
+
+	MirthbubblesupinTaylor'sthroat.Heexplodeswithwildlaughter.
+	Heisstilllaughingastheymoveout.
+
+							DISSOLVETO:
+
+41-A	DAWNSHOT(GUNSIGHT	LOC#43)
+
+42	THEASTRONAUTS'TREK
+
+	Theydescendfromtheplateau(OchreDunes)
+
+43	ASTRONAUTSCONTINUEMARCH,
+
+	Acrossthetopofthehillstheresuddenlyrunsalineoffire(Black
+	Dunes).
+
+44	THEYMOVEACROSSTHETERRAIN
+
+	Jaggedboltsoflightningflashacrossthesky,butbring,norain,and
+	thunderclapssoundlikeheavyartillery.(GrayArea)
+
+45-	OUT
+58
+
+								QUICKDISSOLVETO:
+
+59	ANOTHERPARTOFTHECANYON(OCHREDUNESAREA)-GROUP
+	SHOT-DAY
+
+	Severalhugebouldersaredislodged,andthethreeastronautsrun.
+	wildlytoescapethefallingrocks.Whentheavalancheends,they
+	sprawlonthelifelesssands,breathingheavilyanddrenchedwith
+	sweat,surroundedbyenormousboulders.Taylorlooksabouthim.
+
+				TAYLOR
+			Everybodyallright?
+
+	MurmursofassentfromDodgeandLandon.Taylorrummagesthrougha
+	limprucksack,comesupwithsomeemptyfoodcartons,rummagesagain,
+	comingupwithacigarbutt.
+
+				TAYLOR
+			Watercheck.
+
+	Dodgetakesaplasticcanteenfromanotherrucksackandinspectsit.
+
+				DODGE
+			Eightounces.
+
+	Dodgeliesbackandlooksupatthesky.
+
+				DODGE
+			Itdoesn'taddup.There'samantleof
+			dustaroundthisplanetandyetit's
+			ashumidasajungle.Thunderand
+			lightningandyetnorain.Cloudcover
+			everynightandthatstrangeluminosity,
+			andyetnomoon.
+
+	Landonalsolooksupatthesky.
+
+				LANDON
+			Ifonlywecouldgetafix.
+
+				TAYLOR
+				(needlinghim)
+			Whatwouldyoulearn?I'vetoldyou
+			whereyouareandwhenyouare.
+
+				DODGE
+				(gently)
+			Taylor--quitridinghim.
+
+				TAYLOR
+				(harshly,toLandon)
+			You'remorethanthreehundredlight
+			yearsfromyourpreciousplanet.Your
+			lovedoneshavebeendeadandforgotten
+			fortwentycenturies.Evenifyoucould
+			getback,they'dthinkyouwere
+			somethingthatfelloutofatree.
+
+				LANDON
+				(wearily)
+			Allright--
+
+				TAYLOR
+			There'sonlyonerealityleft.We're
+			hereandit'snow.Yougetaholdofthat
+			andhangontight,oryoumightaswell
+			bedead.
+
+				LANDON
+				(quietly)
+			I'mpreparedtodie.
+
+	TaylorturnstoDodge,throwsuphishands.
+
+				TAYLOR
+			He'spreparedtodie!Doesn'tthatmake
+			youmisty?Chalkupanothervictoryfor
+			thehumanspirit!
+
+	Dodgerisesandmovesoff,o.s.,eitherembarrassedbythiscolloquy
+	orunwillingtohearitagain.Taylor,cigarclampedbetweenhis
+	teeth,spinstowardLandon.
+
+				TAYLOR
+			Straightenmeoutonsomething.Whydid
+			youcomealongatall?Youvolunteered.
+			Why?
+				(abeat;noanswer)
+			I'lltellyou.Theynominatedyouforthe
+			BigOneandyoucouldn'tturnitdown.Not
+			withoutlosingyourAll-Americanstanding
+
+				LANDON
+				(hard)
+			Climboffme,willyou!
+
+				TAYLOR
+			Andtheglory,don'tforgetthat.There's
+			alife-sizedbronzestatueofyousomewhere.
+			It'sprobablyturnedgreenbynow,andnobody
+			canreadthenameplate.Butneverletitbe
+			saidweforgetourheroes.
+
+				LANDON
+			Taylor.	I'mtellingyou--
+
+				TAYLOR
+			Oh,andonelastitem.Immortality.
+			Youwantedtogoonforever.
+				(pause)
+			Well,youdamnnearmadeit.Exceptfor
+			Dodgeandme,you'velivedlongerthan
+			anybody.AndwithStewartdead,itlooks
+			likewe'rethelastofthestrain.Yougot
+			whatyouwanted,kid.Howdoesittaste?
+
+	Silence.	Taylorliesdown,spentofhisvenom,pillowing
+	hisheadonarucksack.
+
+				LANDON
+				(softly)
+			Okay.Youreadmewellenough.
+			Whycan'tIreadyou?
+
+				TAYLOR
+			Don'tbother
+
+				LANDON
+				(lookingoff)
+			Dodge...he'snotlikemeatall.But
+			hemakessense.Heldwalknakedintoa
+			livevolcanoifhethoughthecouldlearn
+			somethingnoothermanknew.Iunderstand
+			whyhe'shere.Butyou...You'renoseeker.
+			You'renegative.
+
+				TAYLOR
+			ButI'mnotpreparedtodie.
+
+				LANDON
+				(heatedly)
+			I'dliketoknowwhynot.Youthought
+			lifeonEarthwasmeaningless.Youdespised
+			people.Sowhatdidyoudo?Youranaway.
+
+	Taylor'seyesareclosed.Heissilentforamoment.Whenhespeaks,
+	histoneissoft,reflective.
+
+				TAYLOR
+			No,notquite,Landon.I'mabitofa
+			seekermyself.Butmydreamsarealot
+			emptierthanyours.
+				(pause)
+			Ican'tgetridoftheideathatsomewhere
+			intheUniversetheremustbeacreature
+			superiortoman.
+
+60	ANOTHERANGLE-FEATURINGDODGE
+
+	whohasbeenwanderingaround,studyingthebouldersandthebarren
+	soil.TaylorandLandoncanbeseeninb.g.Dodgespotssomethingand
+	squatsdowntoexamineit.
+
+61	CLOSEUP-WHATDODGESEES:
+
+	Itisatinydesertflower,nomorethananinchhigh.
+
+62	CLOSEUP-DODGE
+	
+	Hiseyeslightupashecalls:
+
+				DODGE
+			Taylor!Overhere!
+
+63	CLOSE.GROUPSHOT-ANGLINGDOWN
+
+	asTaylorandLandonhurryoverandkneeldownoneithersideofDodge.
+	Theastronautshoveroverthetinyflowerlikethreemagiperceiving
+	theinfantDeliverer.
+
+				DODGE
+			Life.
+
+	Hedigsgentlyaroundtherootsoftheplantwithasmallinstrument.
+
+				DODGE
+			Wherethere'sonethere'sanother.And
+			another.Andanother.
+
+				TAYLOR
+			Let'sfindthemall.
+
+63-A	SUNSETSHOT
+
+64	ENDOFTHETREKASTHEASTRONAUTSSTARTFROMTHECANYON
+	TOTHETAMARISKAREA
+
+	Absolutedesolation(OchreArea).Theastronautsstartdown
+	thecanyon.
+
+65	ASTRONAUTSCASTHUGESHADOWS
+
+	Astheymoveacrosstheterrain(topofCrazyCanyon).
+
+65-A	JUMPSHOT
+
+	Astheyjumpacrossagap.Thunderandlightningagain(topof
+	CrazyCanyon).
+	
+65-B	THEYMOVEDOWN
+
+	TheymarchacrossCrazyCanyonoverlook.
+
+65-C	REACTIONSHOTSOFASTRONAUTS
+
+66-
+A-R	SERIESOFSHOTSOFDESCENTOFASTRONAUTSDOWNSHEERFACEOFACANYON
+	(WireGrassCanyon).
+
+	Forabriefmomentseveral"creatures"appear.Wecannotidentifythe
+	species.
+
+								QUICKDISSOLVET0:
+
+67	EXT.ADRYWASH-CLOSEGROUPSHOT-DAY
+
+	Bloomingtamarisksbordera.drystreambed.TaylorandLandonhover
+	overDodge,whoisprobingthesoilwithhisdrill.Theirdungareesand
+	facesarecakedwithdust.
+
+				DODGE
+			It'sastreambed.,nodoubtabout
+			it--butbonedry.
+
+	Landonstrightensupandlooksoff,startledbysomethinghesees.
+
+				LANDON
+			Look...
+
+68	LONGSHOT-ACLIFFBEYONDTHETAMARISKS
+
+	withtheastronautsinf.g.Inthedistance,ontheskyline,wecan
+	makeoutalongrowofwoodencrosses.Someanimalorvegetablematter
+	appearstobetiedtothecrosses.
+
+				LANDON
+			Scarecrows?
+
+				TAYLOR
+			Let'stakealook.
+
+	Taylorplungesintothethicketoftamarisks,followedbyDodgeand
+	Landon.Theirviewofthecliffismomentarilyobscured.CAMERAHOLDS
+	onthedistantcrosses.Foraninstantonly,three"creatures"again
+	appearontheskylinenearthecrosses.Thentheyvanish.
+
+69	REVERSEANGLE-THEASTRONAUTS
+
+	astheyemergefromthetamariskthicket-nearertothebaseofthe-
+	cliff.Theyhaltandlookupat:
+
+70	THECROSSES-ANGLINGUP-FROMASTRONAUT'SP.O.V.
+
+	Wecannowseethepeltsofunrecognizableanimalshavebeenboundto
+	thecrossesand,thusmountedinalongrow,seemtomakeaboundary
+	orserveasawarning.Thelivingbipedsarenolongervisible.
+
+71	BACKTOTHEASTRONAUTS
+
+	DodgeandLandonarestilllookingupatthestrangecrosses,but
+	Taylorisscanningtheterrainatthebaseofthecliff.Thesoundof
+	rushingwatercanbeheard.
+
+				TAYLOR
+				(halftohimself)
+			Nevermindthescarecrows.
+
+	Hebreaksintoarun,CAMERAPANNINGwithhimashemovestowarda
+	declivityinthefaceofthecliff.
+
+72	MOVINGSHOT-DODGEANDLANDON
+
+	Agonizedwiththirst,theyfollowTaylor.
+
+73	FLASHSHOT-THETOPOFTHECLIFF
+
+	Foraninstantweseethebipedsagain,movinginthesamedirection.
+
+74	EXT.ADECLIVITYINTHECLIFF-FEATURINGTAYLOR
+
+	Hescramblesuparock-strewngorgeandlooksoffattheterrain	
+	beyond.
+
+75	EXT.AWATERFALL-FROMTAYLOR'SP.O.V.
+
+	Thecascadeisnotspectacular,butthevegetationarounditis
+	startlinglylush.(ThislocationisnotatLakePowell,butatthe
+	Ranch).
+
+76	CLOSEUP-TAYLOR
+
+	Hisparchedlipsbreakintoasmile.
+
+								QUICKDISSOLVETO:
+
+77	EXT.WATERFALLANDPOOL-FULLSHOT-DAY
+
+	Thecascadehasformedacoolandinvitingpool.Thickfoliagegrowsto
+	itsveryedge.Dodgeisonhishandsandknees,testingtheliquidwith
+	hiskit.Theotherswaitexpectantly.
+
+				DODGE
+			It'sloadedwithminerals,butsafe.
+
+	WithoutfurtheradoLandonduckshisfaceintothepool.Dodgescoops
+	upwaterinhishandsanddrinks.Taylor	followssuit.
+
+				LANDON
+				(comingupforair)
+			Canwetakeadip?
+
+				TAYLOR
+				(looksaround)
+			Okay.
+
+	LandonandDodgeimmediatelyremovetheirboots,stripdownandplunge
+	intothepool.ButTaylordoesnotyetdisrobe.Alertandcurious,he
+	strollsalongthebankofthepool,lookingaround.
+
+78	DODGEANDLANDONSWIMMNG
+
+79	TAYLOR
+
+	ashebrieflylooksaround,thenstartstakingoffhisshirt.
+
+80	DODGEANDLANDON
+
+	astheyarriveatoppositeshore.
+
+81	MED.SHOT-FARSIDEOFPOOL
+
+	asLandonseessomethingonshore.
+
+82	TAYLORINWATER
+
+	asheswimsacross.
+
+				LANDON'SVOICE
+				(o.s.)
+			Hey,Taylor!Lookatthis--
+
+	DodgeandTaylorclimboutofthepoolandsquatbesideLandon.
+
+83	CLOSESHOT-WHATTHEYSEE:
+
+	Theprintofalargefive-toadfootisclearlyvisibleinthewetsand.
+
+84	GROUPSHOT-THETHREEASTRONAUTS
+
+	Taylorrisesandwalksslowlytowardtheunderbrush,scanningthe
+	groundforothersports.
+
+								CUTTO:
+
+85	THEOTHERSIDEOFTHEPOOL-FULLPANNINGSHOT
+
+	Ourviewoftheastronautsbeyondthecascadeinb.g.ispartially
+	obscuredbybroad-leafedfoliagedirectlyinfrontofCAMERA,which
+	PANSSLOWLYawayfromthewaterfallandHOLDSontheastronauts'
+	clothingattheedgeofthepool.Suddenlyandinexplicablyapairof
+	dungareesslithersawayintotheunderbrush.Afewsecondspass.Nowa
+	pairofbronzedandbrawnyshouldersfilltheSCREEN,blockingour
+	view.
+
+86	REVERSEANGLE-CLOSEONAHUMANFACEINHEAVYFOLIAGE
+
+	Orisithuman?Thehairismatted,thefacebearded,thejaw
+	prognathous,theorbitalrimprominent.
+
+87	ANOTHERANGLE-ATEDGEOFPOOL
+
+	Abrownthick-fingeredhandappearsfrombehindheavyfoliageand
+	plucksataboot.Thebootvanishes.
+
+88	BACKTOTHEASTRONAUTS-ONOTHERSIDEOFPOOL
+
+	DodgeisstandingnearTaylorandlookingbackatthespotwherethey
+	lefttheirclothing.SuddenlyheseizesTaylor'sarmandpoints
+	silentlyatthefarbankofthepool.
+
+89	WHATTHEYSEE:
+
+	Anotherpairofdungareesslithersintotheunderbrushanddisappears.
+
+90	REVERSEANGLE-FULLPANNINGSHOT-THEASTRONAUTS
+
+	LedbyTaylor,theydivebackintothepoolandswimtotheotherbank.
+	Emergingfromthewater,theylookaroundinbewilderment.Taylormakes
+	handsignalstoindicateabsolutesilenceandareconnaissance.The
+	threeastronautsfanoutandmovecautiouslyintothejungle(orrain
+	forest).
+
+91-
+93	EXT.-JUNGLE(ORRAINFOREST)-SEVERALSHOTS-MOVINGWITHTHE
+	ASTRONAUT'S
+
+	Littlesunlightpenetratesthisdensevegetation.TheseSHOTSare
+	INTERCUTwith:
+
+94	WHATTHEASTRONAUTSSEE:
+
+	fleetingformsasyetunidentified;tremblingfoliage;brownshadows
+	againstagreenbackdrop.
+
+95	EXT.ASMALLCLEARING-FAVORINGTHETHREEASTRONAUTS
+
+	whostopattheedgeoftheclearing,startledby
+
+96	WHATTHEYSEE:
+
+	anumberofprimitivebipeds,maleandfemale,scarcelyvisiblebehind
+	treesandbushesontheothersideoftheclearing--hereaface,
+	thereaportionofaheadandtorso.Throughoutthissequence,the
+	primitivesareneverseenclearlyoratcloserange.
+
+97	BACKTOTHEAST40IONAUTS
+
+	reacting.Theyspeakinwhispers.
+	
+				LANDON
+			MyGod..theylookalmosthuman.
+
+				DODGE
+			They--there'saherdofthem.
+
+				TAYLOR
+			Showthemwe'refriendly.
+
+	CAMERAPULLSBACKasTayloradvancesafewstepsintotheclearing,
+	extendinghisemptyhandsandbeaminglikeapolitician.
+
+				TAYLOR
+				(warmly)
+			Greetings!
+
+98	REVERSE-THESTRANGECREATURES-FROMTAYLOR'SP.O.V.
+
+	Thereareperhapsadozenofthem.TheyshrinkbackasTayloradvances
+	--hostile,frightenedorboth.Wenowseethatsomeofthemare
+	clutchingarticlesoftheastronauts'clothingandequipment.Taylor
+	stops,staresatthemglumly.
+
+				TAYLOR
+			Nocigar.
+
+				LANDON
+			Trytellingthemournames.
+
+	TaylorgrimacesatLandon.
+
+				TAYLOR
+			Well,ifwe'relookingforanicebreaker...
+				(turningtothecreatures)
+			Listen,folks.....
+
+	Moreshrinkingbackbythefrightenedprimitives.
+
+				DODGE
+				(softly)
+			I'mafraidtheyaren'thavingany.
+
+99-	OUT
+102
+
+103-	ASERIESOFFLASHSHOTS-THEJUNGLE(ORRAINFOREST):
+105
+
+	Apistolgoesoffwithadeafeningcrash,andtheprimitivecreatures
+	scatterinpanickyflight.Afterawhile,quietreturnstothejungle.
+
+106	EXT.AJUNGLEPATH-THEASTRONAUTS
+
+	Theyexaminetheremnantsoftheirclothingandequipmentandstartto
+	donwhateverisabletobeworn.Taylorputsonwhatremainsofa
+	rippedpairoftrousers;Dodgestartstoimprovisefromtheremnantsof
+	thekit(itisatornshelterhalf).Landon,likeTaylor,hasthe
+	remainsofhispants.
+
+				DODGE
+			Theydidn'tleavemuchdidthey?
+
+				LANDON
+			Shallwefollowthem?
+
+				TAYLOR
+			Haven'tmuchchoice.
+
+	Astheywalkoffdownthejunglepath.
+
+								DISSOLVETO:
+
+107	EXT.AGROVEOFFRUITTREES-ESTABLISHINGSHOT-DAY
+
+	Thisneednotbeacultivatedgrove.Afewtrees(peachorapricotor
+	avocado,itmattersnot)growwildinapleasantglade.Noristhe
+	groveextensive.Thethreeastronautssitunderatreeinf.g.;the
+	primitivessitunderaclump,oftreessomefiftyyardsaway.Eachcamp
+	isfeedingandwarilywatchingtheother.Inthedistancebeyondthe
+	fruittreesisanopengrassyplainorcultivatedfield.
+
+108	THEPRIMITIVES-FROMLANDON'SP.O.V.
+
+	Theytooaresittingundertrees,munchingfruit.Therearenomore
+	thanadozenaltogether.
+
+109	BACKTOASTRONAUTS-CLOSEGROUPSHOT
+
+				TAYLOR
+			Well,atleasttheyhaven't
+			triedtobiteus.
+
+				DODGE
+			Blessedarethevegetarians.
+
+110	THEOTHERCAMP-FEATURINGAYOUNGWOMAN
+
+	Squattingonherhaunches,eatingfruit,gazingbackatTaylor.Her
+	hairislongandblack,herskinnutbrown,herfacehauntinglylovely
+	andhauntinglystupid.ThisisNOVA.
+
+111	BACKTOASTRONAUTS
+
+	Landonlookso.s.attheprimitives.
+
+				LANDON
+			Wegotoffatthewrongstop.
+
+				TAYLOR
+			You'reouroptimistLookatthebright
+			side.Ifthat'sthebestthereis
+			aroundhere,insixmonthswe'llbe
+			runningthisplanet.
+
+				DODGE
+				(suddenly)
+			Look...
+
+112	THEPRIMITIVES-THEIRP.O.V.
+
+	Theyappeartobeagitatedalthoughneitherwenortheastronauts
+	haveyetheardorseenanycauseforalarm.Theprimitivesgetto
+	theirfeet,sniffing,listening
+
+113	CLOSEGROUPSHOT-THEASTRONAUTS
+
+	Puzzledandalarmedbytheprimitives'behavior,theytoogetto
+	theirfeet.
+
+				LANDON
+			Thinkthey'llattackus?
+
+	Taylorturns,looksbackat:
+
+114	THEDISTANTJUNGLE(ORFOREST)
+
+	Fromwhichtheyrecentlyemerged.Thereisnosignoflife.
+
+115	LONGPANNINGSHOT-THEPRIMITIVES
+
+	Theysuddenlyrunlaterallyacrossthegrove,headingbacktoward
+	theirjungle.Arumblebecomesaudible	itistheSOUNDofHOOFBEATS.
+
+116	VERYLONGSHOT-THEJUNGLE(ORFOREST)
+
+	Twelve"horsemen"suddenlyemergefromthetrees,ridingabreastata
+	canter,likeasquadronofcavalryabouttocharge.Thehorseslook
+	huge.Sodotheriders,butatthisdistancewecannotidentifythem.
+
+117	LONGPANNINGSHOT-THEPRIMITIVES
+
+	Cutofffromtheirnaturalhabitat,theyreversedirectionandflee
+	towardthetallgrassesofthesavanna(orcultivatedfield).
+
+118	LONGSHOT-THERIDERS
+
+	Withanexultantbattlecrytheybreakintoagallop.Thehuntison.
+
+119	CLOSEGROUPSHOT-THETHREEASTRONAUTS
+
+	Stupefied,frozeninplace.
+
+120	LONGSHOT-THERIDERS
+
+	Comingcloser.WeHEARarifleshot,thenaflurryofshots.
+
+121	MED.SHOT.
+
+	Abulletspanksintothefruittreesabovetheirheads.Theyrun,
+	CAMERAPANNINGwiththemastheyracetowardthetallgrassindeep
+	b.g.
+
+122-	ASERIESOFFLASHSHOTS-THEHUNTINTHESAVANNA
+124
+	Asthe"horsemen"closeinonthecreaturesfleeingonfoot.
+
+125	MED.CLOSESHOT-ARIDER
+
+	Hereinsin,raiseshisrifleandfires.Forthefirsttime,wesethat
+	heisaGORILLA.Hewearsasimplequasi-militaryuniform--tunic,
+	trousersandboots.
+
+126	FLASHSHOT-DODGE
+
+	Runningthroughthehighgrass.Heisshotinthebackandfalls.
+
+127	FLASHSHOT-TAYLOR
+
+	Hedropsatthesideofhisfallencomrade.
+
+128	CLOSETWOSHOT-ANGLINGDOWNONDODGE
+
+	AsTaylorrollshimover.Dodgeisdead.
+
+129	WIDERANGLESHOT-THESAVANNA-FEATURINGALINEOFBEATERS
+
+	ThebeatersareallGORILLAS.Theycarrylongsticksandnets,and
+	theirtaskistoflushouttheterrifiedprimitivescoweringinthe
+	tallgrass.
+
+130-	ASERIESOFSHOTS-THEHUNTERSANDTHEHUNTED:
+135	
+	(a)	Landonfleesfromonerideronlytobecutoffbyanother.
+		Hestumblesandarearingstalliontrampleshim.
+	
+	(b)	Athirdmountedgorillaflingsanetoverarunningfemale.
+		Sheishopelesslyentangled.ThisisNova.
+	
+	(c)	Landonliesunconsciousonthegrassyplain,anuglygash
+		onhisforehead.
+	
+	(d)	Taylorcrawlsthroughthetallgrassonhishandsandknees.
+		Aridercrosseshispathwithoutseeinghim.
+	
+	(e)	ThebeaterscloseinonTaylor,blockinghisescaperoute.
+	
+	(f)	Taylorchangesdirectionanddecidestorunforit.
+
+136	EXT,SAVANNA-PANNINGWITHTAYLOR
+
+	Bentlow,hefleesthroughthetallgrass.ASHOTringsout.Taylor
+	falls.
+
+137	CLOSEONTAYLOR
+
+	Lyingonhisback.Hisfingersgotohisthroat.Bloodappearsbetween
+	hisfingers.Heopenshismouthinpain,butnosoundcomesforth,as
+	Taylorsinksintounconsciousness.
+
+								DISSOLVETO:
+
+138	EXT.GROVE-FULLSHOT-THEHUNTERS-DAY
+
+	Thehuntingpartyhasreassembledherebeneaththefruittrees.Someof
+	thegorillashavedismounted;othersarestillonhorseback.Inthe
+	middledistanceisacrudehorse-drawnwagon.Thesidesandtopofthe
+	wagonformawirecage.Threecaptivemalesandonefemalearevisible
+	withinthecage.DodgeandLandonarenowheretobeseen.Twogorilla
+	portersenterscene,draggingamalehumancorpsebytheankles,astwo
+	otherbearersenterscenewithalivingburdenonalongcarryingpole.
+	Taylordanglesfromthepole,heldaloftbythebondsaroundhiswrists
+	andankles.CAMERAPANSwiththetwogorillasastheydumpTaylorinto
+	thewagonandclosethetailgate.
+
+139-	OUT
+140
+
+141	CLOSEONTAYLOR-WITHINWAGONCAGE
+
+	Histhroatissmearedwithblood.Hiseyelidsflutterasheregains
+	consciousness.
+
+142	CLOSESHOT-WHATTAYLORSEES:
+
+	Threeprimitivemalesboundhandandfoot.Theyseemdocilein
+	captivity.Thefemale,Nova,claspsboundwristsaroundherbound
+	anklesandgazesblanklyatTaylor.ThereisaJOLTofMOVEMENTasthe
+	wagongetsunderway
+
+143	CLOSEONTAYLOR
+
+	Withagreateffortheraiseshimselfononeelbowandlooksoutfrom
+	thecage.
+
+144	TRUCKINGWITHTHEWAGON-WHATTAYLORSEES:
+
+	Agorillahunterstandsoveradeadman,onefootplantedhechestof
+	hiskillandhisriflebuttrestingontheonabdomen.Facinghimis
+	anothergorillawithanold-fashionedcameraonatripod.
+
+				APEPHOTOGRAPHER
+			Smile.
+
+	Thehunterbareshisteeth.
+
+145	CLOSEONTAYLOR
+
+	Hefaints.
+
+								FADEOUT
+
+								FADEIN
+
+146	INT.ASURGERY-ANGLINGDOWNONTWOOPERATINGTABLESNIGHT
+
+	Thesurgeryisdimly-lit.(Ifpossibleweshouldbeunawareofthe
+	sourceofillumination.)Taylorliesstrappedtothenearertable.He
+	appearstobeunconscious.Theyoungfemalecaptive,Nova,isstrapped
+	tothetablebesidehim.Sheisconscious.Taylorisreceivingadirect
+	bloodtransfusionfromher.
+
+	HoveringoverTaylorareaNURSEandasurgeonnamedGALEN.Bothare
+	chimpanzees.Galenwearsabloodysurgicalapron,thenurseawhite
+	smock.GalenisremovingafilthybandagefromTaylor'sneck.Adoor
+	behindthemopensandDR.ZIRA,ananimalpsychologist,	enters.She,
+	too,isachimpanzeeandwearsasmocklikethenurse's.
+
+				ZIRA
+			Whichonewaswearingthestrange
+			clothes?
+
+				GALEN
+			Him.
+
+	ZiralooksdownatTaylor.
+
+				ZIRA
+			Willhelive?
+
+				GALEN
+				(irritably)
+			Idon'tknow.Thisbeastlostalot
+			ofblood.
+
+	Galenpawsthroughatrayofsurgicalinstruments.Theequipmentis	
+	obsolescentandtheroomuntidy--likethatofacalloussmall-town
+	veterinarian.
+
+				GALEN
+				(toNurse)
+			There'snoprobehere.Findone!
+
+				NURSE
+			Yes,sir.
+
+	Sheexits.Zirarunsaforefingeracrossadustytable.Hervoiceis
+	softandwell-modulated.
+
+				ZIRA
+			Thisplaceisdirty,doctor.
+
+				GALEN
+				(defensively)
+			Theseanimalsaredirty,doctor.They
+			stink,andtheycarrycommunicable
+			diseases.Whyaren'ttheycleanedup
+			beforethey'rebroughthere?
+
+147	CLOSETWOSHOT-TAYLORANDNOVA
+
+	Hiseyescomeopen.Overthiswehear:
+
+				ZIRA'SVOICE
+				(o.s.)
+			Youdon'tsoundhappyinyourwork.
+
+				GALEN'SVOICE
+				(o.s.)
+			I'mnothingmorethanavetinthis
+			laboratory...
+
+	TaylorfeeblyturnshisheadandlooksatNova.Shereturnshisgaze
+	withanunchangedemptystare.WesensethatTaylorrealizesherblood
+	isflowingintohisveins.Overthiswehear:
+
+				GALEN'SVOICE
+				(o.s.)
+			YoupromisedtospeaktoDr.Zaius
+			aboutme.
+
+				ZIRA'SVOICE
+				(o.s.)
+			Idid.Butyouknowhowhelooksdown
+			hisnoseatchimpanzees.
+
+	Taylorrollshiseyestowardtheapes.Weakasheis,weseehis
+	astonishmentathearingthemtalk.
+
+148	BACKTOGROUPAROUNDOPERATINGTABLE
+
+	astheNursereenterswithaprobeandhandsittoDr.Galen,who
+	proteststoZira:
+
+				GALEN
+			Butthequotasystem'sbeenabolished!
+			Youmadeit.Whycan'tI?
+
+				ZIRA
+			Whatdoyoumean,madeit?I'man
+			animalpsychologist,that'sall.We
+			don'thaveanyauthority.
+
+				GALEN
+			Youdoprettywellwhenitcomesto
+			gettingspaceandequipment.
+
+				ZIRA
+			That'sbecauseDr.Zaiusrealizesour
+			workhasvalue.
+
+				GALEN
+			Hmph.
+
+				ZIRA
+			Thefoundationsofscientificbrain
+			surgeryarebeinglaidrighthere-
+			instudiesofcerebralfunctionin
+			theseanimals.
+
+				GALEN
+			They'restilldirty.Andtheirbiteis
+			septic.Lookatthat...
+
+	HeshowsZirainfectedteethmarksonthebackofhislefthand.
+
+				GALEN
+				(toNurse)
+			Holdhishead.
+
+	TheNursecomplies,grippingTaylor'sskullwithbothhands.Galen
+	leansdownandbeginstoprobethethroatwound.Taylorpassesout.
+
+								DISSOLVETO:
+
+149	INT.AROWOFCAGES-ANIMALLABORATORY-TRACKINGSHOTDAY
+
+	Thecagesarenolargerthansmalljailcells.Therearefourofthem.
+	Bars,notwalls,dividethecages,sothatallfourarevisible.Each
+	ofthefirstthreecagesisoccupiedbyaprimitivemale.Atthemoment
+	thefirsttwoarequiet--dozingorscratchingapathetically.The
+	thirdoccupantisstolidlyregardingahalf-dozenbrightlycolored
+	hollowwoodenboxes,orblocks,Ofvaryingsizesandproportionsonthe
+	floorofhiscage.Heistryingtostacktheboxesinsuchawayasto
+	reachabananadanglingfromacordtwelvefeetoverhead.Hehas
+	correctlyselectedthefirsttwolarge,sturdyblocksforhistower
+	underthebanana--butthetallthirdblockistoounstableonits
+	smallbasetosupportthebroad-basedfourthblock.
+
+149-A	CLOSE-TAYLOR
+
+	Taylor,Lookingmuchstronger,sitsonapileofdirtystrawinthe
+	fourthcage.Thereisacleanbandagearoundhisthroat.Hewatchesthe
+	block-buildingprimitivewithcontemptousamusement.
+
+	Boththethirdandfourthblockstumbletothefloorwhentheprimitive
+	triestomounthistower.Hestandsthere,staringdullyatthe
+	scatteredblocks,thenupattheunattainablebanana.
+
+149-B	MED.-THE	LABORATORY
+	
+	AdoorattheendoftheaisleopensandagorillanamedJULIUSenters,
+	dressedinakeeper'suniform.Hequicklyclosesthedoor,snatchesup
+	abroom,startssweeping.Juliusisobviouslylateforwork.Taylor
+	strugglestohisfeet,movestothebarsofthecage,triestocall
+	out.
+
+				TAYLOR
+				(soundlessly)
+			Hey!Hey!
+
+	Thethreeotherprimitivesmovetowardthebarsoftheircages.Julius
+	barksatthem.
+
+				JULIUS
+			Simmerdown!
+				(pointsatTaylor)
+			Youespecially.
+
+	Thethirdprimitivegoesbacktostackinghisblocks.Juliuscomesup
+	toTaylor'scage,indicatesalikesetofblocksstrewnacrossits
+	floor,extendshisbroomhandletowhackthebananaoverhead.
+
+				JULIUS
+			Bettergiveitatry,stupid.Unless
+			youlikegoinghungry.
+
+	Hereturnstohissweeping.Taylorglowersathim.Amomentlater,the
+	doorattheendoftheaisleopensandDr.Ziraenters.
+
+				JULIUS
+			Goodmorning,Dr.Zira.
+
+				ZIRA
+			Goodmorning,Julius.How'sourpatient
+			today?
+
+				JULIUS
+			Nochange.Theminuteyouopenthedoor,
+			hegoesintohisact.
+
+	ShestartsdowntheaisletowardTaylor'scage.Hegraspsthebars,
+	awaitingheranxiously.Asshepassesthesecondcage,theprimitivein
+	itshakesthebars,jumpsupanddown.Histongueishangingout.Zira
+	smiles,stops,digsintothepocketofhersmock.
+
+				ZIRA
+				(playfully)
+			Well,whatdowewantthismorning?Do
+			wewantsomething?Speak!Comeon,speak!
+
+	Theprimitivecontinuestojumpupanddownenergetically.Ziratakesa
+	cubeofsugarfromherpocket,holdsitupforhisinspection.
+
+				ZIRA
+			Dowewantsomesugar,old-timer?
+
+	Themaneagerlystickshishandthroughthebars.Shedropsthecubein
+	hishands.Hejamsitintohismouth.
+
+				JULIUS
+				(concerned)
+			Youcouldgethurtdoingthat,Doctor.
+
+				ZIRA
+			Don'tbesilly.He'sperfectlytame.
+
+	ShemovestowardTaylor'scage,Juliusbehindher.
+
+				JULIUS
+			They'realltameuntiltheytakea
+			chunkoutofyou.
+
+150	CLOSESHOT-FEATURINGTAYLOR-ZIRAANDJULIUS
+
+	TaylorstartstoopenhismouthasZiracomesuptothebars.
+
+				ZIRA
+			Well,BrightEyes,isourthroat
+			feelingbetter?
+
+				TAYLOR
+				(franticmouthing)
+			Listen,listen--Icanspeak--
+
+	Hewinces,putshishandtothebandage.
+
+				ZIRA
+				(sympathetically)
+			Awww,itstillhurts,doesn'tit?
+
+				JULIUS
+			See?Hekeepspretendinghecan
+			talk.
+
+	TaylorglaresatJulius,slamsthebars.
+
+				TAYLOR
+				(mouthing)
+			I'mnotpretending!Icantalk!
+
+	ZirahurriedlytakesapenandnotebookfromthebreastDocketofher
+	smock,startstoscribble.
+
+				ZIRA
+				(excitedly)
+			Didyouseethat?It'sremarkable!
+
+				JULIUS
+			Huh?
+
+				ZIRA
+			He'stryingtoformwords.
+
+				JULIUS
+			Well,youknowwhattheysay.
+			Humansee,humando.
+
+	Taylorisstaringinsilentfascinationattheopenandnotebook.He
+	stopsmouthing,pointsatthem.
+
+				JULIUS
+			Nowwhat?
+
+	TaylorgesturesforZiratocomeclosertothebars.
+
+				ZIRA
+			Heseemstowantsomething.
+
+	Sheadvancestentativelytowardthecage.
+
+				JULIUS
+			I'dbecareful,doctor.
+
+	Taylorsuddenlyreachesthroughthebars,triestosnatchthepenand
+	notebookfromZira.Juliusinstantlyjabshisbroomhandlethroughthe
+	bars,hittingTaylorintheribs.
+
+				JULIUS
+			WhatdidItellyou!
+				(toTaylor)
+			Trythatagain,I'llbreakyourarm!
+
+	Ziradrawsback,lookingatTaylorinsurprise.
+
+151	CLOSER-TAYLOR
+
+	Hisfaceistwistedinfrustration.
+
+				TAYLOR
+				(mouthing)
+			What'sthematterwithyou?Ican
+			talk!Can'tyouseethat?
+
+	Overthisadoorisheardopeningo.s.,andJulius'voice,nervous,
+	deferential:
+
+				JULIUS'VOICE
+				(o.s.)
+			Goodmorning,YourExcellency.
+
+	Taylorlookso.s.
+
+152-	OUT
+160
+
+161	BOOMSHOT-THETHREEAPES-FROMTAYLOR'SP.O.V.
+
+	JuliusandZiracrosstoastout,imposingorangutanwhohasjust
+	enteredthelaboratory.Juliusbowstohim.ThisisDR.ZAIUS.Likethe
+	otherapes,hewearsasimpletunicandtrousers,buthisgarmentsare
+	ofaCostliermaterial,andseveraldecorationsarewovenintothesash
+	ofhistunic.
+
+				ZIRA
+				(bubbling)
+			Dr.Zaius,I'msogladyoucouldcome.
+			He'soverhere.
+
+	ZaiuscrosseswiththemtoTaylor'scage.Beneathhisausteremanner,
+	wesensetension,worry.ZiralooksupatTaylor,hertoneanappeal.
+
+				ZIRA
+			BrightEyes,showhim!Goahead!
+			Doyourtrick!
+
+	Taylorjustglaresather.
+
+				ZIRA
+			Speak!Goon.	Speakagain.
+
+				TAYLOR
+				(silentmouthing)
+			My-name-isn't-BrightEyesIt's
+			Taylor!
+
+				ZIRA
+			There!Canyoubelieveit?Ilooks
+			likehe'stalking.
+
+				ZAIUS
+				(evenly)
+			Yes,amusing.Amanwhoactslikeanape.
+
+	TaylorturnstoZaius.
+
+				TAYLOR
+				(silentmouthing)
+			I'mnotacting!Icantalk!Howmuch
+			proofdoyouwant?
+
+				ZIRA
+				(thunderstruck)
+			Dr.Zaius,Icouldhaveswornhewas
+			answeringyou!
+
+				ZAIUS
+				(nodding,butunmoved)
+			Heshowsadefinitegiftformimicry.
+
+	Zirawigglesherfingersexcitedly.
+
+				ZIRA
+			IwonderhowheldscoreonaHopkins
+			manualdexteritytest?
+
+	Zaius'voiceisquiet,butthereissteelinit.
+
+				ZAIUS
+			Ananimal?
+
+				JULIUS
+			Look!
+
+	Taylorisfranticallywigglinghisfingers.
+
+				ZIRA
+			He'smovinghisfingers!
+
+				ZAIUS
+			Ofcourse.Hesawyoumovingyours.
+
+				ZIRA
+			Butperhapsheunderstood--
+
+161-A	CLOSE-TAYLOR
+
+	HeispleadingsilentlyasZaius'voiceisheardovertheSHOT.
+
+				ZAIUS'VOICE
+				(o.s.,hard)
+			Manhasnounderstanding,Dr.Zira.
+			Hecanbetaughtafewsimpletricks.
+			Nothingmore.
+
+				ZIRA'SVOICE
+				(o.s.)
+			Ibegtodisagree.Accordingtomyexper-
+			iments--
+
+161-B	CLOSE-ZAIUS
+
+	AwarningburnsoutofhiseyesashestaresatTaylor.
+
+				ZAIUS
+			Awordtothewise,Dr.Zira.Experimental
+			brainsurgeryonthesecreaturesisone
+			thing.I'mallforit.
+
+161-C	CLOSER-TAYLOR
+
+	Fearcloudshiseyes.Abruptly,hestopsmovinghislips.
+
+161-D	MED.THEGROUP
+
+	ZaiusseestheeffecthiswordshavehadonTaylor.HeturnstoZira,
+	goesoninamoredetachedtone.
+
+				ZAIUS
+	Butyourbehavioralstudiesareanothermatterentirely.Tosuggest
+	thatwecanlearnsomethingaboutsimiannaturefromastudyofmanis
+	nonsense.Besides,menareanuisance.Theyoutgrowtheirownfood
+	supplyintheforestandmigratetoourgreenbeltsandravageour
+	crops.
+				(lookingcasually
+				atTaylor)
+	Thesoonerthey'reexterminated,thebetter.
+
+	Heturnstowardthedoor.AdisappointedZirafollowshim.Zaiuslooks
+	backatTaylorjustbeforegoingout.
+
+				ZAIUS
+			It'saquestionofsimiansurvival.
+
+161-E	CLOSE-TAYLOR
+
+	HestaresafterZaius,thanlooksaway,slumpstothefloor.Apause,
+	thenaVOICEisheard.
+
+				APEGUARD
+			Isthistheoneyouwanted,Doctor?
+
+				ZIRA'SVOICE
+				(o.s.)
+			Yes,thankyou.
+				(pause,hervoice
+				muchcloser)
+			BrightEyes?
+
+	Taylorlooksup.
+
+				ZIRA'SVOICE
+				(o.s.)
+			I'vegotapresentforyou.
+
+161-F	ANOTHERANGLE-THECAGE
+
+	Standingoutsidethecage,heldonaleashbyanAPEGUARDisNova.
+	ShelooksatTaylorwithoutexpression.ZiragesturesatJULIUS.
+
+				ZIRA
+			Putherinwithhim.
+
+	Juliusunlocksthecagedoor-,leadsNovainside,removesherleashand
+	collar.Taylorhasgottentohisfeet.Juliusgoesout,lockingthe
+	doorbehindhim.Novahesitates,thenslowlyreachesout,takes
+	Taylor'shand.Zirabeamsatthem.
+
+162-	OUT
+169
+
+								DISSOLVETO:
+
+170	EXT.-EXERCISEYARD-ANIMALCOMPOUND-ESTABLISHINGSHOTDAY
+
+	Itisnothingelaborate,Awirefenceenclosesadirtyard.This
+	compoundissituatedontheoutskirtsofApetownandthetownis
+	visibleinthedistance.
+
+	Thereareaboutadozenadulthumancaptiveswithintheenclosure,no
+	morethanathirdofthemfemales.Someofthemtrudgearoundthedusty
+	yardlikeconvictsinapenitentiary.Otherssquatagainstthesun-
+	drenchedwall.
+
+	Abigmalesuddenlyrunstothefenceandtriestoclimbit.Several
+	guides,armedwithwhipsandtorches,immediatelycloseinonhim.The
+	primitiverecoilsinfearfromafierytorchandrejoinsthecaptives'
+	circle.
+
+171	CLOSERANGLE-THEYARD-FEATURINGTAYLOR
+
+	Heplodssullenlybackandforthacrosstherearoftheyard,
+	occasionallyglancingofftowardtheapproachestothecompound.Nova
+	isathisheels.Heignoresher.Onceagainhelooksoff,stops
+	suddenly.Novabumpsintohim.Heturns,impatientlyshoosheraway,
+	thenlookso.s.,again.
+
+172	ZIRAANDCOMPANION-TAYLOR'SP.O.V.
+
+	Ziracanbeseenapproachingwithayoungchimpanzee,DR.CORNELIUS.He
+	wearsasimplesmockoverhistunicandtrousers.Corneliusglances
+	surreptitiouslyaround,covertlytakesZira'shand.
+
+				CORNELIUS
+			Doyouhavetoworktonight?
+
+				ZIRA
+			No.
+
+				CORNELIUS
+			NeitherdoI.
+
+	Hegivesheraquickpeckonthecheek.
+
+173	CLOSER-TAYLOR
+
+	Hedriftstowardthefence,Novabehindhim.
+
+174	MED.SHOT-ZIRAANDCORNELIUS
+
+	Theycomeuptothefence.ZiranodstowardTaylor.
+
+				ZIRA
+			That'sBrightEyes.TheoneIwastelling
+			youabout.
+
+				CORNELIUS
+			What'ssospecialabouthim?
+
+				ZIRA
+			Watch.
+				(toTaylor)
+			Hello,BrightEyes.How'sour
+			throattoday?
+
+	Taylorstaresatherimpassively,thenlooksaroundtoathatnoguards
+	arewatching,hunkersdown,beginstoscratchinthedust.Novaextends
+	uncleanfingerstotouchthebandageonhisthroat.Taylorflinches,
+	pushesherhandaway.Novatouchesabluishbruiseontheinsideofher
+	ownforearm,thensearchesforasimilarbruiseonTaylor'sforearm.
+
+				ZIRA
+				(excited)
+			Look--sheremembers.
+
+				CORNELIUS
+			Rememberswhat?
+
+				ZIRA
+			Thebloodtransfusion.
+
+				CORNELIUS
+				(peeved)
+			Zira,comeon.Youknowthey
+			can't--
+				(hestops,lookingoff)
+			Ohoh.HerecomesNumberOne.
+
+	Taylorlooksupando.s.,quicklyrises.
+
+175	ANOTHERANGLE-THEYARD-FEATURINGDR.ZAIUS
+
+	Whoisapproachingthetwoscientistsfromdeepb.g.Zaiusisfollowed
+	byahugeandmuchdecoratedgorillaWhomwerecognizeastheLeaderof
+	theHuntClub.
+	
+				ZIRA
+				(inawhisper,to
+				Cornelius)
+			Something'sbotheringhim.He's
+			beenpryingaroundthelabforthelast
+			twodays...
+
+				ZIRA
+				(asZaiuscomes
+				nearer)
+			Goodmorning,Dr.Zaius.YouknowDr.
+			Cornelius,myfiance.
+
+	Corneliusbowsrespectfully.Zaiusispatronizinglypolite.
+
+				ZAIUS
+			Oh,yes--theyoungapewith
+			ashovel.Ihearyou'replanning
+			anotherarcheologicalexpedition.
+
+A-175	MED.SHOT-TAYLOR
+
+	Hehassteppedbackfromthemarkshemadeinthe-dust,iswatching
+	Zaiuswithconcern.
+
+				CORNELIUS'VOICE
+				(o.s.)
+			Yes,sir.Iftheacademyagrees.
+
+				ZAIUS'VOICE
+				(o.s.)
+			Theprojectwillrequiremysupport,of
+			course.
+
+176	MED.CLOSESHOT-ANGLINGDOWNONTAYLORANDNOVA
+
+	AprimitivemalesquatsdowntoseewhatTaylorhasmarkedonthe
+	ground.Inlettersafoothighhehaswritten:
+
+			ICANWRITE
+
+	Nova,atoncepetulantandplayful,erasestheWRITEwithabarefoot.
+	Taylorangrilyflingsheraside.Thisviolenceprovokestheprimitive
+	male,whosnarlsatTaylorandcuffshim.OverthisweHEARfroma
+	distance:
+
+				CORNELIUS'VOICE
+				(o.s.)
+			IhopeIcancountonit,sir.
+
+				ZAIUS'VOICE
+				(o.s)
+			Afriendlywarning,Cornelius--
+			whenyou'rediggingforartifacts,
+			don'tburyyourreputation.
+
+	Taylorslugsthesnarlingmale,whowadesin,tryingtobitehim.
+
+				AVOICE
+				(o.s.)
+			Guards!
+
+177	WIDERANGLE-THEFIGHT
+
+	Twogorillaguardsrushintobreakupthefight.Oneofthemlashes
+	outwithhiswhip.TheotherpokeshistorchatTaylor.Itsflame
+	brusheshisarm.Tayloropenshismouth,givesasilentyellofpain,
+	shrinksback.Zirarunstothefence.
+
+				ZIRA
+				(toguards)
+			Stop!You'vehurthim!Taketheminside!
+
+	Proddingthemalcreantswiththeirtorches,thetwoguardsherdthem
+	towardadoorwayinthewall.Zirahurriesaroundthesideofthefence
+	ando.s.
+
+178	MED.SHOT-ZAIUS,CORNELIUS,HUNTCLUBLEADER
+
+				ZAIUS
+			Cornelius,ifyouhaveamomenttoday,I'd
+			liketodiscussthisexpeditionofyours
+			inmoredetail.
+
+				CORNELIUS
+				(eagerly)
+			Certainly,sir.I'llgetmynotesandcome
+			rightover.
+
+	Heexitshurriedly.TheHuntClubLeaderturnstoZaius.
+
+				HUNTCLUBLEADER
+			Idon'tunderstandtheseanimalpsychologists.
+			What'sDr.Ziratryingtoprove?
+
+				ZAIUS
+			Thatmancanbedomesticated.
+
+	Thehunterguffaws.Zaiusturnsawayandlooksdownat:
+
+179	THEDUSTUNDERFOOT
+
+	Justbeyondthefencewecanmakeouttheletters:
+
+			ICAN
+
+	Zaius'extendedfootappearsbeneaththebottomwireofthefence.The
+	footwipesouttheletters.
+
+180	CLOSEUP-ZAIUS
+
+	Hisfaceisamask.
+
+181	INT.TAYLOR'SCAGE-MED.SHOT-DAY
+
+	Heisslumpedagainstthebarsofthecell,gingerlytouchingalarge,
+	reddeningblotchonhisarm.Juliuswatcheshimuncertainlyfromafew
+	yardsaway.Intheb.g.,theoutsidedooropensandZirarushesin,
+	hurriesdowntheaisle.
+
+				JULIUS
+			Whathappened?
+
+				ZIRA
+			Thosefoolsandtheirtorches!Doyou
+			haveanyointment?
+
+				JULIUS
+			I'llsee.
+
+	Hemovestoacabinetattheotherendofthelaboratory,rummages
+	throughsomedrawers.
+
+182	MED.SHOT-ZIRA-FROMTAYLOR'SP.O.V.
+
+	ZiracomesuptoTaylor'scage,studieshimsolicitously.
+
+				ZIRA
+			I'msorry,BrightEyes.
+
+183	ANOTHERANGLE-TOINCLUDETAYLOR
+
+	HelookssteadilyatZira,whoisonlyanarm'slengthaway.CAMERA
+	MOVESINonthem.SuddenlyTaylorreachesout,snatchingthepenand
+	notebookfromthepocketofhersmock.Ziraleapsbackwithacry.
+	Juliusgrabsaclub,racesuptothecage,unlocksthedoor.
+
+				JULIUS
+			Itoldyouwhatyou'dget!
+
+184	WIDERANGLE-TOINCLUDETHEMALL
+
+	Taylorisscribblingfuriouslyonasheetofnotepaper.Theguard
+	movesin,hisclubupraised.
+
+				ZIRA
+				(pleading)
+			Julius,don't.Itdoesn'tmatter.
+
+	Juliusswingshis-clubatTaylor'shead.Taylorliftshisrightarmto
+	wardofftheblow,andthestickstrikeshimsharplyonthehand.He
+	dropsthepenandnotebook.Theguardswingsagain,drivingTaylorto
+	thewall.ThenJuliusretrievesthestolenarticles.
+
+185	ANOTHERANGLE-FAVORINGZIRA
+
+	Theguardreturnsherpenandnotebookwiththecomment:
+
+				JULIUS
+			Naturalbornthieves,aren'tthey?
+
+	Ziraglancesatthenotebook.Herfaceclouds.
+
+186	INSERT-WHATSHEREADS:
+
+	Ahasty,almostillegiblescrawl:
+
+		MYNAMEISTAYLOR.
+
+187	CLOSEUP-ZIRA
+
+	Hereyesafirewithawildsurmise.
+
+188	TWOSHOT-ZIRAANDJULIUS
+
+	HereyesneverleaveTaylorasshetellstheguard:
+
+				ZIRA
+			Getmeacollarandleash.I'm
+			takinghimtotheinfirmary.
+
+				JULIUS
+			He'svicious,Doctor.Besides,it's
+			againsttherules.
+
+				ZIRA
+			DoasIsay.
+
+	TheguardshrugsandmovesOff0.3.ZirabeckonstoTaylor.Hecomes
+	forwardtothebarsofthecage.
+
+				ZIRA
+				(sottovoce)
+			Youwouldn'thurtme,would
+			you...Taylor?
+
+189	INT.DR.CORNELIUS'OFFICE-ESTABLISHINGSHOT-DAY
+
+	Theofficeissimple,almostSpartan.Therearebooksbutnobric-a-
+	brac;severalpaintedportraitsofGreatApesbutnotaperecorderor
+	othermodernofficeequipment.Taylorsitsatadesk,scribbling
+	furiouslyonasheetofpaper.Hisleashhasbeenremoved,butnothis
+	collar.Zirastandsathiselbow.Corneliuspacesnervouslyupand
+	down,readingasheafofnotesTaylorhasalreadywritten.
+
+				CORNELIUS
+				(stubbornly)
+			It'sastunt.Humansdon'twrite.
+
+				ZIRA
+			Dear,you'reascientist.Don't
+			youbelieveyourowneyes?
+
+				CORNELIUS
+				(toTaylor)
+			Wheredidyoulearntodothis?
+
+190	ANOTHERANGLE-THEOFFICE
+
+	Taylorscribblessomethingonasmalldeskpad,ripsoffthepage,
+	handsittoCornelius.
+
+				CORNELIUS
+			JeffersonPublicSchool,FortWayne,
+			Indiana?
+
+	HelooksatTaylornarrowly.Taylornods.
+
+				CORNELIUS
+				(sardonically)
+			Backonthatplanetyousayyoucamefrom?
+				(Taylornodsagain)
+			Um-hm.
+				(toZira)
+			Hemaybeintelligent,buthe'salsomad.
+
+	Taylorscribblessomethingelseonthepad,handsittoZira,pointsat
+	Cornelius.
+
+				ZIRA
+				(readsaloud)
+			'Andyou'reafool'.
+
+	Shesmiles.Corneliusbristles.
+
+				CORNELIUS
+			Now,justaminute--
+
+				ZIRA
+			Oh,Cornelius,bequiet.
+
+	Taylorhasresumedwriting.HehandsthesheettoZira,whoreads
+	aloud.
+
+				ZIRA
+			'Dodgewaskilledinthehunt.What
+			happenedtoLandon?'
+				(lookingatTaylor)
+			Idon'tknow.
+
+				CORNELIUS
+				(scornfully)
+			Andtheyfelloutoftheskywithyou?
+
+	Taylorwritesquickly,handsthenotetoZira.
+
+				ZIRA
+				(reading)
+			'Notfell--flew!'
+
+	Taylorimpatientlybeginstofoldasheetofpaper.
+
+				CORNELIUS
+			Flightisascientificimpossibility.
+
+				ZIRA
+			Andevenifitweren't,whyfly?
+			Wherewoulditgetyou?
+
+	Taylorpointstothefloorandmouthstheword"Here."Heflingsthe
+	paperplanehehasjustfashionedintotheair.Itdescribesagraceful
+	arcaroundtheroomandlandsatthefeetofCornelius,whoslowly
+	picksitup,thenexchangesalongglancewithZira.
+
+				CORNELIUS
+				(softly)
+			Well,now...
+
+	Taylorscribblesonapieceofpaper,handsittoZira.
+
+				ZIRA
+				(reading)
+			'Doyouhavemaps?'
+
+	Corneliusputsthepaperplaneonhisdesk,crossestoawallmap
+	designedlikeawindowshade.HepullsitdownTaylorandZirajoinhim
+	atthemap.
+
+191	CLOSEONMAP
+
+	It'snotamapofthewholeplanet,ofcourse,butonlyofthatportion
+	knowntotheapes.Thereforeithastheantiqueandfragmentaryaspect
+	ofamapdrawnbysomeBabyloniancartographer.
+
+	Aswatchofblueattherightmarginindicatesasea.Inthesouthwest
+	quadrantarethe"greenbelts"oftheapecivilization,lookingonthe
+	maplikejadestonesstrungoncrescent-shapednecklace.Rubyidotsin
+	theladeindicateapecommunities.Thenorthwestquadrant,colored
+	brown,isapparentlyuninhabited.Eastofthegreenbeltsisapatchof
+	greensavanna,andnexttoitthedarkergreenofajungle.Theeastern
+	quadrantsarerenderedinyellow,andexceptforabluelake,appearto
+	belifelessdesertandbarrenmountain.ThisareaismarkedFORBIDDEN
+	ZONE.
+
+	Usingapointer,CorneliusorientsTaylor,indicatingareddotinthe
+	middleofthegreenbelt.
+
+				CORNELIUS
+			Wearehere...
+				(movingpointer)
+			Youwerecapturedabouthere.
+
+	Taylorstudiesthemap,thenpointingatthelakeintheeastern
+	desert,hegoesintoabriefcharade,dramatizingtheastronauts'
+	landingandtrek.
+
+				ZIRA
+				(interpretinghis
+				movements)
+			Youfellinthewaterhere?...youcame
+			ashore...youmarchedacrossthedesert...
+			themountains...manydaysandnights...
+			andreachedthejungle.
+
+	Taylornods,smilesgratefully.
+
+				CORNELIUS
+				(flatly)
+			Out-of-the-question!.
+
+	Taylorslamshisfistagainstthewallinfrustration.
+
+				ZIRA
+				(annoyed)
+			Cornelius,whydoyouinsiston
+			provokinghim?
+
+				CORNELIUS
+				(tappingmap)
+		Nocreaturecansurviveinthatpartof
+		theForbiddenZone.I'vebeenthere.I've
+		seenit.
+
+192	WIDERANGLE-THETHREESOME
+
+	Taylorstridestothedesk,writessomething,handsittoZira.
+
+				ZIRA
+				(reading)
+			'Thenhowdoyouaccountforme?,
+
+				CORNELIUS
+			Idon't.AndI'mnotgoingtotry.
+
+				ZIRA
+			Butwhataboutyourtheory?Theexistence
+			ofsomeonelikeTaylormightproveit.
+
+				CORNELIUS
+				(shushingher)
+			Zira,areyoutryingtogetmyheadcut
+			off?
+
+				ZIRA
+			Don'tbefoolish.Ifit'strue,they'll
+			havetoacceptit.
+
+				CORNELIUS
+			No,theywon't-
+
+	TaylortouchesZiraonthearm,makesagestureofinquiry.
+
+				ZIRA
+			Corneliushasdevelopedabrilliant
+			hypothesis-
+
+				CORNELIUS
+				(quickly)
+			It'sprobablywrong--
+
+				ZIRA
+			--thattheapeevolvedfromalowerorder
+			ofprimate,possiblyman.Inhistripto
+			theForbiddenZonehediscoveredtracesofa
+			cultureolderthanrecordedtime-
+
+				CORNELIUS
+			Theevidencewasverymeager--
+
+				ZIRA
+			Youdidn'tthinksothen.
+
+				CORNELIUS
+			ThatwasbeforeDr.Zaiusandhalfthe
+			Academysaidtheideawasheresy.
+
+				ZIRA
+			Howcanscientifictruthbeheresy?What
+			ifTaylorisexactlytheproofyouneeded?
+			Amutation.Amissinglinkbetweenthe
+			unevolvedprimateandtheape-
+
+	Taylorbangshisfistonthedesk,mouthstheword"No!"scribbles
+	somethingonapieceofpaper.
+
+				CORNELIUS
+			He'stouchy,isn'the?
+
+	TaylorthruststhesheetatZira,whoreadsitaloud.
+
+				ZIRA
+			'Iamnotamissinglink.'
+
+				CORNELIUS
+			Becauseifheisamissinglink,itmeans
+			theSacredScrollsaren'tworththeir
+			parchment.
+
+				ZIRA
+			Well,maybethey'renot.
+
+				CORNELIUS
+			No,thankyou'.Iwon'tgetinto
+			thatbattle.
+
+				ZIRA
+			Oh,Cornelius,showsomestrength!
+
+				CORNELIUS
+			Zira,listentome.We'vegotafine
+			futureaheadofus.Marriage.Stimulating
+			careers.I'mupforaraise--
+
+	Atthatmoment	thereisa.loudRAPatthedooro.s.Allturn.
+
+193	REVERSEANGLE-TOINCLUDETHEDOOR
+
+	Dr.Zaiusenterswithanotherportlyfigure,DR.MAXIMUS.LikeZaius.,
+	Maximusisanorangutan.
+
+				CORNELIUS
+				(flustered)
+			Dr.Zaius--
+
+				ZAIUS
+				(notunkindly)	
+			Didyouforgetourappointment,
+			Cornelius?
+
+				CORNELIUS
+			Oh.,no.,sir.Iwasjustassembling
+			mynotes.
+
+				ZAIUS
+			YouknowDr.Maximus,ourCommissioner
+			forAnimalAffairs?
+
+				CORNELIUS
+			Certainly,sir.It'sapleasuretosee
+			youagain.
+
+	Hehurriestohisdesk,startsgatheringpapers.MaximusnotesTaylor
+	withdistaste.
+
+				MAXIMUS
+			Whatisthat?
+
+				ZIRA
+			Aman,Dr.Maximus.
+
+				MAXIMUS
+			Iknowit'saman.Andyouknowthe
+			rules.Noanimalsoutsidethecompound,
+			andmostcertainlynotwithoutaleash.
+
+194	ANOTHERANGLE-THEOFFICE-FAVORINGZAIUS
+
+	Duringtheensuingexchange,Zaiuswandersidlythroughtheoffice.He
+	glancesatthescatteredhandwrittennotes,butdoesnotreadthem.
+	MeanwhilearattledZirarepliestoMaximus.
+
+				ZIRA
+			Yes,Sir.Butthis--creature
+			isaspecialcase.
+
+				MAXIMUS
+			Whyspecial?
+
+				ZIRA
+			We're--conductinganewexperiment.
+
+				ZAIUS
+			Wouldn'titmoreproperlybedonein
+			youroffice?
+
+				ZIRA
+			Yes,Sir.
+
+				MAXIMUS
+				(calling)
+			Guards?
+
+	ThegorillaGUARDSenterfromoutside.
+
+				MAXIMUS
+			Returnthisbeasttothecompound.
+
+195	ANOTHERANGLE-FAVORINGTAYLOR
+
+	Heregardstheapeswithhostilityastheycrosstohim.Onepicksup
+	hisleash.OverTHESHOTwehear:
+
+				ZAIUS'VOICE
+				(o.s.)
+			What'sthis?
+
+196	REVERSEANGLE-FEATURINGZAIUS
+
+	Zirastiffens,lookingatZaius.Heisholdingthepaperplane
+	fashionedbyTaylor.
+
+				ZIRA
+			Atoy.Itfloatsontheair.
+				(faintdefiance)
+			Tryit.
+
+				CORNELIUS
+				(awarning)
+			Zira....
+
+	Zaiuslooksdownatthepaperplaneinhishand,thenbacktoZira.He
+	smilestolerantly.
+
+				ZAIUS
+			Nonsense.
+
+	Hecrumplesthepaperplaneintoaball.,dropsitonthedesk.The
+	apehookstheleashtoTaylor'scollar,startsleadinghimout.Zira
+	followsthem.
+
+								DISSOLVETO:
+
+197	INT.CAGES-ANIMALCOMPOUND-FULLSHOT-DAY
+
+	Thecagedprimitivesareasleep.Julius,thekeeper,dozesinachair
+	outsideTaylor'scage.CAMERAPIVOTSMOVINGINONTaylor,whoislying
+	onhisside,alsoasleep.Novaiscurledupbehindhim.Atthesoundof
+	adooropening,shecomesinstantlyawake,sittingupandclutching
+	Taylor'sarm.Hecomesgroggilyawake,raisinghisheadintimeto
+	hear:
+
+				JULIUS'VOICE
+				(o.s.)
+			What'sup,Lieutenant?
+
+198	REVERSEANGLE-WHATTAYLORSEES:
+
+	TWOGORILLAOFFICERShavejustenteredthecompound.Theywearside
+	arms.Juliushasjustrisenfromhischair.
+
+				APELIEUTENANT
+			We'retakingNumberFourovertosurgery
+			infiveminutes.Havehimready.
+
+				JULIUS
+			Howcome?Thebeast'sthroatisnearly
+			healed.
+
+				LIEUTENANT
+				(snickering)
+			It'snothisthroatthistime.Thevet's
+			goingtogeldhim.
+
+199	CLOSEUP-TAYLOR
+
+	Hestiffensbutdoesnotmove.Theapes,ofcourse,speakfreelyin
+	frontofhim,believingtheanimalcannotunderstand.
+
+				JULIUS'VOICE
+				(o.s.)
+			Dr.Zirawon'tlikeit.Shewantsthis
+			pairtomate.
+
+200	BACKTOTHEAPES-FROMTAYLOR'SP.O.V.
+
+	AstheLieutenantreplies:
+
+				LIEUTENANT
+			TheseorderscamefromDr.Zaiushimself.
+			There'snothingshecandoaboutit.
+
+	Thetwogorillasexit.Theguardcrossestoawallpegforacollarand
+	'Leash.
+
+201	CLOSETWOSHOT-TAYLORANDNOVA
+
+	PushingNovaaside,Taylorrises.
+
+202	MED.SHOT-THECAGE
+
+	AsJuliusunlocksthedoorandcautiouslyapproachesTaylor,carrying
+	thecollarandleash.
+
+				JULIUS
+				(murmuring)
+			Ifonlyyouknew,BrightEyes,what
+			they'regoingtodo...
+				(raisingcollar)
+			Standstillnow...don'tgivemeany
+			trouble.
+
+	TheheelofTaylor'srightpalmcrashesintothekeeper's,chin,nearly
+	snappinghisneck.Juliusfallsunconscious.Taylorleansoverhim,
+	takinghisnightstickandasetofkeysonhisbelt.
+
+203	REVERSEANGLE-TOINCLUDENOVAANDMALEINADJACENTCAGE
+
+	Themalehasawakened.HestaresstupidlyatTaylor.Novais
+	whimpering,littlestrangecriesoffear.Taylormoveso.s.
+
+204	ANOTHERANGLE-PANNINGWITHTAYLOR
+
+	Heleavesthecage,movesswiftlytothenearbydoorandexits.
+
+205	INT.ADARKCORRIDOR-FULLSHOT-DAY
+
+	Barefoot,Taylorsilentlypadsdownthecorridortoalockeddoor.
+
+206	CLOSEONADOOR
+
+	Whichisvisiblebecauseofabeamofsunlightfromthehalf-opendoor
+	ofaguardroom.WeHEARamurmurofapevoicesandLAUGHTER.Taylor
+	fumbleswiththekeys,findsonethatfitsthelockandopensthedoor.
+
+207	EXT.ANIMALCOMPOUND-MED.SHOT-TAYLOR-DAY
+
+	Heemerges,quietlylockingthedoorbehindhim.Twotetheredhorses
+	canbeseenindeepb.g.,andanothergustofLAUGHTERcanbeheard
+	fromthenearbyguardroom.Taylorlooksoff.
+
+208	LONGSHOT-WHATTAYLORSEES:
+
+	Asalreadyestablished,theanimalcompoundissituatedonthe
+	outskirtsoftheapes'community.Thestrangeskylineofthetowncan
+	beseeninthedistance.
+
+209	PANNINGWITHTAYLOR
+
+	Hestartstocrossanopenfieldoutsidethecompound.Atthatmoment
+	weHEARashrillpoliceWHISTLEfromtheguardroom.Taylorbreaksinto
+	arun.
+
+210	REVERSEANGLE-THECOMPOUND
+
+	Asthetwogorillaofficersemergefromthebuildingandruntoward
+	theirhorses.
+
+211	EXT.ADIRTROAD-LONGSHOT-TAYLOR
+
+	Herunsdowntheroad,startsacrossthelongcausewaythatbisectsa
+	smalllake,lookingoverhisshoulder.
+
+								QUICKDISSOLVETO:
+
+212	EXT.APETOWN-LONGESTABLISHINGSHOT-DAY
+
+	Thecommunitywesueattheendofthecausewayissmallandarcane.
+	Therearenopowerlines,nostreetlamps--indeed,nostreetsas
+	such,butonlyasmallclusterofbuildingsaroundapleasantmall.The
+	architectureofthebuildingsisfaintlyderivativeofthesimplerand
+	lessrococoworkofAntonioGaudi--columnsandpillarsofbrickor
+	exteriormasonrylooklikethetrunksandbranchesofgreattreesand
+	suggestanarborealpast.
+
+	Asmallnumberofapesarevisibleonthemall:
+
+	Taylordartsbehindthebuttressofabuilding,casingthesituation.
+	Helooksbackat:
+
+213	EXT.LAKEANDCAUSEWAY-LONGSHOT-MORNING
+
+	Thetwomountedgorilla-policecanbeseenonthecauseway,galloping
+	straighttowardCAMERA.ItisevidenttheywillsoonspotTaylor.
+
+214	BACKTOTAYLOR-CLOSESHOT
+
+	Heretreatsfromthebuttresstoadarkarchwayandvanishesinsidethe
+	building.
+
+215	INT.ADARKVESTIBULE-MOVINGWITHTAYLOR
+
+	Thevestibuleisnothing,nosetrequired,adarkspacethroughwhich
+	Taylormovestowardashaftoflight.WeHEARfaintlythediscordant
+	chordsofanorgan.Orisitanorgan?Atanyrate,astrangeand
+	melancholytune.Taylorarrivesatafont.
+
+216	INT.ATEMPLE-PANNINGWITHTAYLOR
+
+	Heappearsoutofdarknessintohalf-light.Therearofthetempleis
+	obscure.Taylordartsbehindascreen.Crouchingthere,heobserves:
+
+217	AFUNERALCEREMONYINTHETEMPLE-MED.LONGSHOT
+
+	Thetempleitselfissmallandaustere.Thereisnoaltar,butagainst
+	aplainbackdropweseeastatueoftheLawgiver,aGreatApeholdinga
+	book.BelowtheLawgiverisanORANGUTANMINISTERclothedinblack
+	robes.Hestandsinfrontofaclosedcoffin.Adozenmourners,seated
+	oncomfortablewickerchairs,formasemi-circlearoundthecoffin.The
+	apeladieswearcowls.
+
+				MINISTER
+			Weepifyoumust,butmakeanendof
+			sorrow.Helivesagain.Yes,hehas
+			foundpeaceinHeaven.
+
+218	CLOSEUP-TAYLOR
+
+	Crouching,listening,wide-eyed.
+
+				MINISTER'SVOICE
+				(o.s.)
+			Hewasamodelforusall,agorillato
+			remember;hunter,warrior,defenderof
+			theFaith.
+
+219	BACKTOFUNERALCEREMONY-FROMTAYLOR'SP.O.V.
+
+	Astheministercontinueshiseulogy,asmallapeboydetacheshimself
+	(aschildrenwill)fromthegroupofmournersandcomesmarchingupthe
+	aisletowardtherearofthetemple.
+
+				MINISTER
+			Cherishedhusband,belovedfather,
+			generousmaster--yes,hewasafont
+			ofsimiankindness.
+
+220	REVERSEANGLE-SHOOTINGATTAYLOR
+
+	Whoisstillcrouchingbehindthescreenindeepb.g.Thesmallfryis
+	comingcloser.Overthiswehear:
+
+				MINISTER'SVOICE
+				(o.s.)
+			Thedeardepartedoncesaidtome:
+			'InevermetanapeIdidn'tlike'...
+
+	ThesmallfryspotsTaylor.
+
+				CHILD
+				(shrillsoprano)
+			Look!.It'saman!
+
+	Themourners'headsturn.Taylorslinkstowardthevestibule.
+
+221	ANOTHERANGLE-FEATURINGTHEMINISTER
+
+	Heisaghast.
+
+				MINISTER
+			InHeaven'sname...
+				(asidetoushers)
+			Getridofthatcreature.
+
+	Twoushersrise,movingpastCAMERAando.s.
+
+222	EXT.TEMPLE-CLOSEONVESTIBULEDOOR
+
+	Stayingcloseonthetemplewall,Taylormovesstealthilyawayfromthe
+	vestibuledoor.Thetwoapeushersappear.
+
+				FIRSTUSHER
+				(pointing)	
+			Thereheis:
+
+	TheymovetowardTaylor.
+
+223	FLASHSHOT-TAYLOR
+
+	Herunsoutontothemall.
+
+224	FULLSHOT-THEMALL
+
+	Taylorbelatedlyseesthatheisrunningstraighttowardhistwo
+	mountedpursuers.Dartingoffinanotherdirection,heracespast
+	startledpedestrians.
+
+225	REACTIONSHOT-TWOCHIMPPEDESTRIANS
+
+	Theydoaslowtake.
+
+				FIRSTCHIMP
+			YouseewhatIsaw?
+
+				SECONDCHIMP
+			Must'veescapedfromthezoo.
+
+226	MED.SHOT-AMOUNTEDCOP
+
+	HehasspottedTaylor.Drawingafoldednetfromhissaddlebag,he
+	swingsitoverhead(likeacowboywithalariat)andgallopsoffin
+	pursuitoftheman.
+
+227-	SEVERALSHOTS-TAYLORANDPURSUINGMOUNTIE
+231
+
+	Taylorrunsfranticallyfrombuildingtobuilding,roundingcorners,
+	vanishingmomentarilyandreappearingonanotherpartofthemall.At
+	onepointthemountienearlyovertakeshimandflingshisnet,which
+	fallsshort.Taylorrunson.
+
+232	EXT.ANAMPHITHEATER-LOWANGLESHOT(FROMGROUNDLEVEL)
+
+	Itisanopen-airstructure,likeaGreektheater,locatednearthe
+	centralmail.Steeplytiered,itseatsnomorethanfiftyapes.The
+	daisinthepitissomefifteenfeetabovegroundlevel.
+
+	Taylorentersscene,runningtowardtheamphitheater.Changing
+	direction,hedartsintowhatappearstobeanaccesstunnel.Amoment
+	laterthepursuingcopridesinto'scene,dismountsandwalkstoward
+	theamphitheater,lookingaroundforTaylor.
+
+233	EXT.AMPHITHEATER-HIGHANGLESHOT(FROMTOPMOSTTIER)
+
+	Taylorsuddenlyemergesfromtheaccesstunnelandrunsuparamp
+	encirclingtheamphitheater.(Aretainingwallshieldshimfromthe
+	viewoftheapes.)Pausingforbreathatthetopoftheramp,Taylor
+	crouchesbehindtheuppermosttierofseatsandpeersdown:
+
+	THEAMPHITHEATER-FROMTAYLOR'SP.O.V.
+
+	Thecoplooksaround,spotsTayloratthetoptier,andstartsupafter
+	him.
+
+235-	OUT
+237
+
+238	EXT.TOPOFAMPHITHEATER-PANNINGWITHTAYLOR
+
+	Hestartstorunbackdowntheramp,butissuddenlyconfrontedbyhis
+	originalpursuer(thedismountedcopcominguptheramp.Reversing
+	direction,Taylorrunsaroundtherimoftheamphitheaterandvanishes
+	intoanexittunnel.Thecopblowshiswhistle,summoninganothercop,
+	whojoinshiminthechase.
+
+239-	ANOTHERPARTOFTHEMALL-ASWIFTSEQUENCEOFSHOTS
+244
+
+	Inwhichweseethefugitive,hispursuersandthereactionsofape
+	shoppersandworkers.
+
+245-	EXT.OPEN-AIRMARKET-SEVERALSHOTS
+248
+
+	Amarkethasbeensetupononesideofthemall,wherestreetvendors
+	behindcartsortableshawktheirwares:fruits,vegetables,wearing
+	apparel,etc.AsTaylorrunsfranticallythroughthemarketplace,
+	severalapesjointhechase.Intheensuingpandemonium,likethe
+	proverbialChinesefiredrill,severaltablesareoverturned.
+
+249	EXT.ABUILDING-CLOSEONANARCHWAY
+
+	Taylorrunsintoscene,pauses,panting,andlooksbackathis
+	pursuers.Thenhedartsthroughthearchwayintothebuilding.
+
+250	INT.BUILDING-TRACKINGWITHTAYLOR-DAY
+
+	Forthemomentheisthesolevisitorinthiswing.Hispaceslowstoa
+	walkasheandweobservefleetinglythespecimensinwhatisasimian
+	museum:Possiblyseveralstuffedandunfamiliaranimals;primitive
+	artifactsandfossils;possiblytheskeletonofadog,acat,etc.Over
+	thiswehearashrillpoliceWHISTLE.
+
+251	FLASHSHOT-TAYLOR
+
+	Herunsagain.
+
+252	MED.SHOT-ANAPEMOTHERANDCHILD
+
+	LookingatthestuffedanimalsasTaylorracespast.Themothergivesa
+	startledSCREAM.
+
+253	REACTIONSHOT-AMUSEUMGUARD
+
+	Hestartsafterthefugitive.
+
+254	ANOTHERPARTOFTHEMUSEUM-FEATURINGTAYLOR
+
+	HerunspastdisplaysofotherstuffedanimalstowardCAMERAandhalts
+	abruptlyinclosef.g.,shockedby:
+
+255	WHATHESEES:	DODGE
+
+	stuffedandmounted,Dodgebareshisteethattheworld.
+
+256	CLOSEUP-TAYLOR
+
+	Reactinginhorror.HehearsanotherpoliceWHISTLEandtheechoing
+	FOOTSTEPSofapproachingguards,whichmuffflehisstrangledgasp:
+
+				TAYLOR
+			Dodge...
+
+	TaylorvanishesinaBLURofmovement.
+
+								CUTTO:
+
+257	EXT.THEMALL-APETOWN-FULLSHOTFROMONHIGH-DAY
+
+	Orderhasbeenrestoredintheopen-airmarket.Taylorburstssuddenly
+	intoviewfromabuildingonthefarsideofthemall,runninginpanic
+	fromapeguardsinclosepursuit.Amountedpolicemanspotshimand
+	headshimoff.Changingdirection,Taylorisinterceptedbyanother
+	mountedGorilla.Andthenathird.
+
+	CAMERAHOLDS,ANGLINGDOWNonthecenterofthemall.Wearewitnessing
+	ahideousgame:"baitingtheman."Themountedpolicedonotshootor
+	clubTaylor,forhecannotescape--buttheycirclehim,theirlong
+	whipsCRACKINGoverhishead.
+
+258	CLOSERANGLE-THECIRCLEAROUNDTAYLOR-FAVORINGAMOUNTIE
+
+	whounfoldshisnet,swingsitoverheadandflingsitatTaylor.This
+	timehebagshisquarry.Taylorgivesup.Spent,docile,entangledin
+	thenet,hestandsstock-stillinthecenterofthemall.Guardsand
+	civilliansonfootjointhecirclearoundthemanatbay.Theyregard
+	himwarily.
+
+259	CLOSESHOT-DR.ZIRA
+
+	ShepushesthroughthesimiancrowdaroundTaylorandhurriestohis
+	side.
+
+260	CLOSETWOSHOT-TAYLORANDZIRA
+
+	Shepawsatthenet,cryingimpulsively:
+
+				ZIRA
+			Taylor,why'dyourunaway?
+
+	Ziraremovesthenetfromhisface.Pantingwithexhaustion,Taylor
+	flicksawildglanceather.Helooksdemented.
+
+261	WIDERANGLE-TOINCLUDETWOGORILLAOFFICERS
+
+	whoapproachTaylorandZira.(Theyarethesamegorillasintroducedin
+	Scene198.)Oneofthemcarriesacollarandleash.Theotherpresents
+	anI.D.cardtoZira.
+
+				LIEUTENANT
+			Securitypolice.
+
+				ZIRA
+				(promptly)
+			I'minchargeofthisman.
+
+				LIEUTENANT
+			Nolonger,madame.Heisnowinthe
+			custodyoftheMinistryofScience.
+
+	HiscolleaguemovestowardTaylorwithamuzzle.
+
+262	CLOSESHOT-FEATURINGTAYLOR
+
+	Hespeaksatlast,hisvoicehoarsebutaudible.
+
+				TAYLOR
+			Getawayfromme,youdirtyape!
+
+263	FULLSHOT-THESIMIANSAROUNDTAYLOR
+
+	Thearrestingofficerstepsbackinvoluntarily.Alltheapesfreeze,
+	staringatthespeakinganimalwithmuteastonishmentaswe:
+
+								FADEOUT
+
+								FADEIN
+
+264	INT.CAGES-CLOSESHOT-TAYLORANDNOVA-DAY
+
+	Thecompoundisdimlylit.Taylor,thebandagenowgonefromhis
+	throat,isbackinhisoldcage.Theothercages,however,areempty--
+	theiroccupantspresumablyhavingbeenmovedtothesurgeryorthezoo.
+	Heisseatedonapileofstrawintherearcorner,Nova'sheadcradled
+	onhislap.Idlyhestrokeshercoarsehair.Thereisadullglowof
+	madnessinhiseyes,andhismannerisoneofabstractsoliloquy,like
+	amantalkingtoadog.
+
+				TAYLOR
+			...andthat'swhenIdecidedtotake
+			upastronauticalengineering.,yousee.I
+			washalfwaythroughcollegeandI...
+				(hebreaksoff)
+			It'sanoldtrick!Thesilenttreatment.
+			Fourweeksandthreedays,andnotaword
+			fromanyone.NotZira.,orCornelius...or
+			thatdamnJulius.Noone'lllisten...
+			onlyyou.You...Nova.NO-VAH.
+
+	Hismannerisnowmoredirect,andeducative.,butshestaresinblank
+	comprehension.Shebrusheshismovinglipswithherfingers.Heshrugs
+	wryly.
+
+				TAYLOR
+			Yeah...meTarzan,youJane.That'sall
+			right...Ihadapuppyoncethatnever
+			barked.Hejustlickedmyhand.
+				(pause)
+			He'sdeadnow.They'realldead.Everything...
+			Ithinkmaybethey'llkillme,too.Arethey
+			afraidofme?Ican'thurtthem...butI
+			threatenthemsomehow.Threatentheirfaith
+			insimiansuperiority.Yeah...you'reright.
+			They'llhavetokillme.
+
+	Faintfootstepsareheardo.s.TaylorandNovalookinthedirectionof
+	thesound.Asuddenstreamofwatershootsthroughthebarsandstrikes
+	Taylorinthechest.
+
+265	WIDERANGLE-WHATTHEYSEE:
+
+	AnapeGUARDhasahighpressurehosetrainedonTaylor.Itforceshim
+	backtowardtherearofthecage.Julius,whipinhand,unlocksthe
+	cage,stepsinside.Heunlimbersthewhip.,cracksit-'inNova's
+	direction.Sherecoils.ThejetofwaterholdTayloratbay.Julius
+	grabsNova,beginstopullhertowardthedoorofthecage.Taylor
+	triestofighthiswaythroughthewatertowardJulius.
+
+				TAYLOR
+			Letheralone!
+
+	Juliusswingsthewhip.ItcracksagainstTaylor'slegs,bitinginto
+	theskin.Taylorstumbles,fallstooneknee
+
+				TAYLOR
+			Whereareyoutakingher?Whatareyou
+			goingtodo?
+
+	Juliusdragsandpushesthegirlthroughthedoor,slammingandlocking
+	itbehindhim.Taylor,fightsthroughthestreamofwater,flings	
+	himselfagainstthebars.
+
+				TAYLOR
+				(raging)
+			Takeyourhandsoffher,youblack
+			monster!Youfilth!
+
+	JuliusshovesNovaacrosstheaisletoacageoppositeTaylor's,locks
+	herinside.
+
+				TAYLOR
+			Whyareyoudoingthis?Saysomething,
+			youhairyscum!
+
+	Juliusgesturestowardtheapeguard
+
+				JULIUS
+			Turnitoff!
+
+	Theapeguardshutsoffthehose.
+
+				TAYLOR
+			Answerme!
+
+	JuliusstridesovertoTaylor'scage.
+
+				JULIUS
+				(fiercely)
+			Shutup!Thereasonnoone'lltalkto
+			youisbecauseyou'reafreak!
+
+				TAYLOR
+			Where'sDr.Zira?Why--?
+
+				JULIUS
+			Isaidshutup!
+
+	HeslashesviciouslywithhiswhiphandleagainstTaylor'sfingers.
+	Tayloryellsinpain.Juliusandtheapeguardstartoutofthe
+	compound.
+
+				TAYLOR
+				(wildly)
+			Ape!Apeswearingclothes!
+			It'samadhouse!Amadhouse!
+
+	Hesinkstothefloorastheapesgoout.
+	
+266	OUT
+
+267	FULLSHOT-CAGE
+
+	TaylorlooksdesolatelythroughthebarsacrosstoNova'scage.She
+	eyeshimsadly.
+
+				TAYLOR
+				(gently)
+			NowIdon'tevenhaveyou.
+				(pause)
+			Imagineme--needingsomeone.Backon
+			Earththerewasnobody.Women,yes.
+			Lotsofthem.Lovemakingithoutlove.
+			That'sthekindofworlditwasturning
+			into,withthehelpofcynicslikemyself.
+			SoIleftit--becausetherewasnoone
+			dearenoughtokeepmethere.
+				(pause)
+			DidItellyouaboutStewart?
+				(Lookingaway)
+			Therewasalovelygirl.Themostprecious
+			cargowebroughtalong.Ifhumanlifecould
+			survivehere,shewastobethenewEve.
+				(morosely)
+			It'sprobablyjustaswellshedidn'tlive
+			toseethis.
+
+	HelooksatNova.Shestretchesherhandsthroughthebarstowardhim.
+
+				TAYLOR
+			Iwonderifit'sLovebetweenus.
+				(looksaround,
+				smilesironically)
+			Whataplacetofindit.
+
+C-267	FULLSHOT-THECAGE
+
+	Twogorillaofficersenter,carryingtorches.(Thesearethesameapes
+	introducedinScene198.)Onecarriesadoublesetofmanacles.Julius
+	comestomeetthem.TheLieutenanttakesthetwosetsofmanaclesfrom
+	theotherofficer,handsthemtoJulius,whisperssomething.Julius
+	comesoverandunlocksthedoorofTaylor'scage.Headvancesto
+	Taylor,whodoesnotmove,bendsdownandclampsthemanaclesaround
+	eachofhisankles.Thenhestraightens,liftsTaylor'sarms,pullshis
+	wriststogether,snapsonthecuffs.
+
+D-267	WIDERANGLE-THECAGE
+
+	TaylorlooksacrossatNova,blowsherakiss.Juliusleadshimoutof
+	thecage,takeshisleashfromasnapsitontoTaylor'scollar,hands
+	theotherendtotheLieutenant.NovaandJuliuswatchinsilenceas
+	Taylorisleddowntheaisleandoutthedoor.
+
+268-	OUT
+272
+
+							DISSOLVETO:
+
+273	INT.INQUIRYROOM-ESTABLISHINGSHOT-DAY
+
+	Taylor,wearinghismanacles,isseatedatatableintheotherwise
+	desertedchamber.Thereisanemptychaironeithersideofhim.Across
+	theroomstandsadaiswiththreerude,high-backedchairs.Thereisa
+	smalltabledirectlybelowthedais.Athirdtablestandsatright
+	anglestothedais.Taylorlooksaroundtheemptyroom.Adooris
+	openedbyagorillaBAILIFF,andZiraandCorneliuscomeintotheroom,
+	sitdownoneachsideofTaylor.Amomentlater,DR.HONORIUS,the
+	ProsecutorandaCLERKenter,taketheirseatsatthethirdtable.
+
+				TAYLOR
+				(softly)
+			Wherehaveyoubeen?Whydidn'tyoucome
+			toseeme?
+
+				ZIRA
+			Shhhh!
+
+				TAYLOR
+			Whatisthis?
+
+				ZIRA
+			Ahearing.
+
+				CORNELIUS
+				(hissing)
+			Beclever.Bequiet,
+
+				BAILIFF	
+			Allrise!
+
+	EveryonegetsupasTHEPRESIDENT,Dr.ZaiusandDr.Maximusenterand
+	mountthedais.ThePresidenttakesthecenterchair;theothertwo
+	flankinghim.
+
+				BAILIFF
+			Beseated.
+
+	Allsitdown.
+
+				PRESIDENT
+				(poundsgavelonce)
+			ThisadhocTribunaloftheNational
+			Academyisnowinsession.Presidentof
+			theAcademypresiding.Onmyright,Dr.
+			Maximus,CommissionerforAnimalAffairs.
+			Onmyleft,Dr.Zaius,MinisterofScience
+			andChiefDefenderoftheFaith...
+				(glancingatProsecutor)
+			AppearingfortheState,Dr.Honorius,
+			DeputyMinisterofJustice.
+
+	Honoriusrisesandbows.
+
+				PRESIDENT
+				(rapsgavelonce)
+			Letitbeclearattheoutsetthatall
+			matterspertainingtothisinquiryare
+			confidential,andanyonediscussingthem
+			outsidethischamberwillbeheldin
+			contemptoftheTribunal.
+				(abeat)
+			Youmayproceed,Dr.Honorius.
+
+				ZIRA
+				(rising)
+			Byyourleave,Mr.President--the
+			Tribunalhasnotyetdefinedthepurpose
+			ofthisinquiry.
+
+	ThePresidentappearstobetakenaback.Heglancesathiscolleagues.
+
+				MAXIMUS
+			Youaskedfortheopportunitytopresent
+			yourcase.Surelyyoumustknowwhyyou're
+			here.
+
+				ZIRA
+			Myownpurposeistosavethisexceptional
+			creaturefrommutilation.
+
+				MAXIMUS
+				(promptly)
+			Andourpurposeistosettlecustodialand
+			jurisdictionalquestionsconcerningthis
+			beast,anddeterminewhat'stobedonewith
+			him.
+
+				ZIRA
+			Attheveryleast,thismanhastheright
+			toknowwhetherthere'sachargeagainst
+			him.
+
+				HONORIUS
+				(rising)
+			Objection.Theaccusedisindeedaman.
+			Therefore,hehasnorightsunderapelaw.
+
+				PRESIDENT
+			Well,Dr.Zira?Thisisaman,ishenot?
+
+274	CLOSEGROUPSHOT-THEDEFENDANT'STABLE
+
+	SensingthatthePresidenthasgiventhemanopening,Zirasmiles
+	confidently.
+
+				ZIRA
+			Heisunlikeanymanyouhaveeverseen-
+			aswehopetoprove.
+
+				PRESIDENT'SVOICE
+				(o.s.)
+			Answerthequestion.Isheaman?
+
+				CORNELIUS
+				(tentatively)	
+			Sir?Thequestionisthepointatissue:
+			Isheaman?Oradeviate?Orafreakof
+			nature?
+
+				HONORIUS'VOICE
+				(o.s.)
+			Objection!
+
+275	FULLSHOT-THEINQUIRYROOM
+
+	AstheProsecutorcontinues:
+
+				PRESIDENT
+			Sustained.Inallfairness,Dr.Zira,
+			youmustadmittheaccusedisanonape,
+			andthereforehasnorightsunderapelaw.
+
+				ZIRA
+				(rising)	
+			ThenwhyishecalledtheaccusedYour
+			Honorsmustthinkhimguiltyofsomething.
+
+	Honoriusseemsconfounded.Zaiustakesover.
+
+				ZAIUS
+			Thismanisnotbeingtried.Heisbeing
+			disposedof.
+				(pointingat
+				ZiraandCornelius)
+			Itisscientificheresythatisactually
+			ontrialhere.
+
+				MAXIMUS
+			Wellput,Dr.Zaius.Letuswarn
+			ourfriendsthattheyendangertheir
+			owncareersbydefendingthisanimal.
+
+276	CLOSESHOT-THEDEFENSE
+
+	BothCorneliusandZiraappearshakenbythisthreat.Sensingtheir
+	predicament,Taylorrisesimpatiently.
+
+				TAYLOR
+			ThenI'lldefendmyself.
+
+277	FULLSHOT-THEINQUIRYROOM
+
+	AlthoughthejudgesandProsecutorhavebeentoldthatthismancan
+	speak,theyreactinstunnedsilencetothefirstsoundofhisvoice.
+	Flustered,thePresidentbangshisgavel.
+
+				PRESIDENT
+			Dr.Zira--tellBrightEyesto
+			sitdown.
+
+				TAYLOR
+			MynameisTaylor.
+
+	ThePresidentrefusestoaddressTaylordirectly.Checkingadocument,
+	hespeakstoZira.
+
+				PRESIDENT
+			ItsaysherethathisnameisBright
+			Eyes.Yougavehimthatnameyourself.
+
+				TAYLOR
+				(voicerising)
+			Thishearingisabsurd!Letmetell
+			mystory...
+
+				PRESIDENT
+				(poundsgavel)
+			Bailiff!Maketheanimalbequiet.
+
+	TheBailiffquicklycrossestoTaylorandshoveshimroughlyintohis
+	chair.
+
+				PRESIDENT
+			Stateyourcase,Mr.Prosecutor.
+
+				HONORIUS
+			LearnedJudges:Mycaseissimple.Itis
+			basedonourfirstArticleofFaith:that
+			theAlmightycreatedtheapeinhisown
+			image;thatHegavehimasoulandamind;
+			thatHesethimapartfromthebeastsof
+			thejungle,andmadehimthelordofthe
+			planet.
+
+278	CLOSEGROUPSHOT-THEDEFENDANT'STABLE
+
+	Taylorhasbeguntowritesomethingonasheetofpaper.Ziraand
+	Corneliusremainattentiveto:
+
+				HONORIUS'VOICE
+				(o.s.)
+			Thesesacredtruthsareself-evident.The
+			properstudyofapesisapes.Butcertain
+			youngcynicshavechosentostudyman-
+			yes,pervertedscientistswhoadvanceon
+			insidioustheorycalled'evolution.'
+
+279	FULLSHOT-THEINQUIRYROOM
+
+	AstheProsecutorcontinues:
+
+				HONORIUS
+			Thereisaconspiracyafoottoundermine
+			theverycornerstoneofourFaith
+
+				PRESIDENT
+			Cometothepoint,Dr.Honorius.
+
+				HONORIUS
+			Directly,Mr.President.Thiswretchedman,
+			theaccused,isonlyapawnintheconspiracy.
+			Weknowthathewaswoundedinthethroatat
+			thetimeofhiscapture.TheStatecharges
+			thatDr.Ziraandacorruptsurgeonnamed
+			Galenexperimentedonthiswoundedanimal,
+			tamperingwithhisbrainandthroattissues
+			tocreateaspeakingmonster...
+
+				ZIRA
+				(onherfeet)
+			That�salie!
+
+				PRESIDENT
+				(poundinggavel)
+			Mindyourtongue,madame.
+
+				ZIRA
+			Didwecreatehismindtoo?Notonly
+			canthismanspeak.Hecanwrite.Hecan
+			reason.
+
+				HONORIUS
+		Hecanreason?WiththeTribunal'spermission,
+		letmeexposethishoaxbydirectexamination.
+
+				PRESIDENT
+		Proceed.Butdon'tturnthishearingintoa
+		farce.
+
+	Honoriuscrossestothedefendant'stableandfavorsTaylorwithan	
+	evilsmile.
+
+				HONORIUS
+			Tellthecourt,BrightEyes--whatis
+			thesecondArticleofFaith?
+
+				TAYLOR
+			Iadmit,Iknownothingofyourculture.
+
+				HONORIUS
+			Ofcoursehedoesn'tknowourculture-
+			becausehecannotthink.
+				(toTaylor)
+			Telluswhyallapesarecreatedequal.
+
+				TAYLOR
+			Someapes,itseems,aremoreequalthan
+			others.
+
+				HONORIUS
+			Ridiculous.Thatanswerisacontradiction
+			interms.Tellus,BrightEyes,whydomen
+			havenosouls?Whatistheproofthata
+			divinesparkexistsinthesimianbrain?
+
+				TAYLOR
+				(handspapertoZira)
+			ShowthistothePresident.
+
+	Ziramovestowardthedais.Honoriusreturnstohisowntable.
+
+				ZIRA
+			Sincethedefendantisforbiddentospeak
+			inhisowndefense,heasksthatthis
+			statementbereadintotherecord.
+
+				PRESIDENT
+			Readityourself.
+
+				ZIRA
+				(readingaloud)
+			'Ihavecometoyoufromaplanetina
+			differentsolarsystem.Iamanexplorer
+			inspace,withnohostileintentionsagainst
+			yourcivilization.Onmyplanetitwasthe
+			primateManwhoevolvedIntoathinking
+			animal,whiletheapesremained..."
+
+				PRESIDENT
+				(rappinggavel)
+			Stoprightthere.Bringmethatpaper.
+
+	Ziracrossestothedais,handingthestatementtothePresident.He
+	glancesatit,laughsderisivelyandpassesittoZaius.
+
+				PRESIDENT
+				(toZira)
+			Thisisajokeinverypoortaste.
+
+				ZIRA
+			Isitajoketoseekthetruthabout
+			thisman?
+
+				ZAIUS
+				(glancingatdocument)
+			Dr.Zira--youstateherethataship
+			fromouterspacesankinaninlandsea
+			ofoureasterndesert.
+
+				ZIRA
+			Idonotstateit,sir.Theprisonerdoes.
+
+				ZAIUS
+			Doyoubelievehim?
+
+				ZIRA
+				(uneasily)
+			Likeyou,Ifinditdifficult.
+
+				ZAIUS
+			Buthowconvenientthattheproofof
+			hisarrivalhasvanished?
+				(glancingagain
+				atdocument)
+			YoualsostatethatBrightEyeshadtwo
+			intelligentcompanionsatthetimeof
+			hiscapture.
+
+				ZIRA
+			Thisishisassertion.
+
+				ZAIUS
+			Wherearetheynow?
+
+				TAYLOR
+				(blurtingitout)
+			Oneisinamuseum!
+
+				PRESIDENT
+				(poundinggavel)
+			Dr.Zira!Silencethatman!
+
+	Returningtohertable,ZiragesturestoTaylortoremainsilent.
+
+				ZAIUS
+			Howsad.Stuffedandmounted,eh?Dead
+			men,likesunkenships,cantellno
+			stories.Andhisothercompanion?
+
+				ZIRA
+			Hedoesn'tknow.
+
+				ZAIUS
+			Mr.President,IbelievetheProsecutor
+			hasreassembledallhesurvivinghumans
+			capturedinthehuntalongwithBrightEyes.
+
+				HONORIUS
+			That'strue,Dr.Zaius.Mywitnesses--	
+			correction--myexhibitsareondisplayin
+			theamphitheater.
+
+				PRESIDENT
+			Verywell.Isuggestwegoandlookatthem.
+
+	ThePresidentrises,startsout,followedbytheothers.Tayloris
+	last,beingledonaleashbythebailiff.
+
+280	OUT
+
+281	EXT.AMPHITHEATER-FULLSHOT-DAY
+
+	Theinquirygroupfilesthroughadoorintotheamphitheater.TwoAPES
+	standguardoveranumberofleashedandnearlynakedhumanbeingsin
+	thecenterofthepitbelowthedais.Therearethreeprimitivemales,
+	thefemaleNova--andLandon.Heisdirtyandbearded,buthishairis
+	croppedclose.
+
+282	CLOSE-TAYLOR
+
+	HeturnstoZira,hiseyesshiningwithvindication.
+
+				TAYLOR
+				(awhisper)
+			It'shim...Landon.
+
+				ZIRA
+			Whichone?
+
+				TAYLOR
+			Secondfromtheleft.
+
+283	FULLSHOT-THEAMPHITHEATER
+
+	Zaiusglancesattheaccused.
+
+				ZAIUS
+			Well...doyouacknowledgekinshipwith
+			anyofthesecreatures?
+
+				TAYLOR
+			Withoneofthem.
+
+				ZAIUS
+			Identifyhim,then.Speaktohim.
+
+	Taylormovesforwardforafewpaces,stops.
+
+				TAYLOR
+			Landon?
+
+284	CLOSERSHOT-FEATURINGLANDON-FROMTAYLOR'SP.O.V.
+
+	Landonlookscatatonic.Hisfaceisinshadow
+
+285	WIDERANGLE-TOINCLUDETAYLOR
+
+	StunnedbyLandon'simbecility.
+
+				TAYLOR
+			John...it'sme,Taylor.
+
+	Taylorstepsforwardtograsphisarm.Thereisstillnoresponse.
+	TaylortakesLandon'sheadinhishandsandlooksathisface.Thereis
+	afreshscarrunningfromhisforeheadtothetopofhiscranium.
+
+286	FULLSHOT-THEAMPHITHEATER
+
+	AsTaylorwhirlsonZira.
+
+				TAYLOR
+			You!...Youknewaboutthis?
+
+				ZIRA
+			No,Iswear--Ineversawthis
+			manbefore.
+
+				TAYLOR
+				(whirlingonZaius)
+			Youdidthistohim!You'veremovedhis
+			frontallobes!
+
+				PRESIDENT
+			Silence!
+				(turning)
+			Bailiff,taketheprisonerinside!
+
+	ThebailiffJerksbrutallyonTaylor'sleash,pullinghimtowardthe
+	doorleadingundertheamphitheater.
+
+A-286	INT.INQUIRYROOM-MED.SHOT-DAY
+
+	Thebailiffenters,draggingTaylorbehindhim,shoveshimintohis
+	chair.Momentslatertheotherapesentertheroom.Alltaketheir
+	seatsbutZaius.Taylorglaresathimfuriously.
+
+				ZAIUS
+				(calmly)
+			Mr.President,awordofexplanation:the
+			creatureinquestionsufferedaskull
+			fractureduringthehunt.Twofine
+			veternarysurgeonsundermydirection
+			wereabletosavehislife.Butthebeast
+			couldnotspeak,ofcourse.Norwillhe
+			everspeak
+
+	Taylorleapsfromhischair,lividwithrage,approachesthedais.
+
+				TAYLOR
+			Youdestroyedhismemory!Hismind!His
+			identity!And,youwanttodothesameto
+			me!
+
+				PRESIDENT
+				(poundinggavel)
+			Bailiff!Stopthisoutburst!Gagthat
+			monstrosity!
+
+	ThebailiffandahuskyguardseizeTaylor,whocontinuesshouting:
+
+				TAYLOR
+			Youbarbarians!
+
+	ThepowerfulguardtwistsTaylor'sarmsbehindhisbackandthebailiff
+	lasheshiswriststogether.ThenthebailiffgagsTaylor.Hisvoiceis
+	cutoffasthebailifftiesthetwistedkerchiefaroundhisopenmouth.
+	TheguardholdsTaylor'sleashduringtherestofthisscene.
+
+	Meanwhile,Corneliushasrisentohisfeet.Histoneisfirm,but
+	conciliatory.
+
+				CORNELIUS
+			MayitpleasetheTribunal:Iforone
+			grantthatthisbeingcannothavecome
+			fromanotherplanet.Butthismuchis
+			certain--hecomesfromsomewhereinthe
+			ForbiddenZone.Hehasdescribedtheregion
+			tous,anddescribeditaccurately,forI
+			havebeenthere.
+
+				PRESIDENT
+			YouvisitedtheForbiddenZone?
+
+				CORNELIUS
+			Why,yes,sir.Ayearago.Withthespecial
+			permissionoftheAcademy.
+
+				ZAIUS
+				(toPresident)
+			Heexceededhisorders.Histravelpermit
+			waspromptlyrevoked.
+
+				CORNELIUS
+			Yes,sir,soitwas--thankstoyou.But
+			notbeforeIdiscoveredevidenceofasimian
+			culturethatexistedlongbeforetheSacred
+			Scrollswerewritten...
+
+				HONORIUS
+			Objection!Theseremarksareprofaneandirrelevant.
+
+				PRESIDENT
+			Sustained.
+				(toCornelius)
+			Yourarcheologicaltheorieshavenobearing
+			onthedispositionofthiscreature.
+
+				ZAIUS
+				(softly)	
+			Letthemtalk,MrPresident.Letthemtalk.
+
+				ZIRA
+				(rising)
+			Sirs:ourtheorieshaveabearingonhis
+			identity.
+
+				PRESIDENT
+			Howso?
+
+				ZIRA
+			Letusassume,ascommonsensedictates,
+			thattheprisoner'sstoryisfalse.Butif
+			hedoesnotcomefromanotherplanet,then
+			surelyhesprangfromourown.Yes,sprang.
+				(abeat)
+			Asananimalpsychologist,Ihavefoundno
+			physiologicaldefecttoexplainwhyhumans
+			aremute.
+
+				HONORIUS
+			Objection!
+
+				PRESIDENT
+			Sustained.
+
+				ZIRA
+				(plungingon)
+			Theirspeechorgansareadequate.Theflaw
+			liesnotinanatomybutinthebrain.
+
+				HONORIUS
+			Objection!
+
+				PRESIDENT
+			Sustained.
+
+				ZIRA
+				(voicerising)
+			Sustainallobjections,butfacethetruth!
+
+	Corneliushasregainedhiscourage.RisingtoZira'ssupport,hepoints
+	atTaylor.
+
+				CORNELIUS
+			Yes!Beholdthismarvel,thislivingparadox,
+			thismissinglinkinanevolutionarychain!
+
+				PRESIDENT
+				(poundinggavel)
+			Silence!
+				(Puffingwithrage)
+			Youhavegonetoofar.
+
+				ZAIUS
+				(calmly)
+			Thereyouare,Mr.President.Iwarnedyou
+			thesetwowouldusethishearingasaforum
+			forsubversion.
+
+				MAXIMUS
+			Youwereright!Theadvocatesofheresyhave
+			revealedthemselves.
+
+				ZAIUS
+			Mr.President,Ithinkanindictmentis
+			inorder.
+
+				HONORIUS	
+				(promptly)
+			Yes,sir.TheStatechargesDoctorsZira
+			andCorneliuswithcontemptofthisTribunal,
+			maliciousmischiefandscientificheresy.
+
+				PRESIDENT
+			Beitsoordered.TheTribunalwillexamine
+			alltheevidencepresentedhereandindue
+			timerenderaverdictontheproposed
+			indictmentandonthedispositionofthe
+			deviateinquestion.
+				(poundsgavelonce)
+			Thishearingisadjourned.
+
+	Allrise.TheguarddragsTaylorfromtheinquiryroom.Ziraand
+	Corneliusstandthere,stunnedbytheentrapmentintowhichZaiushas
+	maneuveredthem.
+
+287-
+289	OUT
+
+								DISSOLVETO:
+
+290	INT.ASMALLOFFICE-CLOSEONDR.ZAIUS-NIGHT
+
+	TheofficeisasunadornedandSpartanasthatofCornelius--in
+	fact,withminorchangesindecor,thesamesetcanbeused.Thereare
+	manythickleatherboundbooksonthisscholar'sdesk.Zaiusisreading
+	oneofthemandtakingnotes.HelooksupassomeoneKNOCKSatthe
+	door.
+
+291	REVERSEANGLE-SHOOTINGPASTZAIUS
+
+	ThetwoagentspushTaylorthroughthedoorway.
+
+				ZAIUS
+			Waitoutside.
+
+	Theofficerswithdraw,closingthedoor.Collared,wristsmanacled,
+	Taylorstandsfacingthedesk.
+
+				ZAIUS
+			Theverdictisin.Atthemomentyour
+			simianfriends--andsponsors--are
+			freeonbail.Butthey'llsoonbebrought
+			totrialforheresy.
+
+292	ANOTHERANGLE-FAVORINGZAIUS
+
+	whofallssilent,asifthisweretheonlynewsofimport.Wenoteat
+	onceachangeInZaius'toneandattitude.HenolongertreatsTaylor
+	likeafreakanimal,butaddresseshimasanimaginativeadversarywho
+	mustbeintimidatedbythethreatofterror.
+
+				TAYLOR
+			Whataboutme?
+
+				ZAIUS
+				(offhandedly)
+			Oh,yourcasewaspreordained.Inaway,
+			youperformedaservicefortheState...
+				(smiling)
+			Becauseyourhearingmadeitpossible
+			forustoexposeZiraandCornelius.
+				(abeat)
+			AndnowtheTribunalhasplacedyouin
+			mycustodyfor...finaldisposition.Do
+			youknowwhatthatmeans?
+
+				TAYLOR
+			No.
+
+				ZAIUS
+			Emasculation,tobeginwith.Then
+			experimentalsurgery.Onthespeech
+			centers.Onthebrain.Ultimately,a
+			kindoflivingdeath.
+
+	Taylorstiffensbutsaysnothing.Zaiusletsthisprospectsinkin,
+	thencontinues.
+
+				ZAIUS
+			However,it'swithinmypowertogrant
+			Youareprieve.ThatiswhyIsummoned
+			youheretonight.
+				(abeat)
+			Tellmewhoandwhatyoureallyareand
+			whereyoucomefrom,andnoveterinary
+			willtouchyou.
+
+				TAYLOR	
+			Itoldthetruthatthat'hearing'ofyours.
+
+				ZAIUS
+			Youlied.Whereisyourtribe?
+
+				TAYLOR
+			Mytribe,asyoucallit,livesonanother
+			planetinadistantsolarsystem.
+
+				ZAIUS
+			Thenhowisitwespeakthesamelanguage?
+				(suddenlyintense)
+			Eveninyourlies,sometruthslips
+			through!Thatmythicalcommunityyou're
+			supposedtocomefrom--FortWayne'?
+
+				TAYLOR
+			Whataboutit?
+
+				ZAIUS
+			Afort!Unconsciously,youchoseaname
+			thatwasbelligerent.
+				(morecalmly)
+			Wherewereyounurtured?
+
+				TAYLOR
+			Itakeityoudon'tbelievetheprosecutor's
+			charge--thatI'mamonstercreatedby
+			Dr.Zira.
+
+				ZAIUS
+			Certainlynot.	You'reamutant.
+
+				TAYLOR
+			That'sexactlywhatZiraandCornelius
+			claim.You'retalkingheresy,doctor.
+
+				ZAIUS
+				(smiling)
+			Ofcourse.
+
+				TAYLOR
+				(growingbolder)
+			Allright,supposeIamamutant?Why
+			doestheappearanceofonemutantsend
+			youintoapanic?
+
+				ZAIUS
+			Becauseyou'renotunique.Therewasthe
+			oneyoucallLandon--
+
+				TAYLOR
+			Thenyouadmit--
+
+				ZAIUS
+			Iadmitthatwherethere'sonemutantthere's
+			probablyanother.Andanother.Anestofthem.
+			Where'syournest,Taylor?Whereareyourwomen?
+
+				TAYLOR
+				(pause)
+			ThankyouforcallingmeTaylor.
+				(morefirmly)
+			Dr.Zaius,IknowwhoIam.Whoareyou?How
+			didthisupsidedowncivilizationeverget
+			started?
+
+				ZAIUS
+				(strangelycalm)
+			Youmaywellcallitupsidedown,sinceyou
+			occupyitslowestlevel.Anddeservedly.
+				(pause)
+			Theeasterndeserthasneverbeenexplored--
+			becausewe'vealwaysassumedthatnolifecan
+			existthere.
+				(abeat)
+			Saveyourself,Taylor.Tellme--isthere
+			anotherjunglebeyondtheForbiddenZone?
+
+				TAYLOR
+			Idon'tknow.
+
+				ZAIUS
+			Ifyouareprotectingothersofyourkind,
+			itwillcostyouyouridentity.
+
+				TAYLOR
+			I'mnotprotectinganybody!Thathearing
+			wasafarce.WhathaveIdone?
+
+				ZAIUS
+			You'reamenace!Awalkingpestilence.I
+			doknowwhoyouare,Taylor.AsIknow
+			thatothersofyourkindmustliveinthe
+			ForbiddenZone.
+				(decisively)
+			Youhavejustsixhourstomakeafull
+			confession.AfterthatI'llemploysurgery
+			toobtainone.
+				(callingoff)
+			Guards!
+
+	Thetwoburlysecurityagentsopenthedoorandenter.
+
+				ZAIUS
+			Takethiscreaturebacktohiscage.
+
+	TheguardsseizeTaylor,starttoshovehimtowardthedoorway.He
+	twistsaround,facesZaius.
+
+				TAYLOR
+			Allright,youcancutmetopieces.It's
+			withinyourpower.
+				(withforce)
+			Butknowthis,doctor.Youdoitbecause
+			you'reafraidofme.Youdoitfromfear!
+
+	Zaiusjerkshisheadsilentlytowardthedoor.TheapesdragTaylor
+	throughit.
+
+								DISSOLVETO:
+
+293	INT.ADJACENTCAGES-MED.SHOT-NIGHT
+
+	Afewhourshavepassed.NovaiswatchingTaylorfromhercageacross
+	theaisle.Hesitsonthepileofstraw.Thereisanuglyweltonhis
+	cheekmadebythesecurityofficer'swhip.FOOTSTEPSareheard.Taylor
+	andNovalookupandoff.
+
+294	REVERSEANGLE-WHATTHEYSEE:
+
+	Asolemn,teen-agechimpnamedLUCIUSappearsoutsidethecage.The
+	guardJuliusrisesfromhischair.
+
+				LUCIUS
+			AreyouJulius?
+
+				JULIUS
+			Whatdoyouwant?
+
+				LUCIUS
+			I'mfromtheOfficeofAnimalAffairs.
+				(indicatingTaylor)
+			Thismale'stobetransferredtothezoo.
+
+				JULIUS
+			Atthishour?Whosaysso?
+
+	Taylorentersscene,comingovertothecagebarsasLuciuscontinues
+	gravely,withjustanoteofdisdain.
+
+				LUCIUS
+			Don'ttheytellyouanything?TheAnti-
+			vivisectionistSocietyisupinarms.They're
+			goingtosavethisbeastfromthosebutchers
+			inthelab.Ifhecanspeakhebelongsinthe
+			publiczoo.
+				(takingoff)
+			Butwhat'llprobablyhappenisthatsome
+			money-madgrown-upwillputhiminacircus.
+			Andthenwe'llhavetopaytoseewhat
+			rightfullyshouldhave--
+
+				JULIUS	
+			Stopmakingspeechesandshowmetheorder.
+
+	Luciushandstheguardadocument.Itisdarkhere,soJuliuscrosses
+	toabeamoflightnearthebarsandstudiesthedocument.Lucius,
+	behindtheguard'sback,signalsfranticallyforTaylortoseizeor
+	striketheguard.Taylorisslowtounderstand.Luciusshakeshis
+	headimpatiently.
+
+				JULIUS
+				(peeringatdocument)
+			Thisorder'snogood.Itmustbecounter-
+			signedbyDr.Zaius--
+
+	LuciussuddenlygivesJuliusaviolentshove.Theguard'sheadcrashes
+	againstthebarsandheisstunned.
+
+				LUCIUS
+			Hithim!
+
+	Taylorcompliesbringingdowntheheelofhisfistonthenapeofthe
+	guard'sneck.Juliuscollapses.Theyoungsterimmediatelysquatsdown,
+	gagshim,andbeginstobindhimhandandfoot.CAMERAMOVESIN.
+
+				TAYLOR
+			Whoareyou?
+
+				LUCIUS
+				(lookingup,coolly)
+			Soyoucantalk.
+				(asheworks)
+			I'mDr.Zira'snephew.Thisabductionwas
+			heridea.You'renotreallygoingtothe
+			zoo.That'sjustourcoverstoryincase
+			we'restopped.
+				(offagain)
+			AlthoughIdofeelthatifitevercame
+			downtoaquestionofwhethersomething
+			likeyoushouldbepublicorprivate
+			property--
+
+				TAYLOR
+			Comeon.Getmeoutofhere.
+
+	Takingtheguard'skeys,Luciusrisesandunlocksthecage.Novaenters
+	thescene,comingtothebarsofhercage.
+
+295	CLOSETWOSHOT-TAYLORANDNOVA
+
+	Hegazesather,tensewithindecision.Sheflashesanimploringsmile,
+	amuteappealthatcannotbedenied.Overthiswehear:
+
+				LUCIUS'VOICE
+				(o.s.)
+			We'vegottomovefast.
+
+296	WIDERANGLE-TOINCLUDELUCIUS
+
+	asTaylorleaveshiscage.
+
+				TAYLOR
+			Shecomesalongtoo.
+
+				LUCIUS
+			Ziradoesn'twantyourfemale.
+
+				TAYLOR
+			Iwanther.
+
+				LUCIUS
+				(ashrug)
+			Ifyouinsist.ButI'mnottaking
+			anyorders--
+
+				TAYLOR
+			Fine.Justletherout.
+
+	LuciusunlocksNova'scage.Shecomesoutquickly,takesTaylor'shand.
+	TheyfollowLuciusoutofthecompound.
+
+297	EXT.ANIMALCOMPOUND-MED.SHOT-NIGHT
+
+	Ahorse-drawncagedwagon(likethatusedinthehunt)standsnearthe
+	building.Zirawaitsattherearofthewagon.Lucius,TaylorandNova
+	emergefromadoorwayorarchwayandjoinher.ZiranotesNova's
+	presencewithdisapproval.Theyspeakinundertones.
+
+				ZIRA
+				(toLucius)
+			Itoldyounottobringtheotherone.
+
+				LUCIUS
+			Hewouldn'tleaveher.
+
+				ZIRA
+				(withasigh)
+			Allright...
+				(tothehumans)
+			Getin...hurry.Putthison.
+
+				TAYLOR
+			Listen-
+
+				ZIRA
+			Taylor--justkeepquietandwemayget
+			awaywiththis.Rememberthatmenall
+			lookaliketomostapes.
+
+	TaylorandNovacomply,climbingintothecage.Luciusclosesthe
+	tailgate.LuciusandZiramovetothefrontofthewagonandclimb
+	aboard.Luciustakesthereins.Astheymoveoff:
+
+								WIPETO:
+
+298	EXT.LAKEANDCAUSEWAY-LONGHIGHANGLESHOT-NIGHT
+
+	Aspreviouslyestablished,theanimalcompoundisontheoutskirtsof
+	Apetown.Theabductorsmustcrossthecausewayontheirrouteof
+	escape.Inthedistance,nearthegazebo,wecanseethelightsof
+	severaltorches.
+
+	Thecagedwagonrollsintosceneandoutontothecauseway.Atthesame
+	timeamountedgorillaleadingtwopackanimalsappearsonthefarside
+	ofthecauseway,comingtowardCAMERA.Luciusstopsthewagon.
+
+299	CLOSETWOSHOT-LUCIUSANDZIRA-ONTHEWAGON
+
+				LUCIUS
+				(apprehensively)
+			Gorillahunters...
+
+				ZIRA
+			Keepmoving.Wecan'tturnbacknow.
+
+300	BOOMSHOT-THECAUSEWAY
+
+	Asthemountedhunternearsthewagon,wecanseetwobodiesslung
+	acrossthebacksofthepackanimals.
+
+301	FLASHSHOT-TAYLORANDNOVA-INWAGONCAGE
+
+	Theylookoutat:
+
+302	THEPASSINGHORSES-FROMTHEIRP.O.V.
+
+	Thebodiesonthehorsesarenakedhumancorpses.
+
+303	MED.LONGSHOT-THECAUSEWAY-REVERSEANGLE
+
+	Inimmediatef.g.,nearthegazebo,isasimilarwagon.Ithaslosta
+	wheel,anditsrearaxleliesontheedgeofthecauseway.Twonaked
+	primitivemalescanbedimlyseenwithinthecage.Fourorfivearmed
+	gorillahuntersstandnearthewagon:twoofthemcarrytorches;the
+	othersarepassingajugfromhandtohand-.
+
+	TheleaderoftheHuntClub,stillonhorseback,holdsuphishandas
+	thelabwagonapproaches.
+
+				LEADER
+			Holdit!
+
+	Luciusobeys.Thehuntersonfootswarmaroundhiswagonastheir
+	leadercallsauthoritatively:
+
+				LEADER
+			Ah,DoctorZira!Ourwagonbrokedown!I'm
+			afraidwe'llhavetocommandeeryours.
+
+304	CLOSERANGLE-THELABWAGON
+
+	astheHuntClubLeaderridesover,recognizingtheanimal
+	psychologist.
+
+				ZIRA
+			Youcan't!I'vetwosickhumansinthe
+			cage.We'retakingthemtothechiefvet
+			atthezoo...
+
+				LEADER
+				(indicatinghis
+				ownwagon)
+			Webaggedtwoliveonestoday.I'llhave
+			toaskyoutotakethemalong.
+
+	Hemovestotherearofthewagon.
+
+				ZIRA
+				(followinghim;
+				frantically)
+			No,no,myanimalsarediseased...Leave
+			themalone!They'rediseased,Itellyou!
+
+	Luciusjumpsdownandrunstowardtherearofthewagon.
+
+305	REVERSEANGLE-REAROFWAGON
+
+	Thehuntershaveopenedthetailgateandareshiningtheirtorcheson
+	thehumans.Theysoundreadyforsport.
+
+				FIRSTHUNTER
+			Givehimatasteoffire!
+
+	OneofthehunterspointshistorchatTaylor,who,quitenaturally,
+	shrinksbackasLuciusrunsintoscene.
+
+				LUCIUS
+			Standback!He'sdangerous!
+
+				FIRSTHUNTER
+			Why?
+
+				ZIRA
+			He'srabid!Hisbiteisfatal!
+
+				FIRSTHUNTER
+			Youserious?
+
+				LUCIUS
+			Youwoulddieinagony!
+				(withappropriategestures)
+			Frothingatthemouth!
+
+	Thehuntersfallback.Luciuspromptlylocksthetailgateandheand
+	Zirarunbacktothefrontofthewagon.Luciussnapsthereinsandthe
+	wagonmovesoff.Thehuntersfollowitafewpaces,pausingneartheir
+	mountedleader.
+
+				FIRSTHUNTER
+			Theytreatthoseanimalsbetterthanthey
+			treatus.
+
+				LEADER
+			Istillsaytheonlygoodhumanisadead
+			human.
+
+	Thefugitives'wagonrecedesbeyondthegazebo,aswe:
+
+								DISSOLVETO:
+
+306	EXT.ANOPENRANGE-LONGSHOT-DAWN
+
+	Thehorse-drawnwagonissilhouetted-againstthedawnlight,bumping
+	acrossasemi-aridplainstuddedwithmesquiteandsage.(ThisSCENE
+	canbeSHOTeitherontheNavajoreservationnearPageoronthe
+	Ranch).
+
+								DISSOLVETO:
+
+307	EXT.SAVANNA(ORCULTIVATEDFIELDS)-LONGSHOT-MORNING
+
+	Thisisthesameareadescribedonpage24,wherethehuntoccurred.As
+	thewagonrollsalongadirttrack,thetallgrassesofthesavanna(or
+	cultivatedfield)canbeseeninb.g.
+
+308	CLOSETWOSHOT-TAYLORANDNOVA-INWAGONCAGE
+
+	Taylorisdozing,butthegirlisalertandnervous.Shepeersoutat
+	thefield,apparentlyrecognizingorrememberingthisterrain.She
+	nudgesTaylor,wakinghim.
+
+309	EXT.GROVEOFWILDFRUITTREES-LONGPANNINGSHOT-DAY
+
+	This,too,isthelocationdescribedonpage24.CAMERAPANSwiththe
+	wagonasitrollsintothegroveandHOLDSonthreehorses.Cornelius
+	sitsastrideonehorse;theothertwonagsareheavilyburdenedwith
+	packsandsaddlebags.
+
+310	CLOSERANGLE-THEGROVE-FAVORINGCORNELIUS
+
+	HedismountsasZiraandLuciusjumpdownfromthewagon
+	andhurrytowardhim.Corneliusandhisfianceeembraceandkiss
+	lightly,ape-fashion.
+
+				CORNELIUS
+			Howdiditgo?
+
+				ZIRA
+			Therewasonebadmoment--somehunters
+			stoppedus.
+
+				LUCIUS
+				(calmly)
+			Ipursuadedthemourbeastshadrabies.
+
+311	CLOSETWOSHOT-TAYLORANDNOVA-INCAGEDWAGON
+
+	Theapesdiscussingtheabductionareoutofearshot.Exasperatedtobe
+	thusignoredandcaged,Taylorkicksthetailgate,shouting:
+
+				TAYLOR
+			Letmeoutofhere!
+
+312	WIDERANGLE-TOINCLUDETHEGROUP
+
+	Luciushurriesbacktounlockthetailgate.Taylorgetsoutofthe
+	wagon,stretchinghisstiffenedjoints.Novafollowssuit.Duringthe
+	ensuingexchangethegirlseemsstrangelyagitated,pacingtoandfro,
+	hereyesscanningthegroveandfieldsinsearchofsomeoneor
+	something.
+
+				CORNELIUS
+				(approaching)
+			Well,Taylor--we'reallfugitivesnow.
+
+				TAYLOR
+			Doyouhaveanyweapons?
+
+				CORNELIUS
+			Thebest.Butwewon'tneedthem.
+
+				TAYLOR
+			Justthesame,Iwantone.
+
+	Hemovestowardoneofthehorses.Corneliusstartsafterhim.
+
+				CORNELIUS
+			Lookhere,Taylor.I'minchargeofthis
+			expedition--
+
+	Taylortakesariflefromoneofthepacks,examinesit.
+
+				TAYLOR
+			Fairenough.Butyou'renolongerin
+			chargeofme.AndIdon'tmeantobe
+			capturedagain.
+
+	ZiraandLuciushavecomeup.
+
+				CORNELIUS
+				(peeved)	
+			Asyouwish.
+
+				TAYLOR
+			Zaiusseemstothinktheremightbe
+			anotherjunglebeyondtheForbiddenZone.
+			That'swhatwe'lltryfor.Whataboutyou?
+
+				ZIRA
+			CorneliusandIhavebeenindictedfor
+			heresy.Unlesswecanproveourtheories,
+			wedon'tstandachanceofacquittal.
+
+				TAYLOR
+			You'regoingbacktotheForbiddenZone?
+
+				CORNELIUS	
+			TothediggingsIworkedatayearago.
+			It'sathreedayrideacrosstheeastern
+			desert,nearwhereyouclaimyoulanded
+			fromthatplanetofyours.
+
+				TAYLOR
+			Youstilldon'tbelieveme,doyou?
+
+				CORNELIUS
+				(shrugs)
+			It'salongdetourtoDeadLake.What
+			wouldwefind?
+
+	Taylormakesahelplessgesture,realizingthathecannotpresentsure
+	proof.
+
+				TAYLOR
+			Nothingmuch.Theremnantsofaliferaft.
+			Maybeasmallflag.Theemblemofmy
+			countrymen.
+
+				CORNELIUS
+			Sorry,Taylor.Theterrainaroundthatlake
+			ispoisonous.Thereisnofreshwater,no
+			vegetation.Nothing.
+
+				TAYLOR
+			Iknow...Nevertheless,Ithankyou
+			forsavingus.You'llbeintroublefor
+			goingthere.
+
+				ZIRA
+				(asmile)
+			We'vebeenintroublesincethemomentwe
+			metyou.
+
+	NovaseizesTaylor'sarmtogethisattention.Tryingtocommunicate,
+	shemakeswhimperingsoundsandpointsat:
+
+313-
+314	OMIT
+
+315	THEDISTANTJUNGLE-ASSEENFROMTHEGROVE
+
+	ThisisthesameviewofthejunglethatTaylorsawwhenthegorilla
+	huntersemergedfromthetrees.(Page25)
+
+				ZIRA'SVOICE
+				(o.s.)
+			What'sshepointingat?
+
+316	BACKTOTAYLORANDTHEOTHERS
+
+	TaylorsmilesatNova,givesherareassuringshrug.
+
+				TAYLOR
+			That'sthewayhome.Andsheknowsit.
+
+	Novaturnsaway,stillholdingTaylor'sarm,triestoleadhimtoward
+	thejungle.
+
+				TAYLOR
+				(sharply)
+			Nova!	
+				(sheturns;heshakes
+				hishead,saysgently)
+			Wecan'tstaythere.It'snotsafe.
+
+	Shelooksathimsadly.
+
+				ZIRA
+			We'dbettergetstarted.Ifthemounted
+			policepickupourtrail,they'llcome
+			thisfaratleast.
+
+				CORNELIUS
+			Right.
+			(toLucius)	
+		Let'sputthewaterandprovisionsin
+		thewagon.
+
+	HeandLuciusmoveofftowardthehorses.
+
+				ZIRA
+				(indicatingNova)
+			Areyougoingtotakeherwithyou?
+
+				TAYLOR
+			Yes.
+
+				ZIRA
+			Actually,you'readifferentbreed.
+			Thiscreaturewillneverevolve.
+
+				TAYLOR
+			Maybenot.
+
+				ZIRA
+				(smiling)
+			Youwantherthatmuch?
+
+				TAYLOR
+				(testily)
+			Youthrewustogether,remember?Andyou
+			guessedright.Men,likeapes,get
+			despondentwithoutamate.
+
+	HewalksofftohelpLuciusandCornelius.Novatagsalongbehindhim
+	aswe:
+
+								DISSOLVETO:
+
+A-316	THEGROUPMOVESACROSSAPLATEAU
+
+								DISSOLVETO:
+
+317	EXT.DRYWASHANDTAMARISKS-FEATURINGSCARECROWS-DAY
+
+	Thecaravaniscrossing,inareversedirection,theroutetakenbythe
+	astronautsonpage17.Thethreeapesareonhorseback.TaylorandNova
+	followinthewagon.Theyarenearingtherowofsinisterscarecrowson
+	thebluffabovethedrywash.
+
+318	MED.SHOT-THETHREEMOUNTEDAPES
+
+	Theyhaltbrieflyandlookupatthecrosses.Luciusisimpressed.
+
+				LUCIUS
+			Whoputthemup?
+
+				ZIRA
+			TheHuntClub.
+
+				LUCIUS
+			Toscareoffhumans?
+
+				CORNELIUS
+			Toscareus,too.We'reentering
+			theForbiddenZone.
+
+	Theymoveoffagain,ridingacrossthedrywash.
+
+319	TWOSHOT-TAYLORANDNOVA-SEATEDONTHEWAGON
+
+	They,too,havestoppedandarelookingupatthescarecrows.Novais
+	plainlyterrified.ShegrabsTaylor'sarm,whimpers.
+
+				TAYLOR
+			Don'tworry.You'llbesafewithme.
+				(suddensmile)
+			Here.It'stimeyoulearnedtoearn
+			yourkeep.
+
+	HehandsthereinstoNova.Shejustsitsthere.Hedemonstrates.
+
+				TAYLOR
+			Youcandoit.Likethis...
+
+	Novaflicksthereins,reactinginwide-eyed,open-moutheddisbeliefas
+	thehorseobeysher.
+
+								DISSOLVETO:
+
+320	EXT.DESERTPLATEAU-LONGHIGHANGLESHOT-DAYFORNIGHT
+
+	ThepartyistraversingareddeserttotheeastofDeadLake.Great
+	sandstonemonolithsrisefromthedesertfloor.Fromthisvantagepoint
+	thehorseslooknobiggerthanants.
+
+								DISSOLVETO:
+
+321	EXT.RIMOFADEEPGORGE-HELICOPTERSHOT-DAY
+
+	Thisisterrainneverbeforeseeninthispicture.(LakePowell
+	location,afewmilesnortheastofWahweap).Thepartycanbeseenon
+	therimofaflatdeserttablelandthatfallsawayabruptlytoavast,
+	irregularriverofdeepbluewater.Taylor,CorneliusandLuciusare
+	unloadingthewagonandrepackingtheirprovisionsandequipmentonthe
+	backsofhorses.Zirawatchesthem.
+
+A-321	CLOSERANGLE-THEGROUP
+
+	Zirawandersoff,fallstoherknees.
+
+				LUCIUS
+			Something'swrongwithyourmate.
+
+	Taylorlooksoff.HeandtheothersmovequicklytoNova,CAMERA
+	PANNINGwiththem.
+
+B-321	CLOSEGROUPSHOT-AROUNDNOVA
+
+	Shehasbeenretching.Taylorliftsherup.Sheisfaintwithnausea.
+	Zirasquatsdownbesidethem.
+
+				ZIRA
+			Letmehandlethis.
+				(ruefully,toTaylor)
+			YoumaybesmarterthanIam,butI'm
+			theveterinaryonthisplanet.
+
+	AssistingNovatoherfeet,Ziraleadsherofftowardthewagon.
+
+C-321	MED.SHOT-CORNELIUS,TAYLORANDLUCIUS.
+
+	Taylorwatchesthedepartingfemales,thenlooksdownattheriver.
+
+				TAYLOR
+			Wheredoestheriverlead?
+
+				CORNELIUS
+			Itemptiesintoaseasomemilesfrom
+			here.That'swherethecaveis.
+
+D-321	LONGSHOT-THERIVER-FROMTHEIRP.O.V..
+
+	Theriverwindso.s.betweenthesheersandstoneCliffsrisingfrom
+	eitherbank.
+
+				TAYLOR'SVOICE
+				(o.s.)
+			Andbeyondthat?
+
+E-321	THREESHOT-TAYLOR,LUCIUSANDCORNELIUS
+
+				CORNELIUS
+			Don'tknow.Athightideyoucan'tride
+			alongtheshore,andwehadnoboatson
+			thelastexpedition.
+
+				TAYLOR
+			You'venevertoldmewhythisregion's
+			calledtheForbiddenZone.
+
+				CORNELIUS
+			Noonereallyknows.It'sanancient
+			taboo.SetforthintheSacredScrolls.
+			TheLawgiverpronouncedtheareadeadly.
+
+				LUCIUS
+			Shouldn'twebemovingon?
+
+				TAYLOR
+			I'mforthat.
+
+	Theystarttowardthehorsesandwagon.
+
+F-321	GROUPSHOT-NEARWAGON
+
+	ZiraislookingcuriouslyatNova,whostandsintheshadeleaning
+	againstthewagonasthemalesenterthescene.Nova'snauseahas
+	passed,andshecomessmilingtoTaylor.
+
+				TAYLOR
+			What'sthediagnosis,doctor?Atouch
+			ofthesun?
+
+				ZIRA
+			She'snotsickatall.
+				(abeat)
+			She'spregnant.
+
+G-321	CLOSEUP-TAYLOR
+
+	Consternationslowlygiveswaytowonder.Hegrins.
+
+				TAYLOR
+			SoI'mnotanaltogether
+			differentbreed,yousee?
+
+								DISSOLVETO:
+
+322-
+325	THEDESCENTOFTHEGORGE-SEVERALSHOTS-DAY
+
+	Toreachthecampsite--abeachatthebaseofthegorge--theparty
+	mustleadthehorsesalonganarrowtrailthatzigzagsdownthefaceof
+	thesandstonecliffs.Theyhaveabandonedthewagon.
+
+								DISSOLVETO:
+
+326	EXT.ARCHEOLOGICALCAMP-ESTABLISHINGSHOT-DAY
+
+	Sandbarsandtwonarrowbeachesareinevidencehere.Thecampitself
+	consistsofseverallean-tosagainstthecliffwall.Abovethecamp,
+	reachedbyladdersconnectedtoscaffolding,isthemouthofacave.
+	Ziraiscleaningupthebreakfastthings;ZaiusandLuciusaresorting
+	outequipment.
+
+A-326	CLOSERANGLE-TAYLORANDZIRA
+
+	AsmallbowlofwaterrestsonthegroundinfrontofTaylorHehas
+	nearlyfinishedshavinghimselfwithasharphuntingknife.Nova
+	watches,alookoffascinatedapprovalonherface.Taylorrinsesoff
+	hisknife,startstodryit.Novareachesout,gentlystrokeshis
+	smooth--ifnicked--chin.
+
+				TAYLOR
+				(smiling)
+			Youlikeit?
+
+	LuciusandCorneliuscomeup,Zirawiththem.
+
+				LUCIUS
+				(disapprovingly)
+			Whydidyoudothat?Scrapeoffyour
+			hair?
+
+				TAYLOR
+			Inmyworld--beforeIleftit-
+			onlyyoungstersofyourageworeun-
+			scrapedhair.
+
+				CORNELIUS
+				(toTaylor,quizzically)
+			Itmakesyoulooksomehow...less
+			intelligent.
+
+	TaylorgrinswrylyatCornelius,picksuphisrifle.
+
+				TAYLOR
+			Whenareyougoingtoshowmewhat's
+			inthecave?
+
+				CORNELIUS
+			Rightnow,ifyoulike.
+
+	Theycrossthebeachtotheladders,whensuddenlytheyhearthesound
+	ofhorses.Theylooko.s.
+
+B-326	WHATTHEYSEE:
+
+	Dr.Zaiusandfivearmedandmountedapeshavecomearoundthecorner
+	ofthebeachandridetowardthemthroughtherocks.
+
+C-326	MEDIUM-THEGROUP
+
+	Taylorscramblesupontothelowerscaffold.Luciusrunstoalean-to,
+	scoopsuphisrifle.
+
+				CORNELIUS
+			Lucius--don'tfireatthem.
+
+	Thepartyridesup.
+
+				ZAIUS
+			You'reallunderarrest!
+				(toLucius)
+			Youseditiousscoundrel.Dropthat
+			rifle.
+
+327-	OUT
+348
+
+349	FLASHSHOT-LUCIUS
+
+	Hewavers,loweringhispiece.
+
+350	WIDERANGLE-TOINCLUDEBOTHGROUPS
+
+	Zaius'gorillasrideforwardafewpaces,buthaltagainasTaylor
+	shouts:
+
+				TAYLOR
+			Stoprightthere.
+
+				ZAIUS
+			Don'tbeafool.You'reoutnumbered
+			andoutgunned.
+
+	TayloraimsatZaiusandcallsout:
+
+				TAYLOR
+			Ifthere'sanyshooting,Dr.Zaius,
+			you'llbethefirsttodie.Depend
+			onit.
+
+				CORNELIUS
+				(protesting)
+			Taylor,you'renotincommandhere.
+			Putdownthatgun.
+
+				TAYLOR
+			Shutup.
+
+	Silence.	ZaiusknowsTaylorisn'tbluffing.
+
+				ZAIUS
+			Verywell.
+				(tohisfollowers)
+			Loweryourweapons.
+
+	Theyobey.Taylorcallsagain:
+
+				TAYLOR
+				(pointing)
+			Tellthemtomovearoundthepoint.
+			Outofrange.
+
+	Zaiusturnsandwhisperstohisapes.Theyreinaboutandrideaway
+	throughtherocks.Zaiusdismountsandapproachesthefugitivesalone.
+	Heisunarmed.
+
+351	CLOSERANGLE-THEGROUP
+
+	AsZaiusdrawsnearer)Luciuslowershisrifle.ButTaylorkeepshisat
+	theready.
+
+				CORNELIUS
+				(uncertainly)
+			Howdidyouknowwe'dcomehere?
+
+				ZAIUS
+			Itwasn'tdifficult.Onlyanapostate
+			oralunaticwouldfleetotheForbidden
+			Zone.
+				(aglanceatTaylor)
+			Iseeyoubroughtalongthefemaleof
+			yourspecies.
+				(Taylornods)
+			Ididn'trealizeamancouldbemonogamous.
+
+				TAYLOR
+			Onthisplanet--it'seasy.
+
+	Zaiuslaughsderisively,thenturnstotheapes.
+
+				ZAIUS
+				(evenly)
+			Iaskyoutoreconsidertherashcourse
+			you'vetaken.Ifyou'reconvictedofheresy,
+			themostyou'llgetistwoyears.Butif
+			youpersistinpointinggunsinmydirection,
+			you'llhangforhightreason.
+
+				CORNELIUS
+				(respectfully)
+			We'venevermeanttobetreasonable,sir.
+				(pointingoff)
+			Butupthere,inthefaceofthatCliff,
+			isavastcave--andinthatcavea
+			fabuloustreasureoffossilsandartifacts.
+
+				ZAIUS
+			I'veseensomeofyourfossilsandartifacts.
+			They'reworthless.
+
+				TAYLOR
+				(derisively)
+			Andthat'syourMinisterofScience.Honor-
+			boundtoexpandthefrontiersofknowledge.
+
+				ZIRA
+				(worried)	
+			Taylor,please--
+
+				TAYLOR
+			Exceptthathe'salsotheChiefDefender
+			oftheFaith.
+
+				ZAIUS
+				(loftily)
+			Thereisnocontradictionbetweenfaith
+			andscience.Truescience.
+
+				TAYLOR
+				(suddenlyangered)
+			Allright,let'sseeifyou'rewilling
+			toputthatstatementtoatest.
+
+				CORNELIUS
+			Taylor,I'dratheryou-
+
+				TAYLOR
+			No.Yousavedmefromthisfanatic.Maybe
+			Icanpayyouback.
+
+				ZAIUS
+				(calmly)
+			Whatisyourproposal?
+
+				TAYLOR
+			WhenweretheSacredScrollswritten?
+
+				ZAIUS
+			Twelvehundredyearsago.
+
+				TAYLOR
+			Verywell.IfZiraandCorneliuscanprove
+			thatthosescrollsdon'ttellthewhole
+			truthofyourhistory;iftheycanshowyou
+			definiteevidenceofanotherculturefroman
+			unrecordedpast--willyouexoneratethem?
+
+				ZAIUS
+			Ofcourse.
+
+				TAYLOR
+			Okay.Uptothecave.
+
+	Hegesturestowardthepathleadingtoit.Zaius,Zira,andCornelius
+	startupward.Luciusstartstofollowthem.
+
+				TAYLOR
+			Sorry,Lucius.You'llhavetostayhere
+			andguardthehorses.
+
+				LUCIUS
+			Alwaysgivingorders.Justlikeevery
+			otheradult.
+
+				TAYLOR
+			Relax.You'llseeitalllater.
+
+	HepatsthebarrelofLucius'gun,inthemannerofasternbut
+	benevolentnon-com,thenstartsupthetrailwithNovaathisheels.
+	Lucius,unusedtotakingcommandsfromananimal,scowlsafterhim,
+	thenshrugs,adjustingtotheIdea.
+
+352-
+355	OUT
+
+356	EXT.WESTERNWALLOFGORGE-LONGSHOT-ANGLINGUP
+	AFTERNOON
+
+	Thesunhoversovertheloftyrimofthelakelikeagreatredballoon.
+	Thewallofthegorge,inshadow,isadarkerhue.
+
+357	EXT.EASTERNWALLOFGORGE-LONGSHOT-ANGLINGUP
+
+	Thecrenelatedeastwall,lookinglikearedcathedral,isaglowwith
+	sunlight.Soisthemouthofthecaveasthethreeapes,Taylorand
+	Novapassthroughitando.s.
+
+358	INT.CAVERN-BOOMSHOT-DAY
+
+	Naturehasformedavaultedroomhere.Itneednotbeenormous,but
+	shouldbeasweirdandfantasticasproductioncapabilitiespermit.
+	Thereisanape-madeexcavationinthefloorofthecave,sometenfeet
+	squareandeightfeetdeep.Somesmallobjectslieontherimofthe
+	excavation.Zaius,Cornelius,Zira,TaylorandNovaenterfromthe
+	outside.
+
+	(AUTHOR'SNOTE:Theeffectshouldbeaneyeful.Iwishtocreatean
+	illusionofsunlightpenetratingthiscave,floodingitwithdirect,
+	refractedillumination,transformingitintoakaleidoscopiccavern.)
+
+				ZAIUS
+			Presentyourevidence,Cornelius.
+
+	Corneliusclambersdownintothepit,followedbyZira.Taylorbends
+	down,examinessomeoftheartifactslinedalongtheedgeofthe
+	excavation.Novasitsbesidehim.
+
+				CORNELIUS
+				(pointing)
+			ItwasatthislevelIdiscoveredtraces
+			ofanearlyapecreature--stageof
+			primitivebarbarism,really--datingback
+			roughlythirteenhundredyears.Itwashere
+			Ifoundcuttingtoolsandarrowheadsof
+			quartzandthefossilizedbonesof
+			carnivorousgorillas.
+
+	CAMERA(ONBOOM)MOVESINSLOWLYasCorneliuscontinues:
+
+				CORNELIUS
+			Buttheartifactslyingatyourfeet
+			werefoundhere,atthislevel.And
+			that'stheparadox.Themoreancient
+			cultureisthemoreadvanced.Admittedly,
+			manyoftheseobjectsareunidentified,
+			butclearlytheywerefashionedbybeings
+			withaknowledgeofmetallurgy.
+
+	CAMERAKEEPSMOVINGINonthegroupinandaroundtheexcavationas
+	Corneliuscontinues:
+
+				CORNELIUS
+			Indeed,theveryfactthatthesetools
+			areunknowntouscouldsuggestaculture
+			incertainwaysalmostequaltoourown.
+			Someoftheevidenceisuncontestable...
+
+				ZAIUS
+				(interrupting)
+			Don'tspeaktomeinabsolutes.The
+			evidenceiscontestable.
+
+				CORNELIUS
+			Iapologize.
+
+				ZAIUS
+			Tobeginwith,yourmethodsofdating
+			thepastarecrude,tosaytheleast.There
+			aregeologistsonmystaffwhowouldlaughat
+			yourspeculations.
+
+				TAYLOR
+			Perhapsthat'swhythey'reonyourstaff.
+
+	ZaiusflicksahostileglanceatTaylor,thenlooksdownatthe
+	artifacts.Henudgesthemwithhisfoot.
+
+				ZAIUS
+			Secondly,ifthese'tools'asyoucall
+			them,areunidentified,whyarethey
+			introducedas'evidence'ofanything?
+
+				ZIRA
+				(promptly)
+			Butthere'sthedoll,sir.
+
+				ZAIUS
+			What?
+
+				CORNELIUS
+				(pointing)
+			Rightthere.Thehumandoll.
+
+	Zaiusdeignstostoopandpickitup.
+
+359	CLOSEONDOLL-INZAIUS'HAND
+
+	Itisonlyaporcelainfragment,buttheheadisintact,anditis
+	unmistakablytheformofahumanchild.
+
+				ZAIUS	
+			Whatdoesthisprove?Mygrand-
+			daughterplayswithhumandolls.
+
+360	FULLSHOT-THEEXCAVATION-INCLUDINGTAYLOR
+
+	Exasperated,Ziraturnstothemanforconfirmation.
+
+				ZIRA
+			Taylor!Tellhim.
+
+				TAYLOR
+			Hehasapoint.Onmyplanetchildren
+			oftenplaywithapedolls.
+
+	ZaiusidlytossesthedolltothegroundnearNova.Shepicksitup,
+	studiesit.
+
+361	GROUPSHOT-THETHREEAPES
+
+	Corneliustriesagain.
+
+				CORNELIUS
+			Adollaloneprovesnothing.True.But
+			thedollwasfoundbesidethejawbone
+			ofaman--andnotraceofsimianfossils
+			hasturnedupinthisdeposit.
+
+				ZAIUS
+			Yourconclusionispremature.Haveyou
+			forgottenyourScripture?TheThirteenth
+			Scroll?
+				(quotingfrommemory)
+			'AndProteusbroughttheuprightbeast
+			intothegarden,andchainedhimtoatree,
+			andthechildrenmadesportofhim.'
+
+				CORNELIUS
+				(impatiently)
+			Nosir,Ihaven'tforgotten.
+
+				ZAIUS
+			Well?Foratimetheancientskepthumans
+			ashouseholdpets.	UntiltheLawgiver
+			provedthatmancouldnotbetamed.Keep
+			diggingCornelius.You'llfindevidenceof
+			themasterofthishouse:anape.	
+
+A-361	ANOTHERANGLE-TOINCLUDETAYLORANDNOVA
+
+	AsZiraagainappealstotheman.
+
+				ZIRA
+			Areyougoingtoletthatpasswithout
+			ananswer?
+
+	Taylor,whohasbeentoyingwithobjectsinthedirt,looksup.
+
+				TAYLOR
+			Yes.Ihavetoagree.Fromallyou've
+			foundsofar,hisposition'sasgoodas
+			yours.
+
+				CORNELIUS
+				(annoyed)
+			Whatareyoudoingthere?
+
+				TAYLOR
+			Reconstructingalife.Caretohavea
+			look?
+
+	CorneliusandZiracrossthepitandZaiuswalksaroundtherimofthe
+	excavation.
+
+B-361	MED.CLOSESHOT-FAVORINGTAYLORANDNOVA
+
+	Astheapescomeclose.Anumberofartifactshavebeenarrangedin
+	frontofTaylor.
+
+				TAYLOR
+				(toCornelius)
+			Thesewerefoundnearthehumandoll,
+			right?
+				(Corneliusnods)
+			Well,whoeverownedthemwasinpretty
+			badshape.
+
+	Hepicksupthetwistedfragmentofapairofspectacles.
+
+				TAYLOR
+			Defectiveeyesight..
+
+	AsTaylorcontinueshismonologue,hepicksuptheotherobjectsoneby
+	one.
+
+				TAYLOR
+			Heworefalseteeth.
+				(pause)
+			Hesufferedfromaherniaandused
+			thistrusstoholduphisinsides...
+				(pause)
+			Andtowardtheend,theselittlerings
+			ofstainlesssteelenclosedaprefab-
+			ricatedvalveinhisfailingheart.
+
+	Taylorpauses.Zaiuspicksuptwoofthesteelrings,studiesthem.
+
+				TAYLOR
+			Idon'tsayhewasamanlikeanEarthman,
+			butI'dcallhimacloserelative,for
+			hewasplaguedbymostofman'sills.
+				(toZaiuspointedly)
+			Yet,fragileashewas,hecamebeforeyou
+			--andwassuperiortoyou.
+
+				ZAIUS
+				(acalmsmile)
+			That'slunacy.Icangiveanalternate
+			descriptionforeveryoneofthoseobjects
+			that'sequallyasinventiveasyours.But
+			itwouldbeconjecture,notproof.
+
+362	WIDERANGLE-TOINCLUDETAYLORANDNOVA
+
+	Sheispokingherfingerinsidethedecapitatedheadofthedoll.From
+	itcomesadistortedSOUND.
+
+				DOLL'SHEAD
+			Mamma!Mamma!Mamma!.
+
+	Theapesstareatthedollinastonishment.Taylorsnatchesthedoll
+	fromNova,brandishesitattheastonishedZaius.
+
+				TAYLOR
+			Dr.Zaius!Wouldanapemakeahuman
+			dollthattalks?
+
+	Zaiuslooksathim,speechless.AtthatmomenttheCRACKofadistant
+	rifleshotreverberatesthroughthecavern.Allpresentfreeze,
+	listening.
+
+				ZIRA
+			Lucius....
+
+363-
+364	OUT
+
+365	FULLSHOT-THECAVERN-REVERSEANGLE
+
+	Tayloraloneisarmed.Raisinghisrifle,heglowersatZaius.
+
+				TAYLOR
+			Youlouse!
+
+	Corneliusisalreadycrossingthepit.Heclimbsoutaridracestoward
+	themouthofthecave.Taylorrunsafterhim.ZiraandNovahurryafter
+	Taylor.
+
+366	MED.SHOT-ZAIUS
+
+	Expressionless,helooksdownatthedoll,thenmovestowardthemouth
+	ofthecave.
+
+367	EXT.TRAILFROMCAVETOCAMP-ANGLINGUP
+
+	Corneliusemergesfrommouthofthecaveandrunsdownthetrailtoward
+	CAMERA.Hehaltsinf.g.,lookingdownat:
+
+368	THECAMPSITE-ASSEENFROMTHETRAIL
+
+	TwoofZaius'gorillashavedisarmedLuciusandareclubbinghimwith
+	theirriflebutts.Twoothermountedapesaredrivingthescientists'
+	horsesbackbeyondthetrees.
+
+369	EXT.THETRAIL-ASSEENFROMTHEBEACH
+
+	Cornelius,Taylor,NovaandZira(inthatorder)canbeseenhigh
+	above,descendingthetrail.CAMERAPULLSBACKTODISCLOSEAGORILLA
+	SNIPERinimmediatef.g.,crouchingbehindabouldernearthewater.He
+	sightshisrifleatthemanonthetrail.Taylorisstilltoodistant
+	tomakeasuretarget,andsothesniperwaits.
+
+370	CLOSERANGLE-TAYLORONTHETRAIL
+
+	Thisportionofthetrailhasnocoverorconcealment.Unawareofthe
+	sniper,Taylorlooksdownatthecampashemakeshisdescent.
+
+371	LONGSHOT-TAYLOR-ASSEENINTHESNIPER'SSIGHTS
+
+	Thegorillafires.
+
+372	CLOSESHOT-TAYLOR
+
+	Thebulletricochetsofftherockwallafootabovehishead.Taylor
+	scanstheterrainbewlow,lookingforthesniper.Novacomestohis
+	side,pointingat:
+
+373	THESNIPER-FROMTHEIRP.O.V.
+
+	Hisheadisvisiblebehindtheboulderashereloadshispiece	.
+
+374	FLASHSHOT
+
+	Heaimsandfires.
+
+375	FLASHSHOT-THESNIPER
+
+	Taylorhasmissedhim,butthesniperducksbehindtheboulder.
+
+376	THETRAIL-PANNINGWITHTAYLORANDNOVA
+
+	TaylortakesherhandandtheyracebackupthetrailtowhereZirais
+	standing.Outcroppingsofrockoffersomecoverhere.Taylorpushes
+	NovadownbehindarockandsignalsforZiratofollowsuit.
+
+377	CLOSEGROUPSHOT-TAYLOR,NOVAANDZIRA
+
+	Thesniper'sSECONDSHOTringsout.Insteadofreturningthefire,
+	Taylorlooksuptherailat:
+
+378	ZAIUS-FRO14TAYLOR'SP.O.V.
+
+	Heisstandingimpassivelyonthetrailashortdistancebelowthe
+	mouthofthecave.
+
+379	FLASHSHOT-TAYLOR
+
+	Bentlow,hecomeschargingupthetrailtowardZaius.Thesniper's
+	THIRDSHOTsplattersrockfragmentsaroundhim.
+
+380	REVERSEANGLE-THETRAIL-ANGLINGUP
+
+	Zaiusstartstoretreattothecave,butstumblesandfallsonsome
+	looseshale.NosoonerhasZaiusregainedhisfeetthanTaylor
+	overtakeshim.Seizingtheapearoundtheneckwithhisleftarm.
+	TaylordrivesthemuzzleofhispistolintoZaius'kidney.Hespins
+	Zaiusaround,usinghimasashield.
+
+381	CLOSETWOSHOT-ZAIUSANDTAYLOR
+
+	TaylorreleasesthepressureonZaius'throatbutkeepsthegunpointed
+	athisback.
+
+			TAYLOR
+		Tellhimtopullback!
+
+			ZAIUS
+			(ahoarsecry)
+		Ceasefire!Withdraw!
+
+	Hiscommandechoesfromthewestwallofthecanyon.
+
+382	LONGSHOT-THEFLOOROFTHEGORGE-FROMTHEIRP.O.V.
+
+	Thesniperemergesfrombehindaboulderneartheshore,andwalksoff
+	alongthebeach.
+
+383	BACKTOTAYLORANDZAIUS
+
+	Taylorlift'sthemuzzleofhisrifleandpressesitagainsttheback
+	ofZaius'head.
+
+				TAYLOR
+			Ioughttokillyourightnow.
+				(nudginghim)
+			Let'sgo.
+
+	Theymoveoffdownthetrail.
+
+384	EXT.ARCHEOLOGICALCAMP-MED.SHOT-DAY
+
+	ZirarushesdownthetrailtoLucius,whoissprawledontheground.He
+	hasabloodynoseandalumponhisforehead.NovaandCorneliuscome
+	next,thenTaylor,proddingZaiusaheadofhimatgunpoint.Lucius
+	appearstobemorehumiliatedthanhurt.
+
+				LUCIUS
+			Theytookmebysurprise.Sneaked
+			uponmewhileIwaswateringthe
+			horses.What'shappenedtohonor?
+				(pause,glum)
+			Igotoffoneroundtowarnyou.
+
+				CORNELIUS
+				(gloomingly)
+			They'vetakeneverything.
+
+				TAYLOR	
+			Noteverything.Theyleftahostage.
+				(apause)
+			Howdoyoufeel,Lucius?
+
+				LUCIUS
+			Disillusioned...
+				(turningon)
+			Butvindicated!I'vebeenrightall
+			along.Youcan'ttrusttheolder
+			generation.It'samatterofvalues--
+
+				TAYLOR
+				(gently)
+			Allright,allright.WillYoudome
+			afavor?Noorders.
+
+				LUCIUS
+				(pause)
+			Whatisit?
+
+				TAYLOR
+			Iwantyoutogoaroundthebendand
+			tellthosegorillastheirleaderismy
+			prisoner.
+
+				LUCIUS
+				(thoughtfullpause)
+			Yes,Icandothat.
+
+				TAYL0R
+			Good.SayIwantaweek'ssupplyoffood
+			forthewomanandmyself.Ahorse.Aspade.
+			Andfiftyroundsofammunition.
+
+				LUCIUS
+			Whatiftheywon'tagreetoyourterms?
+
+				TAYLOR
+			ThentellthemDr.Zaiuswon'tleave
+			herealive.
+
+				ZIRA
+				(shocked)
+			Taylor,youcan't.
+
+				ZAIUS
+				(Calmly)
+			Ohyeshecan.He'sabornkiller.
+			(toLucius)
+		Deliverthemessage.
+
+	LuciuslookstoTaylorforconfirmation.Taylornods.Theyoungape
+	hurriesawaythroughtherocks.Taylorcrossestoauselesssaddle,
+	picksupacoilofrope,gesturesatZaius,indicatinganearbytree.
+
+				TAYLOR
+			Sitdown.Overthere.
+
+	Zaiussquatsonthegroundbesidethetree.Taylorsetshisrifle
+	againstthetrunk,fashionsanooseandplacesitaroundZaius'neck.
+	Then,usinganingeniouscombinationofknots,hetiesZaius'hands
+	behindhisback,andfinallyfastenstheropearoundthebaseofthe
+	tree.
+
+				TAYLOR
+				(asheworks)
+			Now,	MinisterofScience-letmeexplain
+			certainprinciplestressandstrain.If
+			youexertpressuretoremovethesebonds,
+			you'llchokeyourselftodeath.It'llbe
+			suicide,yousee?
+
+	ZiraandCorneliuslookdownatthecaptivemandarin.Theirrebellious
+	spirithasevaporated,andtheyareclearlyafraid.
+
+				ZIRA	
+			Taylor,please--don'ttreathimthat
+			way.
+
+				TAYLOR
+			Whynot?
+
+				ZIRA
+			It'shumiliating.
+
+				TAYLOR
+			Wasn'tIhumiliated?Byallofyou?
+			Didn'tyouleadmearoundonaleash?
+
+				CORNELIUS
+			Thatwasdifferent.Wethoughtyou
+			were....inferior.
+
+				TAYLOR
+				(wintrysmile)
+			Andnowyouknowthetruth.
+				(toZaius)
+			Corneliushasbeatenyou,Doctor.He
+			provedit.Manprecededyouhere.You
+			owehimyourscience,yourlanguage,
+			whateverknowledgeyouhave.
+
+				ZAIUS
+				(quietly)
+			Thenanswerthis:Ifranwassuperior,
+			whydidn'thesurvive?
+
+				TAYLOR
+				(shrugging)
+			Hemighthavebeenwipedoutbyaplague.
+			Naturalcatastrophe.Likeafierystorm
+			ofmeteors.Fromthelooksofthispart
+			ofyourplanet,I'dsaythatwasafairbet.
+
+				ZIRA,
+				(weakly)
+			Butwecan'tbesure.
+
+				TAYLOR
+				(indicatingZaius)
+			Heis.Heknewallthetime.Longbefore
+			yourdiscovery,heknew.
+				(toZaius)
+			DefenderoftheFaith.Guardianofthe
+			terriblesecret.Isn'tthatright,doctor?
+
+385-
+388	OUT
+
+389	REVERSEANGLE-	CIRCLE-FAVORINGZAIUS
+
+	AsZiraandCorneliuslookathimexpectantly.
+
+				ZAIUS
+			WhatIknowofmanwaswrittenlongago
+			--setdownbythewisestapeofall--
+			ourLawgiver.
+				(toCornelius)
+			Openmybreastpocket.
+
+	CorneliuscrossestoZaius,andtakesasmallbookboundinblack
+	leatherfromthebreastpocketofhistunic.
+
+				ZAIUS
+			Readittohim:thetwentythirdScroll,
+			ninthVerse.
+
+	Corneliusthumbsthroughthebook,findsthecitationandreadsaloud:
+
+				CORNELIUS
+			'Bewarethebeastman,forheisthe
+			devil'spawn.AloneamongGod'sprimates,
+			hekillsforsport,orlustorgreed.
+			Yes,hewillmurderhisbrothertopossess
+			hisbrother'sland.Lethimnotbreed
+			ingreatnumbers,forhewillmakeadesert
+			ofhishomeandyours.Shunhim.Drivehim
+			backintohisjunglelair:Forheisthe
+			harbingerofdeath'.
+
+	CorneliusfallssilentandlooksdownatZaius.
+
+				ZAIUS
+				(quietly)
+			Ifoundnothinginthecavetoalterthat
+			conceptionofman.AndIstilllivebyits
+			injunction.
+
+A-389	ANOTHERANGLE-THEGROUP
+
+	Luciushurriesoutoftherocksleadingasaddledhorse.Zaius'five
+	mountedgorillasappearbehindhim.Taylorcallsouttothem:
+
+				TAYLOR
+			Staywhereyou	are!
+
+	Luciuscomesupwiththehorse.Taylorcheckstheprovisionsinthe
+	saddlebags.Luciusisfrowning.
+
+				LUCIUS
+			Theythinkyou'rebehavingfoolishly.I
+			mustsayIagree.Wherewillyougo?
+
+				TAYLOR
+				(noddingo.s.)
+			I'llstartbyfollowingtheshoreline.
+				(asmile)
+			Andmynose.
+
+				ZIRA
+			Butsupposeyoufindnothingbuta
+			wasteland.Howwillyousurvive?
+
+				ZAIUS
+				(firmly)
+			Hewon'tsurvive.
+				(alllookathim)
+			Doyouknowwhatsortoflifeawaits
+			yououtthere,Taylor?Thatofananimal.
+			Ifyouaren'teventuallyhunteddownand
+			killedbyapes,somejunglebeastwill
+			devouryou.
+
+				TAYLOR
+			Thenthereisanotherjungle?
+
+				ZAIUS
+				(shrugs;then,
+				sardonically)
+			Ofcourse,youcouldreturnwithus.Our
+			societymightfindaplaceforyouand
+			yourmate.
+
+				TAYLOR
+			Sure.	Inacage.
+
+				ZAIUS
+			Whereelse,butinacage,doesman
+			belong?
+
+				TAYLOR
+			No,thanks.I'lltakefreedom.
+
+	Taylormountsthehorse,extendsahelpinghandtoNova,whovault's
+	nimblyontothehorse'srump.TaylorlooksatZiraandCornelius.
+
+				TAYLOR
+			Wouldyouliketocomealong?
+
+				ZIRA
+			Wecan't.
+
+				TAYLOR
+			It'sbetterthangoingtoprisonfor
+			heresy.
+
+				CORNELIUS
+			Theycan'tconvictusofthat.You
+			provedourinnocence.Besides...
+				(indicatingZaius)
+			...hiscultureisourculture.
+
+				TAYLOR
+			Goodluckthen.
+
+	Hereachesdown,graspsCornelius'hand,thengrinscrookedly.
+
+				TAYLOR
+			Dr.Zira,I'dliketokissyou
+			good-bye.
+
+				ZIRA
+			Allright,but....
+				(tearsinhereyes)
+			...you'resodamnedugly!
+
+	Taylorsmiles,leansdown,kissesher.
+
+				ZIRA
+				(softly)
+			GowithGod,Taylor.
+				(halfsmile)
+			That'sanoldexpression.itcomes
+			frombothapeandman.
+
+				TAYLOR
+			Godblessyou.
+
+	HeextendshishandtoLucius,whotakesit.
+
+				TAYLOR
+			Lucius.
+
+				LUCIUS
+			Ithinkyou'remakingamistake.
+
+				TAYLOR
+			That'stheboy.Keep'emflying.
+
+				LUCIUS
+			What?
+
+				TAYLOR
+			Theflagsofdiscontent.It'stheonly
+			wayanythingevergetschanged.
+				(toZaius)
+			Don'ttrytofollowus.
+				(patsstockof
+				hisrifle)
+			I'mprettyhandywiththingslikethis.
+
+				ZAIUS
+			OfthatI'msure.AllmylifeI've
+			awaitedyourcominganddreadedit.
+			Likedeathitself.
+
+	TaylorlookspiercinglyatZaius,moretroubledthanoffended.
+
+				TAYLOR
+			Why?Fromthefirst,I'veterrifiedyou,
+			Doctor.Andinspiteofeverysignthat
+			I'manintelligentbeingwhomeansno
+			harm,youcontinuetohateandfearme.
+			Why?
+
+				ZAIUS
+				(calmly,
+				withoutrancor)
+			Becauseyouareaman.Andyouwereright
+			--Ihavealwaysknownaboutman.Fromthe
+			evidence,Ibelievehiswisdommustwalk
+			handinhandwithhisidiocy.Hisemotions
+			mustrulehisbrain.Hemustbeawarlike
+			animalwhogivesbattletoeverythingaround
+			him--evenhimself.
+
+				TAYLOR
+			Whatevidence?Noweaponswerefoundin
+			thecave.
+
+				ZAIUS
+			TheForbiddenZonewasonceaparadise.
+			Yourbreedmadeadesertofit,agesago.
+
+				TAYLOR
+				(hewaits,
+				thenwearily)
+			We'rebackatthebeginning.Istilldon't
+			knowthewhy.Aplanetwhereapesevolved
+			frommen.Aworldturnedwrongsideup.
+			Apuzzlewithonepiecemissing.
+
+				ZAIUS
+				(softly)
+			Don'tlookforit,Taylor.Youmaynot
+			likewhatyoufind.
+
+B-389	WIDERANGLE-TAYLORANDTHEGROUP
+
+	Taylorshakeshishead,stillbaffled,digshisheelsintothehorse's
+	flank.Itcantersoffalongthesandyshore.	Zira,Corneliusand
+	Luciussadlywatchthedeparture.
+
+				ZAIUS
+			Untieme!
+
+	CorneliusmovesquicklytoremovetheropefromZaius'neck.Behind
+	them,thefivemountedgorillasgallopforward.Zaiusgetsup,waves
+	themtoahalt.
+
+				ZAIUS
+			No,no!Lethimgo!
+
+C-389	MOVINGSHOT-TAYLORANDNOVAONHORSEBACK
+
+	Taylorlooksback,seesthatZaiushasstoppedthemountedapes,slows
+	hishorsetoatrot,smilesatNova.
+
+390-	OUT
+405
+
+406	MED.SHOT-THEAPES
+
+	ZaiuswatchesasTaylor'shorsemovesfartherawayalongthebeach.
+	ThenheturnstoanapecalledMARCUS.
+
+				ZAIUS
+				(quietly)
+			Fetchyourexplosives.We'regoing
+			tosealthecave.
+
+				MARCUS
+			Yes,sir.
+
+	Heremountshishorseandrideso.s.
+
+				CORNELIUS
+				(aghast)
+			Sealthecave?
+
+				ZAIUS
+			That'scorrect.Andyouwillbothstand
+			trialforheresy.
+
+				ZIRA
+			Buttheproof?Thedoll?
+
+				ZAIUS
+			Inafewminutestherewillbenodoll.
+			Therecan'tbe.
+				(honestregret)
+			I'msorry.
+
+	CorneliusthrowshimselfatZaius.
+
+				CORNELIUS
+			Youmustn't!Yougaveyour'word!
+
+	Zaiuslooksemptilyatoneofhisapes.
+
+				ZAIUS
+			WhatIdo,Idowithnopleasure.Silence
+			him.
+
+	AhairyhandisclappedoverCornelius'mouth.Heisdraggedoff,
+	struggling,kicking.Julius,unafraid,glaresatZaius.
+
+				LUCIUS
+			Dr.Zaius,thisisinexcusable!Whymust
+			knowledgestandstill?Whataboutthe
+			future?
+
+	ZaiuslooksbenevolentlyatJulius.
+
+				ZAIUS
+			Imayjusthavesaveditforyou.
+
+	JuliusandZiralookateachother,befuddled.Oncemoretheireyes
+	followtheretreatingfiguresofTaylorandNova.Thebeachseparating
+	thewaterfromthecanyonbecomesnarrowerastheymovedownstream.
+
+				LUCIUS
+			Whatwillhefindoutthere,doctor?
+
+A-406	CLOSEUP-ZAIUS
+
+	HisfaceisAmask,histoneenigmatic.
+
+				ZAIUS
+			Hisdestiny.
+
+B-406	WIDERANGLE-TIEAPESP.O.V.
+
+	Amomentlater,astheywatch,TaylorandNovavanisharoundthebend.
+
+407-	OUT
+408
+		
+409	EXT.PALISADEANDBEACH-LONGHIGHANGLESHOT-DAY
+
+	TaylorandNovaarealreadyfardownstream.Thereisastrikingchange
+	intheterrain.Theareaisstilldesolate,butsomevegetationcanbe
+	seenonthepalisadeabovethenarrowbeach,andtheriverhaswidened
+	toformavasttidalbasinwhereitmeetsthesea.
+
+	ANOTEONPRODUCTION:Iffeasibleatnewlocationsite,thisscene
+	shouldbeshotathightide,sothatthewaterlapsatthebaseofthe
+	cliffs,makingapassagedifficultandrisky.
+
+410	CLOSERANGLE-PANNINGWITHTAYLORANDNOVAONHORSEBACK
+
+	Heisalert,sniffingthesaltair,sizingupthesituation.Hearing
+	theCRIESofbirds,hereinsinandlooks'up.
+
+411	SKYSHOT-CIRCLINGBIRDS
+
+	Seagullsaresoaringoverhead.
+
+412	TWOSHOT-TAYLORANDNOVAONHORSEBACK
+
+	Hisexpressionisexpectant,searching.Novaemitsawhimperof
+	anticipation,pointingoff.
+
+413	LONGSHOT-WHATTHEYSEE:
+
+	Averdantforestatopadistantpalisade.Theirviewofthebeachbelow
+	theforest,iscutoffbyarockypromontoryinthemiddledistance.
+
+414	CLOSESHOT-NOVAANDTAYLOR
+
+	Hesmilesatherhopefully.
+
+				TAYLOR
+			Yes,Nova--Iseeit.
+				(looksagainat
+				forest)
+			Inmyoldprofessiongreenmeant
+			safe.Greenmeantgo.
+
+	Thehorsemovesoffatatrot,CAMERAPANNING.Buttheyhavegoneonly
+	ashortdistancewhentheyhearthedistantTHUNDERofanEXPLOSION.
+	Taylorreinsinandlooksback.
+
+415	VERYLONGSHOT-ACLOUDOFSMOKE
+
+	Acolumnofsmokeanddustrisesfromtheexplodedcavefarupstream.
+
+416	BACKTOTAYLORANDNOVA
+
+	Frowningwithconcern,Taylorgazesforamomentatthesmoke,then
+	decidesthisisnotimetolinger.Hedigshisheelsintothehorse's
+	flanksandtheymoveoffatacanter,ridingtowardthepromontorythat
+	splitsthebeach.Theyarenearingthepromontorythatblockstheir
+	viewofthebeachbeyond.
+
+417-	OUT
+418
+
+419	CLOSERANGLE-TRACKINGWITHTAYLORANDNOVA.
+
+	Astheyroundthepromontory,thetipofastrangerockformationcomes
+	intoview.itappearstobejuttingfromthesea.
+
+420	REACTIONSHOT-TAYLOR
+
+	Hereinsinmomentarily,baffledbywhathesees.Thenherideson.
+
+421	THESTRANGEFORMATION-ASSEENBYTAYLOR
+
+	Animmensecolumnjutsfromthebeachatathirty-degreeangle.Wecan
+	nowseethatitisnotrock,butmetal.Greenmetallictintsshow
+	throughitsgraysalt-stainedsurface.Aswedrawcloser,theobject
+	takesontheappearanceofamassivearm,itstopshapedlikeahand
+	holdingatorch.
+
+422	REVERSEANGLE-FAVORINGTAYLOR
+
+	Frowningwithconsternation.Hishorseproceedsataslowwalk.
+
+423	TRACKINGWITHTAYLOR-WHATHESEES:
+
+	Nearthebaseofthecolumn,wheretheshoreandwatermeet,arearow
+	ofmetalspikes.Fromthisangletheylookliketanktraps.
+
+A-423	CLOSER-TAYLOR
+
+	Dumbfounded,heslidesfromhissaddle,approachesthespikes.Nova
+	dismountsandfollowshim.
+
+				TAYLOR
+				(acryofagony)
+			MyGod!
+
+	Hefallstohisknees,burieshisheadinhishands.CAMERASLOWLY
+	DRAWSBACKANDUPtoaHIGHANGLESHOTdisclosingwhatTaylorhas
+	found.Half-buriedinthesandandwashedbythewavesistheStatueof
+	Liberty.
+
+424-	OUT
+451
+
+									FADEOUT
+
+
+
+				THEEND
+
+
+
+
+
+back
+
+
+
+
+
+
+
+
+PlanetoftheApes,The
+Writers:  MichaelWilson
+Genres:  Action  Drama  Sci-Fi
+UserComments
+
+
+
+
+
+
+
+

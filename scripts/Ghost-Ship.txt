@@ -1,0 +1,6261 @@
+
+
+
+
+GhostShip-byMarkHanlon-FirstDraft
+
+
+"GHOSTSHIP"
+
+(formerly"CHIMERA")
+
+by
+
+MarkHanlon
+
+Firstdraft
+
+
+
+							FADEIN
+
+	INT.BARGE-DAY
+
+	CrewmanEPPS(29),wearingalifevestandtoolbelt,jumps
+	downintothedarkness.Shestandsinagreathollowcavern,
+	oily,wet,resonantwiththesoundofcreaking,rustysteel
+	andWATERMOVINGOVERITSHULLontheotherside.
+
+	INT.BARGE-LATER-DAY
+
+	Eppscomestoalowpointinthedarkness,shiningherlight
+	onalakeofsaltwatersloshingagainstthebulkhead.She
+	kneels.Asthewatersloshesbacksheseesthatitisleaking
+	inthroughtheseamsinthesteelplateofthehull.
+
+	EXT.BARGE-LATER-DAY
+
+	Eppspullsherselfontothedeckfrombelow.Shestandsona
+	rusting5000tontankbargebeingpulledintheopenocean
+	byabrawnymarinetugattheendofa150foottowcable.
+	ItisatypicalsummerdayinthesouthernBeringSea,which
+	meansahealthychopandastiffcoldbreezeoutofthenorth-
+	west.Sheclosesthehatchbehindherandmakesherway
+	forward.
+
+	EXT.BARGE-BOW-MOMENTSLATER-DAY
+
+	Upahead,thetugpullssteadily,grey-blackcloudsofdiesel
+	smokerisingfromitsmassiveturbinevents.
+
+	Eppscinchesandchecksherbodyharness,focusedand
+	professional.TheproductofarockychildhoodinthePacific
+	Northwestandafewyearsofhardliving,she'sfoundher
+	truecallingnow.Andundersomegrime,severalpolyproshirts
+	andapairoforangemen'sInsulitepantsshemightevenbe
+	consideredpretty.
+
+	Sheclipsherharnessintothetowcablewhereitattaches
+	toaheavypairofeyecleatsatthebow.Sheclimbsonto
+	thecable,hangingoutoverthewaterasitbreaksonthe
+	bowbeneathher.Shepullsherselfforwardonarollerbearing
+	thatfitsoverthewidthofthecableandstartsofftoward
+	thetugattheotherend.
+
+	EXT.ARCTICWARRIOR-LATER-DAY
+
+	DODGEandGREERlookonfromthestern,wheretheboat's
+	name"ArcticWarrior"isemblazonedonthetransom.Dodge
+	(37),scruffychiefengineer,wearingderigueurgreasy
+	coverallsandnicotinestainedfingers,isanexpatriate
+	Texanandformermerchantmarine.GREER(42),istheboat's
+	firstmate,AfricanAmerican,originallyfromsomesweltering
+	red-neckhellhole,nowatugpilotintentionallywelltothe
+	north.
+
+	TheywatchasEppspullsherselftowardthem,thecable
+	occasionallydippingafewfeetwithasprayofwaterasa
+	passingswellslackensit.Eppspullsherselftothestern
+	wherethecablewindsintoatowanchor.
+
+				EPPS
+		It'saslowleak.
+
+	Sheunclipsanddropstothedeck.
+
+				GREER
+		What'sslow?
+
+				EPPS
+		Maybetwentygallonsanhour.
+
+				DODGE
+		Wherefrom?
+
+				EPPS
+		Amidshipsstarboardatthebeam.
+		Justunderthewaterline.Idon't
+		thinkit'saproblem.
+
+				GREER
+		Hearthat,Dodge?Eppsdon'tthink
+		it'saproblem.
+
+				DODGE
+		I'llsleepgoodtonightknowingthat.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Theviewfromthepilothousecommands360degreesasradar
+	andGPSnavigationdisplaysglow.MURPHY,theship'smaster,
+	pilotstheboat.Heis48,atseaallhisadultlife,and
+	mostoftherest,afactwrittenonhisfaceandonethat
+	everycrewmanwho'severworkedforhimhasbeenwillingto
+	bethislifeon.Awalkie-talkieCRACKLESAWAKE.
+
+				GREER(V.O.RADIO)
+		GreertoMurphy.
+
+				MURPHY
+			(liftingtheradio)
+		Go.
+
+	MurphyturnsbacktoseeGreer,Epps,andDodgelookingup
+	athimfromthestern.
+
+				GREER
+		Thenumbernineonthestarboard
+		side'shalfflooded.Eppssaysit's
+		aslowleakjustunderthewaterline,
+		abouttwentygallonsanhour.They
+		must'vepumpeditbeforeweleft
+		Sitka.
+
+				MURPHY
+		Ofcoursetheydid.
+
+				GREER
+		Letthebuyerbeware.
+
+				MURPHY
+		Whatdoyousay,Dodge?
+
+				DODGE(V.O.RADIO)
+			(takingtheradio)
+		Ifitstartedoutattwentyanhour
+		thepieceofshit'dbeatthebottom
+		oftheGulfbynow.Whetherit'll
+		makeSt.Lawrenceisanybody'sguess.
+
+	EXT.OPENOCEAN-DAY
+
+	HIGHANDWIDEastheArcticWarriorpullsthebargeagainst
+	theswellofagreyoceanandadarkeningsky.
+
+						DISSOLVETO:
+
+	EXT.PORTGERMAINE-ST.LAWRENCEISLAND-DAY
+
+	TheshoresofSt.LawrenceIslandopenintoasmallport
+	townofmainlypre-fabbuildingsastheArcticWarrior
+	approacheswiththebarge,nowpatheticallylistingtoone
+	sideasitmovesintotheharbor.
+
+	EXT.PORTGERMAINE-DOCKS-LATER-DAY
+
+	AsmallerharbortughelpstheArcticWarriorjockeythe
+	listingbargetothedockasEppsandDodgejumpofftotie
+	herup.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-MOMENTSLATER-DAY
+
+	Greerfeathersthetugintopositionandshutsdownthe
+	turbines.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	Murphyjumpsdownfromthepilothousetothedeckasafat
+	Russianman,Vasili(60)andaMECHANICingrease-covered
+	orangecoverallsapproachfromthedock.
+
+				VASILI
+		IthoughtyousayTuesday.
+
+				MURPHY
+		Betterlatethannever.
+
+				VASILI
+			(seeingthelisting
+			barge)
+		What'sthis?
+
+				MURPHY
+		Yougotaleakinthenumbernine
+		compartment.
+
+				VASILI
+		No,no.Yougotleak.
+
+				MURPHY
+		Youpumpitoutandre-seamthehull,
+		she'llbegoodasnew.
+
+				VASILI
+		Thatcostmetwentygrandatleast.
+
+				MURPHY
+		Fifteen,atthemost.
+
+				VASILI
+		Twenty.Youknockofftwentyand
+		thenwesee.Aftermyguylooksat
+		it.
+
+	INT.VASILI'SOFFICE-DAY
+
+	Inaprefabofficewithaviewoftheshipyard,Vasilicuts
+	acheckasMurphyandGreerlookon.Hetearsitoutofthe
+	book,handingitacrossthedesktoMurphy,whoinspectsit.
+
+				MURPHY
+		You'rekidding,right?
+
+				VASILI
+		Youwantfairpay,makehamburger
+		forMickeyD.Otherwise,pleaseto
+		sign.
+
+	Vasilipushesatransferregistertowardhim.Murphysigns.
+
+	EXT.SHIPYARD-DAY
+
+	GreerandMurphywalkbacktowardthedock.
+
+				GREER
+		Notbadfordraggingaleakytub
+		halfwaytoRussia.
+
+				MURPHY
+		He'llsellthescrapforthreetimes
+		whathepaid.
+
+				GREER
+		Imustbeinthewrongbusiness.
+
+				MURPHY
+		Yougotthatright.
+
+				GREER
+			(imitatingVasili)
+		Betterthan"makinghamburgerfor
+		MickeyD."
+
+	INT.BAR-NIGHT
+
+	Atypicalporttownbar.Exceptthisoneisonanislandin
+	themiddleoftheBeringSea.Eppslinesupashotatthe
+	pooltableasacoupleofSEAMENcheckoutherassanda
+	tattooofWileyCoyotepokingoutofherpants.Greerreads
+	apapernear-by.
+
+	Murphyenters,crossingtothebarwhereDodgenursesabeer
+	andacigarette.MurphythrowsdownanenvelopewithDodge's
+	nameonit.Dodgepicksitup,thumbsthroughathickstack
+	ofhundreds.
+
+				DODGE
+		Muchobliged,skipper.
+
+	INT.BAR-LATER-NIGHT
+
+	TheplaceisalittlemorecrowdednowasEppspushesher
+	waythroughtothebar,acigarettedanglingfromhermouth.
+	ShebuystwobeersandpaystheBARTENDERfromherenvelope
+	ofcash.Shetakesthebeersbacktothefarwallwherea
+	youngoff-dutyCOASTGUARDSMANstands.Hetakesone,they
+	laugh.
+
+	ATATABLE
+
+	Beers,cigarettesandpayenvelopesonthetablebeforethem,
+	Dodge,GreerandMurphylookonatEppsacrosstheroom,who
+	isshowingthecoastguardsmanabirthmarkonherneck.
+
+				GREER
+		LookslikeEpps'gonnagetsome
+		tonight.
+
+				DODGE
+		Withthatcoxswaindickhead.
+
+				MURPHY
+		Youaren'tjealous,areyouDodge?
+
+				DODGE
+		Areyoukiddingme?Jealous?Epps?
+		Gimmeabreak.
+
+	GreerandMurphytradelooksasDodgeraiseshisbeer.
+
+				DODGE
+		Whatalaugh.
+
+	AMINORCOMMOTIONcanbeheardastheysitthere.
+
+				WOMAN'SVOICE(O.S.)
+		I'llshowyou,bitch!
+
+	Theylookovertoseethecoastguardsman'sGIRLFRIEND,late
+	20s,heftyinaredminiskirtandbighair.
+
+				GIRLFRIEND
+		Youwanttomesswithme,I'llkick
+		yourbitchass,girl.
+
+	WITHEPPS
+
+	Eppscoollyputsouthercigaretteasacirclehasgathered
+	aroundherandthegirlfriend,anxioustoseeagirlfight.
+
+				EPPS
+		Idon'tknowwhatyou'retalking
+		about.Ijustboughtthisguyabeer.
+
+				GIRLFRIEND
+		This"guy"ismyman,honey.
+
+				COASTGUARDSMAN
+		Darlene--
+
+				GIRLFRIEND
+		You,shutup.
+
+				EPPS
+			(startingoff)
+		Listen,Idon'twantanytrouble,
+		okay--?
+
+				GIRLFRIEND
+			(stoppingEpps)
+		Uh-uh.No.We'regonnafixthisright
+		now.
+
+				MURPHY
+			(steppingup)
+		Whatseemstobethetrouble,ladies?
+
+				RIVETER
+		Whyn'tyoumindyourownbusiness,
+		chief.
+
+	MurphyturnstoseeashipyardRIVETER,abigmanholdinga
+	beer,stillwearinghisweldingleathers.Murphyturnsback
+	toEppsandtheGirlfriend.
+
+				MURPHY
+		AsIsaid,whatseemstobethe
+		trouble?
+
+				RIVETER
+		Didn'tyouhearme,grandpa?Oryou
+		gotyourhearingaidturneddown?
+
+				MURPHY
+		Iheardyou.ButI'mchoosingto
+		ignoreyou.Epps,let'sgo.
+
+	EppsstartsforwardbuttheRiveterstandsinherway,taking
+	Murphybythecollar.
+
+				RIVETER
+		Theseladieswashavingthemselvesa
+		discussionandyou'reinterrupting
+		it.
+
+				MURPHY
+		Yougotabouttwosecondstoget
+		yourpawsoffme,Tarzan.
+
+				RIVETER
+		Orwhat?
+
+	OrWHACK!Murphycan'thelpbutwinceasapoolcuebreaks
+	intwoovertheRiveter'shead.
+
+	Dodge,cigaretteinhismouth,takesalookatthecuehalf
+	hestillholds,shakinghishead.
+
+	TheRiveter'shandsfallfromMurphy'scollarandhislegs
+	buckle.SomeofhisBUDDIESholdhimupasGreerreminds
+	someoftheothershe'sholdingapoolcueofhisown.
+
+				MURPHY
+		Epps?
+
+	HelookstoEppslikelet'sgetthehelloutofhere.She
+	grabshercoat.
+
+				COASTGUARDSMAN
+		Wait.
+
+	EppsholdsthereastheCoastguardsmanstepsuptohis
+	girlfriend.
+
+				COASTGUARDSMAN
+		Darlene.It'sover.
+
+	Hegiveshertheringfromhisfinger.Murphyrollshiseyes
+	astheotherslookon.
+
+				COASTGUARDSMAN
+		Idon'tloveyouanymore.
+
+	Darlenebreaksintotearsastheyalllookon,somepather
+	ontheback.
+
+				COASTGUARDSMAN
+			(toEpps)
+		Comeon,Candy.Let'sgetoutof
+		here.
+
+	TheCoastguardsmantakesherbythehand.EppslookstoMurphy
+	andtheothersasheleadsherout.
+
+	EXT.ARCTICWARRIOR-DAY
+
+	Murphy,Greer,andDodgereadythetugtoleaveasEpps
+	approachesonthedock.Shejumpsdownontothedeck,aspring
+	inherstepandasonginherheart.
+
+				EPPS
+		Morningeverybody.
+
+				GREER
+		Showyourtatoostothatcoxswain
+		lastnight,didyouEpps?
+
+				EPPS
+		Showedhimahellofalotmorethan
+		that.
+
+				GREER
+		Ibetyoudid.
+
+				MURPHY
+		Candy?
+
+				EPPS
+		It'smypenname.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-DAY
+
+	Murphythrottlesuptheturbinesandbacksthetugawayfrom
+	thedockasGreerstudiesthedawnsky.
+
+				GREER
+		Redskyatnight,sailor'sdelight.
+
+				MURPHY
+		Redskyinmorning,sailortake
+		warning.
+
+	EXT.PORTGERMAINE-DOCKS-CONTINUOUS-DAY
+
+	Asthetugturnsintotheharborchannel,thesunrising
+	underacloudbankofbrilliantredandorange.
+
+						DISSOLVETO:
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	DodgeandEppsplaycardsatthegalleytable.
+
+				DODGE
+		Fuckit.
+
+	Heputsdownhishand.Eppstakesanotherdragfromher
+	cigarette,collectingherwinnings.
+
+				EPPS
+		Onemore?
+
+				DODGE
+		Whynot.
+
+	Shegathersthecards,shuffles.
+
+				DODGE
+		Whatisyourfirstname?
+
+				EPPS
+		What?
+
+				DODGE
+		ItjustoccurredtomeIdon'tknow
+		yourfirstname.AllthistimeandI
+		don'tknowit.
+
+	Shedealsthecardsinsilence.
+
+				EPPS
+			(finally)
+		Maureen.
+
+				DODGE
+		What?
+
+				EPPS
+		Maureen.
+
+				DODGE
+		Maureen?
+
+	Shelooksonathimasheholdsthere,takeshiscards.
+
+				EPPS
+		What'syours?
+
+	Dodgetakesadragfromhiscigarette,thinkingaboutit.
+
+				DODGE
+		Roger.
+
+				EPPS
+		Roger?
+
+				DODGE
+		Yeah.
+
+	Shewantstolaugh,butonlystudieshercards.
+
+				DODGE
+		Youthinkthat'sfunny
+
+				EPPS
+			(lying)
+		No.
+
+	Shetakesahitfromhercigaretteassheplaysherhand.
+
+	EXT.OPENOCEAN-BERINGSEA-NIGHT
+
+	THESONG"SOS"BYABBABLASTSasthetugplowswestward
+	throughasteadychopandamildswell.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	TheMUSICCOMESFROMHERE.GreerhastheCDplayercranked
+	ashemansthehelmintheglowofthepilothouse.Hechecks
+	theradar,holdsthereabeat.HeturnstheMUSICDOWNand
+	picksupawalkie-talkie.
+
+				GREER
+			(intowalkie)
+		GreertoMurphy.
+
+	Greerstudiestheradardisplayashewaits.
+
+				MURPHY(V.O.RADIO)
+		Yeah.
+
+				GREER
+		There'salargevesseloutaboutten
+		milestothenorth-west.
+
+	INT.ARCTICWARRIOR-MASTER'SQUARTERS-CONTINUOUS-NIGHT
+
+	Murphysitsathisdeskovertheship'slog,holdinghis
+	radio.
+
+				GREER
+		Ibeenwatchingitforclosetoan
+		hourandithasn'tmoved.Ican't
+		raiseitontheradioeither.Makes
+		methinkitmightbeintrouble.
+
+				MURPHY
+		Alright.I'llberightup.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-LATER-NIGHT
+
+	CLOSEONRADARDISPLAYasthesweep-refreshrevealsabright
+	pointoflightinthemiddleofnowhere.
+
+				MURPHY(O.S.)
+		Merchantvesselatpositiononeseven
+		fouronefivewest,fivesevenseven
+		fivenorth.
+
+	MurphyholdstheradiomicasGreerlookson,EppsandDodge
+	standingback.
+
+				MURPHY
+		ThisistugboatArcticWarriorwhiskey
+		alphasierrabravofourzeroniner
+		two.Over.
+
+	Onlythequiethissofwhitenoisecomesbackfromtheradio
+	speakerasthebrightpointflashesontheradarscreen.
+
+				MURPHY
+			(toradio)
+		Merchantvesselatonesevenfour
+		onefivewest,fivesevensevenfive
+		north,thisistugboatArcticWarrior
+		whiskeyalphasierrabravofourzero
+		ninertwo.Over.
+
+	Again,onlywhitenoisecomesbackasthepointflasheson
+	thescreen.
+
+				MURPHY
+		Toodeeptoanchoroutthere.
+
+				GREER
+		Lookslikeit'sadrift.
+
+				EPPS
+		Couldbeafishingboat.
+
+				GREER
+		Toobig.Morelikeafreighter.
+
+				MURPHY
+		Whatthehellwouldafreighterbe
+		doinguphere?It'swayoutofthe
+		lanes.There'snotaportfor800
+		miles.
+
+				DODGE
+		Smugglersmaybe.
+
+				GREER
+		Smugglingwhat?Tundragrass?
+
+	AbeatasMurphyholdsthere.Heraisestheradiomic.
+
+				MURPHY
+		Merchantvesselatpositiononeseven
+		fouronefivewest,fivesevenseven
+		fivenorth,thisistugboatArctic
+		Warrior.Doyoucopy?Over.
+
+	Again,onlythequiethissofstaticcomesback.
+
+				GREER
+		CalltheCoastguard?
+
+				MURPHY
+		Steertooneeightfive.Let'scheck
+		herout.
+
+	EXT.OPENOCEAN-NIGHT
+
+	TheArcticWarriorcutsafoamybreakintheinkblackwater.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	CLOSEONRADARDISPLAYasthephantompointflashescloser.
+
+	MurphylooksonasGreerpilots,DodgeandEppswatching.
+
+				MURPHY
+		Alright.Backitoff.
+
+	Greerthrottlesbackandtheboatslows.
+
+				MURPHY
+		Hitthelights.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-NIGHT
+
+	Thehalogenfloodlightsflaretolife,brilliantly
+	illuminatingthewaterinfrontoftheboat.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-NIGHT
+
+	Thefourofthemlookintentlyintothedarknessbeyondthe
+	light.Murphyreachesforthespotcontrol,sweepingabroad
+	beamoflightwithajoystick.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-NIGHT
+
+	Asthetugmovesalong,servomotorssweepthesearchlight
+	overthebowoftheboatandintothedarkness.
+
+	INT.ARCTICWARRIOR-CONTINUOUS-NIGHT
+
+	Theypeerintothenightbeyondtheboatasitslowlymoves,
+	whenashadowloomsintoview.
+
+				MURPHY
+		Whoa,whoa.
+
+	Greerthrottlesdownallthewayandtheydrift,astheshadow
+	loomsbiggerbeforetheminthelightfromtheboat.
+
+	Astheyapproach,theshadowappearstobeagiantrusting
+	bow,risingupfromthewater,disappearinginthedarkness
+	abovethem.Murphysweepsthesearchlighttorevealmoreof
+	whatappearstobealarge,darkenedship.Astheycome
+	around,thename"CHIMERA"canbeseenabovetheanchor
+	alleys.
+
+				MURPHY
+		"Chimera."
+
+	Murphyreachesforthemic,hitstheLOUDHAILER.
+
+				MURPHY
+		Chimera.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-NIGHT
+
+	ThetugisdwarfedbythemassiverustinghulkoftheChimera
+	risingaboveit.
+
+				MURPHY(O.S.LOUDHAILER)
+		ThisisciviliantugboatArctic
+		Warrior.Isthereanyoneaboard?
+
+	Thequietrumbleofthetug'sturbinesistheonlysound.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-NIGHT
+
+	Murphyraisesthemicagain.
+
+				MURPHY
+		Chimera,Iamhovetoatyourport
+		bow.Isthereanyoneaboard?
+
+	Theywait,lookingonatthesilent,darkenedshipunderthe
+	glareoftheirlights.
+
+				MURPHY
+		Epps,comewithme.Youguyssit
+		tight.
+
+	EXT.ARCTICWARRIOR-LATER-NIGHT
+
+	EppsandMurphy,inheavyparkas,climbahydraulicdeck
+	craneuptotheChimeraasDodgeman'sthecontrolsagainst
+	themovementofthewater.
+
+	INT.ARCTICWARRIOR-CONTINUOUS-NIGHT
+
+	GreerholdsthetugsteadyasEppsandMurphycanbeseen
+	makingtheirwayupunderthefloodlights.
+
+	EXT.CHIMERA-FORWARDDECK-MOMENTSLATER-NIGHT
+
+	Murphypullshimselfupandjumpsdownontothedeck.Epps
+	jumpsdownbehindhim.Murphythrowshislightuponthe
+	superstructure.Allremnantsofpainthavebeenrustedover,
+	lendingastilldarkerominousnesstoit.
+
+	EXT.CHIMERA-FORWARDDECK-MOMENTSLATER-NIGHT
+
+	MurphyandEppsmovecautiouslyalong,shiningtheirlights
+	astheygo.Despitetheomnipresentcorrosion,everything
+	seemstobeinorder.Thedecksareclearandthereisno
+	apparentdamage.Theycometoahatchway.Eppsshinesher
+	lightdownthedarkenedpassage.Murphymovesin.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-NIGHT
+
+	MurphyandEppsmovedownthepassageway.Eventhewallsin
+	herearerusted.Theycometoaflightofstairs.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-NIGHT
+
+	GreerandDodgewait.Greerreachesforhisradio.
+
+				GREER
+			(intoradio)
+		Talktome,skipper.
+
+	Afteramoment,Murphycomesbackontheradio.
+
+				MURPHY
+		We'reinastairwelljustunderthe
+		mainsuperstructure.
+
+	INT.CHIMERA-STAIRWAY-CONTINUOUS-NIGHT
+
+	MurphyandEppsclimbthedarkenedstairway.
+
+				MURPHY
+		Thisisdefinitelyanoldboat,maybe
+		sixtyyearsold.Shehasn'tbeenin
+		serviceforatleasttwentyyears.
+		Probablyalotlonger.
+
+	Theytopthestairsandwalkintoawiderpassagewaywhich
+	takesthemintoanopenarea.Theirlightsshinearoundthem,
+	revealingsinksandcountersandracksofoldkitchen
+	equipment,afewpotsstillhanging.
+
+	Theymovethroughthegalleyandintoanother,narrower,
+	passageway.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-NIGHT
+
+	GreerandDodgelookon.
+
+				MURPHY
+		It'sfunny.
+
+				GREER
+		How'sthat?
+
+				MURPHY
+		Besidesalittlerust,everything's
+		prettywell-preserved.
+
+	GreerandDodgelookateachother.
+
+				MURPHY
+		Howshegotouthereisonehellof
+		agoodquestion.
+			(alongbeat,then)
+		Jesus.
+
+	DodgeandGreerholdthere,waiting.Onlysilencefromthe
+	otherend.
+
+				GREER
+		Whatisit?
+
+	Noanswer.
+
+				GREER
+		Murphy.
+
+	Noanswer.
+
+				GREER
+		Murphy,goddamit.
+
+				MURPHY
+			(finally)
+		Sorry.
+
+	Anotherbeatinsilence.
+
+				GREER
+		Whatisit?
+
+	INT.CHIMERA-BALLROOM-CONTINUOUS-NIGHT
+
+	MurphyandEppsstandatthetopofastairway,lookingover
+	animmenseballroom.Murphyraiseshisradio.
+
+				MURPHY
+		It'sapassengership.It'sadamn
+		passengership.
+
+	Thoughitisdark,thereisenoughlighttoseeitsornate
+	opulence,tablesandchairsinplacenearalargedancefloor
+	andorchestrawell,andamagnificentcrystalchandelier
+	hangingoveritall.
+
+	EXT.ARCTICWARRIOR-FOREDECK-NIGHT
+
+	EppsandMurphyclimbdownthedeckcraneasGreerandDodge
+	meetthematthebottom.
+
+				MURPHY
+			(jumpingdown)
+		There'snobodyonthatboat.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	Dodge,Epps,GreerandMurphysitaroundthegalleytable.
+
+				DODGE
+		Probablyslippedhermoorings,got
+		tangledupinacurrent.
+
+				EPPS
+		Outhere?What,soasevenhundred
+		footpassengerlinerdriftedoutof
+		Spokaneharborandnobodymanagedto
+		bumpintoheruntilnow?
+
+				DODGE
+		Somebody'sprobablylookingforher
+		aswespeak.
+
+				MURPHY
+		Whateverthereason,she'sadrift
+		andabandoned.We'vegoteveryright
+		tosalvageher.
+
+				GREER
+		Youmeantowherback?That'sathirty
+		thousandtonshipyou'retalking
+		about.
+
+				MURPHY
+		We'vedoneitbefore.
+
+				DODGE
+		Yeah,fromonesideoftheharborto
+		theother.ButwegothalftheBering
+		SeaandthewholeAlaskangulfto
+		dragherover.
+
+				MURPHY
+		Youhaveanyideahowmuchaship
+		likethatcouldbeworthinsalvage?
+		Thefittingsalonecouldgofora
+		fewmillion.
+
+				DODGE
+		Ifyougetitbackinonepiece.
+
+				MURPHY
+		It'sariskI'mwillingtotake.
+
+				GREER
+		Allwegottodoishitsomerough
+		weatherandyoucanforgetaboutit.
+
+				MURPHY
+		Sowecutherlooseandwaititout.
+		Alittleweathercouldn'tbeanything
+		shehasn'tseenbefore.
+
+				DODGE
+		It'sabloodynavigationhazard.
+		Oneboatcan'tcontrolashipthat
+		size.
+
+				MURPHY
+		Thedamnthing'sbeenfloatingaround
+		forGodknowshowlongandithasn't
+		hitanythingyet.Sowetakeiteasy.
+		Alittleoftheoldpushpull.
+
+	Alongbeatastheyholdthere.
+
+				MURPHY
+		Listen.Forgetthisjob'sjustapay
+		checkforaminute.YouknowI've
+		beengoodtoyou.ButI'mprepared
+		toofferyousomethingbetternow.
+			(abeat)
+		Ifwedothisright,it'swortha
+		lotofmoney.Alotofmoney.
+
+	Theyholdtherelookingonathim,waiting.
+
+				EPPS
+		Goon.
+
+				MURPHY
+		Salvagefeesonavessellikethis
+		couldcomeinaroundfourmillion
+		bucks.Atleast.Whoknows,couldbe
+		more.Couldbealotmore.
+			(abeat)
+		WhatI'mproposingis...wesplitit
+		fourways.
+
+	Abeat.DodgelookstoEppsandGreer.
+
+				MURPHY
+		Thinkaboutit.Amillionbucksa
+		piece.
+			(abeat)
+		Youwanttospendtherestofyour
+		daysdrag-assingtankbargesonthe
+		gulfcoast,fine.Otherwise,let's
+		gettowork.
+
+	EXT.ARCTICWARRIOR-DAY
+
+	ThetugistiedupalongsidetheChimera,whosedarkhull
+	stretchesoffforsevenhundredmorefeetinthelightof
+	day.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-DAY
+
+	MurphybringsuptheradiomicasGreerandtheotherslook
+	on.
+
+				MURPHY
+			(toradio)
+		UnitedStatesCoastguard,United
+		StatesCoastguard,UnitedStates
+		Coastguard.ThisistugboatArctic
+		Warriorwhiskeyalphasierrabravo
+		fourzeroninertwo.Over.
+
+	Afteramoment,adistance-warped,coollyprofessional,female
+	voicecomesback.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		ArcticWarrior,ArcticWarrior,Arctic
+		Warrior.ThisisUnitedStates
+		CoastguardStationNorthIsland.
+		Over.
+
+				MURPHY
+		NorthIsland,Iwishtodeclaremyself
+		salvor-in-posessionundersection
+		fourtwocharlieoftheInternational
+		MaritimeConvention.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Affirmative,ArcticWarrior.What
+		typeofvessel?
+
+				MURPHY
+		Apassengerliner.Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Sayagain.Over.
+
+	Murphylookstotheothers,almostsmiling.
+
+				MURPHY
+		Apassengerliner,northisland.
+		Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Whatisthevesselname,registry,
+		andpresentposition?Over.
+
+				MURPHY
+		Passengervessel"Chimera."Iwill
+		spell:charliehotelindiamaryecho
+		romeoalpha.Noregistryinformation
+		isavailableatthistime.Ihave
+		determinedtothebestofmyability
+		thatthevesselhasbeenabandoned
+		onthehighseasatpositionone
+		sevenfourwest,fivesevennorth
+		at...
+			(checkinghiswatch)
+		Twozeroonefourhourszulutime.
+		Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Affirmative,ArcticWarrior.Please
+		adviseyoursalvageauthoritypending
+		registrycheck.Over.
+
+				MURPHY
+		Roger,NorthIsland.ArcticWarrior
+		overandout.
+
+	EXT.ARCTICWARRIOR-STERNWINCH-DAY
+
+	Dodge,Epps,MurphyandGreerarestandingonthesternof
+	theboatunderthepowerwinch.
+
+				DODGE
+		Okay.We'regonnauseaheavierthan
+		usualtwincablerigthistime,
+		consistingofapairofnumberthree
+		gaugebraidedwiretows.
+			(abeat)
+		We'lltieoffthroughtheanchor
+		alleys.Andcomedowntotheaft
+		portandstarboardpins.Here.Thus,
+		weneedtogettwoofthese...
+			(indicatingthecable)
+		Upthere.
+
+	HeindicatesthebowoftheChimera.
+
+				DODGE
+		Seeingasthoughafootofoneof
+		thesefuckersweighsaboutahundred
+		pounds,itain'tgonnabewhatyou'd
+		calleasy.
+			(abeat)
+		Anyquestions?
+
+				EPPS
+		Supposingoneofthosecablesbreaks
+		undertow.
+
+				DODGE
+		Thenwe'llallbedoomed.Anyother
+		questions?
+
+	EXT.ARCTICWARRIOR-DAY
+
+	MurphyhasbackedthetuguptothebowoftheChimera.Greer
+	operatesthedeckcrane,oneofDodge'smammothcables
+	danglingfromitdowntothewinchonthestern.
+
+	WITHEPPS
+
+	Eppshangsontothetopofthecraneasitcomestothe
+	starboardanchoralleyinthebowoftheChimera.Dodgepokes
+	hisfaceoutfromtheotherside.
+
+				DODGE
+		Ready?
+
+				EPPS
+		Bringiton,dude.
+
+	Dodgedisappearsfromtheholeandhishandcomesbackwith
+	asmallerpilotcable,whichEppstakesandthreadsthrough
+	theloopattheendofthetowcable.Sheplacestheendof
+	thepilotcableinavicecollarandusesawrenchtotighten
+	itdown,withtheeffectofjoiningthetwocables.
+
+				EPPS
+		OK.
+
+	Dodgedisappears,pullinguptheslackfromthepilotcable
+	throughtheanchoralleys.
+
+				DODGE(O.S.)
+			(finally)
+		Hitit!
+
+	Eppsreachesoverandunhingesthecranehookandthetow
+	cableexplosivelydrops,bangingloudlyagainsttheChimera's
+	hullwithashowerofblackrust.
+
+	EXT.CHIMERA-WITHDODGE-CONTINUOUS-DAY
+
+	Dodgecranksaportablepulleywinchonthedeck,thepilot
+	cableslowlypullingthetowcableupthroughtheanchor
+	alley.
+
+	ItisheavyandthewinchshowsthestrainasDodgecranks
+	it.Hecontinues,whensomethinggivesinthewinchmechanism
+	andthewholethingslidesforwardonthepilotcable,
+	entanglingDodge'sleganddragginghimonhisassalongthe
+	deck.
+
+	EXT.ARCTICWARRIOR-WITHEPPS-CONTINUOUS-DAY
+
+	Thetowcablecreatesasprayofrustandsmokeasitspills
+	outoftheanchoralleybeforeEpps.
+
+	EXT.CHIMERA-WITHDODGE-CONTINUOUS-DAY
+
+	Dodgeslidestowardtheanchoralleylikeapieceofmeat
+	towardasausagegrinder,whenthewinchslamsintoitand
+	stopsdead,thecablecontinuingonwithaloudshriek
+	dangerouslyclosetohisface,until...
+
+	EXT.ARCTICWARRIOR-WITHEPPS-CONTINUOUS-DAY
+
+	Thelastofthecableexplosivelywhipsoutoftheanchor
+	alleyinfrontofEppsandsplashesinthewaterbelow.A
+	beatassheholdsthere.
+
+				EPPS
+		Dodge?Youalright?
+
+	EXT.CHIMERA-WITHDODGE-CONTINUOUS-DAY
+
+	Dodgeliestangledinthewinch.
+
+				DODGE
+		Yes!
+
+	EXT.ARCTICWARRIOR-DAY
+
+	TwotowcablesextendfromtheChimera'sanchoralleysdown
+	intothewaterandcomeupagainfromthewatertothetow
+	anchoronthetug'sstern.
+
+	DodgelooksonasGreerandEppsstandby.Heraiseshis
+	walkie.
+
+				DODGE
+		Alright,skipper,realeasy.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Murphyslowlythrottlesup,movingtheboatforward.Heturns
+	toseeastheChimeradropsbackbehindthem.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	ThetugmovesslowlyawayfromtheChimeraasEpps,Greer
+	andDodgelookon.
+
+	WIDEONTUGANDCHIMERA
+
+	Asthetugwidensthedistance,leavingtheChimerainplace.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	MurphyholdsthehelmsteadyastheChimerarecedes.
+
+				DODGE
+		Steadyasshegoes.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	Dodge,EppsandGreerlookonasthetowcablesbeginto
+	riseintheirwake.
+
+				DODGE
+			(intoradio)
+		Throttleback.
+
+	Thetugslowsasthecablesriseslowlyfromthewater.
+
+				DODGE
+		More.
+
+	Thetugslowsstillmore.
+
+				DODGE
+		More.
+
+	Itslowsstillmore,untilthetugjustcreepsalong,and
+	themassivetowcablesriseentirelyoutofthewater,
+	straighteningastheslackispulledout.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	Somefiftyyardsbehindthetug,thetowcablescometaught
+	intheanchoralleysoftheChimera.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Murphyholdsthethrottle.
+
+				DODGE
+		Rightthere,skipper.Rightthere.
+
+	Murphyeasesforwardonthethrottleandtheturbinesrise
+	inpitch.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	AsthetowcablesstretchandthebowoftheChimerainches
+	forward.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	TheturbinesgrowlouderasGreer,Epps,andDodgelookon
+	attheChimerabehindthem,themassivetowcablesbowing
+	undertheirownweight.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Murphyeasesforwardonthethrottle,pickingupspeed.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	ThegiantshipCREAKSANDMOANSasitstartsforward,asmall
+	bowbreakformingonitshull.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	ThetugiskickingupafoamingwakeasitpullstheChimera
+	alongbehindit.Dodgeletsoutahoot,exchanginghighfives
+	withEppsandGreer.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	MurphysmilesashelooksbackattheChimerafollowing
+	behind.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-DAY
+
+	CLOSEONACHART.ThesouthBeringSeaandtheGulfofAlaska.
+	Apenciltracesaroute.
+
+				MURPHY(O.S.)
+		IfigurewegothroughattheUnimak
+		Passhere.RefuelatSanakIsland.
+
+	GreerlooksonfromthehelmasMurphy,DodgeandEppsstand
+	overthemaptable.
+
+				MURPHY
+		Withalittleextrafuel,weather
+		permitting,weshouldmakeSitkain
+		fivedayswithoutanotherstop.
+
+				DODGE
+		Soundsreasonable.
+
+				GREER
+		Hypotheticallyspeaking,whatifwe
+		getthisboattoSitkaandfindout
+		somebodywantsitback?
+
+				DODGE
+		Theyshouldathoughtofthatwhen
+		theyletherfloataway.
+
+				GREER
+		Idon'tcarewhat,ain'tnobodyjust
+		gonnaletuswalkawaywithaship
+		thatsize.
+
+				MURPHY
+		Thelaw'sonourside.Iftheywant
+		tochallengeit,letthemtry.
+
+				EPPS
+		Theymust'vescuttledit.Nobody
+		justletsashipfloataway.
+
+				DODGE
+		Nobodyjustscuttlesapassenger
+		linereither.
+
+				EPPS
+		Everheardofinsurance,bigboy?
+
+				MURPHY
+		Eitherway,wefoundit.It'sours
+		now--.
+
+	AnEXPLOSIVETHUDshudderstheboat.Theylooktoeachother.
+
+				DODGE
+			(movingforthedoor)
+		Whatthe...
+
+	EXT.ARCTICWARRIOR-MOMENTSLATER-DAY
+
+	DodgejumpsdownfromthepilothouseasanotherLOUDTHUMP
+	BLOWSOUTOFTHETURBINEVENTS,SHOWERINGOILOVERTHEDECK.
+
+				DODGE
+			(shoutinguptothe
+			pilothouse)
+		ALLSTOP!ALLSTOP!
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Greershovesthethrottleback.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	Theboatgoesdeadinthewater,thickblacksmokebillowing
+	fromtheturbinevents.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	asthebowslowsinthewater,thetowcablescomingslack.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-CONTINUOUS-DAY
+
+	Dodgepullsopenthedoor.Theplaceisthickwithsmokeas
+	hemakeshiswaytotheturbinegauges,EppsandMurphy
+	behind.Dodgeopensthenumberoneturbinecover,looks
+	inside.
+
+				DODGE
+		Motherfucker!
+
+				MURPHY
+		Whatisit?
+
+				DODGE
+		Threwaturbineblade.
+
+	Dodgelooksoverthesmokingturbine,pullsbackanaluminum
+	intakeblade,hottothetouch.
+
+				DODGE
+		Sonofabitch!
+
+	EXT.ARCTICWARRIOR-DECK-DAY
+
+	Greer,Dodge,Epps,andMurphyconferonthedeck.
+
+				DODGE
+		Thenumberoneturbine'sprettywell
+		trashed.Numbertworuns,butit's
+		wayunderpowered.
+
+				MURPHY
+		Howlongtofix?
+
+				DODGE
+		Hardtosay.Igottagetinthere
+		andhavealook.Atleastacouple
+		days.Depending.
+
+				GREER
+		Youthinktheextrastraincaused
+		it?
+
+				DODGE
+		Nah.Everythingwascool.It'sjust
+		oneofthosethings.
+
+	EXT.CHIMERA-DAY
+
+	TheArcticWarriorfloatstiedtothesideoftheChimera.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-DAY
+
+	Dodgehasbothturbinesopenedupasheworks.
+
+	INT.CHIMERA-MEZZANINEDECK-DAY
+
+	Lightsshineonwhatwasonceanelegantinteriorpromenade.
+	MurphyandGreerstandlookingonatit.
+
+				MURPHY
+		Someclassytubinit'sday,huh?
+
+				GREER
+		Yeah.
+
+				EPPS(O.S.)
+		Checkthisout.
+
+	ATTHEPURSERSDESK
+
+	Eppslooksthroughafilecabinetbehindaheavywoodcounter
+	asGreerandMurphyapproach.
+
+				EPPS
+		Everything'sstillhere.Ticket
+		records,receipts,booksofaccount.
+
+	Greerpicksoneup.
+
+				GREER
+		Onefirstclasspassage.Elizabeth
+		James.DubayytoHalifax.January
+		29th1953.
+
+	Murphytakesit,lookingitover.
+
+				MURPHY
+		Chimera.FlagshipoftheDobbins
+		KirkLine.NovaScotia.
+
+	INT.CHIMERA-"B"DECK-DAY
+
+	Murphy,Epps,andGreertopastaircaseoutontoalong,
+	darkenedcorridor.Theymovedown.Someofthedoorsare
+	open,faintlightfromportholesshowingsmallcabinswith
+	beds,desks,afewchairs.
+
+	INT.CHIMERA-TOPDECK-FORWARDPASSAGE-DAY
+
+	Murphy,Epps,andGreercometoahatchwaymarked"BRIDGE."
+
+	INT.CHIMERA-BRIDGE-MOMENTSLATER-DAY
+
+	Theforwardwindowsshowtheexpanseoftheoceanbefore
+	themandtherustingforedeckabout150feetbelow.Light
+	fromthewindowsilluminatesthebridgeasMurphy,Greerand
+	Eppslookaround.Despitealittlecorrosionandalayerof
+	dirt,everythingseemsinitsplace.
+
+				MURPHY
+			(lookingthrough
+			scatteredchartsand
+			papers)
+		I'dsureliketogetmyhandsonthe
+		generallog.
+
+	Eppsstepsuptothewall,whereseveralframedphotoshang.
+
+				GREER
+		Thatmustbetheoldmanrightthere.
+
+	Theuniformedmaninthephotoisagaunt,stern-lookingman
+	fromanothercentury,withdark,holloweyes.
+
+				EPPS
+		Lookslikeonehellofastickup
+		hisass.
+
+				GREER
+		He'dletyouoffatthenearestport,
+		that'sforsure.
+
+	EXT.ARCTICWARRIOR-NIGHT
+
+	Adimmingpurplehorizonisgivingwaytonightasthetug
+	floatsunderthebowoftheChimera.
+
+	EXT.ARCTICWARRIOR-ENGINEROOM-NIGHT
+
+	Dodgeworksuptohiselbowsinturbine1asGreermonitors
+	apressuregauge.
+
+				DODGE
+		Howaboutnow?
+
+				GREER
+		Sixtypounds.
+
+				DODGE
+		What?Yousure?
+
+				GREER
+		That'swhatitsays.
+
+				DODGE
+			(getinguptohavea
+			look)
+		Lemmesee.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	Throughthepilothousewindows,thehulloftheChimera
+	disappearsintothedarknessbeyondthetug'sworklights.
+	MurphysitsatthecharttableasEppsstepsin.
+
+				EPPS
+		Coffee?
+
+				MURPHY
+			(sittingup)
+		Yeah.Thanks.
+
+	Shebringshimhiscup,seeingthedocumentshebroughtback
+	fromtheChimera.
+
+				EPPS
+			(takingaseat)
+		What'dyoufindupthere?
+
+				MURPHY
+		Somecharts.Acrewmanifest.
+			(lookingthemover)
+		LookslikeherlastvoyagewasJanuary
+		1953.Thequestioniswherethehell's
+		shebeensince.
+
+				EPPS
+		Shewassailingupnorth,right?
+
+				MURPHY
+		HerdestinationwasHalifax,yeah.
+
+				EPPS
+		Well,supposeshegotalittlefurther
+		norththansheshouldhave.Got
+		stuckintheice.Thepassengersand
+		crewevacuated.Shefrozeintothe
+		icepack,whichmovedfurthernorth,
+		whereitfrozeinsolid.Theywrite
+		itoff.Fiftyyearslater,thewhole
+		globalwarmingthinghappens.The
+		icemelts,shegetslooseandfloats
+		aroundtilsomebodyrunsintoher.
+
+	Murphynods,consideringit.
+
+				MURPHY
+		Asreasonableanexplanationasany,
+		Iguess.
+
+	Eppstakesasipofhercoffeeasshethinksaboutit.
+
+				MURPHY
+		EverheardoftheMaryCeleste?
+
+				EPPS
+		Nope.
+
+				MURPHY
+		Shewasatwo-mastedbrigboatsailing
+		outofNewYorkin1872.Oneday
+		shewassightedoffthecoastof
+		Portugalbyamerchantvessel,the
+		DeiGratia.AsthecrewoftheDei
+		Gratiagotcloser,theydiscovered
+		thatnoonewasatthehelmofthe
+		MaryCeleste.Onboarding,theyfound
+		hercompletelydeserted.Thecaptain,
+		hiswife,theirdaughter,andthe
+		entirecrew,allgone.Thelastentry
+		intheirlogmadenomentionofany
+		trouble.Thetablewasevensetfor
+		dinner.Andintheninedaysafter
+		thelastentry,shesailed700miles
+		withoutanyoneaboard.
+
+				EPPS
+		Sowhatdidhappen?
+
+				MURPHY
+		Nobodyknows.There'vebeenalotof
+		theories,ofcourse.Butwe'llnever
+		reallyknowforsure.
+
+				EPPS
+		Youthinkshe'ssailingwithouta
+		crew?
+
+	MurphylooksoutattheChimeraoffthebow.
+
+				MURPHY
+		Ithinkwe'dbesurprisedwherea
+		driftingshipmightwindupwitha
+		littlewindandtherightcurrent.
+
+				EPPS
+		You'remorepracticalthan
+		superstitious.
+
+				MURPHY
+		Onlywaytobe.
+
+	Eppsnods,takesanothersipofcoffee,lookingonatthe
+	rustinghulloftheChimerastretchingoffinthelight.
+
+	EXT.ARCTICWARRIOR-DECK-DAY
+
+	GreeroperatesthecranearmasDodgedirectshim.Thecrane
+	hoistsoutoneofthemassiveturbinefansontothedeck.
+	Dodgegiveshimthethumbsupasitcomesdowneasily.
+
+				MURPHY
+		What'sthis?
+
+				DODGE
+		Turbinerotor'sshot.
+
+				MURPHY
+		Ithoughtyousaiditwasjusta
+		blade.
+
+				DODGE
+		Metal'scrystallized.Gottareplace
+		thewholedeal.
+
+				MURPHY
+		Howmuchlonger'sthatgonnatake?
+
+				DODGE
+		LikeIalwayssay--
+
+				MURPHY
+		IknowIknow,twowaystodoanything--
+
+				DODGE
+		Therightwayandthewrongway.
+
+				MURPHY
+		Buthowlong?
+
+				DODGE
+		Hardtosay.
+
+				MURPHY
+		Wegottagetoutahere,Dodge.A
+		stormblowsupandwe'rehistory.
+
+				DODGE
+		I'mtellingyou,youdon'twantto
+		berunningthatfanlikeitis.
+
+				MURPHY
+		Whataboutrunningnumbertwoby
+		itself?
+
+				DODGE
+		It'safull2500horsesdown.We
+		couldn'tdragthatboatdownhillon
+		icewithit.
+
+				MURPHY
+		Howlong,then?
+
+				DODGE
+		Igottapullthebladesandre-seat
+		everythinginanewrotor--.
+
+				MURPHY
+		Howlong?
+
+				DODGE
+		Three,fourdays.
+
+				MURPHY
+		Goddamit,Dodge.
+
+				DODGE
+		Whatdoyouwantmetotellyou,
+		thatwecanthrowthissuckerback
+		inandstartpullingherlikenothing
+		happened?Can'tdoit,skipper.
+
+	AbeatasMurphystandsthere,knowinghe'sright.
+
+				COASTGUARDDISPATCHER(O.SRADIO)
+			(fromthepilothouse)
+		ArcticWarrior,ArcticWarrior,Arctic
+		Warrior.ThisisUnitedStates
+		Coastguard.Over.
+
+	Abeat.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-MOMENTSLATER-DAY
+
+	Murphyentersthepilothouseasthedistance-warpedVOICE
+	comesbackontheradio.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		ArcticWarrior,ArcticWarrior,Arctic
+		Warrior.ThisisUnitedStates
+		CoastguardStationNorthIsland.
+		Over.
+
+	MurphyraisestheradiomicasEpps,Dodge,andGreerstep
+	in.
+
+				MURPHY
+			(toradio)
+		NorthIsland,NorthIsland,North
+		Island.ThisistugboatArctic
+		Warrior.Over.
+
+	Afteramoment,thesameprofessional,distance-warpedvoice
+	comesback.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		ArcticWarrior,wehavesubmitted
+		yoursectionfourtwocharliesalvage
+		notification.However,the
+		InternationalMaritimeAuthority
+		recordforapassengervesselChimera
+		indicatesitwaslostatseainthe
+		GulfofOmandaytwomonthtwoyear
+		oneninefivethree.Over.
+
+	AbeatasMurphyholdsthere.
+
+				MURPHY
+		NorthIsland,pleaserepeat?Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		ArcticWarrior,passengervessel
+		Chimerawaslostatseadaytwomonth
+		twoyearoneninefivethree.Over.
+
+	AnotherbeatasMurphyholdsthere,astheotherslookon.
+
+				MURPHY
+		NorthIsland,haveyougotany
+		additionalinformation?Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Affirmative,ArcticWarrior.The
+		vesselChimerawasregisteredtoThe
+		DobbinsKirkLine,Halifax.Nova
+		Scotia.Dateofcommissiondaynine
+		monthsevenyearoneninethreetwo.
+		Over.
+
+	Alongbeatasthestaticoftheopenchannelcomesback.
+
+				MURPHY
+		Roger,NorthIsland.Iamtiedto
+		thepassengervesselChimera.And
+		sheisafloat.Repeat,sheisafloat.
+		Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Roger,ArcticWarrior.Isayagain,
+		ourrecordsindicatethepassenger
+		vesselChimerawaslostatsea.
+		Over.
+
+				MURPHY
+		Roger,NorthIsland.Pleaseadvise
+		pendingfurtherinformation.Over.
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		Affirmative,ArcticWarrior.Thisis
+		UnitedStatesCoastGuardNorthIsland
+		Station.Overandout.
+
+	Abeatastheyholdthere,thinkingaboutit.
+
+				MURPHY
+		Obviouslyit'ssomekindofscrew
+		up.Theshippingrecordsaren'ta
+		hundredpercentaccurate.
+
+				DODGE
+		Man,itgivesmethecreeps.Wegot
+		nobusinesstowingashipthatsize
+		anyway.Isaywefixtheturbines
+		andhitthehighway.
+
+				GREER
+		Areyoucrazy?Doyourealizewegot
+		ourselvesaship?Weownaship,
+		Dodge.
+
+				DODGE
+		Yeah,ashipthat'ssupposedtohave
+		beenlostatseafiftyyearsago.
+		Youdon'tthinkthat'sjustalittle
+		freaky?
+
+				EPPS
+		Ifthisthingturnsouttobeaship
+		everybodythoughtsankalongtime
+		ago,wejusthitthejackpot.
+
+				DODGE
+		Yeah,wellhowthehellyouget
+		somethinglikethatwrong?That'sa
+		damnbigboat.It'seithersunkor
+		itain't.
+
+				MURPHY
+		Weallwanttogetoutahere,Dodge.
+		Especiallyme.Withthatboatin
+		tow.Yougotthreedays.Makethe
+		mostofit.
+
+	AbeatasDodgelooksback,thenoutattheChimera.
+
+	INT.ARCTICWARRIOR-MASTER'SQUARTERS-NIGHT
+
+	ApencilpointonamapfollowsacrossSaudiArabia,coming
+	tothePersianGulfandtracingthecoastoftheArabEmirates
+	toDubayy.
+
+	Murphysitsathisdeskoverthemap.Hispencilpointfollows
+	thePersianGulffromDubayy,throughthestraightofHormuz
+	intotheGulfofOman.Murphymarksan"X"there.Abeatas
+	helooksonatit.
+
+	HeopensalargeenvelopehefoundaboardtheChimera.He
+	emptiesitonthedesk.Helooksthroughit,dockingreceipts
+	fromvariousportsofcall,billsoflading,etc.Helooks
+	overthepassengermanifest.
+
+	INT.ARCTICWARRIOR-MASTERSQUARTERS-DAY
+
+	Murphywakes.Heliesonhisbunk,havingfallenasleeplast
+	nightinhisclothes,stillholdingtheenvelopeandsomeof
+	thepapersinside.
+
+	INT.ARCTICWARRIOR-DECK-MOMENTSLATER-DAY
+
+	DodgedisassemblestheturbinefansondeckasGreerreads
+	intheshadeofthedeckhouse.Dodge'shandslipsandhe
+	skinshisknuckles.
+
+				DODGE
+		Fucker!
+
+				GREER
+		Takeiteasy,Dodge.It'sonlya
+		pieceofmetal.
+
+				DODGE
+			(inspectinghisskinned
+			knuckles)
+		Damnmindofit'sown.
+
+				GREER
+			(seeingMurphy)
+		Morning,skipper.
+
+	Murphyhassteppedoutintothesunlight.
+
+				MURPHY
+		Morning.
+
+				GREER
+		You'reuplate.
+
+				MURPHY
+		GuessImust'vefallenbacktosleep.
+		Where'sEpps?
+
+				DODGE
+		Wentaboard.
+
+				MURPHY
+		Shetakearadio?
+
+				GREER
+		Yeah.
+
+	Murphynods.Abeat.
+
+	INT.CHIMERA-PUBLICROOM-DAY
+
+	Eppsstepsfromapassagewayintoalargepublicroom.Tables
+	andchairsarescatteredhaphazardly,lightfallinginfrom
+	windowsalongthewallwheretatteredcurtainshang.She
+	walkson.
+
+	Apairofemptyglassessitonatable,anemptysherry
+	decanterbesidethem.Anashtraysitsbesidethat.Eppsstops,
+	reachingdown.Shepullsbackahalf-smokedcigarette,
+	lipsticksmudgingtheend,yellowingandfragilefromtime.
+	And,asshestandsthere,weseeaFIGURE,INMURKY
+	SILHOUETTE,MOVEPASTTHEDOORWAYINTHEBACKGROUND.Inan
+	instantitisthereandgone.
+
+	Sheputsdownthecigarette,havingsensedapresence.She
+	turnstothedoorwayacrosstheroom,butthereisnothing
+	tobeseennow.
+
+	INT.CHIMERA-PUBLICROOM-MOMENTSLATER-DAY
+
+	Adoll'swhiteface,eyeshauntingandcoldlyblue,stares
+	intothemiddledistance.ItliesonaloveseatasEpps
+	stepsup.Sheliftsit.Severalothertoysliescattered
+	aboutasshestudiesit,whenthesoundofaTICKINGCLOCK
+	CANBEHEARD.
+
+	AbeatasEppsholdsthere.Sheturns,tryingtolocatethe
+	sound.Fromacrosstheroom,Eppsstands,listening.Asthe
+	TICKINGCLOCKsoundsfromhere.Sheturns,puttingdownthe
+	doll,holdingabeat.Sheapproaches,crossingtheroom,
+	comingfinallytoastopbeforeusandwhatwecometosee
+	isanancientgrandfatherclock.
+
+	Allbutit'sminutehandhasfallenoffitscorrodedface,
+	butfrominsideitemitsaweakthoughsteadyTICKING.
+
+	Eppsstandsthereastheclockticks,lookingon,whenthe
+	TICKINGCEASES.Abeatassheholdsthere,astheclockfaces
+	her,nowsilent.
+
+	INT.CHIMERA-PASSAGEWAY-LATER-DAY
+
+	Eppsshinesherlightinthedarknessasshecomestoadoor
+	wheredaylightfallsfromasmallport.Shelooksthrough
+	it.
+
+	INT.CHIMERA-SWIMMINGPOOL-MOMENTSLATER-DAY
+
+	Eppsstandsinawhitetiledroom.Lightfallsfromport
+	holeshighinthewall.Runningitslengthisasmallswimming
+	pool,it'srustedfixturesandstainedsurfacecreating
+	bizarrepatterns.
+
+	INT.CHIMERA-SWIMMINGPOOL-MOMENTSLATER-DAY
+
+	Eppscomestoarowofchangingstalls.Oldclothinghangs
+	there,unusedforfiftyyears.Apairofwoman'sshoeslie
+	onthefloor.
+
+	INT.CHIMERA-SWIMMINGPOOL-LATER-DAY
+
+	Eppsmovesalong,passingthroughadoorwayinto
+
+	INT.CHIMERA-GYMNASIUM-CONTINUOUS-DAY
+
+	Eppsentersanotherroomscatteredwitholdexerciseequipment
+	circa1950,awoodenrowingmachine,barbellsandamedicine
+	ball.
+
+	Shestepsuptothewall,wherepictureshang.TheChimera
+	canbeseeninbetterdays,sailingfullspeedonacalm
+	sea.
+
+	INT.CHIMERA-SUB-DECK-LATER-DAY
+
+	Eppsjumpsdowntoalowerdeck.Sheshinesherlightupto
+	seethatsheisinanenginecompartment,showingamassive
+	dieselburner.Shepassesthroughintoanothercompartment
+	wherethegiantpistonsoftheship'spowerplantriseupto
+	theceiling.
+
+	INT.CHIMERA-SUB-DECK-PASSAGE-MOMENTSLATER-DAY
+
+	Eppsmoves,passingstillmoredieselburners,toweringover
+	herinthecavernousspace.Shemovesintoanarrowing
+	passage,pipingandmachineryductswindingtheirwayinto
+	thedepthsoftheship.
+
+	Finallythepassageopensintoyetanothercompartment,
+	apparentlyacargohold.Cratesandboxesarestackedon
+	loadingpalettes.
+
+	Inthecorner,arottingcanvasdrapecoverssomething.Epps
+	comestoit.Sheliftsthecanvas,whichcrumblesawayto
+	reveala1951Ferrarisportster.Fortheexceptionofacoat
+	ofdustandasmallamountofcorrosion,itisperfectly
+	preserved.
+
+	Mailbagslieinpilesalongthewall,stackedbetweenmore
+	woodencratesandpalettes,whensomethingcatchesEpps'
+	eye.
+
+	Aheavy,metaldoorinthewallistwistedonit'shinges,
+	asthoughblownbackfromsometerrificexplosiveforce.
+
+	Eppsapproaches,comingtothetwisteddoor.Sheshinesher
+	lightinside.
+
+	Aclutterofdebris,shelvingandwood,arevisibleinthe
+	shadows,whenherlightcatchesaglintofsomething.She
+	swingsherlightback,revealingayellowishbrightobject
+	betweenbrokenwoodslats.
+
+	Eppsstepsin.Shekneels,shiningthelightcloser.The
+	yellowglintismetal.Eppspullsbackaslat,slidingaway
+	someofthedebristorevealthatitiscastfromakilogram
+	ingotofgold.
+
+	Shereachesout.Sheraisesit,completelyuntouchedbythe
+	years.Shepullsbackstillmoredebris,revealingastack
+	ofgoldingots,somehavingtumbledtotheside.Sheslides
+	awayalargetrunkthathasfallen,pushingoffmorejunkto
+	seethatthestackismuchlarger,perhapsfourfeethigh
+	andfivefeetacross.
+
+	AbeatasEppsstandsthere,lookingonat$50,000,000in
+	gold.
+
+	INT.CHIMERA-CARGOCOMPARTMENT-DAY
+
+	Thedebrishasbeenclearedawaytorevealaclean5'x5'x
+	4'stackofgoldingots.
+
+				DODGE(O.S.)
+		Whatthefuckwegonnadowithit?
+
+	Greer,Murphy,Epps,andDodgealllookon.
+
+				GREER
+		Whatthefuckyouthinkwegonnado
+		withit?It'sours,baby.It'sall
+		ours.
+
+	Murphyhassteppedforward,takinganingot,inspectingit.
+
+				GREER
+		Howmuchyoufigurethat'sworth,
+		skipper?
+
+				MURPHY
+			(stilllookingit
+			over)
+		Hardtosay.Maybeforty,fifty
+		million.
+
+				GREER
+		Ho,baby!
+
+				EPPS
+		That'salotofmoneyforsomebody
+		tojustletfloataway.
+
+	Murphylooksupatherfromthegold.
+
+				MURPHY
+		Yes,itis.
+
+	Abeatastheyallholdthere.
+
+				MURPHY
+		It'sahellofalotofmoney.
+
+				DODGE
+		What,youthinkthere'ssomething
+		funnyaboutit?
+
+				MURPHY
+		Ashipwithfiftymilliondollarsin
+		goldaboard,adrift?Andnobodyseems
+		tocareenoughtocomelookingfor
+		it?
+
+				GREER
+		Iftheythoughtitwaslostatsea,
+		theyprobablyjustwroteitoff.
+
+				MURPHY
+		Notforfiftymillion.Anoceanliner
+		maybe.Butfiftymillioningold,
+		theycomelookingfor.
+
+				EPPS
+		Maybetheydidn'twantitback.
+		Maybethewholefatdealwasinsured.
+
+				MURPHY
+		Maybe.Butthere'salwayssomebody
+		whoseinterest'satstake.
+
+				GREER
+		AllIgottasayisitlookslike
+		thatsomebody'susrightnow.
+
+	GreercacklesashehighfivesDodge.
+
+				EPPS
+		Anditlookslikesomebodygothere
+		beforeustoo.
+
+	Thesteelhatchistwisted,asfromagreathandrippingit
+	backfromthewall.
+
+				DODGE
+			(inspectingit)
+		Didn'thappenyesterday,I'lltell
+		youthat.Tornpartsrustedbadas
+		therestoftheboat.
+
+				MURPHY
+		Thenithappenedbeforetheyscuttled
+		her.
+
+				EPPS
+		Youmean,beforeshesank.
+
+				GREER
+		Cargolikethiscouldmakeacrew
+		thinktwice.
+
+				MURPHY
+		Thatitcould.
+
+	Abeat,astheyalllookonatthegold.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	Afterdinner,Murphy,Greer,DodgeandEppssitaroundthe
+	galleytable.
+
+				GREER
+		Thenwhydidn'ttheytakeit.
+
+				EPPS
+		Probablydidn'thavetime.
+
+				DODGE
+		Orsomebodystoppedthem.
+
+				MURPHY
+		Eitherway,theymust'vehadapretty
+		goodreason.
+
+				GREER
+		Mustbeadamngoodreasontojump
+		shipandleavefiftymilliondollars
+		aboard.
+
+	Abeatastheyconsiderit.
+
+				DODGE
+		Sowhat'rewegonnado.That'sthe
+		bigquestion,right?
+
+				MURPHY
+		Asalvageclaimtoavessel'scargo's
+		asvalidasaclaimtothevessel
+		itself.It'sours.
+
+				DODGE
+		Thenwe'rerich.We'redamn,filthy
+		stinkingrich.
+
+				MURPHY
+		Itlookslikeit.
+
+	Abeatastheyletthissinkin.
+
+				GREER
+		Sowhat?Wegonnaunloadthegold
+		andgetamoveon?
+
+				MURPHY
+		Weleaveitwhereitis.Stickto
+		theplan.
+
+				DODGE
+		Yougottabekidding?Whatthehell
+		weneedthattubfor,wegotfifty
+		millionbucks?
+
+				MURPHY
+		Sowegetalittlemorefortheboat.
+		Besides,thegold'llbesaferwhere
+		itis.
+
+				GREER
+		Yeah,butwestillgottahaulthat
+		bigpieceofshitallthewayback
+		toSitka.
+
+				MURPHY
+		It'sworththeeffort.Believeme.
+		Besideswe'regonnaneedhertoprove
+		thesalvage.
+
+				EPPS
+		Whynotcallforhelp?
+
+				MURPHY
+		Fornowthebestthingwecandois
+		tokeepquietaboutthis.
+
+				DODGE
+		Lastthingwewantisextrapartners.
+
+				EPPS
+		Oruninvitedguests.
+
+				GREER
+		Iheardthat.
+
+				MURPHY
+		Dodge,yougottagetonthoserepairs.
+
+				DODGE
+		Yeah,yeah.I'monit.
+
+				MURPHY
+		Thesoonerwegetunderway,the
+		soonerwearetospendingwhat's
+		ours.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-DAY
+
+	Dodge,wearingaweldingmaskandgloves,braisesanaluminum
+	fittingoveroneoftheopenturbines.
+
+	INT.CHIMERA-SUB-DECKCARGOCOMPARTMENT-DAY
+
+	Eppsfinishesstackingthegoldingotsinaclearedspace
+	beyondthetwistedhatch.
+
+				GREER
+		Twohundredtwenty.Twotwentyone.
+			(asEppsstacksthe
+			lastone)
+		Twotwentytwo.
+
+	Greermakesanote.
+
+				GREER
+		Twohundredtwentytwokilogramsof
+		solidgold.
+
+				EPPS
+		That'swhatIcallapayday.
+
+				GREER
+		Hellyeah.
+
+	Theyslaphands.
+
+	INT.CHIMERA-TOPDECK-PASSAGEWAY-DAY
+
+	Murphymovesdownthedarkenedpassage,comingtoadoor
+	marked"CAPTAIN."Thedoorisajar.Hepushesitopen.
+
+	INT.CHIMERA-CAPTAIN'SQUARTERS-CONTINUOUS-DAY
+
+	Murphystandsinthedoorwayofaspaciouscabinpanelledin
+	darkwood.Alargedeskoccupiesacorneroftheroombythe
+	windows.Thoughdirtyandwornwithtime,everythingis
+	orderedandinitsplace.
+
+	Murphycomestothedesk.Hesitsdowninthechairbehind
+	it.Thesurfaceisclearanduncluttered.Hepullsoutthe
+	drawertorevealpens,writingpaper,aruler,compassand
+	protractoramidstothersundryitems.
+
+	INT.CHIMERA-CAPTAIN'SQUARTERS-BEDROOM-MOMENTSLATER-
+	DAY
+
+	Murphystepsin.Theroomisundisturbed,lightfallingin
+	onthetaughtgreenbedspreadthroughdirty,tattered
+	curtains.Arobehangsonthebackofachair.Apairof
+	slippersliebeneathit.
+
+	INT.CHIMERA-CAPTAIN'SQUARTERS-BATHROOM-MOMENTSLATER-
+	DAY
+
+	Murphystandsinthebathroom.Thetilehasyellowedwith
+	time,buteverythingisexactlyasitwasleft.Eventhe
+	shavingkitisneatlyarrayedonthesinkasMurphylookson
+	atit.Helooksup,seeinghimselfinthemirror,whenan
+	EXPLOSIONSOUNDS.
+
+	EXT.CHIMERA-TOPDECK-MOMENTSLATER-DAY
+
+	Murphycomestotherailing,lookingoutoverthebowofthe
+	shiptoseeblacksmokerisingfromwheretheArcticWarrior
+	istied.
+
+	EXT.CHIMERA-FORWARDDECK-MOMENTSLATER-DAY
+
+	GreerandEppsruntothesidetoseebillowingsmokerising
+	fromtheArcticWarriorasMurphyclimbsdownthecraneto
+	thedeck.
+
+	EXT.ARCTICWARRIOR-CONTINUOUS-DAY
+
+	Murphyjumpsdowntothedeck.Flamesbelchfromanopen
+	hatchasMurphygrabsafireextinguisherfromadecklocker,
+	comingtotheengineroomdoor.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-CONTINUOUS-DAY
+
+	Murphyenterstofindtheengineroomengulfedinflamesand
+	blacksmoke.HefindsDodgesprayingatitwithan
+	extinguisherofhisown.
+
+	Theflamesbelchupfromanoilfireintheturbinewell,
+	theheatsearingpaintonthemetalcovers.Murphyspraysa
+	cloudofhalonandthefiredims,butonlyforamoment.
+
+	Dodgegrabsanotherextinguisher,hislegburned,faceand
+	handssinged.
+
+	AnEXPLOSIONROCKSTHEBOATandmoltenflameshurlthrough
+	theair,catchingMurphy'spantleg.He'ssoengrossedin
+	fightingtheflames,hedoesn'trealizehe'sonfire.
+
+				DODGE
+			(overtheroar)
+		Murphy!
+
+	Murphylooksdowntoseehispantlegisonfire,asDodge
+	turnsacloudofhalononhim,puttingitout.
+
+				DODGE
+		Propanetanks'regonnago!
+
+	Murphycrossesinthesmoke,comingascloseashedaresto
+	themostintensepartoftheflames.Heturnstheextinguisher
+	intothem,holdingitthere.
+
+	Theflamesdim,asDodgejoinshimontheotherside,turning
+	hisextinguisheronittoo.Thefireseemstodimyetagain
+	ascloudsofhalonriseup.
+
+	Firebelchesfromaduct,crawlingacrosstheceiling.Dodge
+	fireshisextinguisheratit,pushingitbackacrosstothe
+	wallagain.
+
+	Murphyextinguishesthelastoftheflamesintheturbine
+	wellasDodgebringsasnakingtendriloffiredowntothe
+	deck,andfinallyout.
+
+	Theystandthereinthesuddensilence,theairheavywith
+	smoke.Afinelayerofhalonpowderliesovereverything,
+	butthefireisout.
+
+	EXT.ARCTICWARRIOR-DECK-DAY
+
+	Dodgesmokesacigarette,nowstartingtofeelhisburned
+	leg,whichisoozingasMurphyandGreerlookon.
+
+				DODGE
+		OneminuteI'mmindingmyown
+		business,thenextthingIknowthe
+		wholeplaceisburningup.
+			(takingadrag)
+		Anoxygentankmust'veblownonthe
+		welder.Startedanoilfire.
+
+				GREER
+		Lookslikeittookoutthebackup
+		gennytoo.
+
+				MURPHY
+		Terrific.
+
+	Eppsarriveswithafirstaidkit.
+
+				MURPHY
+		How'sthatleg?
+
+	Eppscutsbacktheburnedpantlegtoseetheburn.
+
+				DODGE
+		Seenbetter--Ow!
+
+	Eppscleanstheburnwithhydrogenperoxide.
+
+				EPPS
+		This'sgonnahurtalittle.
+
+				DODGE
+		Thanksforthewarning--Ow!Damn!
+
+	EppskeepscleaningasDodgebearsit.
+
+				GREER
+		Whatnow?
+
+				MURPHY
+		Wecouldcallforhelp.
+
+				GREER
+		Andgetabunchoffoolssniffin'
+		aroundhere?
+
+				EPPS
+		Whatotherchoiceshavewegot?
+
+				DODGE
+		Itellyouonething,we'renotgonna
+		betowingnoshipnow.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	AgaslanternsitsonthemaptableilluminatingMurphyas
+	heholdstheradiomic.
+
+				MURPHY
+			(toradio)
+		UnitedStatesCoastguard,thisis
+		tugboatArcticWarriorwhiskeyalpha
+		sierrabravofourzeroninertwo.
+		Radiocheck.Over.
+
+	Amoment,then:
+
+				COASTGUARDDISPATCHER(V.O.RADIO)
+		ArcticWarrior,ArcticWarrior,Arctic
+		Warrior.ThisisUnitedStates
+		CoastguardStationNorthIsland.
+		Yourradiocheckisaffirmative.
+		Over.
+
+				MURPHY
+		Rogerthat,NorthIsland.Arctic
+		Warriorwhiskeyalphasierrabravo
+		fourzeroninertwo.Overandout.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	Dodgepoursoutafewcansofcoldchiliintoabowland
+	takesittothetablewhereEpps,Greer,andMurphysitunder
+	thestarklightofagaslantern.
+
+				GREER
+		Fiftymillionfourways.That'stwelve
+		millionandchangeapiece.What
+		yougonnadowithyourshare,skipper?
+
+				MURPHY
+		Notmuchatall,Iguess.Retire.
+		Liveoutmygoldenyearsandall
+		that.
+
+				DODGE
+		I'mbuyin'meaniceoutrigger.
+		SpendmytimehaulingrichSeattle
+		businessmenthroughthePuget.
+
+				MURPHY
+		HowaboutyouEpps?
+
+				EPPS
+		GuessI'lljustkeepworking.
+
+				DODGE
+		What'reyoucrazy?
+
+				EPPS
+		Ilikemyjob.
+
+				MURPHY
+		Greer?
+
+				GREER
+		MovingtoSweden.
+
+				DODGE
+		What'ssogreataboutSweden?
+
+				GREER
+		It'sabeautifulcountry.Veryclean.
+		Verycivilized.Andcold.
+
+				EPPS
+		That'sagoodthing?
+
+				GREER
+		Hell,yeah.Ilikeitcold.Colder
+		thebetter.
+
+				DODGE
+		Yeah,butnotascoldasthoseSwedish
+		girlsyouonlygonnadreamabout.
+
+				GREER
+		We'llseewho'sdreamin',m'man.
+
+				MURPHY
+		Dreamin'sallanyofyou'regonnabe
+		doingifwedon'tgetthisboat
+		running.
+
+				DODGE
+		Yeah,yeah.
+
+	ASTRANGESOUNDBEGINS.ITISLIKEADISTANTSHRIEKING,AS
+	OFMETALAGAINSTMETAL,BUTALMOSTHUMAN,DISTANTLYECHOING.
+
+				GREER
+		Whatthehellisthat?
+
+	TheSHRIEKINGCONTINUES,ECHOINGEERILYASIFFROMTHESEA.
+
+	EXT.ARCTICWARRIOR-DECK-MOMENTSLATER-NIGHT
+
+	Dodge,Epps,MurphyandGreeremergeondeck.
+
+	TheDISTANTSHRIEKINGISLOUDERHERE,BUTSEEMSTOBE
+	EMANATINGFROMDEEPINTHESHIPastheystandfacingiton
+	thebow.
+
+				EPPS
+		It'scomingfrominside.
+
+	TheyholdtherelisteningastheSHRIEKINGCONTINUES.
+
+				DODGE
+		Soundslikethehull.
+
+				MURPHY
+		Warmwatercurrentmaybe,makingthe
+		metalexpand.
+
+				GREER
+		Thatshitisseriouslybizarre.
+
+	TheDISTANTSHRIEKINGECHOcontinuesastheyholdthere.
+
+	EXT.ARCTICWARRIOR-DECK-DAY
+
+	Theengineroomisblackwithsoot,theturbinescoveredin
+	halonpowder.Dodgestandstherelookingatit.Hesighs.
+
+	INT.CHIMERA-GALLEY-DAY
+
+	Greergoesthroughshelvesofsupplies,findingastackof
+	sternocansandwarmingcandles.Hethrowsthemintoawooden
+	crateofothersupplieshe'sgathered.
+
+	INT.CHIMERA-FIRSTCLASSSTATEROOM-DAY
+
+	Eppsslowlypushesopenthedoor.Sheholdsasackwitha
+	fewitemsshe'smanagedtoscavenge.Lightfallsfrom
+	curtainedwindowsontotheroom.Adivansitsagainstthe
+	wall.Atablestandsinthemiddleoftheroom,amoth-eaten
+	velvettableclothsittingunderabrasslampontop.Two
+	twinbedsstandoneitherside.Theyarecoveredindustand
+	aremoth-eaten,unmade,asiftheoccupantshadjustgotten
+	up,fiftyyearsago.
+
+	Inonecornerisanarmoire.Eppsstepsuptoit,pulling
+	backthedoortorevealarackofwoman'sclothinghanging
+	thereundisturbed.
+
+	INT.CHIMERA-STATEROOM-MOMENTSLATER-DAY
+
+	Apairofslipperslieonthefloorbesideachair,over
+	whichisdrapedawoman'srobe.Eppsliftsit,thematerial
+	crumblinginherhands.
+
+	INT.CHIMERA-STATEROOM-MOMENTSLATER-DAY
+
+	Adrawercomesbacktorevealanumberofpersonalaffects,
+	aman'sbillfold,cufflinks,tarnishedsilvercigarette
+	holderandcase,coins,blackhorn-rimmedglasses,pocket
+	watchandfob,andaroomkey.
+
+	Eppspullsbackthebillfold.Sheopensit.Insideshefinds
+	aCanadianpassportapictureofadark-hairedmanwitha
+	mustacheandblackhorn-rimmedglasses,circa1950.Inthe
+	foldsshefindsthreehundredCanadiandollars.Aninsert
+	holdspictures,ofasuburbanhome,children,andawoman,
+	presumablyhiswife.
+
+	INT.CHIMERA-"A"DECKPASSAGE-LATER-DAY
+
+	Eppsstepsfromtheroom.Sheturnstoclosethedoor,but
+	stops,holdingthere,stronglysensingsomething.
+
+	THECAMERASLOWLYCOMESAROUNDTOHEROTHERSIDE,revealing
+	thelongpassagewaybehindher,eachbulkheadhatchway
+	creatingtheimpressionofatunnelofmirrorsthatframe
+	oneanotherand,standingattheveryendofthistunnelin
+	thefoggylightfromaporthole,aMANindarkclothing.
+
+	Eppsslowlyturnsherheadtoseewhatshealreadysenses,
+	themanstandingattheendofthepassagewayfacingher.A
+	beatastheyholdthere.Themanonlystaresbackather,
+	thenturnstowalkaway.
+
+				EPPS
+		Hey!
+
+	Eppsmovesoffasthemanwalksaroundthecorner.
+
+				EPPS
+		Hey,waitaminute!Hey!
+
+	MOVINGWITHEppsasshebreaksintoarun,goingdownthe
+	passageway.Shecomestothecorner,roundingitoutonto
+	anotherpassageway.Themanisnowheretobeseen.
+
+	Eppsmovesquicklydownthepassageway,comingtothenext
+	corner,roundingitouttoseeonlyanotherlongpassageway.
+	Sheturnsback,runningrightintoMurphy.
+
+				MURPHY
+		Takeiteasy,you'lllivelonger.
+
+				EPPS
+		Didyouseehim?
+
+				MURPHY
+		Who?
+
+				EPPS
+		Theguy.Hejustcamethisway.
+
+				MURPHY
+		Whatguy?
+
+				EPPS
+		There'ssomebodyelseonthisboat.
+
+				MURPHY
+		What?Whatthehell'reyoutalking
+		about.
+
+				EPPS
+		Isawhim.Justaminuteago.Some
+		guy.
+
+				MURPHY
+		Areyousure?
+
+				EPPS
+		OfcourseI'msure.Isawhim.
+
+				MURPHY
+		Yousureitwasn'tme?
+
+				EPPS
+		Itwasn'tyou.Itwassomebodyelse.
+		There'ssomebodyelseaboard.
+
+	AbeatasMurphylooksbackather.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	Greer,Dodge,Murphy,andEppsstandaroundbylanternlight.
+
+				DODGE
+		Lightinthosepassagesain'tso
+		good.
+
+				EPPS
+		I'mtellingyou,Isawsomebody.I
+		don'tknowwhoitwas.ButIsaw
+		somebody.
+
+				GREER
+		What'dhelooklike?
+
+				EPPS
+		Maybesixfeet.Lanky.Ididn'tget
+		agoodlook.Hewasfaraway.ButI
+		sawhim.Isawhimassureasyou're
+		standingthere.
+
+				DODGE
+		Where'shisboat,then?Where'shis
+		crew?Heain'tgonnabeouthereby
+		himself,that'sfordamnsure.
+
+				GREER
+		She'ssobigsomebodycouldcome
+		alongsideherontheothersideand
+		we'dneverknowit.
+
+				EPPS
+		Maybethatishisboat.
+
+				DODGE
+		Gimmeabreak.
+
+	Abeatastheysitinsilence.
+
+				MURPHY
+		Ifsomebody'saboardheralready,
+		sheain'tours.She'stheirs.
+
+				DODGE
+		Bullshit.Thatboathasn'tmadesteam
+		forfiftyyears.Wefoundher.She's
+		ours.
+
+				MURPHY
+		Notintheeyesofthelaw.
+
+				EPPS
+		So,wefindthisguyandmakeadeal
+		withhim.
+
+				MURPHY
+		Wedon'texactlyhavethebest
+		bargainingposition.
+
+				DODGE
+		Isayfuckthemotherfucker.We'rea
+		professionalsalvagecrewgoingabout
+		ourbusiness.What'ssomeyahoodoing
+		wayoutherebyhimselfanyway?
+
+				MURPHY
+		Andwhatdoyoupropose?Thatwe
+		knockthisguyoff?
+
+				DODGE
+		Whynot?Whythefucknot?
+
+	AbeatasMurphy,GreerandEppsexchangelooks.
+
+				DODGE
+		Fiftymilliondollars.Fiftymillion.
+		Wegonnaletthisguyjusttakeit
+		fromus?Oneguy?
+
+				EPPS
+		Sowekillhim?
+
+				DODGE
+		I'msayingwegottadowhateverwe
+		gottadotopreserveourinterest.
+
+				GREER
+		Idon'tknow.
+
+				MURPHY
+		Let'sjusttakeiteasyhere,alright?
+		Nobody'sgonnakillanybody.
+
+				GREER
+		Supposinghewantstogetbadwith
+		us?
+
+				DODGE
+		Oneguyisn'tgonnabesostupid.
+
+				EPPS
+		Maybeheisn'talone.
+
+	Theyconsiderthisamoment.
+
+				GREER
+		Isayweoff-loadsomeofthatgold
+		now.
+
+				MURPHY
+		Wouldyouholdonjustaminutehere,
+		please?Look,there'snoreasonto
+		panicnow.Eppssawsomebody.Fine.
+		It'sabigboat.Chances'rereal
+		goodhedoesn'tevenknowaboutthe
+		gold.Ifwestaycool,nobody'llbe
+		thewiser.
+			(abeat)
+		Thegoldstayswhereitistilwe're
+		readytogo.LikeIsaid,it'llbea
+		hellofalotsafertherethanhere.
+
+				DODGE
+		Whatifthatfuckerfindsitbefore
+		we'rereadytogo?
+
+				MURPHY
+		We'llstandawatch.Fouron,eight
+		off.Lowmanfirst.
+
+				EPPS
+		Guessthat'dbeme.Again.
+
+				MURPHY
+		Dodge,getonthatturbine.Idon't
+		careifyoudon'tsleepforaweek.
+		Thesooneryou'redone,thesooner
+		wecangetoutofhere.How'sthe
+		foodsituation?
+
+				GREER
+		Prettylowallaround.
+
+				MURPHY
+		We'llhavetotakeiteasythen.I
+		don'tthinkwe'llfindmuchaboard
+		theship,butit'sprobablyworth
+		lookingaround.
+
+				EPPS
+		Saywerunintothisguyagain.
+
+	Abeatastheyconsiderthis.
+
+				MURPHY
+		Ifhe'sreasonable,maybewecan
+		makesomekindofdeal.Ifnot.
+		We'llhavetore-considerouroptions.
+
+				DODGE
+		Yeah,reconsiderfuckinghisshit
+		up.
+
+	INT.ARCTICWARRIOR-WARDLOCKER-NIGHT
+
+	Eppsisdressedinhercoldweathergearassheopensa
+	locker,revealingaflaregunandashotgun.Eppspullsback
+	theshotgunandaboxofshells.
+
+	EXT.ARCTICWARRIOR-DECK-NIGHT
+
+	MurphyandDodgelookonasEppsloadsthelastofseveral
+	shotgunshellsintothepumpactionshortbarrel12-gauge.
+	Sheexpertlyshuttlesaroundintothechamberwithonehand.
+	DodgetakesahitfromhiscigaretteasGreercrossesfrom
+	thedeckhouse.
+
+				DODGE
+		Prettyhandywiththatscattergun,
+		Epps.Youraisedonafarm?
+
+				EPPS
+			(settingthesafety)
+		Seenalotamovies.
+
+				MURPHY
+		Nocowboyshitupthere,understand?
+
+				EPPS
+		Nocowboyshit.Right.
+
+	GreerextendsathermostoEpps.
+
+				GREER
+		Coffee.
+
+				EPPS
+			(pocketingitinher
+			coat)
+		You'reapal.
+
+	Shechecksthesquelchonherradio,pocketsittoo.
+
+				MURPHY
+		Gotyourlight?
+
+				EPPS
+		Yup.
+
+				DODGE
+		Smokes?
+
+				EPPS
+		Ohyeah.
+
+	Herbravadodoeslittletohideherapprehensionassheslings
+	theshotgunonherback.
+
+				EPPS
+		Seeyouboyslater.
+			(toGreer)
+		Don'tbelate,Ineedmybeautyrest.
+
+	Shelooksup,climbsontothecraneanduptowardthedarkened
+	shipabovethem.
+
+	INT.CHIMERA-PASSAGEWAY-NIGHT
+
+	AflashlightbeamcutsthroughthedarknessasEpps
+	approaches.Ifthisplaceiscreepyinthedaylight,itis
+	terrifyingnow.Shecomestoaladderandclimbsdown.
+
+	INT.CHIMERA-CARGOCOMPARTMENT-LATER-NIGHT
+
+	Eppsshinesherlightasshepassesthrough,comingtothe
+	cargohold.Shecrossesinthedarkness,herlightcatching
+	thetarnishedglintofthegold.Shecomesuptoit,stopping
+	there,lookingonatit,aperfectlysymmetricalfortune.
+
+	Shelooksaroundforaplacetosit.Shedragsapaletteto
+	thebulkhead,settlingintofacetherestofthecompartment.
+	Sheputshershotgundownbesideherandtakesoutherthermos
+	topourherselfacupofcoffee.
+
+	INT.CHIMERA-CARGOCOMPARTMENT-LATER-NIGHT
+
+	EppshasdozedoffwhenaCLATTERINGECHOESDISTANTLY
+	somewhereintheship.Eppswakes.Itissilent,assheholds
+	there,notsuresheheardanything,whenaDISTANTBOOMING
+	SOUNDS.Shereachesoutfortheshotgun,intentlylistening.
+
+	AsEppsholdsthere,anotherdeepBOOMINGsoundsdistantly
+	somewhere.Eppsturns,herbloodrunningcold.
+
+	INT.CHIMERA-CARGOCOMPARTMENT-MOMENTSLATER-NIGHT
+
+	EppsmovesalonginthedarknesswhentheDISTANTBOOMING
+	CANBEHEARDBRIEFLYAGAIN.Shestops,holdingthere,inthe
+	silence.
+
+	INT.CHIMERA-SHAFTALLEY-MOMENTSLATER-NIGHT
+
+	Eppsjumpsdownintotheshaftalleywheretheship'smassive
+	propellershafthangssuspendedaboveher.Eppsmovesalong.
+	Finallyshecomesoutinto...
+
+	INT.CHIMERA-ENGINEROOM-CONTINUOUS-NIGHT
+
+	Wherethepropellershaftextendsintoalargeturbine.She
+	continueson,pasthugerustingdieselburners,disappearing
+	intothedarknessaboveher,whenANOTHERBOOMSOUNDS.
+
+	Sheturns,shinningherlightbackfromwhereshecame.
+	Nothingmoves.Notasound,butforherbreathingandmaybe
+	herheartpoundinginherchest.ANOTHERBOOMSOUNDS,again
+	echoingdistantlyinthesilence.Sheshinesherlightthrough
+	thelineofburners.Nothingmoves.
+
+	Eppsmovesquietlybetweentheburners.Shecomestoamassive
+	watertightdooratthebulkhead.Shestepsthrough,finding
+	herselfstandingbetweenarowofhugeoilstoragetanks.
+	THEBOOMINGSOUNDSAGAIN,closer,assuddenlystopping.
+
+	Shemoveson,cautiouslywalkingbetweenthetanks,holding
+	herlightoutbeforeher.Shecomestotheendofthe
+	compartmentandanotherbulkhead.TheBOOMINGSOUNDS,still
+	closer.Sheturnsthelightintotherecesses,showingrusting
+	machineryandastackofoildrums.
+
+	Sheapproaches,holdingtheshotgunup.Asshenears,the
+	BOOMINGSOUNDSAGAIN.Shestops.Itiscomingfromhere.
+
+	Shetenses,raisingtheshotgun,holdingthelightassteady
+	asshecanmanage.TheBOOMINGSOUNDSYETAGAIN.Itis
+	metallicandstaccato.
+
+	Shestopsinthecornerbesideanoildrum.Severaldrums
+	havetoppledandliescatteredinapilewhenadraftstirs
+	herhair.Sheshinesherlightuptoseethatshestandsat
+	thebottomofagianthatchwayshaftrisingalltheway
+	throughtheshiptothetopdeckandanechoeybreezethat
+	betraysathroughwaytotheoutside.
+
+	TheBOOMINGSOUNDSAGAIN,thistimecomingfromthepileof
+	oildrums.Shestepscloser,raisingtheshotgun,readyto
+	fire.Abeatasshesummonshercourage,thenreachesoutto
+	pushadrumwithherfoot,whenABLUREXPLODESOUTATHER.
+	Shefirestheshotgunandasprayofbuckshotglancesoff
+	thesteelbulkheadinashowerofsparks,aflurryoffrenetic
+	flappingwhizzingbyherheadasshelooksuptoseealarge
+	albatrossflyingbackupthehatchwayshafttowardthetop
+	oftheshipandfreedom.
+
+				MURPHY
+		MurphytoEpps.
+
+	Shesettlesback,exhausted.
+
+				MURPHY
+		MurphytoEpps.
+
+				EPPS
+			(takingherradio)
+		Epps.
+
+				MURPHY
+		Youjustshootatsomething?
+
+				EPPS
+		Yeah.Justabird.Justastupid
+		bird.
+
+	Shewipesherbrowonhersleeve,holdingthereamoment,
+	whenshesmellssomethingreallyawful.
+
+	Shestepsforward,followingthesmell,pushingasidethe
+	toppledoildrumstoseeanunidentifiableforminthebeam
+	ofherflashlight.Shestepsstillcloser,trainingherlight
+	ontheformtoseethatitisahumantorso.Alargegash
+	runsupitsmiddleandtheclothinghasbeentornby
+	scavengingbirds.
+
+	Shehesitates,thenstepsstillcloserwhenshestepson
+	something.Shestarts,thenshinesthelightonthedeckin
+	frontofherwherethebody'sdecayingheadlooksbackwith
+	wide,unseeingeyes.
+
+	Ittakeseverythingshehasjusttoholdthere.Sheshines
+	herlightbacktotheheadlesstorso.
+
+	Sheshinesherlightbeyondthat,andup,torevealabent
+	steampipehangingoutoverthedeck,stainedwithdried
+	blood,apairoflegsdanglingfromthepipewhen,justbehind
+	her,abootedfootcomesintoframe,lightlytouchingher.
+
+	Shespinsaroundtoseeanotherbodyaboveher.Exceptthis
+	onehangsinonepiece,suspendedfromanotherbentsteam
+	pipe.Ithasbeenimpaledlength-wiseonthepipefromrectum
+	tomouth.
+
+	Oneofitsarmshasrottedoffandliesonthedeckbelow
+	it.Afewfeetaway,athirdbodyhangsimpaledfromanother
+	bentpipe.
+
+	INT.CHIMERA-ENGINEROOM-LATER-NIGHT
+
+	Alanternilluminatestheimpaledbodiesandtheirvarious
+	rottingparts.
+
+				GREER(O.S.)
+		Ho-lyshit.
+
+				MURPHY(O.S.)
+		Couldn'thavehappenedmuchmore
+		thanamonthago.
+
+	Greer,Dodge,andEppslookonasMurphykneelsoverthe
+	remainsoftheheadlesstorso.
+
+				MURPHY
+		Bodies'retoofresh.
+
+				DODGE
+		Freshain'tthefirstwordthatcomes
+		tomind.
+
+	Murphychecksthepockets,findingawallet.Helooksthrough
+	it.
+
+				MURPHY
+		Greekcitizen.Merchantnavy.
+			(standing)
+		Obviouslywearen'tthefirstto
+		comeacrossthisship.Theyprobably
+		stumbledacrossitjustlikewedid.
+
+				GREER
+		Andlookwhathappened.
+
+				DODGE
+		Damnbarbariciswhatitis.
+
+				MURPHY
+		Couldbemeantasawarning.
+
+				GREER
+		Stayaway.Orelse.
+
+				EPPS
+		Becauseofthegold.
+
+				MURPHY
+		That'dbemyguess.
+
+				DODGE
+		Sowhoeverdidthismightstillbe
+		around.
+
+				GREER
+		MaybeEpps'smysterymanhadsomething
+		todowithit.
+
+				MURPHY
+		Maybe.
+
+	Abeatastheyconsidertheimplicationsofthis.
+
+				EPPS
+		So,what?Wereportthis?Callthe
+		Coastguard?
+
+	Anotherbeatastheyholdthere.
+
+				DODGE
+		Let'snotbetoohasty.
+
+				GREER
+		Yeah.Hell,whatdifferencedoesit
+		makeifwereportitnoworlater?
+		Wecallthisinnow,gonnabe
+		Coastguard,FBI,whoknowswho,all
+		overtheplace.
+
+	Abeatasnobody'stoosureaboutthis.
+
+				MURPHY
+		Dodge,ifthisisn'tincentiveenough
+		tofixthatboat,Idon'tknowwhat
+		is.
+
+						DISSOLVETO:
+
+	INT.ARCTICWARRIOR-ENGINEROOM-DAY
+
+	Dodgefiresupacompressor,whichfeeblycomestolife,
+	turningovertheturbine,thensputteringoutinacloudof
+	smoke.
+
+				DODGE
+		Allthesealsandgaskets'reshot.
+		Anythingthatwasrubberburnedup.
+
+	Murphystandsatthedoorway,lookingon.
+
+				MURPHY
+		Can'tyouusesomethingelse?
+
+				DODGE
+		Imightbeabletofindsomethingon
+		theship.Butit'sgonnataketime.
+
+				MURPHY
+		Dowhatyouneedtodo.Justdoit
+		fast.
+
+				DODGE
+		Right.
+
+	INT.CHIMERA-CREWQUARTERS-DAY
+
+	Eppssleepsinherbunk.
+
+	INT.CHIMERA-BETWEENDECKS-DAY
+
+	DodgeandGreerclimbdowninthedarkness.
+
+				DODGE
+		Ineedlagbolts,especiallyone
+		inchstandard.Andsheetmetal.
+		Preferablysteel,aboutasixteenth
+		ofaninch.Aluminium,eventin'll
+		do.
+
+				GREER
+		Iain'tnomechanic,justsoyou
+		know.
+
+				DODGE
+		Youfindanythingthatevenlooks
+		likeacompressor.Idon'tcarewhat,
+		grabit.
+
+	INT.CHIMERA-RADIOROOM-CONTINUOUS-DAY
+
+	Murphystandsinthecrampedroom,fullofradiosand
+	communicationsequipment.Helooksthroughtheshelvesand
+	cabinets,whenheopensadrawertofindadustyboundbook.
+	Hepullsitback,openingittoseethatitisaradiocall
+	log.Hetakesaseat,pagingthroughit.
+
+	INT.CHIMERA-GALLEY-WITHGREER-LATER-DAY
+
+	Greerworkstodisassembleacompressormechanism.Hehas
+	difficultygettingtherightpurchasewithhiswrench,when
+	heslips.
+
+				GREER
+		Dammit!
+
+	Abeatasheinspectshishand.InthesilenceADISTANT
+	SHRIEKSOUNDS,maybemetalagainstmetalormaybehuman,
+	somewhereintheship.Heholdsthere,listening.
+
+				GREER
+		Dodge?
+
+	Hemoveson,shinninghislightashegoes.
+
+	INT.CHIMERA-GALLEY-MOMENTSLATER-DAY
+
+	GreermovesalonginthedarknesswhenhehearsTHESHRIEKING
+	AGAINcomingfromsomewhereintheship.
+
+				GREER
+		Dodge!
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Greerwalksupastairway,steppingintoadarkened
+	passageway.TheSHRIEKINGSOUNDS,THISTIMECLOSER,asit
+	echoesthroughtheship.Hestops,holdingtheretolisten.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Greercomesoutontoanotherdeck,stoppingthere.Helooks
+	downthepassagewayabeat,thenmoveson.Hepassesthrough
+	ahatchwayinabulkheadwhenAMUSICBOXCANBEDISTANTLY
+	HEARD.Hestops.Thesongis"DAISY"("Daisy,Daisy,giveme
+	youranswerdo.I'mhalfcrazy,ohfortheloveofyou.").
+
+	Heholdsthere,listeningintently.Adoorstandsopenat
+	theotherendofthepassage.TheMUSICCOMESFROMHERE.He
+	movesforward,walkingtowardtheendofthepassage,and
+	thelightfallingfromtheopendoor.
+
+	INT.CHIMERA-RADIOROOM-CONTINUOUS-DAY
+
+	Murphypagesforwardtothelastpageoftheradiocalllog
+	book.
+
+	Onthepagehisfingerrunsdownthecolumnsofentries,
+	comingto"TRANSMISSION1Feb5321:34hrsGMT.Enginetrouble
+	notificationmadetopassingvessel'St.Charles.'"
+
+	Hisfingermovesdowntothenextentry,comingto:
+	"TRANSMISSION2Feb5309:52hrsGMT.DeadinWater.
+	Notificationmadetopassingvessel'Normandy.'"
+
+	Hisfingercontinues:"TRANSMISSION2Feb5314:07hrsGMT.
+	Captainrelievedofcommand.Notificationmadetopassing
+	vessel'ChinaSea.'"
+
+				MURPHY
+		Captainrelievedofcommand.
+
+	Heholdsthereamoment,movinghisfingerdowntothefinal
+	entry,reading:"TRANSMISSION2Feb5321:24hrsGMT.General
+	SOS."
+
+	Heturnsthepagetoseeonlythewords"GODSAVEUS"scrawled
+	infadedredink.Abeatasheholdsthere,whenaCHANNEL
+	OPENSWITHASHORTBURSTONMURPHY'SRADIO.Helookstoit,
+	butthereisnoresponsefromtheotherend.AnotherSHORT
+	BURSTANDTHECHANNELOPENSAGAIN.Thistimeitremainsopen,
+	butnoonesaysanythingontheotherend,UNTILTHECHANNEL
+	CLOSESAGAIN.
+
+	Murphytakestheradio.
+
+				MURPHY
+		ThisisMurphy.Anybodytryingto
+		callme?Over.
+
+	Hewaitsasnoresponsecomes,thenTHECHANNELOPENSAGAIN.
+	Onlysilencefromtheotherendassomeoneseemstobethere,
+	butisnotsayinganything.Murphypressesthetalkbutton.
+
+				MURPHY
+		Greer?Dodge?
+
+	Again,thereisnoresponse,untiltheCHANNELOPENS.Murphy
+	holdsthereasheisansweredbysilence,WHENAGRAVELLY,
+	STRANGELYDISTORTEDMALEVOICECOMESBACKONTHERADIO:
+
+				VOICE(V.O.RADIO)
+		"Cock-a-doodle-doo,"saidtherooster
+		tothecrow."Whereareyounow?I
+		know,butwon'tsayso."
+
+	Murphyismomentarilystunned.Hehitsthetalkbutton.
+
+				MURPHY
+		Whoisthis?
+
+	TheRADIOCHANNELOPENS.Onlysilencecomesback,asif
+	someoneweretherebutnotspeaking.
+
+				MURPHY
+		Whoisthis!!
+
+	TheCAMERAPUSHESINASMURPHYLISTENS.
+
+				VOICE
+		Pennywhistletoy.Pennywhistle
+		toy.Pennywhistletoy.Pennywhistle
+		toy.
+
+	TheCHANNELCLOSESastheCAMERASTOPSCLOSEONMURPHY.
+	Murphysqueezesthetalkbutton.
+
+				MURPHY
+		Greer!Dodge!
+
+	OnlysilencecomesbackfromtheradiowhenAMAN'SBLOOD
+	CURDLINGSCREAMsoundsfromsomewhereintheship.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Murphymovesquicklydownthepassagewaywhenhisradio
+	sounds.
+
+				DODGE
+		DodgetoMurphy.
+
+				MURPHY
+			(takingradio)
+		Murphy.
+
+				DODGE
+		Youbettergetdownherequick,
+		skipper.I'mon"C"deck.Cabin400.
+
+				MURPHY
+		Whatisit?
+
+				DODGE
+		Ithinkyoubetterseethisfor
+		yourself.
+
+	INT.CHIMERA-STAIRWAY/PASSAGEWAY-MOMENTSLATER-DAY
+
+	Murphycomesdownthestairsandintothepassagewaywesaw
+	Greerinearlier.Attheend,thelightfromthecabinfalls
+	fromtheopendoorasheapproaches.
+
+	ATCABIN400
+
+	AsMurphycomestothedoortoseeDodgestandinginthe
+	middleofthecabin.
+
+				DODGE
+		Ifoundhimlikethis.
+
+	Greerislyingsupineonthefloor.Hislegsarerigidand
+	histrunkisextended.Hisarmsareflexedandtwistedso
+	thatthepalmsarefacingaway,fingerssplayed,wrists
+	quakingoverhischestastheyfighttotoucheachother.
+
+	Murphykneelsbesidehim.Greer'seyelidsarehalfclosed,
+	hiseyesrolledupintohishead.Hisjawisclenched,face
+	contortedinabizarregrimace.Andhespeaks,uttering
+	nonsensewordsinharshexpulsions,asthoughspeakingin
+	tongues.
+
+				GREER
+		Oragishlaoomnudrasadrafantoshviska
+		getofedobrodijotosiantosg.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-DAY
+
+	ANEYE-EXTREMELYCLOSE
+
+	Asalightshinesinit,thepupilisfixedanddilated.
+
+				EPPS(O.S.)
+		Hardtosay.
+
+	BACKTOSCENE
+
+	Greerliesunconsciousonabunk,nowquiet,nolongerseizing
+	asEppsshinesaflashlightintohiseye,DodgeandMurphy
+	lookingon.Sheturnsitoff,standingupright.
+
+				EPPS
+		I'mnodoctor.ButI'dsayhe'sina
+		coma.
+
+				DODGE
+		Awhat?
+
+				EPPS
+		Idon'tknowwhatelseyou'dcall
+		it.He'sbreathingonhisown,but
+		hispupilsarecompletelyblownout.
+		He'stotallyunresponsivetopain.
+			(abeat)
+		Whathappenedupthere?
+
+				DODGE
+		Iheardascream.WhenIgotthereI
+		foundhimonthefloor.Hewashaving
+		somekindofseizure.Ididn'tsee
+		anybodyelse.
+
+				MURPHY
+		Hemust'veseensomething.
+
+	Abeatastheyconsiderthis.
+
+				EPPS
+		Otherthantheobvious,there's
+		nothingwrongwithhimthatIcan
+		see,notontheoutside.
+
+				DODGE
+		Thenwhatthehellhappenedtohim?
+
+	Anotherbeatastheyholdthere.
+
+				MURPHY
+		JustbeforeIheardhimyellthere
+		wassomebodyontheradio.
+
+				EPPS
+		Greer?
+
+				MURPHY
+		Idon'tknow.No.NotGreer.
+		Somebody.
+
+	Anotherlongbeatastheythinkaboutthis.
+
+				MURPHY
+		Itwasaman'svoice.Repeatingsome
+		sortofchildren'srhyme.Idon't
+		know,itdidn'tmakeanysense.You
+		didn'thearit?
+
+				DODGE
+		Notme.
+
+	Anotherbeatasthissinksin.
+
+				EPPS
+			(lookingtoGreer)
+		Heneedsadoctor.
+
+				MURPHY
+		I'llcallusin.Dodge,seehowmany
+		signalflaresyoucanscroungeup.
+			(toEpps,meaning
+			Dodge)
+		Keepaneyeonhim.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-NIGHT
+
+	AgaslanternsitsonthemaptableilluminatingMurphyas
+	heholdstheradiomic.
+
+				MURPHY
+			(toradio)
+		UnitedStatesCoastguard,United
+		StatesCoastguard,UnitedStates
+		Coastguard.ThisistugboatArctic
+		Warriorwhiskeyalphasierrabravo
+		fourzeroninertwo.Over.
+
+	Noresponse.
+
+				MURPHY
+			(toradio)
+		UnitedStatesCoastguard,United
+		StatesCoastguard,UnitedStates
+		Coastguard.ThisistugboatArctic
+		Warriorwhiskeyalphasierrabravo
+		fourzeroninertwo.Over.
+
+	Again,noresponse.Heholdsthere,thenfinally:
+
+				MURPHY
+			(toradio)
+		Mayday.Mayday.Mayday.Toanyvessel.
+		ThisisArcticWarrior.Arctic
+		Warrior.ArcticWarrior.Whiskey
+		alphasierrabravofourzeroniner
+		two.Lastknownpositiononeseven
+		fourwest,fivesevennorth.Iam
+		afloatanddrifting.Require
+		immediatemedicalassistanceforone
+		person,possiblycomatose.Iama
+		onehundredtwentyfootcivilian
+		tug,hovetoatportbowofdisabled
+		passengerlinerChimera.Irepeat,
+		Chimera.Over.
+
+	OnlythedesolateWHITENOISEOFEMPTYAIRCOMESBACK.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	GreerliesunconsciousasEppslooksonathim.Thedoor
+	comesopenandMurphystepsin.
+
+				MURPHY
+		How'shedoing?
+
+				EPPS
+		Same.Anyluck?
+
+				MURPHY
+		No.I'lltryagainlater.
+
+	AbeatastheylookonatGreer.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-NIGHT
+
+	MurphyandEppssitatthegalleytable.Eppsreadsthelog
+	bookMurphyfoundintheradioroom.
+
+				EPPS
+			(readingit)
+		They'redeadinthewaterthat
+		morning.Fourhourslaterthe
+		captain'srelievedofhiscommand.
+		Andthateveningtheyissueageneral
+		SOS.
+
+				MURPHY
+		Possiblyfalse.HencetheIMArecord
+		ofbeinglostatsea.Idon'tthink
+		mutiny'soutofthequestionhere.
+
+				DODGE
+			(takingaseat)
+		Onapassengershipin1953?
+
+				MURPHY
+		Iftheyknewwhattheywerecarrying.
+
+				EPPS
+		You'resayingtheymutiniedforthe
+		gold?
+
+				MURPHY
+		Iftheywerecloseenoughtoshore,
+		theyprobablyfiguredtheycouldget
+		awayinthelifeboats.
+
+				EPPS
+		Onlysomethingmust'vegonewrong.
+
+				DODGE
+		Yeah,waywrong.
+
+	Abeatastheyconsiderit.
+
+				DODGE
+		So.Igotaquestion.Justfroma,
+		youknow,purelytechnicalstandpoint.
+		WecalltheCoastguard.Coastguard
+		showsup.Whatexactlyistheplan?
+
+				MURPHY
+		Howdoyoumean?
+
+				DODGE
+		Well,they'regonnabeaskingalot
+		ofquestions.Aboutus.Aboutthose
+		bodies.Aboutthegold.Seemslike
+		weoughtabepreparedisall.
+
+				MURPHY
+		Iguessthebeststrategy'sjustto
+		tellthemthetruth.
+
+				DODGE
+		Yeah,well.Thetruthisonething.
+		Whenthere'smorethanafewhundred
+		milliondollarsinvolved,that'sa
+		wholenewdeal.
+
+				MURPHY
+		Whatdoyoupropose?
+
+				DODGE
+		Forstarters,gettingthatgoldoff
+		theship.Whattheydon'tknowabout
+		isn'tgonnabotherthem.
+
+	AbeatasMurphyholdsthere.
+
+				MURPHY
+		There'snowaywe'regonnahidea
+		fewthousandpoundsofgoldfromthe
+		Coastguardhere.Besides,it'llbe
+		saferwhereitis.
+
+				DODGE
+		Withallduerespect,skipper.
+			(abeat)
+		Partofthatupthere'smine.I'd
+		kindaliketohavealittlesayin
+		whathappenstoit.
+
+	AbeatasMurphylookson.
+
+				MURPHY
+		Tellyouwhat,Dodge.Onceweget
+		backtoshore,youcandowhatever
+		youwantwithyourshare.Butuntil
+		then,thegoldstaysrightwhereit
+		is.
+
+	Dodgeholdsthere.HelookstoEppsabeat,takesadrinkof
+	coffee.
+
+	EXT.CHIMERA-DAY
+
+	ThesuncomesupoveraspectacularcloudbankastheArctic
+	WarriordriftsalongsidetheChimera.
+
+	EXT.ARCTICWARRIOR-DAY
+
+	Murphycrossestothedeckhouse,climbsthestairs.
+
+	INT.ARCTICWARRIOR-PILOTHOUSE-CONTINUOUS-DAY
+
+	Murphyopensthedoor,stoppingdeadinhistracks.Abeat.
+	Hestepsforward,crossingtothecorner.
+
+	Theradiosetliesbeforehim,dentedinandcompletely
+	demolished,asifsomeonehadtakenabattoit.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-MOMENTSLATER-DAY
+
+	Dodgeworksononeoftheturbineswhenheisgrabbedfrom
+	behindandshovedintothewall.Murphyholdshimfast.
+
+				MURPHY
+		Justwhatthehelldoyouthinkyou're
+		doing?!
+
+				DODGE
+		Idon'tknowwhatyou'retalking
+		about?
+
+				MURPHY
+		Ithinkyouknow.
+
+				DODGE
+		Maybeyoucantellmethen.
+
+	Murphyshoveshimhardintothewall.
+
+				MURPHY
+		Theradio!
+
+				DODGE
+			(nothavingaclue)
+		Theradio.Oh,yeah,theradio.
+
+	Murphytightenshisgrip.
+
+				DODGE
+		Takeiteasy,willya?Whataboutthe
+		radio?!
+
+				MURPHY
+		Yousmashedit!
+
+				DODGE
+		What?!
+
+				MURPHY
+		Don'tlietome!
+
+				DODGE
+		Whatthefuck--?
+
+				MURPHY
+		Youdidn'twantuscallinganybody.
+		Tooliabletoruinyourbigpayday.
+
+				DODGE
+		Ididn'ttouchthefuckingradio.
+
+	Murphytightenshisgripstillmore.
+
+				DODGE
+		Ididn'ttouchthefuckingradio!
+			(abeat)
+		Everoccurtoyouthere'ssomebody
+		elseonthatboat,skipper?
+
+				MURPHY
+		Convenientlyenoughforyou.
+
+				DODGE
+		Look,Ididn'ttouchit.Alright?
+
+	Murphyholdsthereabeatlonger.HeshovesDodgebackletting
+	himgo.
+
+				DODGE
+		Jesus.
+
+	DodgecheckshisthroatasMurphylookson.
+
+				EPPS(O.S.)
+		Murphy.
+
+	TheyturntoseeEppsinthehatchway.
+
+				EPPS
+		It'sGreer.
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-MOMENTSLATER-DAY
+
+	Greerstandsatthegalleysinkfinishingoffthelastofa
+	jugofwaterasMurphyandtheothersstepin.Heturnsto
+	seethem.
+
+				GREER
+		Neverbeenmorethirstyinmylife.
+
+				MURPHY
+		Drinkupthen.
+
+	Greersmiles,raisingthejugtodrinkastheotherstakea
+	seat,lookingonathim.
+
+				MURPHY
+		How'reyoufeeling?
+
+				GREER
+		Lostmysealegs.
+
+				EPPS
+		Anydizziness?
+
+				GREER
+		No.
+
+				EPPS
+		Headache,nausea,lights?
+
+				GREER
+		Lights?
+
+				EPPS
+		Suddenflashesoflight.
+
+				GREER
+		Ifeelfine.
+
+				DODGE
+		Whatdayisit?
+
+				GREER
+		Idon'tknow.Tuesday?
+
+				DODGE
+		Wrong.It'sFriday.
+
+				EPPS
+		TryWednesday.
+
+				DODGE
+		Right.Wednesday.
+
+	Abeatastheyallholdthere.Greertakesaseat.
+
+				GREER
+		Whathappened?
+
+				MURPHY
+		Youdon'tremember?
+
+				GREER
+		LastthingIrememberIwasaboard
+		theChimera.Downsomewhereinthere
+		scavengingaround.
+
+				MURPHY
+		You'vebeenoutforaboutaday.
+
+				GREER
+		Saywhat?
+
+				MURPHY
+		Dodgefoundyououtcoldinoneof
+		thecabins.
+
+	Greeronlyholdsthere.
+
+				GREER
+		Oh,man.
+
+				MURPHY
+		Weheardyouscream.Anyideawhat
+		youmight'veseen?
+
+				GREER
+		IwishIcouldtellyou.I'dbereal
+		interestedtoknowmyself.
+
+	Anotherbeatastheyholdthere,asGreertakesanotherdrink
+	ofwater.
+
+				MURPHY
+		Theah...theradio'sout.
+
+				EPPS
+		What?
+
+				MURPHY
+		Somebodytookitoutofcommission
+		lastnight.
+
+	Abeatastheyallholdthere.
+
+				MURPHY
+		Smasheditupprettybad.
+
+				EPPS
+		But,who--?
+
+				DODGE
+		TheskipperseemstothinkIdidit.
+		ThatI'mmoreinterestedinthat
+		goldthanmyownsafetyorthesafety
+		ofmyfellowshipmates.
+
+	Abeatastheyholdthere,asMurphylooksback.
+
+				EPPS
+		Didyou?
+
+				DODGE
+		Hellno.YouthinkI'mcrazy?
+
+	Anotherbeatastheyholdthere.
+
+				MURPHY
+		Regardlessofhowithappened,there
+		isn'tmuchofachancetofixit.
+		Theoddsofanothervesselinrange
+		ofthewalkie-talkiesarealmost
+		astronomical.So,asoftoday,we're
+		prettymuchonourownouthere.
+
+	INT.CHIMERA-STAIRWAY-DAY
+
+	EppsandMurphy,carryingtheshotgun,maketheirwayinthe
+	ship.
+
+	INT.ARCTICWARRIOR-FIRSTMATE'SQUARTERS-DAY
+
+	Greerstopsbeforeamirrortoseehimself.Hefindsan
+	aspirinbottle,goestoopenit.Andashedoesso,hesees
+	thathishandisshakinguncontrollably.
+
+	INT.ARCTICWARRIOR-ENGINEROOM-DAY
+
+	Dodgeworksovertheturbine.Hestops,holdingthere.He
+	looksonattheplugsandwiresandhoses.Abeat.
+
+	Hebeginspullingoutthehosesandwires,grabbingatthem,
+	yankingthemloose,breakingthemoff.
+
+	INT.CHIMERA-RADIOROOM-DAY
+
+	Thechassiscomesoffanoldradiotorevealadusty
+	assortmentoftubesandcondensers.Murphylooksonatit.
+
+	WITHEPPS
+
+	Atattered,boundbookliesintherefuseofaforgotten
+	corner.Eppspicksitup.Thecoverhasbeenrippedoffand
+	thepagesaretorn.But,asshelooksthroughit,shesees
+	thatitistheship'slog.
+
+				EPPS
+		Murphy.
+
+	Murphystepsoverasshepagesthroughthelogbooktothe
+	veryend.Thelastpageshavebeenrippedout.
+
+				EPPS
+		Lookslikepartofthegenerallog.
+
+	Eppspointstoapagethathasbeenincompletelyrippedout.
+
+				EPPS
+		"Thecrewhavegonemadwithgreed
+		andfightamongthemselveslikewild
+		dogsoverfreshkill."
+
+				MURPHY
+		Februaryfirst.
+
+				EPPS
+		Thesamedayshesupposedlywent
+		down.
+
+				MURPHY
+		Mustnot'vebeenthecaptain'sentry.
+		Hewasprobablyoutofthepicture
+		bythen.
+
+	Eppscontinuestoread.
+
+				EPPS
+		"Theirlackingdiligencehas
+		undoubtedlycausedthecollision.
+		Distresscallshavebeenmade."
+
+				MURPHY
+		Collision?Withwhat?
+
+				EPPS
+		Thepage'smissing.ThentheirSOS
+		wasreal.
+
+				MURPHY
+		Butwhere'sthedamage?
+
+				EPPS
+		Maybetheothershiptooktheworst
+		ofit.
+
+				MURPHY
+		Ifitwasashipshehit.
+
+	Abeatastheyholdthere,whenhisradioCRACKLESTOLIFE.
+
+				DODGE
+		DodgetoMurphy!
+
+	Murphyreachesdownforhisradio.
+
+				MURPHY
+			(toradio)
+		Yeah.
+
+				DODGE
+		Youbettergetdownhererightnow!
+		We'retakingwater!Bigtime!
+
+	EXT.ARCTICWARRIOR-DAY
+
+	MurphyandEppsjumpfromthedeckcraneasthetugis
+	startingtolisttooneside.Hecrossestothedeckhouse
+	andtheopenengineroomhatchtoseethatitisrapidly
+	fillingwithseawaterasGreerandDodgescrambletoseta
+	pumphoseovertheDINOFTHEPUMPS.
+
+				MURPHY
+		Whatthehellhappened!
+
+				DODGE
+		Turbinechamberonnumbertwomust've
+		blown!Tookoutpartofthehull!
+
+				GREER
+		We'renotgonnabeabletopumpit!
+
+				MURPHY
+		Alright.Everybodygrabyourgear!
+		This'iswherewegetoff!
+
+	EXT.ARCTICWARRIOR-MOMENTSLATER-DAY
+
+	Thetugislistingradicallytotheside,itsdeckawash
+	withseawater,asEpps,Greer,andMurphyscramblewiththeir
+	geartothecrane.
+
+	Waterisstartingtopouroutofthedeckhousehatchasthe
+	toweringframeworkrisingoverthepilothousestabs
+	precariouslyatthebowoftheChimera.
+
+	Murphystopstoshoutbackatthedeckhouse.
+
+				MURPHY
+		Dodge!
+
+	INT.ARCTICWARRIOR-CREWQUARTERS-CONTINUOUS-DAY
+
+	Waterisstartingtopourinastheentirecabinlurchesto
+	oneside.Dodgewadesthroughtowardthedoor.
+
+	EXT.CHIMERA-FORWARDDECK-CONTINUOUS-DAY
+
+	Eppspullsherselfupontothedeck,Greerfollowingbehind,
+	thenMurphy.
+
+	Dodgecanbeseensteppingfromthedeckhouseonthetug,
+	whichnowlistsatanear45degreeangle.
+
+	WITHDODGE
+
+	Dodgestumblestowardthebow,slippingonthewetdeck.He
+	goesdown,slidingintothewaterthatwashesoverthe
+	starboardrail.
+
+	Hepullshimselfup,usingacleattopushoff.Adecklocker
+	opensandthecontentstumblearoundhim.Hestrugglesto
+	pullhimselfuptothebaseofthepilothouse.Heclimbsup
+	andedgeshiswaytowardthebow.
+
+	WITHTHEOTHERS
+
+	Epps,GreerandMurphylookonasDodgeclimbsuponthe
+	skeweddeckcrane.
+
+	WITHDODGE
+
+	ThetugisslowlylurchingoverasDodgeclimbsthecrane,
+	thetopofwhichissweepingawayfromtheChimera.
+
+	Below,thedecksofthetugaresweptwithseawaterasit
+	sinkslowerandlower.
+
+	WITHTHEOTHERS
+
+	TheylookonasDodgeclimbstowardthem,thesinkingtug
+	pullingDodgeandthecraneawayfromtheship.
+
+	Greerpullsbackaline,tyingitintothedeckrailing.
+
+	WITHDODGE
+
+	AsDodgemakeshiswayup,he'sforcedtoclimbontothe
+	othersideofthecranetokeepfromdanglingoverthewater.
+
+	Above,Greercastsaline.Itfallsnear,butoutofreach
+	astheswellofthewaterstartstoswingthecranetoand
+	fro.Dodgereachesoutforthelineagain,hishandcoming
+	closebutnotcloseenough.
+
+	Theswellbringsthecranetowardtheboatonelasttimeand
+	Dodgereachesout,hisfingersjustcomingtotheline,
+	coaxingitintohisgrasp.Hepullsitbackandhangson,as
+	thecraneswaysbackwiththefounderingboat.
+
+	ThecranefallsawayfromDodge,leavinghimhanginginspace
+	bythelinefromthebowoftheChimera.
+
+	WITHTHEOTHERS
+
+	Murphy,GreerandEppslookonasDodgehangsoverthewater
+	andthetugasitssternslowlysinksbeneaththewaves.
+
+	Dodgeclimbsthelinetowardthebowrailingasthetugrolls
+	stillfurthertoport,thepilothousedippingintothesea,
+	slippinglowerandlower.
+
+	WITHDODGE
+
+	Ashepullshimselfupward,comingtothebottomoftherail
+	wellontheChimerawhereMurphyreachesout,justshortof
+	Dodge'shand.
+
+	ASCREECHINGSOUNDSandtheyturntoseethetwintowcables
+	comingtaughtagainstthehullintheanchoralley'softhe
+	Chimeraasthesinkingtugpullsthemtight.
+
+	WithaCONCUSSIVESTRIKE,onecableisfreed,snappingagainst
+	theChimera'shulllikeagiantsteelguitarstring.It
+	startsslidingalongthehullasthetugdrifts,pullingthe
+	cablewithit,towardDodgeashedanglesinmidair.
+
+	Dodgepullshimselfup,reachingforMurphy,butstillshort.
+
+	ALOUDHISSINGSOUNDSandDodgeturnstoseemistyair
+	escapingfromportsanddeckventsastheencroachingwater
+	forcesitoutofthetugbelowdecks.
+
+	ThetowcableLOUDLYSCRAPESTHEHULLinashowerofrust,
+	asDodgestrugglestopullhimselfup.
+
+	MurphyreachesoutasDodgeextendsasfarashecan,their
+	handsbarelyreaching.
+
+	Thetowcableisamerefewfeetawayandclosing,readyto
+	scrapeDodgeintothewaterorsmearhimacrossthehull
+	likeabugonawindshield,whenDodgepullshimselfupwith
+	everythinghe'sgotandMurphygrabshishand.
+
+	Murphypulls,liftingDodge,asGreergrabsDodge'sother
+	handandtheypullhimup,thetowcablesweepingbywitha
+	SICKENINGGRINDINGSOUNDOFHEAVYSTEELAGAINSTSTEEL.
+
+	Dodgeturnstoseethebowofthetugdipbelowthesurface,
+	slowlygoingunderuntildisappearingwithalastexhalation
+	ofmistyair.Thepilothouseisnexttogo,thelastofit
+	slippingintothefrothingwater,thenthecrane,finally
+	disappearingaltogetherintothedepths.
+
+	Alongbeatastheyholdthereinthesuddensilence,phantom
+	bubblesrisingtothesurfacewherethetugoncestood.
+
+	EXT.CHIMERA-TOPDECK-DAY
+
+	Abootpunchesthrougharottenwoodhull.
+
+				MURPHY(O.S.)
+		Thatjustaboutsaysitall.
+
+	Greerstandsatthebowofalifeboatsuspendedfromhalyards
+	abovethedeck.
+
+				GREER
+		Rottenstemtostern.Guessyou
+		couldn'texpectmuchelse.
+
+	GreerjumpsdownasMurphy,Dodge,andEppslookon.
+
+				GREER
+		Weain'texactlyinwhatyou'dcall
+		yourhightrafficneighborhoodeither.
+
+				MURPHY
+		Thecoastguardhasourlastposition.
+		They'llsendsomebodyoutsoonenough.
+		Ashipthissizeyoucan'texactly
+		miss.
+
+				EPPS
+		It'sagoodbetthey'llbeaskinga
+		lotofquestionswhentheygethere
+		too.
+
+				MURPHY
+		Let'emask.Thisship'slegally
+		oursnow.
+
+				DODGE
+		Whentheyfindoutwhatit'scarrying,
+		theymaynotbesointerestedin
+		what'slegal.
+
+				GREER
+		Maybeyoushouldathoughtathat
+		beforeyouscuttledourboat.
+
+	DodgeturnstoseeGreer.Abeat.
+
+				DODGE
+		Theturbineblew.
+
+				GREER
+		Lemmesee,wasthatbeforeorafter
+		theoilfire?
+
+	Abeat.DodgetakesaswingatGreer.
+
+				MURPHY
+			(grabbingDodge)
+		Easy,easy.
+
+	MurphyholdsontoDodgeashewillhavenoneofit.
+
+				GREER
+		Gettin'alittlehotunderthecollar,
+		I'dsay.
+
+				MURPHY
+		Shutup.
+
+				GREER
+		Mustbealittletoothetruth,eh
+		Dodge?
+
+	Dodgejumpsforwardagain,butMurphyhangson.
+
+				MURPHY
+		Isaid,shutthehellup.
+
+	MurphyshovesDodgeback.
+
+				MURPHY
+		Bothofyou.Idon'twanttohearit
+		again.
+
+	AbeatasGreerandMurphyholdthere.
+
+				MURPHY
+		Sojuststowit.Youunderstand?
+			(abeat)
+		Wedon'tneedthisrightnow.
+
+	EXT.CHIMERA-FOREDECK-NIGHT
+
+	AfireburnsinanoildrumasEpps,Murphy,DodgeandGreer
+	sitarounditinsilence.
+
+	INT.CHIMERA-4THOFFICER'SSTATEROOM-NIGHT
+
+	Eppsstepsin.Sheshinesherlightontheroom.Itisexactly
+	asitwasleft.Shecrossestothebed,shiningherlight
+	underit.Shesitsdown,tryingit.
+
+	INT.CHIMERA-CARGOHOLD-NIGHT
+
+	Dodgemovesinthedarkness,comingtothecornerwherethe
+	stackedgoldingotsrest.Helooksonatthem.
+
+				MURPHY(O.S.)
+		Youshouldn'tbedownherealone.
+
+	DodgeturnstoseeMurphystandingthere.
+
+				DODGE
+		Justwantedtocheckonourlittle
+		baby.
+
+	Abeatastheylookonatthegold.
+
+				DODGE
+		Thatoughtabuyamanprettymuch
+		anythinghewants.
+
+				MURPHY
+		Ifmoneycanbuywhathewants.
+
+				DODGE
+		Idon'tfigurethere'smuchIwant
+		moneycan'tbuy.
+
+				MURPHY
+		Thenyou'realuckyman.
+
+	MurphytossestheshotguntoDodge,whocatchesit.
+
+				MURPHY
+		We'llstandthewatchondecktonight.
+		You'reupfirst.
+
+				DODGE
+		Right.
+
+	Murphyholdsthereabeatlonger,thenturnstogo,asDodge
+	looksafterhim.
+
+	EXT.CHIMERA-DAY
+
+	AgreychopgentlyrockstheChimera,smokerisingfromthe
+	topdeck.
+
+	EXT.CHIMERA-TOPDECK-DAY
+
+	GreerandDodgetendtheflamesofthreefirebarrels,adding
+	brokenupfurnituretocreateheavysignalsmoke.
+
+	INT.CHIMERA-PANTRY-DAY
+
+	Murphymovesthroughthepantryareawithapillowcase,
+	scavengingforfood.
+
+	INT.CHIMERA-GALLEY-DAY
+
+	Eppsscavengesforfoodinthesemi-darknessofthelarge,
+	opengalley,whenaMOVEMENTCANBEHEARDSOMEWHEREBEYOND
+	THEENTRYseparatingthegalleyfromtheouterpassageway.
+
+				EPPS
+		Murphy?
+
+	Nooneanswers.Shelooksoffacrossthestillnessofthe
+	galley.Nothing.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Eppsstepsintothepassageway.Directlyacrossistheentry
+	totheswimmingpool.Shewalkson.
+
+	INT.CHIMERA-SWIMMINGPOOL-DAY
+
+	Eppsstepsin.Lightfallsinfromthedirtyportholesat
+	theceiling,everymovementechoingoffthehardtilewalls.
+	Sheholdsthereabeat,thenturnstogowhensheseesa
+	GIRLofabout16facingherontheothersideofthepool.
+
+	Eppsholdsthere,asthegirlonlylooksback.Sheis
+	porcelainwhite,flaxenhairdrawnbehindherhead,her
+	clothinghanginglooselyfromafrailbody.
+
+				GIRL
+		Youmustleave.
+
+	AbeatasEppsstandsthere.
+
+				EPPS
+			(finally)
+		Whoareyou?
+
+	Fromthisdistanceandinthelightitishardtofully
+	discernthegirl'sfeatures.
+
+				GIRL
+		There'sgreatevilhere,morethan
+		youcanknow.Leavenoworyoumay
+		neverleave.
+
+				EPPS
+		But--
+
+	AHATCHCLOSESSOMEWHEREINTHESHIP.Eppsturnstolook.
+	Whensheturnsbackthegirlisgone.Aquiet"TICK"SOUND
+	ECHOESinthepool.Shelooksdowntoseethatthepoolis
+	nowvery,verydeep,likeamineshaftfallingawayintothe
+	depths.And,asshestandsthere,darkwaterisquicklyrising
+	upfromthebottom.
+
+	Shestepsbackasthewatergraduallyfillsthepooltothe
+	top.Itisverydarkandthebottomisindiscernible,when
+	thewaterbeginstochurn,asfrombubblesofairreaching
+	thesurface.Eppsstepscloser,lookingonasafaintred
+	glowcanbeseendeepinthewaterbelowthechurningbubbles.
+
+	Asshewatches,theredglowgrowsinintensity.Theglow
+	spreads,illuminatingabroadareauntilitbecomesclear
+	thatthewaterisnotwateratallbutblood.
+
+	And,asthelightgrowsstillbrighter,afigureis
+	illuminated,wellbelowthesurfaceasitseemstoriseup.
+	Eppslooksonasthefigureriseshigherintothelight.It
+	isaMAN,fightingdesperatelytoreachthesurface.The
+	bubblesthatriseupareproducedfromhissilentscreams.
+
+	Eppsstartsforward,butanotherfigurerisestothesame
+	point,aWOMAN,alsostruggling.AnotherMANfloatsup,then
+	another,andanother,peoplefloatingup,fightingdesperately
+	toreachthesurface,unabletodoso,drowninginblood.
+
+				EPPS
+		MyGod....
+
+	Eppsreachesoutovertheedge,plungingherhandintothe
+	blood,reachingfortheman'shand,buttheyaretoofar
+	apart.
+
+	Shestrugglesdesperatelyasthemanfightstogettothe
+	surface.
+
+	Theothersarefightingforthesurfacetoo,asEppsreaches
+	out,neartears,helplesstodoanything.
+
+				EPPS
+		No!!
+
+	Everythingsuddenlystops.AbeatasEppsonlyholdsthere.
+
+	Thebloodisgone,asarethepeople.Thepoolisbackto
+	itsnormalstateasthoughnothinghadhappened,Eppslooking
+	onindisbelief.
+
+				MURPHY(O.S.)
+		Youokay?
+
+	EppslooksuptoseeMurphystandingatthedoor.
+
+				EPPS
+		Yeah.
+			(lookingbacktothe
+			pool)
+		Yeah,fine.
+
+	Abeatassheholdsthere,lookingonatthepool.
+
+	EXT.CHIMERA-FOREWARDDECK-NIGHT
+
+	Greer,Murphy,Dodge,andEppssitondeckaroundthefire.
+
+				DODGE
+		You'dthinkonashipthissize
+		there'dbesomethinglefttoeat.
+
+				GREER
+		Afterfiftyyearsthereain'tnothin'
+		leftbutshoeleather.
+
+				MURPHY
+		Tomorrowwe'llseeifwecan'tfind
+		somelineandtackle.Usesomeof
+		thosebodiesbelowdecksforbait.
+
+				DODGE
+		There'sacharmingthought.
+
+				GREER
+		Wecanalwaysstartshootingbirds.
+
+	Eppscoaxesahitoutofherlastcigarette.
+
+				DODGE
+		Whatsay,Epps?Youupforsome
+		roastedalbatross?
+
+				EPPS
+			(snuffingitout)
+		Whynot?
+
+	INT.CHIMERA-1STOFFICER'SSTATEROOM-NIGHT
+
+	TheSOUNDOFSOMEONEBREATHINGHARDCANBEHEARDinthedark
+	room.AstheCAMERASLOWLYMOVESINTOTHEROOM,weseethat
+	itisGreer,lyingonthebed.Hisbodyistenseandhis
+	armsarchrigidlytowardhischest.Hisjawisclenchedand
+	heexpelsharsh,gutturalutterances,experiencingsomething
+	betweenanightterrorandaseizure.
+
+	INT.CHIMERA-WHEELHOUSE-DAY
+
+	Sheetsofraincomedownonthedeckinthegreylightof
+	morning.Murphystandsonthebridge,lookingoffatitcoming
+	downwhenGreerstepsin.
+
+				GREER
+		Lookslikewe'reinastrongcurrent.
+			(closingthedoor)
+		Mustbemakingalmostfiveknots
+		fullonassbackwards.
+
+	Greercrossestothewindow,steppingup.
+
+				GREER
+		Nastylittleswelloutathenorth
+		westtoo.
+
+	Murphynodsashelooksout.
+
+				MURPHY
+		Let'sjusthopesomebodyseesus
+		firstouthere.
+
+	INT.CHIMERA-PURSERSOFFICE-DAY
+
+	Afiledrawercomesopen,revealingticketreceipts.
+
+	Eppslooksonatit.Thereceiptsarelabeled"FULLFARE
+	PASSAGES"andaredividedbyfirst,second,andthirdclass.
+	Shegoesthroughthem,comingtoasectionthatsays
+	"ACCOMPANIEDCHILDREN."
+
+	Shepullsoutthefolder,layingitonthecounter,opening
+	it.Thefirstpageisareceiptforasinglepassageto
+	HalifaxforaTatterly,Stephenage:14.Shepullsitback
+	torevealanother,Wilson,Haroldage:4.Another,Vitti,
+	Angelaage:17.
+
+	Shepagesthroughthestack,lookingattheages:3,15,6,
+	11,1,untilcomingacrossa9.Shelookstothename,Klein,
+	David,aboy.Shecontinuespagingthroughthereceiptscoming
+	toanother9.Shestops,lookingtothename,Nichols,
+	Katherineage:16.Agirl.Shelookstothecabinassignment:
+	"400."ShenotesthatitisthesamecabinwhereGreerwas
+	found,whenaREVERBERANTCONCUSSIONSOUNDSTHROUGHTHESHIP.
+
+	EXT.CHIMERA-TOPDECK-CONTINUOUS-DAY
+
+	Dodgerunstothesidetoseea15feetwideby40feettall
+	steelandconcretemid-oceanbuoybounceoffthetransomas
+	theshipdriftsintoit.
+
+	WITHGREERANDMURPHY
+
+	Theycometothesideatthewheelhouse,seeingthebright
+	orangeletters"NOAA"emblazonedonthebuoy'sfloatpodas
+	theshipdriftsby.
+
+				MURPHY
+		It'saNoaabuoy.
+
+				GREER
+		Awhat?
+
+				MURPHY
+		Governmentweather.It'sgota
+		transmitteraboard.
+
+	EXT.CHIMERA-FORWARDDECK-MOMENTSLATER-DAY
+
+	DodgequicklytiesaloopinacoilofdockinglineasGreer,
+	Epps,andMurphylookonattheapproachingbuoy.
+
+				MURPHY
+		Let'sgo,let'sgo,let'sgo.
+
+	DodgefinishesasEppstiestheotherendofftoacleat.
+
+	ONTHEBUOY
+
+	AsitdriftsalongthesideoftheChimera.Murphydropsthe
+	linedown,thebuoybouncingontheswell.
+
+	BACKTOSCENE
+
+	Murphypullstheloopupasthebuoynears,aimingtohook
+	itonitswindgauge.
+
+	ONTHEBUOY
+
+	Thebuoyapproaches,risingandfallingwiththeswell.
+
+	BACKTOSCENE
+
+	Murphycorrects.
+
+				EPPS
+		Higher.You'regonnamissit.
+
+	Murphyholdstheloopsteady.
+
+	ONTHEBUOY
+
+	Theloopistoolow.It'sgoingtomissthemarkasthebuoy
+	driftstowardit,whentheswelldropsandthebuoygoes
+	down.
+
+	BACKTOSCENE
+
+	Murphyyanksontheline.
+
+	ONTHEBUOY
+
+	Andtheloopcatchesonthewindgauge.
+
+	BACKTOSCENE
+
+	Asthelinegoestaughthepullshishandsawayjustintime,
+	thelinesnappinghardagainsttherail.Below,thebuoy
+	heelsoverasit'spulled.
+
+	ONTHEBUOY
+
+	Itdropswiththeswell,thelinestretching,thenswinging
+	thegiantconcretebuoyfloatintothesideofthehullwith
+	ahugeBOOMINGCLANG.
+
+	BACKTOSCENE
+
+	Thelineissmokingwiththefriction,thesteelrailing
+	bowingalittlewiththeweightastheylookon.
+
+				GREER
+		We'restilldrifting.
+
+				MURPHY
+		Themooringhasn'tcometaught.
+
+				EPPS
+		It'snotgonnaholdus.
+
+				MURPHY
+		Doesn'tmatter.
+
+	ONTHEBUOY
+
+	Asthebuoyfallsagainwithaswellandslamsintotheside
+	oftheship.Thewaterreturns,liftingithigh.
+
+	Theshipisdraggingitbackanditbeginstoriseupasits
+	mooringcomestaught.Thelineriseswithitandsoonthe
+	buoyisatasteepangleasitcomesoutofthewater.
+
+	BACKTOSCENE
+
+	Thebuoyisheldfastbetweenthedockinglineanditsown
+	mooring.
+
+	ONTHEBUOY
+
+	Thebuoyrisesfullyfromthewater,allthreetonsofit,
+	andasitdoes,thewindgauge'ssteelmountbeginstobend.
+
+	BACKTOSCENE
+
+	Astheywatchthebuoysuspendedoverthewaterbetweenthe
+	creakingdockinglineanditsownunderwatermooringcable.
+
+				DODGE
+		Nofuckingway.
+
+	ONTHEBUOY
+
+	Thegaugemountsnapsandthedockinglineflailsfree,
+	sendingthebuoyhurtlingbackintothewaterinacurtain
+	ofspray,whippingwildlyfromsidetoside.
+
+	BACKTOSCENE
+
+	Thebuoyswingsbackandforthasitrightsitself,rising
+	onaswell,passingbeyondthebowoftheChimera.
+
+				MURPHY
+		Damnit.
+
+	Theylookoninsilence,thebuoyslowlyrecedingasthe
+	shipdriftsaway.
+
+	EXT.CHIMERA-FOREDECK-NIGHT
+
+	MurphystandswatchbythefireasEppsjoinshim.
+
+				EPPS
+		Hey.
+
+				MURPHY
+		Hey.
+
+				EPPS
+		Couldn'tsleep.
+
+				MURPHY
+		WishIcouldsaythesame.
+
+	Theywatchthefireinsilenceforamoment.
+
+				EPPS
+		Whatdoyouthinkhappenedonthis
+		boat?
+
+				MURPHY
+		Iguessthat'sthesixtyfourthousand
+		dollarquestion,isn'tit?
+
+				EPPS
+		Thewhat?
+
+				MURPHY
+		Nevermind.Beforeyourtime.
+			(abeat)
+		Ithinkatleastsomeofthecrew
+		wentalittlenuts.Theusualstuff
+		thathappenswhenpeoplestumbleon
+		afortune.Equalpartsgreedand
+		paranoia,usuallyresultingin
+		homicide.Whathappenedafterthat
+		isanybody'sguess.But,judgingby
+		ourGreekfriendsdownbelow,it
+		doesn'tlooklikethelasttime.
+
+				EPPS
+		Arewesmartenoughtoavoidthat?
+
+				MURPHY
+		Idon'tknow,arewe?
+
+	Abeatasshelooksbackathim.Shelooksbacktothefire,
+	watchingit.
+
+				EPPS
+		Whenyoufoundmeyesterday,atthe
+		pool.I'dseen...something.Someone.
+
+				MURPHY
+		Notourmysteryguestagain.
+
+				EPPS
+		No.Someoneelse.Agirl.
+			(hesitating,abeat)
+		I'mnotsureshewas...real.
+
+	ShelooksuptoMurphy.
+
+				MURPHY
+		Notreal?
+
+	Abeatassheonlylooksback.
+
+				MURPHY
+		What,likesomekindofghost?
+
+				EPPS
+		Idon'tknowwhatelseyou'dcall
+		her.Onesecondshewasthere,the
+		nextshewasgone.
+
+	Anotherbeatashelooksonather.
+
+				EPPS
+		AndIhadakindofhallucination.
+			(abeat)
+		Therewereothers.Isawtheminthe
+		pool.Drowning.
+
+	AbeatasMurphylooksback,assheseeshim.
+
+				EPPS
+		Maybehallucinationisthewrong
+		word.Itwasmorethanthat.Asthough
+		theywereshowingme.
+
+				MURPHY
+		Showingyouwhat?
+
+				EPPS
+		Whathappened.
+
+				MURPHY
+		Maybeitwasoneofthemdidthe
+		handyworkonthoseGreeks.
+
+				EPPS
+		No.Ithinktheyare,were,just
+		passengers.Innocentvictims.
+
+				MURPHY
+		Victimsofwhat?
+
+				EPPS
+		Somethingbadhappenedhere,Murphy.
+
+				MURPHY
+		ThatmuchIthinkwe'vealready
+		established.
+
+				EPPS
+		Morethanjustamutiny.Morethan
+		justthegold.
+
+	Abeatasheholdsthere.
+
+				EPPS
+		Shesaidtheshipwasevil.Thatwe
+		hadtoleaverightaway.Thatifwe
+		didn't,wemightneverleave.
+
+				MURPHY
+		What'sthatsupposedtomean?
+
+				EPPS
+		Idon'tknow.
+
+	Abeatasshelooksback.
+
+				MURPHY
+		Whyyou?Howcometherestofus
+		haven'tseenthesepeople?
+
+				EPPS
+		JustluckyIguess.
+
+	Anotherbeatasheholdsonher.
+
+				MURPHY
+		Well.Gettingoffthisship'sexactly
+		whatwe'retryingtodo.Shortof
+		that,Idon'tknowwhatelsetotell
+		you.
+
+	Sheonlylooksbackathim,thenintothefire.
+
+				MURPHY
+		DomeafavorandwakeupDodge.
+		He'snexton.
+
+	Shestartstogetup.
+
+				MURPHY
+		AndEpps?
+
+	Shestands,lookingbackathim.
+
+				MURPHY
+		Youcantelltheothersaboutthis.
+		But,formymoney,Ithinkit'sbest
+		youkeepittoyourself.
+
+	Sheholdsthereabeatlonger,thenturns,walkingoff.
+
+	INT.CHIMERA-PASSAGEWAY-LATER-DAY
+
+	Eppscomestothe2ndofficer'sdoor,knocks.
+
+				EPPS
+		Dodge.
+			(noanswer,knocking
+			again)
+		Dodge.
+
+				DODGE(O.S.)
+			(finally,frominside)
+		What?
+
+				EPPS
+		Getup.
+
+				DODGE(O.S.)
+		Yeah,yeah.
+
+	INT.CHIMERA-4THOFFICERSROOM-NIGHT
+
+	Eppssitsdownonthebed.Sheliesback,notsleepy.Abeat
+	assheholdsthereinthedarkness.
+
+	EXT.CHIMERA-FOREDECK-NIGHT
+
+	MurphystillsitsbythefireasDodgegroggilyapproaches
+	fromtheofficersquarters,carryingablanketandajugof
+	water.
+
+				MURPHY
+		You'relate.
+
+				DODGE
+		Sorry.
+
+				MURPHY
+			(handinghimthe
+			shotgun)
+		Don'tfallasleep.
+
+				DODGE
+			(layingouthisblanket)
+		Right.
+
+	INT.CHIMERA-1STOFFICER'SSTATEROOM-NIGHT
+
+	Greerliesasleeponthebed.Buthissleepisfitful,
+	increasinglyagitated,tormented.Itisasifhetriesto
+	speak,butcannot.AsTHECAMERAPUSHESSLOWLYIN,hiswords
+	areforcedandgarbled,speakinginthesamenonsensical
+	languagehespokeearlier,whenhewakeswithastart.
+
+	EXT.CHIMERA-FOREDECK-NIGHT
+
+	Dodgedozes,cradlingtheshotguninhisarms,whenMUSIC
+	CANBEHEARDVERYDISTANTLY.Dodgewakes.Itis"Daisy"
+	playingonamusicboxsomewhereintheship.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	DodgemovesalongastheMUSICBOXDISTANTLYCONTINUES.
+
+	INT.CHIMERA-STAIRWAY/PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Dodgemovescautiouslydownthestairwayintoanother
+	passageway.
+
+	Heapproachesfromtheotherend.Hepassestheopendoors
+	ofstateroomafterstateroom.TheMUSICBOXISCLOSERHERE.
+	Itstops.
+
+	Heholdsthereinthedarkness.Heturns,shininghislight
+	backdownthepassageway.Abeat.Itissilent,whenthe
+	CHANNELOFHISRADIOOPENSWITHASHORTBURST.
+
+	Heraiseshisradio.Butnoonesaysanything,theCHANNEL
+	REMAININGOPEN,adiscerniblepresenceontheotherend.
+
+				DODGE
+		Dodge.
+
+	SOMEONE'SPOV-FROMTHEFAREND
+
+	SLOWLYMOVINGTOWARDDODGEashecanbeseenfromtheother
+	endofthepassageway.
+
+	BACKTOSCENE
+
+	Hegetsnoresponse,thenpressesthetalkbutton.
+
+				DODGE
+		ThisisDodge.Over.
+
+	Heisansweredbysilence,theCHANNELREMAININGOPEN,WHEN
+	THEGRAVELLYDISTORTEDVOICETHATMURPHYHEARDCOMESBACKON
+	THERADIO:
+
+				VOICE
+		"Cock-a-doodle-doo,"saidtherooster
+		tothecrow."Whereareyounow?I
+		knowbutwon'tsayso."
+
+	Dodgehitsthetalkbutton.
+
+				DODGE
+		Whoisthis?
+
+	TheRADIOCHANNELOPENS,butonlysilencecomesback.
+
+				DODGE
+		Identifyyourself,motherfucker!
+
+	SOMEONE'SPOV-FROMTHEFAREND
+
+	SLOWLYMOVINGTOWARDDODGEashecanbeseenfromthefar
+	endofthepassageway.
+
+	BACKTOSCENE
+
+	OnlysilencereturnsontheradioasDodgeholdsthere,then:
+
+				VOICE
+		Pennywhistletoy.Pennywhistle
+		toy.
+
+	THECAMERAPUSHESSLOWLYINONDODGEashelistens.
+
+				VOICE
+		Pennywhistletoy.Pennywhistletoy--
+		.
+
+	Dodgesensessomethingbehindhim.Heturns,andbeforehe
+	candrawabreathtoshout,SOMETHINGHEAVYSLAMSINTOHIM
+	INTHEDARKNESS,hisflashlighttumblingawayinasquiggle
+	oflight.
+
+	ONSHOTGUN
+
+	Astheshotgunclatterstothedeck,themuzzlerestingin
+	frameastheradiofallsafewfeetaway.Abeat.Theshotgun
+	muzzleslidesoutofframeassomeunseenpersonorthing
+	pullsitaway.
+
+	EXT.CHIMERA-DAY
+
+	Agreyovercaststretchestothehorizon.
+
+	EXT.CHIMERA-FOREDECK-DAY
+
+	Murphycomesoutontothedeck.Dodgeisnowheretobeseen.
+
+				MURPHY
+		Dodge?
+
+	INT.CHIMERA-GALLEYSTORAGECOMPARTMENT-DAY
+
+	Eppsshinesherlightonsomething.
+
+				EPPS
+		Checkitout.
+
+	Greerraiseshislighttorevealrowsofcannedgoods.They
+	areindustrialsizedcans,fromthe1950s.Greertakesone.
+
+				GREER
+		Idon'tevenwanttoknowwhatthat's
+		gonnatastelikenow.
+
+				EPPS
+		Betterthanstarvingtodeath.
+
+	Epps'radioCRACKLESAWAKE.
+
+				MURPHY
+		MurphytoEpps.
+
+				EPPS
+			(raisingtheradio)
+		Epps,over.
+
+				MURPHY
+		EitherofyouseenDodge?
+
+	ShelookstoGreerwhoshakeshishead.
+
+				EPPS
+		Nope.
+
+				MURPHY
+		He'snotondeckandIcan'traise
+		himontheradio.
+
+	EXT.CHIMERA-FOREDECK-LATER-DAY
+
+	Dodge'sstuffislaidoutundertheshelterofaventduct
+	asGreer,Epps,andMurphystandoverit.Ablanket,apillow
+	andaplasticjugofwaterareallthatremain.
+
+				MURPHY
+		Hetooktheshotgunandalight.
+
+				GREER
+		Must'veheardsomethingbelowdeck
+		andwentdowntocheckitout.
+
+	Abeatastheyholdthere.
+
+				MURPHY
+		Alright.Westaytogether.Nobody
+		goesanyfurtherthanearshot.
+
+	INT.CHIMERA-BELOWDECKS-DAY
+
+	GreerandEppsmovealongasMurphyraiseshisradio.
+
+				MURPHY
+			(intoradio)
+		MurphytoDodge.MurphytoDodge.
+		Over.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Dodge'sradioliesinthedetritusoftheshipasMurphy's
+	voicecanbeheardonit.
+
+				MURPHY
+		MurphytoDodge.Doyoucopy?Over.
+
+	INT.CHIMERA-ENGINEERING-LATER-DAY
+
+	Eppsmovescautiouslyalonginthedarkness.
+
+				MURPHY(O.S.)
+		Epps?Youthere?
+
+				EPPS
+		Righthere.
+
+	WITHMURPHY
+
+	Ashemovesalongaswell,eyesopen.
+
+				MURPHY
+		Greer?
+
+	WITHGREER
+
+	AsGreermovesalongtoo.
+
+				GREER
+		Yeah,yeah.
+
+	INT.CHIMERA-BELOWDECKS-LATER-DAY
+
+	Eppsjumpsdown,shiningherlightovermachineryandacross
+	bulkheadswhenaWHISPERINGCANBEHEARDsomewhere.Sheholds
+	there,listening.Itisechoey,distant.
+
+				EPPS
+		Murphy?
+
+	NoresponseasEppsholdsthere.TheWHISPERINGSOUNDSAGAIN,
+	faroff,unintelligible.Itstops.
+
+	Shemoveson,shinningherlight.
+
+	INT.CHIMERA-BELOWDECKS-MOMENTSLATER-DAY
+
+	Eppsmovesalonginthedarkness,holdingtheflashlight
+	beforeher,whentheWHISPERINGSOUNDSAGAIN.
+
+	Eppsstops,holdingthereinthesilence.Shereachesfor
+	herradio.TheWHISPERINGSOUNDSAGAIN.Eppsturnstopinpoint
+	it,comingfromsomewhereinthecavernousspace.
+
+	INT.CHIMERA-BELOWDECKS-MOMENTSLATER-DAY
+
+	Eppspassesunderacatwalk.Shemoveson,passingarowof
+	standpipes.Eppsstops,listening.Somewhere,theWHISPERING
+	CANBEHEARD,thenstops.
+
+	Itisabsolutelysilent.Inthedarknessbehindher,the
+	GIRL(KATIE)PULLSBACKINTOTHESHADOWS.
+
+	Eppsholdsthereabeat,thenturns,runningintoGreerwith
+	astart.
+
+				GREER
+		Sorry.Didn'tmeantoscareyou.
+
+	Sheholdsthereabeat,lookingaround.
+
+				GREER
+		Youokay?
+
+				EPPS
+		Yeah.Fine.IjustthoughtIheard
+		somethingisall.
+
+				GREER
+		What?
+
+				EPPS
+		Nothing.Let'sgetoutahere.
+
+	Theystarttoleave,whenEppsnoticessomething.Shestops.
+
+	Beyondthestandpipes,afaintglowcanbeseeninthe
+	darkness.Eppsstepsforward,crossingtoit.Greerfollows.
+
+	MOVINGWITHEPPS
+
+	AsEppsapproaches,Greerbehindher.Thelightisdimand
+	lowtothedeck.Shestops.
+
+	WITHTHELIGHT
+
+	AsEppsstartstowarditagain.SheandGreercomeuptoit,
+	stoppingthere.Shekneels,thedimglowshiningonher.She
+	reachesouttowardit,pullingbackDodge'sflashlight,still
+	on.
+
+	Sheturnsitoff,standing.Sheshinesherlightintothe
+	darknessandstartsoff,Greerfollowing.
+
+	INT.CHIMERA-BELOWDECKS-MOMENTSLATER-DAY
+
+	EppsandGreermovealong,shiningtheirlightsastheygo,
+	whensomethingcatchesinthebeamofEpps'flashlight.
+
+	ItisDodge'sradio.Theystopoverit.Eppspicksitup,
+	inspectingit.ShelookstoGreer,whenasingledarkspot
+	appearsonEpps'cheek.Itbeginstorun,acrimsontear.
+
+	Sheraisesherhandtotouchit,inspectingherfingerto
+	seethatitisblood.
+
+	ShelookstoGreer.Theybothlookuptosee,hanging
+	suspendedabovethem,Dodge'sfacestaringbackdownatthem
+	fromthedarkness.
+
+	Hehasbeenimperfectlyimpaled,thesharppointofahigh
+	pressuresteampipeprotrudingfromhisneck,headhanging
+	limpbesideit.
+
+	INT.CHIMERA-BELOWDECKS-LATER-DAY
+
+	GreerandMurphylowerDodge'sbodyonaropeasEppsguides
+	ittothedeck.Theystandlookingonatitamoment.
+
+				GREER
+		Can'tfindtheshotgun.
+
+				MURPHY
+		Sowhoeverdidthisnowhasour
+		shotgun.
+
+				GREER
+		Doesn'tlooklikeitmuchmatters.
+
+				EPPS
+		Whatdowedowithhim?
+
+				MURPHY
+		Leavehimtillwecangetsomehelp.
+			(abeat)
+		Fromnowon,nobodycomesdownhere.
+
+				GREER
+		Whataboutthegold?
+
+				MURPHY
+		Leaveit.
+
+				GREER
+		Nowholdupjustaminute.Let'sbe
+		reasonablehere.
+
+				MURPHY
+		Youthinkwhoeverdidthisis
+		reasonable?
+
+				GREER
+		AllI'msayingisthatgold'sworth
+		alotmoretousnowthanitever
+		was.
+
+				EPPS
+		Ican'tbelieveyou.Dodge'sdead
+		andallyoucanthinkaboutiscashing
+		inyourshare.
+
+				GREER
+		Ididn'tsignuptogohomeempty
+		handed.AndIsureain'tgonnaroll
+		overforthefreakymotherfuckerdid
+		this.
+
+				MURPHY
+		Nobody'sgoinganywherewiththat
+		goldnow.Anybodytriestoboard,
+		we'llknowaboutit.
+			(abeat)
+		Youcandowhatyouwant,Greer.
+		Butneitherofusisgonnarisksaving
+		yourassdownhereifitcomesto
+		that.
+
+				GREER
+		Finewithme.
+
+	INT.CHIMERA-PASSAGEWAY-DAY
+
+	Eppsentersthedimpassagewayfromthebrightdaylight.She
+	movesdownthepassage,comingfinallytothestateroomwhere
+	Greerwasfound,room400.
+
+	Sheholdsthereabeat,thenreachesforthedoor,hesitating.
+	Sheopensit.
+
+	INT.CHIMERA-STATEROOM-CONTINUOUS-DAY
+
+	ThedoorcomesopenandEppsstepsin.Itisdark,though
+	spacious.Itisdividedintotworooms.Beyondthesitting
+	roominthefront,isabedroom.
+
+	Eppsstepsin.Adressingtablesitsagainstthefarwall.
+
+	Alargebedisunmade.Suitcaseslieopenonstandsatthe
+	footofthebed,stillhalffullasiftheywereinthe
+	processofbeingunpacked.
+
+	Fromone,shepullsbackawoman'sgown,ablouse.Theother
+	containsshirts,trousers,socks,andunderwear.
+
+	Acrosstheroomasmallersuitcasecanbeseenlyingopenon
+	anOttomaninthecorner.Eppscrossestoit.Shefindsa
+	fewshirts,andaredprintdress,somebooks.Shetakesone
+	ofthebooks,openingit.
+
+	Inscribedontheinsideofthecoveris:"Thisbookbelongs
+	to:"andthenwritteninbyhand:"KatieNichols."
+
+	Apageismarkedwithapurpleribbon.Sheopensittoseea
+	children'spoem"TheRoosterandtheCrow"andadrawingof
+	aroosterandacrowandastanzaofapoem:"'Cock-a-doodle
+	doo,'saidtheroostertothecrow.'Whereareyounow?I
+	know,butwon'tsayso.'"Sheputsitdown.Atinpenny
+	whistlesitsonthetable.Shepicksitup,examiningit.
+
+	Sheopensasmallpicturebook,thumbingthroughtoseephotos
+	ofafamily,ayoungmotherandfatheratthebeach,the
+	motherandagirlofabout9years,thegirlandanolder
+	girlofabout16,thegirlshesawattheswimmingpool,
+	KATIE.Eppsholdsonthispicture,whenAMUSICBOXSOUNDS.
+	Shelooksuptothedressingtable.Onitamusicboxslowly
+	plays"Daisy."
+
+	ATTHETABLE
+
+	Eppscrossestoit,lookingonatthemusicboxasitslowly
+	windsdown,thenfinallystops.Abeat.Shepicksitup,
+	lookingatit,whenshelooksuptoseeGreerstandingthere.
+	Abeat.
+
+	Thedirtywhitelightfallingintotheroomthroughthe
+	windowsfallsonhimashelooksoffatsomethingwecannot
+	see.Hisexpressionisempty,hollow.
+
+				EPPS
+		Greer?
+
+	Hedoesnothearherashestandsthere.Sheapproaches,
+	steppingup.
+
+				EPPS
+		Youokay?
+
+	Anotherbeat,ashelooksoff,intothelight,whenheslowly
+	turnstoseeher.
+
+	Alongbeatasshelooksback.Heholdsthere,thesameempty
+	lookabouthim,whenhegrabsherbythethroatandsqueezes
+	hard.
+
+	Sheisstunned,breathless,butraisesherhandstogriphis
+	wrists,fightinghim.
+
+				EPPS
+		Greer!
+
+	Hisgriptightens.Heismuchstrongerandhereffortsmake
+	littledifference.
+
+				EPPS
+		Letgo!
+
+	Shehangson,startingtochoke.Shedropsonehand,searching
+	withit.
+
+				GREER
+		Oragishlaoomnudrasadrafantoshviska
+		getofedobrodijotosiantosg.
+
+	Hespeaksnonsense,hisfacedistortedinanuglygrimace,
+	eyesbulgingasEppsfumblesoverthetable,atrayofglass
+	andsilvercrashingtothefloorashepushesherback,still
+	chokingher.
+
+	Hebackshertothewall,pushingin,closingherwindpipe
+	therestoftheway.
+
+	Herhandsearchesbehindher,knockingoverasmallvase,a
+	basket,somebooks.Itcomestoabrassdesklamp.Itfalls,
+	alittleoutofreach.
+
+	Sheisgoingtoblackoutanysecond,asGreerstrangles
+	her.
+
+	Herhandcomestothedesklamp,grabbingit.
+
+	Sheraisesthelamp,swingingwithallhermight,connecting
+	withGreer'shead.
+
+	Hestumblesback,agashlaidintohisface,asEppssucks
+	inair,gaggingandcoughing,herneckpurplewithfinger
+	marks.Shefumblesherradioup.
+
+				EPPS
+			(intoradio)
+		Murphy!I'monCdeck,cabin400!
+		Getdownherenow!!
+
+	BloodisrunningdownhisfaceasGreercomesforheragain.
+	Shethrowsdowntheradio.
+
+	Abedstandsbetweenthem.Shefeintsright,thenleft.He's
+	dazedandhasbloodinhiseyes.Shemanagestoslipby,but
+	hedives,takingherdown.
+
+	Hedragsherbackalongthefloor,spinningheraround.He
+	raisesafisttoramintoherfacewhenWHAM!
+
+	Eppshasshovedthebuttofherflashlightintohiscrotch
+	andhecomesupSCREAMING.Hegrabsherface,strikingher
+	withhisotherhand.
+
+	Sheswingstheflashlightagainandcrackshimacrossthe
+	head.Heswingsyetagainandconnects,knockingheracross
+	thefloor.
+
+	SheliesinaheapasGreerclimbstohisfeet,enragedand
+	bleeding.
+
+	Heunbuckleshisbeltasheapproaches,pullingitfromhis
+	waisttodoGodknowswhat.
+
+	Eppslooksaroundtoseehimapproaching.Andweseethat
+	shehasunhingedhergillknife.
+
+	Ashisfootstepsnear,sheletsgoanddrivestheknife
+	withallhermightintohisboot,plungingthebladethrough
+	hisfootandintothefloor.HeSCREAMS.
+
+	Afteramomenthestops,lookstoher.Heisabloody,
+	wretched,enragedmess.HestartstowardherasMurphyappears
+	inthedoorway.
+
+	JustasGreerisuponher,MurphyblindsidesGreerfrom
+	behindatfullspeed,knockinghimdown.
+
+	GreerandMurphystruggleasEppsclimbsunsteadilytoher
+	feet.Shestaggerstothemandraisestheflashlightover
+	Greer,bringingitdownonhishead.
+
+	CUTTOBLACK
+
+	INT.CHIMERA-PASSAGEWAY-LATER-DAY
+
+	EppsandMurphycarryGreer'sunconsciousbody.
+
+	INT.CHIMERA-AQUARIUMTANK-LATER-DAY
+
+	Greertumblesdownasandbankinanemptyaquarium.Hestops
+	atthebottom,nowstartingtocometo.
+
+	OUTSIDE
+
+	MurphyslamsthedoorshutasEppslookson.Sheputsasteel
+	pipeacrossthehatchleversothatitcannotbeopened.
+
+	INT.CHIMERA-AQUARIUMTANK-LATER-DAY
+
+	Greersitsinthetank,visiblethroughalargepieceof
+	armoredaquariumglass,amidstthefakecoral.Hesitsin
+	thesandhugginghislegstohischest,bobbingslightlyas
+	hespeaksinhisnonsensicallanguage.
+
+				MURPHY(V.O.)
+		Must'vebeenhimallalong.
+
+	MurphyandEppslookonfromtheoutsideinthepromenade.
+
+				MURPHY
+		Smashedtheradio.Scuttledtheboat.
+		KilledDodge.Would'vekilledyou.
+		He'soffhisnut,nodoubtthere.
+
+	TheywatchhiminsilenceamomentasGreermuttersandbobs.
+
+				MURPHY
+		Whatdoyouthink?
+
+				EPPS
+		Couldbeastroke.Whoknows?
+			(abeat)
+		Thegenerallogsaidthecrewwere
+		fightingamongthemselves."Like
+		wilddogs."
+
+				MURPHY
+		Overthegold.
+
+				EPPS
+		Maybeitwasmorethanthat.
+
+	Greergetsup,comestothewindow,lookingoutatthem.He
+	presseshisfacetotheglass.
+
+				EPPS
+		Theywentcrazy.
+
+				MURPHY
+		Crazywithgreed.Notcrazy.Not
+		likehim.
+
+	AbeatasEppslooksoff.InthewindowGreerdragshis
+	hideouslydistortedfaceovertheglass,thebloodfromhis
+	woundssmearinginbroadredstreaks.
+
+	EXT.CHIMERA-TOPDECK-DAY
+
+	Apartialhullofarottinglifeboatfallsintoframe.Epps
+	andMurphystandoverit.
+
+				MURPHY
+		Welashafewofthesetogetherit
+		mightgetusfarenoughintothe
+		shippinglanestoberescued.
+
+	Abeatastheylookonattherottinghull.
+
+				MURPHY
+		Hardtosaywhichisworse,staying
+		hereortakingourchancesinopen
+		water.
+
+				EPPS
+		Iftheweatherholdsitmightnotbe
+		sobad.
+
+				MURPHY
+		It'snottheweatherI'mworried
+		about.Thewrongcurrentcoulddrag
+		usasfarastheAleutiansbeforewe
+		comeacrossanotherboat.
+
+	EXT.CHIMERA-TOPDECK-DAY
+
+	EppsandMurphyworktolashpartsoftherottingboatsinto
+	asingleusableraft.
+
+	INT.CHIMERA-AQUARIUMTANK-DAY
+
+	Greerliesasleeponthesandbottomofthetank,thewhite
+	lightfromtheskylightfallingonhimfromabove.
+
+	INT.CHIMERA-STORAGEAREA-DAY
+
+	Eppshasfoundareelofwireandsomemetalbraces,making
+	herwayintothedarkness,whenherradioCRACKLESTOLIFE.
+	Thechannelremainssilentamoment,thencloses.Shestops,
+	raisestheradio.
+
+				EPPS
+			(holdingdowntalk
+			button)
+		Murphy?
+
+	Shewaits,holdingthereasonlysilencecomesback.
+
+				EPPS
+		Murphy,thisisEpps.Doyoucopy?
+
+	Again,onlysilencecomesbackuntil,afteramoment,the
+	channelopensagain.Noonespeaks,thoughthereisapalpable
+	presenceontheotherend.
+
+				EPPS
+			(raisingtheradio)
+		Whoisthis?
+
+	Thechannelopensagain,onlysilencereturning.Thesound
+	oftheMUSICBOXCANBEHEARD,"DAISY"COMINGBACKOVERTHE
+	RADIO.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	EppswalksalonginthedarknessASTHEMUSICBOXCONTINUES
+	TOPLAYOVERTHERADIO.Shecomestotheendofthecorridor,
+	stoppingthere.
+
+	Attheotherendthelightfallsfromthedooratroom400.
+
+	TheMUSICFROMTHERADIOSTOPS,leavinginitsabsencethe
+	MUSICASITCANBEHEARDCOMINGFROMTHEROOMATTHEENDOF
+	THECORRIDOR.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Eppsapproachestheotherend,fromwheretheMUSICEMANATES,
+	comingtoastopatroom400.Abeatassheholdsthere.
+
+	INT.CHIMERA-ROOM400-CONTINUOUS-DAY
+
+	EppsstepsinasTHEMUSICBOXPLAYSINTHEOTHERROOM.
+
+	Thesittingroomisdarkassheholdsthere.Afteramoment,
+	shecontinueson,comingtothebedroom.
+
+	Eppsstepsin.AcrosstheroomtheMUSICBOXISPLAYING.
+
+	Shecrosses,comingtoitasitcontinues,whenherradio
+	CRACKLESTOLIFE.Thechannelremainssilentamoment,then:
+
+				VOICE
+		"Cock-a-doodle-doo,saidtherooster
+		tothecrow.Whereareyounow?I
+		knowbutwon'tsayso."
+
+	Sheholdsthereabeat,thencrossestothetabletofind
+	thebookofnurseryrhymes.Sheopensittothenurseryrhyme
+	"TheRoosterandtheCrow,"seeingthesamewordsonthe
+	page,whentheradioCRACKLESAGAIN.
+
+				VOICE
+		Pennywhistletoy.Pennywhistle
+		toy.Pennywhistletoy.Pennywhistle
+		toy.
+
+	Onthetableisthepennywhistleshesawearlier.Shetakes
+	it,holdingonitamoment.SheraisesitandTHECAMERA
+	SLOWLYPUSHESINassheputsittoherlipsandlightlyblows
+	aC-SHARPWHICHBECOMESAC-SHARPFROMAPENNYWHISTLEacross
+	theroom.
+
+				MOTHER
+		"Cock-a-doodle-doo,saidtherooster
+		tothecrow.Whereareyounow?I
+		knowbutwon'tsayso."
+
+	Ontheothersideoftheroom,theyoungergirlfromthe
+	photoplaysthepennywhistle.Sheissittingonthefloor
+	withtheMOTHERwhoreadsfromthebookwesawearlier.
+
+				MOTHER
+		"Cock-a-doodle-doo,saidtherooster
+		tothecrow.Whereareyounow?I
+		knowbutwon'tsayso."Cassandra,
+		ifyouinsistonplayingthatwhile
+		IreadI'lljuststoprightnow.
+
+				THEGIRL
+		Sorry.
+
+	Theroomiswarmwithlight,restoredtoitsoriginal
+	conditionsomefiftyyearsagoasEppsstandsthere,unseen,
+	nolongerholdingthewhistle.
+
+	Aman,theFATHERfromthephotos,stepsfromthebathroom
+	wearinganewcoat.
+
+				FATHER
+		Whatdoyouthink?
+
+				MOTHER
+		Hecertainlydidshortenit,didn't
+		he?
+
+				FATHER
+		Ithoughtthiswasalltherage.
+
+				KATIE
+		Maybelastyear.
+
+	Katiejoinsthemfromtheouterroom.
+
+				FATHER
+		Whataboutthisyear?
+
+				KATIE
+		It'snotyourcoloranyway.
+
+				GIRL
+		Ilikeit,daddy.
+
+				FATHER
+		Wellthankyou!
+
+				GIRL
+		Daddy,howmuchlongerbeforewe
+		startmovingagain?
+
+				FATHER
+		They'reworkingontheengines,honey.
+		Assoonastheyfixthemwe'llbeon
+		ourway.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Eppsstepsfromroom400intothepassageway.Itislitwith
+	sconcesrunningitslengthandtheelegantfurnishingsand
+	objetsd'artstretchingtothefarendareallintheir
+	originalcondition.DISTANTMUSICFROMTHEBALLROOMCANBE
+	HEARDasEppsstandsthere.Shemovesalong.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Eppswalksinthepassageway.Doorsareopenandshelooks
+	intoseepeopledoingvariousthings,somepackingand
+	puttingtheirthingsinorder.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Eppswalksdownthepassage,roundingthecornertoseethree
+	STEWARDSfightingwithafourthMANinatuxedo.Theylift
+	himupandcarryhimoffdownthestairsasheshoutsand
+	protests.Shemoveson,throughapairofdoubledoors,into
+
+	INT.CHIMERA-STORAGECOMPARTMENT-CONTINUOUS-DAY
+
+	Eppsmovesthroughthenowlightedstorageareaoffthe
+	galley.AgroupofCREWMENstandaroundattheotherend
+	and,asEppsnears,sheseesthatfourfigurescanbeseen
+	amongthem.Theyarefourmen,OFFICERS,swayinggentlyfrom
+	theship'smovementastheyhangfromropesaroundtheir
+	neck,dead.Eppskeepsmoving,throughdoorsattheother
+	end.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Acommotioncanbeheardattheotherendofthepassageway
+	asEppskeepsmoving.AWOMANSCREAMS,andiscutoffwhena
+	doorslamsshut.
+
+	TheDISTANTMUSICHASBEENREPLACEDWITHINDISCERNIBLE
+	SHOUTING,asofsomeonecommandeeringthemicrophonesomewhere
+
+	Asshewalks,shepassesanopendoorwhereseveralCREWMEN
+	fightoverasteamertrunk,whichbreaksopen,scattering
+	thecontents.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-NIGHT
+
+	Eppswalksalong,comingtoanotherdoorwhereadeadman
+	andwomanarelayinginthemiddleoftheroomasaSTEWARD
+	takesmoneyfromawallet.Thestewardlooksup,reaches
+	overandslamsthedoorshut.Shecontinueson.
+
+	Anotherdoorstandsopenasshecomestoit,backatroom
+	400.Shestops.AREPETITIVESOUNDCANBEHEARD,comingfrom
+	inside.
+
+	INT.CHIMERA-ROOM400-CONTINUOUS-DAY
+
+	EppsstepsinastheSOUNDCONTINUES.Shecrossesthesitting
+	room,comingtothedoorwayofthebedroomtofindseveral
+	MUTINEERS,someinstewardsattire,otherswearingships
+	officerscaps,obviouslytakenfromtheirrightfulowners.
+
+	Therepetitivesoundcomesfromhere,bedsprings.And,from
+	betweenthemen,awoman'sbarelegshangovertheendof
+	thebedasapairofman'slegsinbootsliebetweenthem,
+	thebedrocking,theotherslookingon.
+
+	Eppsturnstoseethefather.Heisonhisknees,handstied
+	behindhisbackasheisforcedtowatchfromthefootof
+	thebed.
+
+	EPPSLOOKSDOWNTOSEE
+
+	EPPS'POV
+
+	ageometricpatternofalotusonthePersiancarpetather
+	feet.Whenshelooksupagainsheseeswhatthefathersees.
+
+	Themutineerfinishes,climbingoffthewoman.Anotherof
+	themenpullsheruptorevealthatsheisnowomanatall,
+	butKatie.
+
+	Themotherandsisterlieinabloodyheapnear-byasoneof
+	theothermutineersstepsuptoEpps.
+
+				MUTINEER
+		Youlikethat,daddy?I'llshowyou
+		somethingelsenow.
+
+	Themutineerstepsbacktothebed.HesitsKatiedownso
+	thatshefacesusontheendofthebed.Heraisesanaxe
+	overher,bringingitdownastheworldbecomesawhirling
+	blur--
+
+				EPPS(V.O.)
+		NO!!!!
+
+	BACKTOSCENE
+
+	TheCAMERASTOPSONKATIEstandingontheothersideofthe
+	room,nowemptyofpeople,returnedtoitsshabby,abandoned
+	state.
+
+				KATIE
+		Itisn'treal.
+
+	Eppslooksbackatherfromtheothersideoftheroomwhere
+	shestands.
+
+				KATIE
+		Manybadthingshavehappenedhere.
+		Butyoumustn'tallowtheevilinside.
+		Itellyouthisbecauseyoucansee
+		me.Theotherscan't.Butyoumust
+		leave.Youmustleave.
+
+	ALOUDGUNSHOTSOUNDSSOMEWHEREINTHESHIP.WhenEppsturns
+	backKatieisgone.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Eppsmovesquicklyalong,raisingherradio.
+
+				MURPHY
+		EppstoMurphy.
+
+	OnlyWHITENOISECOMESBACK.
+
+				EPPS
+		EppstoMurphy.
+
+	OnlyWHITENOISECOMESBACKassheroundsthecornerout
+	ontothepromenade.Attheotherend,theaquariumcanbe
+	seen.
+
+	Assheapproachessheseesthatthetankisempty.Greeris
+	nowheretobeseenandtheskylightatthetopisbroken
+	out.
+
+	AGREATBOOMINGSHUDDERrockstheship.ALOUDSCREECHINGOF
+	METALfollowsit.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	Theship'shullbeingscrapedatthewaterlinebyajagged
+	mid-oceanislandnobiggerthanfiftyorsixtyfeetacross.
+
+	Theshiphasenteredasmallarchipelagoofsuchislands,a
+	minefieldforadriftingship.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	Eppsmovesquicklyalong,comingtothestairway,movingup,
+	almostrunningintoMurphyonhiswaydown,carryingacanvas
+	duffle.
+
+				EPPS
+		Whathappened?
+
+				MURPHY
+		Wehitland.
+
+				EPPS
+		What?
+
+				MURPHY
+		We'reinanislandchain.It'sonly
+		amatteroftimebeforewehitanother
+		one.
+
+				EPPS
+		Greer'sgone.Hebrokeoutofthe
+		tank.
+
+	INT.CHIMERA-PASSAGEWAY-MOMENTSLATER-DAY
+
+	EppsandMurphymovequicklyalong,whenanotherHUGEBOOMING
+	shudderstheshipandtheSHRIEKINGOFMETALfollows.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	Theshipbouncesoffanotherofthesmall,jaggedislandsas
+	itdriftspast,bucklingthesteelplateofthehull
+	precariously.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	MurphyandEppsruntowardtheotherendoftheship.As
+	theydo,somethingcanbeseenlyinginthemiddleofthe
+	passagesomedistancedown.
+
+	ATTHEOTHEREND
+
+	EppsandMurphyslowtoseethatitisabody,lyingface
+	downinthepassage.
+
+	Theystepup.EppskneelsasMurphylookson.Sherollsthe
+	bodyover.ItisGreer,dead.
+
+				EPPS
+		He'sbeenshot.
+
+	Murphykneelstoo,lookingonatGreer'slifelesseyes.
+
+				MURPHY
+		Let'sgetthehelloutofhere.
+
+	INT.CHIMERA-STAIRWAY/PASSAGEWAY-MOMENTSLATER-DAY
+
+	MurphyandEppscomeupthestairway,crossingtothedoors.
+
+	EXT.CHIMERA-FORWARDDECK-CONTINUOUS-DAY
+
+	AsEppsandMurphycomeout,movingtowardthemake-doraft.
+
+				MURPHY
+		Itshouldbeenoughtogetustoone
+		ofthoseislands.Gimmeahand,
+		wouldya?
+
+	Shejoinshimandtheyliftitoffitsstand,takingitto
+	therail.
+
+				MURPHY
+		Propithere.Weneedtopullthese
+		bracesoff.There'sahammeronthe
+		stand.There.
+
+	Eppscrossesbacktothestands.
+
+	ATTHESTANDS
+
+	Eppskneels.Nohammer.ShepullsbackMurphy'scanvasduffle,
+	foldingbacktheflaptorevealashotgun,theshotgunDodge
+	hadwhenhedied.
+
+	Abeatassheholdsthere,whenMurphy'shandgrabsit.
+
+				MURPHY
+		I'lltakethat.
+
+	AbeatasshelookstoMurphy.
+
+				EPPS
+		Itwasyou.
+
+	Heonlylooksbackatherasshestandsthere.
+
+				EPPS
+		Youkilledthem.
+
+				MURPHY
+		Itwasonlyamatteroftimebefore
+		somebodykilledsomebody.
+			(abeat)
+		YousawitcomingaswellasIdid.
+		Dodgehadhisplans,startingwith
+		scuttlingtheboat.AndGreertoo,
+		excepthewentnuts.Couldn'ttake
+		it,Iguess.Could'vehappenedin
+		themiddleofdowntownAnchorage.
+		Butdiditmakehimanyless
+		dangerous?Idon'tthinkso.
+
+				EPPS
+		Soyoukilledthem?
+
+				MURPHY
+		ThewayIfigureit,itwasthemor
+		me.IthoughtputtingDodgeupon
+		thatpipewasanicetouch?Boughta
+		littletime.Madeitlooklikewhoever
+		killedthoseGreekswasstillaround.
+		Butit'sjustusonthisship.Us
+		andyour...spiritfriends.
+
+				EPPS
+		Andnowyou'regonnakillme,is
+		thatit?
+
+				MURPHY
+		Ididn'twantittoturnoutthis
+		way.
+
+				EPPS
+		Murphy,don'tyouseewhat's
+		happening?
+
+				MURPHY
+		IthinkIseeitprettywell.
+
+				EPPS
+		It'stheship.Theship'smakingyou
+		thinkthisway.
+
+				MURPHY
+		Iknowalittlebitabouthumannature
+		andwhatI'veseenonlyconfirms
+		that.
+
+				EPPS
+		It'satrap.Therewasnowaywe
+		weregonnagetawaywiththatgold.
+		Nobodyeverdoes.It'sjustthebait.
+		Thisshipsuckspeopleinandit
+		neverletsthemout.
+
+				MURPHY
+		Ithinkmaybeyoubeenonthisboat
+		alittletoolong,withallthat
+		supernaturalmumbojumbo.There's
+		nothingsupernaturalaboutgreed.
+		Andthat'swhatitcomesdownto,
+		pureandsimple.
+
+				EPPS
+		Idon'tgiveadamnaboutthegold.
+
+				MURPHY
+		IwishIcouldbelievethat.Either
+		way,youknowwhatI'vedone.I've
+		gotnochoice.
+
+	Heraisestheshotgun.
+
+				MURPHY
+		I'msorry.
+
+	Hepreparestofire,whenaCONCUSSIONROCKSTHESHIP.Epps
+	ducksandMurphyfires,aspatterofbuckshotshreddingthe
+	ventbehindher.ASCREECHINGOFMETALDEEPINTHESHIPSOUNDS
+	asshegetsup,divingforcoverasMurphyshuttlesthegun
+	again.
+
+	WITHEPPS
+
+	Eppsscramblesbehindadeckvent.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	Theshiphasbouncedoffyetanothersmallisland,thejagged
+	rocksloudlyscrappingthehullwithadeafeningshriek.
+
+	EXT.CHIMERA-FORWARDDECK-CONTINUOUS-DAY
+
+	Murphycrossestowardthedeckvent.
+
+				MURPHY
+		There'snoreasontomakethisany
+		moredifficultthanithastobe.
+
+	WITHEPPS
+
+	AsEppsholdstheresheseestheventopening.Shepulls
+	herselfupandclimbsinside.
+
+	INT.CHIMERA-AIRSHAFT-CONTINUOUS-DAY
+
+	Eppsclimbsdowntheairshaftwhereagiantfanspansits
+	width.Shesqueezesthroughthefanbladesanddropsdown
+	whereseveralventductsleadindifferentdirectionsbelow
+	it.
+
+	EXT.CHIMERA-FORWARDDECK-CONTINUOUS-DAY
+
+	MurphycomestotheventductwhereEppswentdown.
+
+	INT.CHIMERA-AIRDUCT-CONTINUOUS-DAY
+
+	Eppscrawlsthrough.Shecomestoaventthatleadsouttoa
+	passageway.
+
+	INT.CHIMERA-STAIRWAY-CONTINUOUS-DAY
+
+	Murphyrunsquicklydownthestairway,shotgunattheready.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Theventisshovedoutandfallstothemetalcatwalk.
+
+	INT.CHIMERA-STAIRWAY-CONTINUOUS-DAY
+
+	TheCLANGFROMTHEVENTSOUNDSHEREandMurphystops.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Eppsextendsherfeetandclimbsdownintothepassage.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Murphyroundsthecorner,movingonthesamedeck.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Eppsmovesalongonametalcatwalkinthedarknesswhen
+	somethingcanbeheardaheadofher.Shestops.
+
+	FOOTSTEPSSOUNDattheendofthepassage.Eppspullsback
+	intotheshadows,holdingthere.
+
+	Thefootstepssoundasiftheyarecomingdownstairsatthe
+	otherend,whentheFOOTSTEPSSTOP.
+
+	Eppsholdsthere,listeningintentlyinthesilencewhen,at
+	theotherend,THESOUNDOFCREAKINGMETAL,asfromahatch
+	slowlyopening,canbeheard.Itstops.Allissilent,WHEN
+	THEHATCHCREAKSAGAINattheotherend.Shebeginsmoving
+	towardit.
+
+	Assheapproaches,shecanseethatthehatchishalfopen,
+	swayingslightlywiththemovementoftheship.
+
+	ACREAKINGSOUNDSbehindher.Sheturns,justasMurphysteps
+	intoview.Sheducksashefiresandasprayofbuckshot
+	ricochetsoffthemetalaroundher.
+
+	ShescramblesonherbellyasMurphyfiresagain.Sheswings
+	downfromthecatwalk,lettingherselffalltothenextdeck.
+
+	ATTHEBOTTOM
+
+	Eppsgetsup,runs.
+
+	WITHMURPHY
+
+	Murphyclimbsdownaladdertothelowerdecks.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Eppsmovesquicklyalong.
+
+	INT.CHIMERA-BELOWDECKSWITHMURPHY-CONTINUOUS-DAY
+
+	Murphyfollows,whenARUMBLINGSOUNDCANBEHEARD.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Eppsstopswheresheisinthecavernousengineroom,looking
+	onatthemassivehullrisingaboveherastheRUMBLINGGROWS
+	ININTENSITY.Thoughitseemstoresonatethroughoutthe
+	ship,itseemstooriginatefromhere,fromdirectlybelow,
+	asthoughthehullwerebeingdraggedoverarockybottom.
+
+	Shestepsbackasthesoundgrowsstilllouder,untilit
+	becomesabsolutelydeafening.
+
+	Theshipbeginstoshudder.Thesteelbulkheadsvisiblymove
+	andthesteelplatesinthehullcanbeseentobendback
+	andforth.
+
+	INT.CHIMERA-BELOWDECKSWITHMURPHY-CONTINUOUS-DAY
+
+	Murphyslowsandfinallystops.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Afewrivetspopinthehull.Thenafewmore,astheRUMBLING
+	GROWSSTILLLOUDER.
+
+	Eppsputsherhandstoherearsandbeginstobackaway,
+	whentheRUMBLINGREACHESAPINNACLE.Therivetsarespringing
+	outofthehulllikemachinegunfirewhenthesteelplate
+	ofthehullgivesway,AMASSIVECRAGOFROCKSMASHINGTHROUGH
+	WITHATREMENDOUSBOOMANDATORRENTOFSEAWATER.
+
+	Eppsducksforcoverasthecragtearsadiagonallinethrough
+	theChimera'shulllikeajaggedclawthroughpaperina
+	HORRENDOUSTUMULTOFNOISEANDSTEAMANDSPARKS.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	TheChimeraisimpaledbroadsidebyaparticularlydevious
+	rockpromontoryofasmallisland.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Thegiantclawbeginstopullback,astheshipdriftsoff,
+	waterpouringinbehindit.
+
+	EXT.CHIMERA-CONTINUOUS-DAY
+
+	Theshipisdriftingfreeoftheislandwiththecurrent,a
+	hugegashrisingonitsportside.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	AmassivetorrentsweepsoverEppsasseawaterpoursin
+	throughthebreach.
+
+	INT.CHIMERA-BELOWDECKSWITHMURPHY-CONTINUOUS-DAY
+
+	Murphystopswhereheistoseewaterrushinginattheend
+	ofthepassage.Hebeginsbackingaway.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Eppsisforcedunderasthewaterinthehullisalready
+	halfwayuptheside,theshiplistingWITHAGREATGROANING
+	EXERTION.
+
+	INT.CHIMERA-BELOWDECKSWITHMURPHY-CONTINUOUS-DAY
+
+	Murphymovesdownthepassageway,comingtothecargo
+	compartment.
+
+	INT.CHIMERA-BELOWDECKSWITHEPPS-CONTINUOUS-DAY
+
+	Eppscomesupforair.Aclatterofallmannerofdebris,
+	toolsandgeneraldetritushammersagainstthefarbulkhead
+	astheshipeasesover.Aboilerbreakslooseofitsstays.
+
+	Eppslooksuptoseeitcomingrightforher.Sheducksunder
+	thewaterastheboilerslamsintothebulkheadwhereshe
+	was.
+
+	WITHEPPS
+
+	Eppsisforceddownbytheboiler,trappedbetweenitand
+	thebulkhead.
+
+	INT.CHIMERA-CARGOHOLD-CONTINUOUS-DAY
+
+	Thegoldslidesoffthepalette,crashingintothefarwall.
+	Murphyhurriestoit,collectingingotsandputtingthemin
+	hispockets.
+
+	INT.CHIMERA-BELOWDECKS-CONTINUOUS-DAY
+
+	Eppsstrugglesunderthewatertofreeherself,butsheis
+	trapped,theheavyboileranditsbrokenstayscagingher.
+
+	ABOVETHEWATER
+
+	Thelevelofthewaterhasnowalmostcompletelyreachedthe
+	deckabove,fillingtheshipalmostentirelybelowdecks.
+
+	INT.CHIMERA-CARGOHOLD-CONTINUOUS-DAY
+
+	ThewateristhreateninglyhighasMurphypocketsonelast
+	ingotandmakeshiswayfortheexit.
+
+	INT.CHIMERA-BELOWDECKS-CONTINUOUS-DAY
+
+	Eppsistryingtopullbacktheboilerstays,withoutluck.
+	Sheswimsdownlower,findingapipefittingshepriesat
+	thestays,withoutluck,whenaformdriftsintoviewinthe
+	murkywater.
+
+	Severalmoreformsappear.Theyarehuman,suspendedinthe
+	water.AsEppslooks,theseveralformshavebecomemany.
+	Theyarethebodiesofthedeadshesawinthepoolbefore.
+
+	Astheylookonatherfromwheretheyare,oneformemerges.
+	ItisKatie.
+
+	ShereachestowardEpps,asifbeckoninghertotakeher
+	handfromtheotherside.Eppsraisesherhand,takingit.
+
+	ThegirlleadsEppsdownintothemurkydarknesswhereshe
+	findsawayout.Shetakesherbackfurther,comingtothe
+	breech,leadingheroutandintoacoolgreenvoidofwater.
+
+	Katiestopsatthebreach.Eppsturnstoher.Sheonlylooks
+	backatEpps.Eppsturnsaway,swimmingupwardtowardthe
+	lightofthesurface.
+
+	EXT.OCEANSURFACE-MOMENTSLATER-DAY
+
+	Eppsbreaksthrough,gaspingforair.Shelookstoseethe
+	Chimera,listingheavilytooneside,itsbowdecksfully
+	awash.
+
+	INT.CHIMERA-PASSAGEWAY-CONTINUOUS-DAY
+
+	Murphystaggersthroughthefloodedpassage.
+
+	EXT.OCEANSURFACE-CONTINUOUS-DAY
+
+	TheChimeraisgettinglowerinthewater,thebowsubmerged
+	andthesternbeginningtorise.
+
+	Eppsseesanothersmallislandsomedistanceoff.Shebegins
+	swimmingtowardit.
+
+	INT.CHIMERA-STAIRWAY-CONTINUOUS-DAY
+
+	WaterrunsdownthestairwayasMurphystrugglestowardthe
+	top.
+
+	EXT.ISLAND-CONTINUOUS-DAY
+
+	Eppsswimsastheshipsinksinthedistance.
+
+	INT.CHIMERA-PROMENADE-CONTINUOUS-DAY
+
+	AriverofwaterrushesthroughasMurphycrosseswith
+	difficulty.
+
+	EXT.ISLAND-CONTINUOUS-DAY
+
+	Eppsreachesthejaggedrockoftheisland.Shepullsherself
+	up.
+
+	EXT.CHIMERA-TOPDECK-CONTINUOUS-DAY
+
+	WaterrushesinasMurphywadesoutontotheChimera'stop
+	deck.Heisheavilyweighteddownandperiodicallygoesunder
+	ashehalfwadeshalfswims,thelengthoftheship'saft
+	portionrisingabovehimasthebowsinks.
+
+	EXT.ISLAND-CONTINUOUS-DAY
+
+	Eppscollapsesontherocks.
+
+	EXT.CHIMERA-TOPDECK-CONTINUOUS-DAY
+
+	Astheshipmoveslower,Murphypushesoff.Hebobsunder
+	momentarily,thencomesbackupwithdifficulty.Theforward
+	smokestackhasdippedunderandisnowtakingonwater,the
+	currentfromtherushingwaterpullinghimtowardit.
+
+	EXT.ISLAND-CONTINUOUS-DAY
+
+	Eppslooksonasthegiantshipangleshigherandhigher.
+
+	EXT.CHIMERA-WITHMURPHY-CONTINUOUS-DAY
+
+	Astheshipdipslower,therushingwaterformsaneddythat
+	pullsatMurphy.Murphystruggles,tooheavytoresistashe
+	ispulledcloserandclosertothesuckingmawthatisthe
+	smokestack'sopening.
+
+	TheshipsinksfurtherandMurphyispulledtotheedgeof
+	thestack.Hefranticallygrabsforsomethingtoholdonto,
+	withoutsuccess,untilheisfinallypulledintothesmoke
+	stackandsuckedintothebowelsoftheshipbytherushing
+	water.
+
+	EXT.ISLAND-LATER-DAY
+
+	Eppssitsperchedunderarockoutofthewind,lookingon
+	attheChimera,hersternrisinghighabovewaterasshe
+	goesdown,whentheRUMBLEOFENGINESCANBEHEARD.
+
+	SheturnstoseeaCoastguardplanesweepinglowoverthe
+	Chimera,thenbankingbackandflyingrightoverassheshouts
+	andwavesherarms.
+
+	EXT.ISLAND-LATER-DAY
+
+	TheCoastguardplanefliesbyonemoretime,thistime
+	droppingasurvivalpack.
+
+	TheChimera'ssternrisesupoutofthewater,almostvertical
+	now,slippingfurtherandfurtherunder.
+
+	Eppslooksononelasttime,astheshipgoesdown.
+
+	EXT.OCEAN-WITHCHIMERA-CONTINUOUS-DAY
+
+	TheafterdeckoftheChimerasinksslowly,slowlydown,the
+	CAMERAPUSHINGINTO"CHIMERA"asthenamecomestothewater,
+	thenslipsslowlybeneaththesurface.AndTHECAMERAFOLLOWS,
+	MOVINGINTOTHEWATERtorevealthat,beneaththesurface,
+	thereisnoshipatall,onlythevastemptydepthsofthe
+	ocean.
+
+	FADETOBLACK
+
+			THEEND
+
+
+AdditionalInfo
+
+
+
+
+
+GhostShip
+Writers:  MarkHanlon
+Genres:  Action  Adventure  Horror  Thriller  Sci-Fi
+UserComments
+
+
+
+
+
+
+
+

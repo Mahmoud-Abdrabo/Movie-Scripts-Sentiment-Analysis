@@ -1,0 +1,7539 @@
+
+
+
+
+EdTV
+
+
+
+
+
+			EDTV
+
+				by
+
+		LowellGanz&BabalooMandel
+
+
+
+							SixthRewrite
+							July16,1997
+
+
+
+ThisisthefirsteReleaseforthescriptofthemovie"EdTV"
+Thisscriptwasscanned,proofreadandformattedbyUeliRiegg
+eMail:ueli.riegg@gmx.ch;URL:http://studiour.tsx.org
+
+
+
+1	INT.HIGHSCHOOLGYMNASIUM-NIGHT
+	ThefollowingisshotDOCUMENTARY-STYLE.
+	AGIRLSVOLLEYBALLGAMEhasjustended.Itwasabiggame.Somekindof
+	championship.
+
+	ONETEAMisCELEBRATING--jumpingupanddown,squealingand
+	huggingeachother.WearefocusedonthebenchoftheTEAMTRAT
+	LOST.They'reverysad--severalarecrying.
+	Onegirl,inparticular,(AMY)isreallysobbing.She'ssweat-
+	stained,tiredandjustblubbering.Stuff'scomingoutofhereyes,
+	hernose,hermouthandthecameraisseeingitall.
+
+	TheCOACH,afortyishmanlooksatalltheweepinggirls--Amyin
+	particular.
+
+					COACH
+			Youquit!Yougaveup!
+
+	HeKICKSaCHAIR.
+
+	NowAmyisreallyamess.She'scrying,coughing,shaking.
+
+					COACH(CONT'D)
+				(rightinAmy'sface)
+			Youquit!!
+
+	TheCoachstormsoff.
+
+					COACH(CONT'D)
+			Qutters!...Quitters!
+
+	Amyiswailingandchokingonherowntears.
+
+	ThisIMAGEFREEZES.
+
+					TERRY(V.O.)
+			Andthatwouldbeit.Idon't
+			thinkyouneedanynarrationat
+			all.Justenditrightthere.
+
+	REVEAL
+
+
+2	INT.OFFICE-DAY
+	BEGINCREDITS
+
+	We'reinNewYorkCity.We'reintheconferenceroomofamodestly
+	successfulcableTVstationcalled"RealTV."Thepeopleare
+	young,energetic,clever.It'scrowded,noisy-thefurnitureis
+	beatenup,bulletinboardscoverthewalls,withlargeindexcards
+	alloverthem.
+	Thisroomisnotforshow--workgetsdonehere.
+
+	SEVENOREIGHTPEOPLEarepresent.OneofthemisCYNTHIAREED.
+	She'stheboss.
+
+					TERRY
+				(toCynthia)
+			Whatdoyouthink?
+
+					CYNTHIA
+			It'shorrible,it'sdepressing,I
+			loveit.Whatelse?
+
+					ALICE
+			Iwanttore-pitchthatpregnancy
+			idea.Findsixwomenearlyintheir
+			pregnanciesandfollowthemallright
+			throughtothebirths.
+
+					KEITH
+				(negative)
+			Yeah,whenallthatstuffcomes
+			out.
+
+	Mixedreactions,mostlynegative.
+
+					CYNTHIA
+			Ihaveanidea.
+
+	IMMEDIATEATTENTION
+
+					CYNTHIA(CONT'D)
+			ThisissomethingI'vebeenthinking
+			aboutforalongtime.We're"Real
+			TV"right?Imeanthat'sthename
+			ofthestation.
+
+	AGREEMENT
+
+					CYNTHIA(CONT'D)
+			Solet'sgoreal.Wefindsomeone.
+			Justaregularperson,someone.And
+			weputtheirlifeontelevision-
+			live...alldaylong.
+
+	Silence.Nomovementatall.
+
+					CYNTHIA(CONT'D)
+			Calmdown.
+
+					KEITH
+			Whatdoyoumean,likePBSdidin
+			theseventies?Whatwasthat
+			family?
+
+					GREG
+			TheLouds.
+
+					KEITH
+			Yeah.
+
+					CYNTHIA
+			No.Wegowaybeyondthat.We
+			don'tfilmitandedititandput
+			itonlater.Wegoontheair
+			liveeverymorningandtheshow
+			goesoffeachnight,whenour
+			subjectgoestobed.Inbetween,
+			we'reonliveallday,everyday-
+			thesameperson,--for
+				(shrugs)
+			let'ssayamonth.
+
+	Nooneiswildforthis.Somehateit--someareunconvinced.
+
+					FELICIA
+			That'snotashowthat'sa
+			surveillancecamera.
+
+					GREG
+			Youcan'tdothat.
+
+					CYNTHIA
+			Thehellwecan't.Look,the
+			beautyofbeingacable
+			channeliswecantakechances.I've
+			thoughtaboutthisandI'm
+			tellingyou,Ithinkthiscan
+			makeanoise.Aloudone.There
+			aretwelvethousandchannels.
+			You'vegottodosomethingthat
+			says"Lookatme!"Hell,people
+			lookatfishtanksallday.This
+			ispeople!
+				(morefirmly)
+			Someone'sreallife--anTV,allday
+			long-live...And,youknowwhat?
+			I'mdoingit.
+
+	Pause.Theothersknowtheargumentisover.
+
+					GREG
+			Inthatcase,weloveit.
+
+	ENDCREDITS
+
+
+3	EXT.POOLHALL-DAY
+	ABUSpasses.Onthebusisanad.Itsays,"Wouldyou
+	liketostarinyourownTVshow?CallRealTV(anda
+	phonenumber)Coming(andadate)."
+
+
+4	INT.POOLHALL-NIGHT-PARAMUSNEWJERSEY
+	Thisisaniceupscalepoolhall.Apartyisinprogressina
+	specialprivatearea--aroomupstairslet'ssay--aloft.
+	ThirtyorfortyPEOPLEintheirtwentiesandthirtiesare
+	informallycelebratingtheengagementoftwooftheirfriends.
+
+	It'sNOISY,it'sfun,it'sinformal.It'snotahigh-endgroup.
+	Bythatwemean,not,forthemostpartyounglawyersor
+	stockbrokers.They'remostlyblue-collar.Communitycollege
+	graduates.
+
+	WEOPENONEDPEKURNY.He'sanattractiveman,aboutthirty.
+	There'sstillsomethingalittlejuvenileabouthim--not
+	stupid,justboyish.
+
+	SOMEONEisVIDEOTAPINGHIMforoneofthosecongratulation
+	montagethingsthataredoneatpartiesthesedays.Edisgood
+	atthis.He'snotprofessionalbuthe'saloosey-gooseyguy
+	who'skindofgoodoncamera.
+
+					ED
+			Iwanttocongratulate
+			KevinandTracyontheirengagement.
+			Iknewyouguysweremeantforeach
+			otherfromthemomentTracytoldus
+			shewaspregnant.
+
+					TRACY
+			Youasshole!
+
+	Everyoneelseiscrackingup.
+
+					ED
+				(innocently)
+			What?WhatdidIsay?
+
+					TRACY
+			Mymother'sgoingtoseethis!
+
+
+5	INT.PARTY-LATER
+	Otherpeoplearebeing"interviewed"ontape.EdisSHOOTINGPOOL
+	withhisbuddy,JOHN.John'shadacoupleofdrinks.He'salittle
+	melancholy.
+
+	Heislookingacrosstheroom,thoughtfully.
+
+					ED
+			What?
+
+					JOHN
+			Lookatthis--peopleare
+			gettingmarried,they're
+			gettingmarried...
+
+					ED
+			Yousaidthat.
+
+					JOHN
+			We'refallingbehind.
+
+	Edwavesdismissively.
+
+					JOHN(CONT'D)
+			Youknowwhoweare?
+
+					ED
+			Tellme.
+
+					JOHN
+			We'retheguyswhocleanupafter
+			theparade.
+
+					ED
+			I'mgonnastickthisrightinyour
+			eye.
+
+					JOHN
+			Iwasatthiscomedyclublastweek
+			andthiscomediansays"Ifyou'reover
+			thirtyandyourjobrequiresyouto
+			wearanametag,youscrewedupyour
+			life."AndI'mlaughingandthenI
+			realizeIwearanametag.
+
+					ED
+			SodoI.Sowhat?I'mdoingallright.
+
+					JOHN
+			Yourbrother'shere.
+
+	ANGLEONTHEDOOR
+
+	Ed'sbrotherRAYandRay'sgirlfriendSHARIarriveattheparty.
+	Shariisprettyinanunglamorouskindofway.Theybothwaveand
+	thenSharigoesofftotalktosomeoftheLADIESandRayjoinsEd
+	andJohn.
+
+					RAY
+			What'sup?
+
+					ED
+			Wherewereyou?
+
+					RAY
+				(reluctantly)
+			Iwas...havingdinnerwithShari
+			andherparents.
+
+					JOHN/ED
+				(taunting)
+			Oooh!
+
+					RAY
+			I'mtellingyou,it's
+			closinginonme.Allofasudden
+			it'slikeathing,it'sawhole
+			thing.
+
+					ED
+			Whatdoyoumeanall
+			ofasudden?You'vebeengoingwith
+			hersixmonths.
+
+					RAY
+			Iknow.ImeanI'msittingthere
+			andherfather'saskingmeabout
+			my"careerprospects"andI'm
+			playing"Risk,"withherkid
+			brother,Leonandatdinnerthe
+			dog'ssniffingatmyballs--at
+			leastIhopeitwasthedog.
+			'Causehermotherdisappearedfor
+			awhile.
+
+	TheyLAUGH.
+
+
+6	INT.PARTY-LATER
+	It'sgettingwild.Someofthegirlsaredancingraucously.
+
+	ANGLEONATABLE(NOTAPOOLTABLE,ANEATING-TABLE)
+
+	Ed,Ray,John,ShariandmaybeanotherWOMAN.
+
+	RayisholdingabigtrayofSHRIMPBALLS.Duringthe
+	conversation,Raythrowsthemintheairandcatchesthemin
+	hismouthlikepopcorn.Once,heevenbouncesoneoffthe
+	wallintohismouth.
+
+					ED
+			Youknow,thoseareforeverybody.
+
+	Raywavesdismissively,thengetsanidea.
+
+					RAY
+			Oh!
+				(toShari)
+			Showthemthatthingyoucando.
+				(totheothers)
+			Thisisgreat.Ijustfoundout
+			shecandothis,herbrothertoldme.
+				(toShari)
+			Comeon.
+
+					SHARI
+				(thinksit'sstupid)
+			Idon't-
+
+					RAY
+			Comeon...
+
+	Shehesitates,butshereallydoesn'tmind.Slightly,amusedshe
+	takesherFISTandfitsitcompletelyINTOherMOUTH.
+
+					ED
+			Whoa!!Oh!
+
+	Rayiscrackingup.
+
+					RAY
+			Isthatunbelievable?
+
+	Sheremovesherhand.
+
+					SHARI
+			Andthatconcludestoday'sshow.
+				(toRay)
+			Thisiswhereyougoaroundand
+			collectthemoney.
+
+	EdLAUGHS.RaygivesheraKISS.
+
+	Shari'sroommateRITAsitsdown.
+
+					RITA
+			Hi.
+
+					SHARI
+			Youguysknowmyroommate,Rita.
+
+	Theydo,vaguely.
+
+					ED
+			What'sgoingonoverthere?
+
+					RITA
+			Everybody'smaking
+			auditiontapesforthatRealTV
+			thing.
+
+					JOHN
+			Oh,thatthing.Yeah.Didyouhear
+			aboutthis?
+
+					ED
+				(notsure)
+			Yeah,what-theyputsomeschmuck
+			onTValldaylongorsomething?
+
+					RAY
+			Youknow,thatwouldbelikeagreat
+			thing.
+
+					ED
+			What?
+
+					RAY
+			That!Beingthatguy.
+			Beingtheguytheywatch.
+
+					ED
+			Whatareyoudrunk?
+
+					RAY
+			Yeah,butlet'sstay
+			ononesubject.Whoeverthatperson
+			isisgoingtobefamous.They'llbe
+			abletogetwhatevertheywant.
+			They'll...trustme,thisismy
+			business.
+
+					ED
+			Whatis?!
+
+					RAY
+			Showbusiness.
+
+					ED
+			You'reinshowbusiness?
+
+					RAY
+			Yeah.Iservicevideoequipment.
+
+					ED
+			That'slike...thosepeople
+			stitchingNikesinPanamasaying
+			they'reintheNBA.
+
+					RAY
+				(insulted)
+			I'mnotstitchingNikesin
+			Panama!...Bedwetter!
+
+					ED
+			Thumbsucker!
+
+					RAY
+			I'mmakingatape.
+
+					ED
+			We'reexcited.
+
+
+7	INT.BAR-AFEWMINUTESLATER
+	EdandShari,waitingfordrinkorders.
+
+					ED
+			SoRaymetthefamily.
+
+					SHARI
+			Yeah...
+
+					ED
+			Ihearthedogreallylikedhim.
+
+					SHARI
+			Oh,thewholefamilylovedhim.
+			Ofcourse,theylovedthelast
+			guyIwentoutwith,andhestrung
+			mealongforthreeyearsanddumped
+			me.
+
+					ED
+			Really?Yousee,tome,youshouldn't
+			haveanytroublewithmen.There
+			shouldbe,like,alinebehindyou.
+
+	ShetakesEd'sbeer.
+
+					SHARI
+			Youshouldn'tdrink.
+
+	TheyLAUGH.
+
+
+8	INT.TABLE-ALITTLELATER
+	EdandShariARM-WRESTLING.Afterastruggle,Edwins.Edis
+	impressed.
+
+					ED
+			Jesus!
+
+	Shariwringsoutherarmandpicksupherbeer.
+
+					SHARI
+				(continuingaprevious
+				conversation)
+			And,youknow,everyguyIever
+			brokeupwith,theminuteitwas
+			over,Icouldtellyouwhatwent
+			wrong,howitwentwrong,whyit
+			hadtogowrong...butwhenI'm
+			init...lost.I'mlikealove
+			coroner.Bringmethecorpse,
+			I'11tellyouwhatkilledit.
+			Buthowtopreventit?Lost.
+
+	EdLAUGHS.
+
+					ED
+			Ray'son.
+
+	Theywalkover.
+
+	ANGLEONRAY
+
+					RAY
+				(tocamera)
+			Hi.I'mRayPekurney.I'mfrom
+			Paramus,NewJersey...
+
+
+9	INT.CYNTHIA'SOFFICE-DAY
+	She'swatchingRay'stape.Raythinkshe'sfunnierand
+	cuterthanheis.
+
+					RAY(ONTAPE)
+			Allmyfriendstellme"Ray,you've
+			gottoomuchpersonalityforoneguy."
+			It'slikeataparty--I'matthe
+			centeroftheattention.Everybody
+			lovesme.
+
+	Hegetshitinthefacebyahorsd'oeuvre.
+
+					RAY(CONT'D)
+			Ha,ha,ha.I'llkickyourass.
+			Noreally,letmeshowyoumy
+			girlfriend.She'sreallycute.
+
+	HereachesoutandgrabsShari'swrist.Shariisstruggling
+	tostayoutofframe.WejustseeherarmandRaypullingon
+	it.Rayletsgo.
+
+					RAY(CONT'D)
+			She'sstrong,'causeshe'saFedex
+			girl.Sheliftsthose
+			packages.Butshe'snotdikeyat
+			all,she'sreallypretty.
+
+	CYNTHIAFAST-FORWARDS
+
+	WESEEthecamerashootinganemptyspace.
+
+	ThenEd'sheadappearssidewaysrightinfrontoftheCAMERA.
+
+					ED
+			HelloI'mEd.
+
+	Hestartstosniff.
+
+					ED(CONT'D)
+			Whatsmells?
+
+	Hestepsbackfromthecameraandstraightenshisheadas
+	heSNIFFS.He'smorerelaxedthanRay.
+
+					ED(CONT'D)
+			Whatisthatsmell?Oop,Ithink
+			it'sthisidea.OnepersononTVall
+			daylong?
+				(screams)
+			Areyounuts?
+
+	WEHEARLAUGHS
+
+	TheRealTVStaffareenjoyingEd'stapewhiletheyeat
+	lunchoutofstyrofoamcontainers.
+
+					ED(CONT'D)
+			Seriously,getyourresumesin
+			order.WhenmybrotherRay-
+			whosepersonalityyouwerejust
+			dazzledby--toldmehewas
+			goingtotryoutforthis--I
+			said,"whyintheworldwould
+			anyonewanttobeonTVallday
+			long,noprivacy,everybody
+			knowingyourbusiness,exposing
+			everysingledetailofyour
+			lifeImean...whywouldanyone
+			wanttodothat?ButthenI
+			thoughtofareason...
+				(loudly)
+			Whythehellnot?
+
+	HeKISSEStheLENS,smudgingit.
+
+	Cynthia,watching,cracksup.Theothersseemtolikehimto.
+
+
+10INT.VIDEOSTORE-DAY
+	ThisisavideostoreinParamus,NewJersey.It'sbusy.
+	PEOPLEareinlinetocheckouttapes.
+
+	WEOPENONaWOMAN--amother--whoisrummagingthroughher
+	purseforherBlockbustercard.Shelooksupandseesthather
+	TWOCHILDRENhaveopenedseveralboxesofcandyfromthecandy
+	displayandareeatingfromtheboxes.
+
+					MOTHER
+			Ohfor--Putthose--OhGod...
+
+	Shegrabstheboxesfromthem.Theboxesarerippedmorethanshe
+	thoughtandcandygoesflyingallover.Shebendstopickitup.
+
+	Edappears.Heworkshere.
+
+					ED
+				(totheMom)
+			We'11takecareofit.
+
+	Someonearriveswithabroom.
+
+					ED(CONT'D)
+				(tothebroomguy)
+			Here.Thistimethrowitout,don't
+			eatit.
+
+	LOU,theManagerpasses.
+
+					ED
+			Lou,canItalktoyouasecond?
+
+	Louseemslikehe'dprefertoavoidthis.
+
+					LOU
+			Um,yeah,Iwasgonna...
+
+					ED
+			What'sthedeal?
+			Didanybodymakeadecision-
+
+					LOU
+			Ed,look,uh...you'renotgetting
+			thejob.They'regonnatransfer
+			someonefromanotherstoretomanage
+			thisstorewhenIleavetomanage
+			thenewstore.I'msorry.
+
+					ED
+			Oh,Christ.Didyougotobatfor
+			me?
+
+					LOU
+			Ibatted!
+
+					ED
+			Youbattedoryoubunted?
+
+					LOU
+			Hey.IwentasfarasIfelt
+			comfortable.Imean,youknow,
+			let'sfaceit--youcomeandgo
+			hereasyouplease.Youwork
+			whenyoufeellikeit--you
+			know,BruceSpringsteen's
+			birthdayisnotalegalholiday.
+
+					ED
+			Well,thenI'mquitting.
+
+					LOU
+			Ed,comeon.What'sthatgonnado?
+			You'regonnabringBlockbusterto
+			theirknees.Letmerecommendamovie
+			toyou.It'scalled"Getyourshit
+			togetherbeforeit'stoolate."
+
+					ED
+				(wise-ass)
+			Who'sinit?
+
+					CLERK
+			Ed,telephone.
+
+	Edgoestothephone.
+
+					ED
+				(intothephone)
+			Yeah...Areyouserious?...Come
+			on,nokidding,whoisthis?...
+			Holyshit!
+
+
+11INT.CONFERENCEROOM-ANOTHERDAY
+	Edisbeinginterviewedbythe"RealTV"staffwhomwemetearlier.
+	He'sslightlylesscomfortablethanonhistape,buthe'sgood.
+
+					ED
+			Ihadoneyearofcollege.And
+			thenoneyearofjuniorcollege.
+
+					CYNTHIA(O.C.)
+			Whatdidyoustudy?
+
+					ED
+			Oh,see,studying
+			would'vebeenahugehelp.Where
+			wereyou,then?
+
+	TheyLAUGH.
+
+										CUTTO:
+
+11AINT.CONFERENCEROOM-LATER
+
+					ED
+			Well,there'sRay,my
+			brother.He's...ambitious.Likea
+			fewyearsago,hestartedthis
+			mobiledog-groomingbusiness.But,
+			like,outofhisCamry.Hehadthis
+			bathtubinhistrunk-
+				(Edstartscrackingup)
+			he'sthrowingthedogsinthere,they're
+			fightingandsplashing,thenhe'd
+			slamthetrunkdown,let'emrun
+			aroundinsidescreaminggettingall
+			wet...thenhe'dusethecar
+			exhausttodry'em.
+				(wipinghiseyes)
+			Ah,Ray...hejustcan'tgeta
+			break.
+
+										CUTTO:
+
+11BINT.CONFERENCEROOM-LATER
+
+					ED
+			Mysister--Marcia,I
+			meanshecan'tgetabreak.About
+			sevenyearsagoshefallsinlove
+			withthisVietnameseguywhowants
+			tomarryhersohecanstayinthe
+			country.Sotheygetmarried,they
+			haveakid,hegetshiscitizenship,
+			immediatelydivorcesmysisterand
+			marriesthisVietnamesewomanwho,
+			hewasprobablyalreadymarriedto
+			allalong.Shecanpick'em.
+				(pause)
+			She'sgotanice
+			littleboy,though.Mynephew,Andy.
+
+										CUTTO:
+
+11CINT.CONFERENCEROOM-LATER
+
+					ED
+			MyMom'sokay.Kinda.
+			Iknewaguywhohatedhismother-
+			StueyShwam.Hehatedhismotherso
+			much,hehadhisbellybutton
+			removed.
+
+										CUTTO:
+
+11DINT.CONFERENCEROOM-LATER
+
+					ED
+			No,I'veneverbeenmarried.
+
+	Theinterviewerseemstobewaitingforhimtoelaborate.
+	Hedoesn't.Heshrugs--that'sit.
+
+										CUTTO:
+
+11EINT.CONFERENCEROOM-LATER
+
+					ED
+			Oh,myfather-whatanasshole.WhenIwas
+			twelve,mymotherneededa
+			hysterectomy--myfatherran
+			offwithhernurse!Andthat's
+			thelastIheardofhim.
+
+										CUTTO:
+
+11FINT.CONFERENCEROOM-LATER
+
+					ED
+			Al,mystepfatherhe's
+			opinionated.Andyouhaveto
+			listenbecausehe'slikeina
+			wheelchair.
+
+										CUTTO:
+
+11GINT.CONFERENCEROOM-LATER
+
+					ED
+			Ilikemyjob--I
+			meanI'mdoingallright.I'm
+			notsurehowlongIwanttostay
+			there,youknow...Imean,I'm
+			thirty-one...I'mnotsureI
+			wanttobeavideostoreclerk
+			whenI'mforty...Ofcourse,I
+			didn'texpecttobedoingit
+			'tilIwasthirty-one,either.
+			But...youknowI'm...keeping
+			myoptionsopen.Anythingcomes
+			along,I'mreadytopounce.
+				(growlslikeacougar)
+
+								CUTTO:
+
+11HINT.CONFERENCEROOM-LATER
+
+					ED
+			Adream?OfcourseIhavea
+			dreamIjustdon'tknowwhat
+			thehellitis.
+				(shrugsandsmiles)
+
+
+	Ed'simagefreezes,whilehehasafunny-cuteexpressionon
+	hisface.
+
+	PULLBACKTOREVEALaTVinaconferenceroomwithEd's
+	frozenimageonit.Cynthiaistherewithherbosses,the
+	peoplewhorunthenetworkthatownsRealTV.Thetopmanis
+	MR.SCHARLACH.HisdeputiesareMS.SEAVERandMR.McILVAINE.
+	ThisisnotthesameplacewherewemetCynthiaandher
+	staff.Thisisricher,morecorporateandformal.
+
+					CYNTHIA
+			He'swhowewanttogowith.
+
+					SCHARLACH
+				(doubtfully)
+			Thisguy.
+
+					CYNTHIA
+			Ipolledmy
+			staff.Themensaythey'dhang
+			aroundwithhimandthewomensay
+			he'sfuckable.Andoneofthemen
+			saidhe'sfuckable.
+
+					SCHARLACH
+			I'mnot
+			sureabouttheentireconcept.
+
+	Cynthiaisfrustrated.
+
+					CYNTHIA
+			Lookit'snotlikewe're
+			burninguptheairwaves
+			now.We'rerunningneck-and-neck
+			withTheGardeningChannel.If
+			peoplejusttuneintothistwicea
+			dayforfiveminutes,we'reahit.
+			Pluswecanselladvertisingevery
+			second,runningatthebottomofthe
+			screen...andthebeautyisthisguy
+			doesn'tevenhavetobegood.Imean
+			ifhe'sgood,great.Butifhewinds
+			upmakinganassofhimself,better.
+
+					McILVAINE
+			Howisthatbetter?
+
+					CYNTHIA
+			Comeon.Peoplecannotturnaway
+			fromanaccident.Youdriveby,
+			yousay"Ooh,Ihopethere'snot
+			aheadlyingintheroad"butyou
+			look!See,nobodyinAmerica
+			wantstobenobody.Thisguy
+			wantstobefamous.So,
+			basically,thedealisheagrees
+			todrivedownthehighwaya
+			hundredmilesanhourblindfolded
+			andwegettoseeifhishead
+			windsuprollingdownthe
+			highway.Funforthewhole
+			family.Solet'sdoit.
+
+	Shestops,waitingforapproval.
+
+
+12INT.VIDEOSTORE
+
+					SCHARLACH
+				(coldly)
+			Goodluck.
+
+	Ed'sRE-STOCKINGtheSHELVES
+
+	Hegetsgoosedfrombehind
+
+					RAY(O.C.)
+				(veryloudandhappy)
+			Hey...
+
+
+					ED
+				(goosed)
+			Oh!
+
+	EdDROPStheBOXES.RayistherewithShari.
+
+					RAY
+			Igotyourmessage.Waytogo!
+
+					ED
+			Hi,Shari.
+				(toRay)
+			Let'sgointhestockroom.
+
+
+13INT.STOCKROOM
+	EdandRayenter.
+
+					RAY
+			Sowhendoyoustart?
+
+					ED
+			I...I'mnotgonnadoit.
+
+					RAY
+			What?
+
+					ED
+			Look--there'sa
+			millionwaystohumiliateyourself-
+			Igottathinkofanewway?Imean,
+			it'sallday!Everyminute.Idbe
+			likeamonkeyatthezoo.Ijust...
+
+					RAY
+				(disgusted)
+			Ohman!They
+			couldn'tpickme!Theyhadtopick
+			you!
+
+	Heslapsatapeoffashelf.
+
+					ED
+			Youwoulddothis?Youwould
+			actually--
+
+					RAY
+			Inasecond!Inahotsecond.
+			Letmeaskyousomething--
+
+					ED
+			Whydoyoudothat?
+
+					RAY
+			What?
+
+					ED
+			Wheneveryouaskme
+			somethingwhydoyoualwayssay"Let
+			measkyousomething?"Whydon'tyou
+			justaskme?
+
+					RAY
+				(impatiently)
+			Allright.Let
+			measkyousomething...areyou
+			happylikethis?
+
+					ED
+			I'mdoingallright.
+
+					RAY
+			OhYeah?What'syourmasterplanhere?
+
+	Sharienters,curiousabouttheyelling.Shestandsthere
+	quietly,unnoticedbytheguys.
+
+					RAY(CONT'D)
+			You're
+			gonnabeavideostoreclerkfor
+			therestofyourlife?Thisisyour
+			bigambition,rearrangingthe
+			"Ernest"movies?
+
+					ED
+			Screwoff.
+
+					RAY
+			Howmany
+			opportunitiesareyougoingto
+			getinyourlife?
+
+					ED
+			Idon'tknow.
+
+					RAY
+			That'sright.You
+			don'tknow.Doorsdon'tflyopen
+			forguyslikeus.
+
+					ED
+			Hey.Youknow--we'renotthe
+			same.Igotagoodlife,this
+			jobsuitsme.Icomeandgowhen
+			Iplease--
+
+					RAY
+			Oh,don'tbullshita
+			bullshitter.Ifyou'rehappylike
+			thisyou'reanidiot,andyou'renot
+			anidiot.
+				(seesShari)
+			Hi.
+
+	EdturnsandseesShari.She'sself-conscious.Shefeelslikeshe's
+	beencaughteavesdropping.
+
+					SHARI
+			Oh.I--IheardRayyelling.
+			1didn'tmeanto--
+
+					RAY
+				(toEd)
+			Givemeachance.I'mbegging
+			you.Ineedabreak.Look,I'11
+			coveryourass.I'11ride
+			shotgun.Justbringthose
+			camerasovertomeandI'11make
+			somethinghappenforbothofus.
+			Iswear.Comeon,Eddie
+
+	Pause.
+
+					ED
+			Allright.
+
+					RAY
+			Yeah?!
+
+					ED
+			Yeah.
+
+	RayliftsEdup.
+
+	RaykissesEd.
+
+					RAY
+				(toShari)
+			Isthisguyabrother?!
+
+
+14INT.RESTAURANT-NIGHT
+	Moderate-priced,restaurant.
+
+	WEOPENONaCLOSE-UPofAL.He'saboutseventy.
+
+	REVEALTHEFAMILY
+
+					AL
+			Whathappenswhen
+			yougotothebathroom?Dothey
+			goinwithyou?
+
+	Ed,Ray,Al,JEANETTEandMARCIA.AlisinaWHEELCHAIRandhasan
+	oxygenmaskconnectedtoatank.Heperiodicallytakesahitof
+	oxygen.He'salittleshortofbreath,butlovestotalk.Jeanette
+	isEd'smother--aboutsixty.MarciaisalittleolderthanEd.
+
+					ED
+			No.Thebathroomisoff
+			limits-andwhenIgotosleepthey
+			gotootherprogramming.UnlessIget
+			up.Thentheygobackontheair.
+			UnlessIgetuptogotothe
+			bathroom,Iguess,then-
+
+					AL
+			Whatif--you'revomiting?
+
+					ED
+				(amazedbythe
+				question)
+			WhatifI'mvomiting?
+
+					AL
+			Dotheyshowit?
+
+					ED
+			Iguess--Idon't--it'sallin
+			thecontract.There'sthis
+			million-pagecontract--
+
+					RAY
+			Look,canweall
+			justsignthereleasessowecan
+			getonwiththis?
+
+					MARCIA
+				(accusing,toEd)
+			Whathappened?Youdescribedthis
+			"crazy-kooky"familywho'dbea
+			millionlaughsonTV?
+
+					ED
+			No!Ibarelyeven
+			mentioned-it'sjustthat,my
+			friends,thepeopleatwork,
+			whoeverI'mregularlyincontact
+			withtheywantreleasesfrom.
+
+					MARCIA
+				(angrily)
+			They'regonnamockourfoibles.
+
+					ED
+			Ourwhat?
+
+					MARCIA
+			Ourfoibles,ourfoibles!
+
+					RAY
+			Wedon'thavefoibles.
+
+					MARCIA
+			Everyonehas
+			foibles.Thenthewholecountrysees
+			themonTVandmocksthem.Thenwe
+			have...mockedfoibles.
+
+					JEANTTE
+			Eddie,please
+			don'tletthemmockourfoibles.
+
+					ED
+				(losingit)
+			Stopsayingfoibles!
+
+					MARCIA
+			Look,mylife
+			isnotsogreat,thatIwantit
+			shownontelevision.Andneither
+			isyours.
+
+					RAY
+			That'sthepoint--thiscould
+			changethings.
+
+					MARCIA
+			How?
+
+					RAY
+			Forinstance...meandmyfriend
+			Buckyarebuyingoutmyboss.His
+			equipment,trucks,clientlist,the
+			wholeshmear.
+
+					MARCIA
+				(pointstoEd)
+			Whatdoesthathavetodowith...?
+
+					RAY
+			IftheykeepEdonforonefull
+			month,hegetsaballoonpayment.
+
+	Ednods.
+
+	Pause.
+
+					RAY(CONT'D)
+			Iborrow
+			againstthatnow,atthebank.Buy
+			thebusiness.AndEdbecomesa
+			silentpartner.Nowhere'sthe
+			beautypart.Whilewe'reonTVI
+			plugtheshitoutofthebusiness.
+			Freeadvertising.
+
+					AL
+			Howaboutsex?
+
+	ASTUNNEDpause.TheyalllookatAl.
+
+					ED
+			I'11havetopass,Al.Andit's
+			notanagething--
+
+					AL
+			No!Dotheyshowyouhavingsex?
+
+					ED
+			No.Kissingand
+			hugging,okay,butifit'sactual
+			sextheyhavetocutaway.
+
+					AL
+			Atwhatpoint?
+
+					ED
+			Atthepoint--I
+			don't--Lookyou'dbeonTVmaybe
+			oneortwotimeseach.I'11tryto
+			avoidI'11gooutofmywayto
+			avoid,gettingtogetherwithyou.
+			Believeme.
+
+	WEHEAR:Alouddrillingsound.
+
+								CUTTO:
+
+
+15INT.ED'SAPARTMENT-DAY
+	AWORKMANisdrillingaholeinthewall.
+
+	EdistherewithaTVCREW.They'rerunningcableanddrillingholesand
+	examiningtheapartment.
+
+	Cynthiaisgoingaroundsupervising.RayandShariarethere.Rayis
+	fascinated.Edistense.Shariisobservant.RayseparatesfromEd
+	andShariandasksoneoftheInstallersatechnicalquestion.
+
+	SHARIANDED
+
+	Edthinks.
+
+	EdjoinsCynthia.
+
+					SHARI
+			Areyousureaboutthis?
+
+					ED
+			Hey,believeme-1knowI'vegotagreatchanceof
+			makingafoolofmyself,here.
+
+					SHARI
+			Whydoit?
+
+					ED
+			Isawthisshowonce.
+			Itwasaboutlogging.Iwashome
+			sick,therewasnothingelseon.Do
+			youknowhowtheybreakupreally
+			badlogjams?Youknow,whenthey're
+			reallytangled...?
+
+					SHARI
+			Creamrinse?
+
+					ED
+				(laughs)
+			Dynamite.
+
+					SHARI
+			So?
+
+					ED
+			Somaybethisismydynamite.
+
+					SHARI
+			Dynamiteisdangerous.
+
+					CYNTHIA
+			Ed,canIseeyouasecond.
+
+					ED
+				(toShari)
+			Excuseme.
+
+					CYNTHIA
+			Okay,soyou
+			understand?We'reinstallinga
+			permanentcamerainyourbedroom,
+			oneinthekitchen,oneinthe
+			livingroom,plus,ofcourse,
+			there'llalwaysbeacoupleof
+			steady-camsfollowingyou.
+
+					ED
+				(overwhelmed)
+			Cool.
+
+					CYNTHIA
+			Iwantyoutotakethis.
+
+	Shegiveshimacard.
+
+					CYNTHIA(CONT'D)
+			Thathasmyworknumber,myhome
+			number,mypagernumber.Isleep
+			threehoursanight.Callme
+			wheneveryouwanttotalk.Offthe
+			air,ontheair,whenever.Okay?
+
+					ED
+				(barelylistening)
+			Um,yeah--thanks.
+
+	Edlookskindofoverwhelmed.Shedoesn'tlikethis.
+
+					CYNTHIA
+			Nowlook.Don't
+			freezeuponme.Ipickedyou
+			becauseyouhadkindofarelaxed,
+			go-with-the-flowquality.You'renot
+			goingtolosethat,areyou?
+
+					ED
+			No,uh...
+
+					CYNTHIA
+			Ibetmycareeronyou.You'd
+			betterbegood.
+
+					ED
+				(annoyed)
+			Don'tsaythat.That'slike...
+			tellingaguybeforeyouhavesex
+			you'dbetterbegood.Youdon'tdo
+			that.
+
+					CYNTHIA
+			Ido.
+
+	Edreacts.
+
+					ED
+			Oh.
+
+
+16INT.ED'SBEDROOM-NIGHT
+	He'sinbed,watchingTV.Thenewsison.Heglancesupatoneof
+	thecameras.Onthenews,theygotoastoryabouthim.
+
+					ENTERTAINMENTREPORTER
+			Tomorrowmorning,thecable
+			channelknown
+			asRealTV,beginsbroadcasting
+			oneofthemostheavilypromoted
+			conceptsinthehistoryofcable
+			television.Inanexperimentthat
+			theysaywilllastatleastamonth.
+			They'regoingtofollow--live-
+			everywakingminuteofathirty-one
+			yearoldvideostoreclerkfrom
+			ParamusNewJersey.TheRealTV
+			pressreleaseonthispromisesthat
+			noneofitwillbescripted,noneof
+			itwillbeeditedandinmyopinion,
+			noneofitwillbeinteresting.we're
+			alljustsupposedtositinfrontof
+			ourTV'sandwatchthisguy...live.
+				(rhymeswith"give")
+
+					ANCHOR
+				(totheEntertainmentReporter)
+			Whatwouldbetheinteresthere?
+			Whatwould...getpeopletotunein?
+
+					ENTERTAINMENTREPORTER
+			Betasme.
+
+					SIDEKICK
+			Idon'tknow.Imightcheckitout.
+
+					ANCHOR
+			Well,Len's
+			heretocheckoutsports.Len,
+			wouldyouwatchthisvideoclerk?
+
+					LEN
+			I'dsoonerwatchsoccer.
+
+	TheyallCRUCKLE.
+
+
+17INT.CYNTHIA'SAPARTMENT-NIGHT
+	She'swatchingthesameshow.She'sedgy.
+	She'sCRACKINGherKNUCKLES.
+
+	TVSCREEN
+
+					LEN
+			Speakingofdisasters,atthe
+			Meadowlandstonight...
+
+	Thesetgoesoff.Ed,onceagain,staresupatthecamera.
+
+	FADETOBLACK
+
+								FADEIN:
+
+18INT.CONTROLTRUCK
+	Writtenonthescreen--"Dayone."
+
+	ADIRECTORandTECHNICALCREWwithallthemodernequipment.
+
+					ASSISTANTDIRECTOR
+			Herewego.Ten-nine-eight-seven-
+
+
+19INT.REALTV-OFFICES
+	Cynthiaandherstaffaregatheredtowatchtheshowbegin
+	They'reTENSEandEXCITED.Acommercialison.
+
+
+20INT.TRUCK
+
+
+21INT.OFFICE
+
+					A.D.
+			two...one.
+
+	OntheTV,thecommercialendsandtheRealTVlogoappears.
+
+	ACRAWLBEGINS
+
+	Itsays"Thefollowingisunedited,unscripted,andunrehearsed.It
+	isthereallifeofoneAmericancitizennamedEdPekurny."
+
+	ThelogofadesawayandweseeEd,inbed,sleeping.HisALARMRINGS
+	andhewakesup.
+
+	He'sgroggyfromsleep.Instinctively,hebeginsSCRATCHINGhis
+	balls.Ashedoes,ithitshimthatthisisnotanormal
+	morning.Helooksupandseestwosteady-camguysatthefootofhis
+	bed,aimingtheircamerasathim.Ed,then,looksathishandonhis
+	balls.Gently,hemoveshishandaway.
+
+
+22INT.OFFICE
+
+					KEITH
+				(mockcheerful)
+			Well,we'reofftoagreatstart.
+
+	NOTE:Thecameraoperatorswillchangeinshifts.We'11see
+	aboutfourregularsoverthecourseofthefilm.Theonewe
+	willseemostoftenisshootingEdrightnow.Hisnameis
+	CARLOS.
+
+
+23INT.BEDROOM
+	Ed,wearingshortsandaT-shirt,getsoutofbed.Hishairis
+	stickingup.Hepassesamirrorandnoticeshishair.
+
+					ED
+			Oh,great.
+
+	Heturnstothecameraandseemsabouttoofferanexcuse
+	forhisappearance,but,then,justmoveson.
+
+					ED(CONT'D)
+			Excuseme.
+
+	Hegrabssomeclothesandentersthebathroom.
+
+
+24INT.OFFICE
+	They'renotenjoyingthis.Everyone'sstaringatCynthia.She
+	doesn'tflinch.
+	NOTE:Silentadvertisingrunsalongthebottomofthescreen.
+
+
+25INT.KITCHEN-AFEWMINUTESLATER
+	Edenters,dressedandshowered.TheSteady-camisinhis
+	face.
+
+	Edistight.He'smuchlesscomfortablethanheexpectedto
+	be.Hesmilesstifflyatthecamera.He'smisplacedhis
+	naturalcharm.
+
+	HegetsaboxofPop-tartsoutofthefreezer.Ashedoes,
+	otherstufffallsoutofthefreezerontothefloor.He's
+	embarrassed.Hebendsdowntopickthingsup,showinghisass
+	tothecamera.
+
+
+26INT.OFFICE
+
+					GREG
+				(toCynthia)
+			StartclearingaplaceforyourEmmy.
+
+
+27INT.KITCHEN-ALITTLELATER
+	EdissittinguponthekitchencountereatinghisPop-tartsand
+	abowlofcereal.
+
+					ED
+				(nervously)
+			Samepeoplelike
+			toputthemilkinfirstandthen
+			thecereal.Iliketoputinthe
+			milkfirst-Imeanthecerealfirst
+			andthenthemilk.Yeah,that'sit.
+			Now,watchthis.
+
+	HetakesaKNIFEandaBANANA.Hepeelsthebanana.Heholdsthe
+	knife,bladeup,overthecerealandchopsdownonitwiththe
+	banana,severaltimes,rapidly,slicingitintothecereal.He's
+	proudofthis.
+
+
+28INT.RAY'SAPARTMENT
+	Rayiswatchingtheshow.Hisheadisinhishands.He's
+	horrifiedbyhowbadEdis.
+
+
+29INT.PARENTS'HOUSE
+	JeanetteandAlwatchingEd.
+
+					JEANETTE
+				(beingpositive)
+			Sofar...
+
+
+30INT.OFFICE
+
+					KEITH
+			Somebodyshootme.
+
+
+31INT.NETWORKOFFICE
+	Scharlach,SeaverandMcIlvainewatching,grim-faced.
+
+
+32INT.OFFICE
+	CynthiaisONthePHONE.
+
+					CYNTHIA
+			Gethimoutofthehouse!Iwant
+			himmoving!
+
+
+33INT.CONTROLTRUCK
+
+					DIRECTOR
+				(onthephone)
+			Hey,Iwanthimdead,butwhatcan
+			Ido.
+
+
+34INT.KITCHEN
+	EdisEATING.Hepeersconfusedatthecamera.
+
+	ANGLEON
+
+	CAMERAOPERATORS.They'resignalingEdtogetout.
+
+	ANGLEONED
+
+	Bewildered,imitatingtheirgestures.
+
+					ED
+			What...Youwantmetoswim?
+
+
+35INT.CONTROLTRUCK
+	TheDirectorisstillonthephone.She'swatchingEdona
+	monitor.
+
+					DIRECTOR
+			OhGod...
+
+	Edgetsit.
+
+					ED
+			Oh,out?Youwantmetogoout.
+
+
+36EXT.BUILDING
+	EdexitsthebuildingwiththeOperatorswalkingbackwardsinfront
+	ofhim,bumpingintoPEOPLE-Peoplewatch,curiously.
+
+	Edreacheshiscar.Hetakesouthiskeysanddropstheminamuddy
+	puddle.Disgusted,hefishesthemout.
+
+								CUTTO:
+
+36AINT.NETWORKBUILDING
+	Scharlach,watchingimpassively.
+
+								CUTTO:
+
+36BINT.ED'SCAR
+	Ed,inthecar.Hecanbarelyfitthekeyintotheignition.Carlos,
+	inthepassengerseattapshimonthearm.Edlooksup.Carlosholds
+	upahastily-madesign."It'sokay.Relax,man."CarlosWINKS.This
+	doeshelpEd.Heappreciatesit.Hedrives.
+
+	WESEEthecontroltruckinmotion.Wealsoseeanothercar
+	withanotherSteady-camOPERATOR,shootingEd'scarasthey
+	travel.
+
+
+37EXT.STREET-MONTAGE
+	Edisdoinghismorningerrands.Alittleshopping--alittle
+	banking--alwaysONCAMERA.Atonepoint,heWALKSINTOa
+	GLASSDOORwiththeword"Pull"onit.Hepushed,
+	banginghisforehead.ACHILDpointstotheword"Pull."Edturns
+	tothecamera,embarrassed.Laterhebuysasliceofpizzaata
+	littleplacethat'sdoingnobusiness.
+
+					ED
+				(tothecamera)
+			BestpizzainNewJersey.
+
+	Ashewalksdownthestreet,PEOPLEcallout"HeyEd!"People
+	inwindowsshowhimthatthey'rewatchinghimatthatexact
+	moment.
+
+	Thecamerashootssomeofthepeopleinthewindows.Theysee
+	themselvesonTVandtheygowild.Edalsoisconfrontedby
+	GUYSgrabbingtheircrotchesmockingly,callingoutthings
+	like"Hey,Ed,holdingyourown?"or"Hey,Ed,howlsthegrand
+	ballroom."Edisslightlychagrinedbyallthis,buthandles
+	itwithgoodgrace.Heseemstobelooseningup.
+
+
+38INT.VIDEOSTORE-DAY
+	Edarrivesatwork.Thestoreisalreadyopen.(Edusually
+	getsthereintheafternoonandstaysuntilclosing.)
+	CUSTOMERSarealittlestunnedbythearrivalofacamera.
+	Someknowwhatit'saboutsomedon't.
+
+	TheCLERKSareawareofwhat'sgoingon.Theyallsigned
+	releases.Ed'sBOSSgreetshimstiffly.Clearlyhe'strying
+	togetface-timeoncamera.
+
+					ED
+			Hey,Lou.
+
+					LOU
+				(stiffly)
+			Welcometowork,Ed.
+
+	HeshakesEd'shandandsmilesatthecamera.HeWAVESalittle.
+
+	TheBROOMGUYcrosses,staringtransfixedatthecamera.He
+	blocksEdandLou.HeFREEZES,thenpanics.Hetriestoget
+	outofthewayandtripsoverhisbroom.Hetumblesface-first
+	intothecameralens,hurtinghimself.
+
+	ANGLEONED,observing.
+
+					ED
+				(mutters)
+			Oh,Jesus,I'mdying.
+
+
+39INT.CONTROLTRUCK
+
+					DIRECTOR
+			Carlos,givehimsomeair,givehim
+			someroom.Usealongerlens.We'11
+			mostlygowiththestationarycameras
+			inhere.Lessintrusive.
+				(tothecrewinthetruck,
+				sarcastically)
+			Haveanyofyou
+			thoughtaboutyournextcareer?
+
+
+40INT.AKITCHEN-SAMETIME
+	AWOMANisservingdinner.She'swatchingEdonTV--reallyjust
+	glancingatit.HerHUSBANDishelpingherbringthefoodtothe
+	table.
+
+					HUSBAND
+			Whyarewewatchingthis?
+
+					WIFE
+				(alittleguilty)
+			Noreason.just...Ijustwantto
+			seewhathappens.
+
+					HUSBAND
+			Nothing'sgonnahappen.He'sjust...
+			working.
+
+					WIFE
+			Oh,comeon,they
+			wouldn'tputitonifnothingwas
+			gonnahappen.
+
+	Hechangesthechannel.Shechangesitback.Hedoesn'tgetit
+	atall.
+
+	RAPIDCUTSofVARIOUSPEOPLEaroundAmerica,watching--Acouple,a
+	youngguy,awomanalone--endingwithafewcollege-agegirlsinwhat
+	appearstobeadormroom.
+
+	ONEGIRLiswatchingintently.Herroommatesaremostlyjust
+	hangingaroundnotreallywatching.
+
+					COLLEGEGIRL
+			Ithinkhe'scute.
+
+	oneofherroommatesglancesovertoseewhatshe'ssoexcited
+	about.
+
+
+41EXT.STREET-NIGHT
+	Ediswalking.Hepassesthelittlepizzaplacehetoutedearlier.
+	There'saLINEoutintothestreet.TheSTOREOWNERisworkinghard-
+	-deliriouslyhappy.Edpasses,oblivioustowhathe'screated.
+
+
+42INT.ED'SAPARTMENT-NIGHT
+	TheCameraOperatorisshootingEdinthebathroomCLIPPINGhis
+	TOENAILS
+
+					ED
+			Someguysworkfrom
+			thebigtoedowntothelittletoe.
+			Notme.Isavethebigonefor
+			last.That'stheoneIreally
+			enjoy.It'sthick,it'sbig,it's
+			achallenge.Didyoueverseeold
+			people'snails?
+				(makesadisgusted
+				noise)
+
+
+43INT.RAY'SAPARTMENT
+	RayandShariwatchingEd.RayisBANGINGHISHEADonthetable.
+
+					RAY
+			Thisisnotworking.
+				(toEdonTV)
+			Cometome!
+
+
+44INT.CYNTHIA'SOFFICE-NIGHT
+	It'slate.She'salone.She'sONthePHONE.She'scomingapart.
+
+					CYNTHIA
+				(intophone)
+			No,Ihaven'tseenthespot
+			ratings...
+				(shewinces)
+
+	Asshetalks,shetriestoLIGHTaCIGARETTE.She'sshakingtoo
+	muchtouseherlighter.
+
+					CYNTHIA(CONT'D)
+				(intophone)
+			Ithinkthat'sanumber
+			fromwhichwecanhopefully,uh...
+			build...
+
+	ANGRYatherlighter,shethrowsitbreakingawindow.
+
+					CYNTHIA(CONT'D)
+			Idisagree...No,Iamnotready
+			topulltheplug...Yes,Mr.
+			Scharlach,Iknowtheyshoot
+			horses...
+				(gettingangry)
+			Look,it'sbeenoneday.CanIhave
+			aweekwiththisandthenhave
+			youflyupmynose?!
+				(hangsup)
+
+	Sheimmediatelyregretsheroutburst.
+
+
+45INT.BAR-NIGHT
+	Writtenonthescreen--"DayTwo."
+
+	OPENONTURTLESracing(asonlyturtlescan)acrossthefloor.
+	Theturtleshavelittleplasticmen,seatedontheirbacks.
+	TheCROWDCHEERSandSCREAMSfortheirfavoriteturtles.Edis
+	beingfollowedbythesteady-camsbutseemstobeignoringit.
+
+	EdisinagroupwhichincludesJohn,andRay.Theraceends
+	Johnlooksveryuncomfortable.
+
+					BARTENDER
+			Thewinner...DashingDanny.
+
+	Edwins.MONEYchangeshands.
+
+					ED
+			Nextround'sonme.
+
+	OneofthecamerasisveryclosetoJohn.He'svery
+	SELFCONSCIOUS.Hedoesn'tlookwherehe'swalking.He
+	trips.PEOPLELAUGH.
+
+					ED
+				(off-handjoke)
+			Polishacrobat.
+
+					RAY
+				(loudly)
+			Hey.Checkthisout.
+				(tothecameramen)
+			Lookatthis.
+
+	RayTAKESOUTabigstackofQUARTERSandsetsthemonthebarnext
+	toaSHOTGLASS
+
+
+46INT.CONTROLTRUCK
+
+					DIRECTOR
+			Gowiththedesperatebrother.
+
+
+47INT.BAR
+	ThecamerasgowithRay.Raydoesa"spitthequartersoffthebar
+	intotheshotglass"trick,whilePEOPLECHEER.
+
+	EdisstandingnexttoShari.They'reOFF-CAMERA.
+
+					ED
+			Whoa,GodblessRay.
+			FirsttimeI'moff-cameraintwo
+			days.Thisishard,youknow?I'm,
+			like,exhausted.
+
+	ANGLEONRAY
+
+	He'sBALANCINGaBARSTOOLonhisforehead.
+
+	ANGLEONEDANDSHARI
+
+					SHARI
+				(calmly)
+			Hedidthatatmyparents'house.
+
+	ANGLEONRAY
+
+	AsRaydroneson...
+
+					RAY
+				(sellinghardtothe
+				camera)
+			Okay,Ijustwantedtogetyour
+			attention.MynameisRayandmy
+			friendBuckyandIdesignvideo
+			systems.You'vegotanofficeor
+			abighome,we'11comeoutthere
+			designyouanentiresystem.
+
+	ANGLEONEDANDSHARI
+
+					ED
+			See,theyshould've
+			pickedhim.Lookhowcomfortable
+			heisoutthere.
+
+	ANGLEONRAY
+
+					SHARI
+			Heissowoundup.Heboughtall
+			newclothesforthis.
+
+	HeflipstheBARSTOOLandcatchesit.Heacceptstheplauditsof
+	thecrowd.HereturnstoEdandShari.Sodothecameras.Rayis
+	fired-up.
+
+					RAY
+			Whew!1amkickinghairyass!
+
+	Rayisstillfullofenergy.
+
+					RAY(CONT'D)
+			Hey,Ed.Didyouhearabout
+			Marcia?
+
+					ED
+				(worried)
+			No.Whathappened?
+
+					RAY
+				(tothecamera)
+			That'soursister.
+				(toEd)
+			She'sgotanewboyfriend.
+
+	ALANDJEANETTE
+
+	WatchingTV.
+
+					JEANETTE
+			Who?
+
+	BACKTOBAR
+
+					RAY
+			He'slivingwithher!
+
+					ED
+				(camera-conscious)
+			Ray,maybethisisn't...
+
+					RAY
+			No,thisisgreat.
+				(tothecamera)
+			You'lllovethis.
+				(toEd)
+			He'sasinger.
+
+					ED
+			Marcia'slivingwithasinger?
+
+								CUTTO:
+
+					RAY
+			Yeah.Youknow,
+			pianobars.playsthepiano
+			andsings.That'showtheymet.
+
+					SHARI
+			Hesangtoherandtheyfellin
+			love?
+
+					RAY
+				(enjoyingthis)
+			No!Somedrunk
+			hithimovertheheadwithhis
+			snifter--youknow,thatthingthey
+			keeponthepianofortips--and
+			Marciayankedabighunkofglass
+			outofhishead.
+				(cracksup,poundsthe
+				table)
+
+
+48INT.MARCIA'SAPARTMENT
+	MarciaisstaringattheTVinUNHAPPYSHOCK.Nexttoherisagood-
+	looking,butslightlysleazy-lookingGUYwithabandageonhis
+	head.
+
+
+49INT.BAR
+
+					RAY
+			Imeanmyquestion
+			iswhatwasshedoinginabarin
+			thefirstplace?
+
+					ED
+			Ray--
+
+					RAY
+			She'sanalcoholic,
+			forChrist'ssake.
+
+					ED
+			Oh,Jesus.
+
+	Marcia,watching,HORRIFIED.
+
+	BACKTOBAR
+
+					RAY
+			Rememberthe
+			lastguyshegotinvolvedwith?
+			Whatwashisname?
+
+					ED
+			What'sthedif--
+
+					RAY
+			Richie!
+				(toShari)
+			Shespentsixmonthsdatingacriminal
+
+					ED
+				(toShari)
+			Shedidn'tknowhewasa
+			criminal.Theyhada
+			relationship.They--
+
+					RAY
+			"Quickpulloffthehighway"is
+			notarelationship.Ohman,I
+			gottapee.
+
+	HeKISSESShari.SheCOVERSherFACEwithherhand.
+
+					RAY(CONT'D)
+			Whatareyou,hidingfromthe
+			Police?
+				(pullsherhandsdown)
+			Showyourface,youlookgreat.
+				(toEd)
+			Doesn'tshelookgreat.
+
+					ED
+			Great.
+
+					RAY
+				(toEd)
+			WhileI'mgone,tellthemabout
+			ourcousinLennywho'sgay.We
+			knewfromwhenhewasfive.
+
+	Hemincesoff'effeminately,tothebathroom,LAUGHING.It's
+	likeahurricanehasjustpassedthrough.Everyoneissitting,
+	STUNNED.
+
+					ED
+			Youdothough,youlookgreat.
+
+					SHARI
+			Right.
+
+					ED
+			No,no,I--assoonasyoucame
+			intonightIsaidtoJohn,"Boy
+			Sharilooksbeautiful."Isaid
+			itonTVsoyoucanaskanybody
+			whosawit.
+
+	SheLAUGHS.Theysmileateachother.Theymakeintermittent
+	eye-contactalittleself-consciously.
+
+	EdfinallylookssomewhereelseandShari,forjustamoment,
+	staresrightathim.
+
+	PULLBACKtoTWOGUYS,watchingthisonTVinabar--moreof
+	aneighborhoodbar.
+
+
+50INT.BAR-NIGHT
+
+					TAD
+			Didyouseethat?
+
+					BARRY
+			What?
+
+					TAD
+			Her.Thatlook.Shelikesthe
+			Edguybetterthanshelikesthe
+			brother.
+
+					BARRY
+			You'renuts.
+
+					TAD
+			Okay,I'mnuts.
+
+
+	CUTSOFOTHERVIEWERS,
+
+	WATCHINGREALTV
+
+	ABEDROOM
+
+	TheCOUPLEwemetearlierareinbed,thewifeisholdingthe
+	remote.
+
+					HUSBAND
+			Givemetheremote.
+
+					WIFE
+			Justafewmoreminutes.Read
+			yourbook.
+
+	ALIVINGROOM
+
+	AGAYCOUPLE
+
+					FIRSTGUY
+			Whatdoyoulikeaboutit?I
+			don'tunderstand.
+
+					SECONDGUY
+			Idon'tknow--itjust
+			it'sIdon'tknow.Justlet
+			mewatch.
+
+
+51INT.ED'SBEDROOM-MORNING
+	"DAYTHREE"
+
+	TheALARMgoesoff.Edstartstoscratchhisballs,butstops
+	halfwaydown.HeWINKSatthecameraandstartshisday.
+
+
+52EXT.EWSBUILDING
+	Edcomesoutsideandhe'saccostedbyaGROUPofangryPolish
+	Americans,manyofwhomarecarryingsignsdecryingPolish
+	jokesandanti-Polishattitudes.TheySCREAMANGRILYwhenthey
+	seeEd.Ediscompletelyshocked.Herunsbackinside.He
+	locksthedoor,leavingCarlosoutside.Thedemonstrators
+	attackCarlos.
+
+
+53INT.ED'SAPARTMENT
+	EdisathiskitchentablewithseveralburlyDEMONSTRATORS
+	arrayedbehindhim.EdisNERVOUSLY,READINGfromasheetof
+	paperwhileCarlosshoots.
+
+					ED
+			...my"Polishacrobat"remark
+			wasill-considered.Although,I
+			meantnoharm,Ishouldhave
+			recognizedthatsuch
+				(troublewiththenext
+				word)
+			stigmatizingremarksbringpain
+			andanguishto...
+
+	He'shavingtroublereadingthenextword.
+
+					ED(CONT'D)
+			Ican'treadmyownwriting.
+			It'slikeChinese--
+				(quicklybacktracking)
+			It'snotlikeChinese!Chinese
+			is,I'msure,abeautiful
+			languageandtheywrite...
+			beautifully.It'snotChinese.
+
+	Hewipessweataway.
+
+					ED(CONT'D)
+			Jesus,I'msweatinglikea
+			Mexicanfruit-picker.
+				(realizes)
+			Oh,Christ!
+
+	QUICKCUTSofEd,gettinghislaundry,doingsomeshopping,
+	gettinghisoilchanged,allbeingshotbyaCAMERAPERSON.
+
+
+54INT.DENTALOFFICE
+	AYOUNGDENTALHYGIENISTiscleaningEd'steeth.Thecamerais
+	practicallyrightinhismouth.It'smakingtheHygienist
+	NERVOUS.She'sdistracted.ShehurtsEd.HeSCREAMS.She
+	SCREAMS.Shedropshertools.
+
+					HYGIENIST
+				(nearhysterics)
+			CanIhavesomeroomplease?!
+
+					ED
+				(talkingwiththe
+				suctioninhismouth)
+			Gihuroo.
+
+
+55INT.TVSTUDIO
+	It'saneducational-typepaneldiscussioninvolvingvarious
+	eggheadsandpundits.It'scalled"Viewpoint."
+
+					MODERATOR
+			Let'schangetopicsforamoment.
+			Doesanybodyhaveaviewpointon
+			somethinggoingonnowcalled"Ed
+			TV".
+
+					PANELMEMBER#1
+			This,Ibelieve,isanewlow
+			pointinAmericanculture.
+
+					PANELMEMBER#2
+			Iagree.Whatitrevealsisthe
+			absolutecreativebankruptcyin
+			thetelevisionbusiness.What
+			they'resaying,basically,is
+			"We'regivingup.Wehaveno
+			ideas."
+
+					PANELMEMBER#3
+			It'sworsethanthat!Theydon't
+			selectsomeonewithanytalent,
+			orwithsomethingtosay--they
+			seemtocelebratethefactthat
+			thisguyisaboob.It'sa
+			joyouscelebrationofboobery.
+
+					PANELMEMBER#4
+			Ithinkwe'vealreadyspentfar
+			toomuchtimediscussingthis.
+
+	Theyallagree.
+
+
+56INT.CHINESERESTAURANT-NIGHT
+	OPENONRaywithchopsticksuphisnose,imitatingawalrus.
+	Also,hehaslomeinnoodlesprotrudingfrombetweenhislips.
+	Edisforcingasmile.Rayiswearingatee-shirtthatsays
+	"RayandBucky-VideoKings"withaphonenumber.
+
+
+57INT.REALTVOFFICE
+	Cynthiaisaloneworkinglate.She'sdrinking.She'swatching
+	Ray.She'snotenjoyinghim.
+
+					ED(V.O.)
+			Ray,don'tthrowtheshrimp,
+			you'regonnachokeagain.
+
+					CYNTHIA
+			Choketodeath,youboring
+			bastard.
+
+
+58INT.EWSBEDROOM-NIGHT
+	Edissittingupinbed,wearingshortsandatee-shirt,eating
+	directlyoutofacerealbox.
+
+					TERRY
+			Theaudiencelikesyouwhen
+			you'removing.
+
+					ALICE
+			Yes.Trynottostayinone
+			placetoolong.Getoutsideas
+			muchasyoucan.
+
+					KEITH
+			Also,wehavesomenotions.Have
+			youthoughtaboutbecomingaBig
+			Brother?
+
+					GREG
+			OrcoachingaLittleLeagueteam?
+
+					FELICIA
+			Howaboutadate?
+
+					ED
+			Areyouaskingme?
+
+					FELICIA
+			No,Imean...
+
+					KEITH
+			It'sjust,theratingsarestill
+			soft.
+
+	LONGPAUSE
+
+					ED
+				(nervously)
+			Areyougoingtocancelme?
+
+					CYNTHIA
+			Let'snotworryaboutthatvet.
+
+					ALICE
+			You'retestingwell.
+
+					FELICIA
+			There'sanotherproblem.
+
+					GREG
+			It's...Ray.
+
+					ED
+			WhataboutRay?
+
+					GREG
+			Well,thewalrusimpression-
+			delightfulasitwas--isjust
+			notwowingtheaudience.Thisis
+			someaudienceresearch.
+
+	HehandsEdaPRINTOUT.Eddoesn'tknowhowtointerpretthe
+	figures.
+
+					ED
+			Whatdoesthismean?
+
+					FELICIA
+			Itmeanstheyhatehisfreaking
+			guts.Itmeansifhewereon
+			firetheywouldn'tputhimout.
+
+					ED
+			He'sjust...tryingalittletoo
+			hard--
+
+					CYNTHIA
+			Ed,theaudiencecansmellthe
+			desperationcomingthroughthe
+			screen.
+
+					TERRY
+			Couldyou...seehimalittle
+			lessoften?
+
+					ED
+			Howmuchless?
+
+					FELICIA
+			Neverwouldbeplenty.
+
+					ED
+			Ican'tdothattohim.He's
+			pushingalittletoohard-
+			but...Ijustcan'tdothatto
+			him.
+
+	SILENCE
+
+					ED(CONT'D)
+			He'11befine.
+
+
+59INT.CAR-DAY
+	"DAYFIVE"
+
+	Edisdrivingslowlyonabusystreet.Suddenlyan
+	EIGHTEENYEAR-OLDBOYlandsheavilyonEd'swindshield.Edisbadly
+	startled.Hecan'tsee.Heswervesandstops.Theboyisnot
+	hurt.He'sbangingonthewindshield,wavingatthecamera.
+	Ed,furious,getsout.
+
+
+60EXT.STREET-CONTINUOUS
+
+					ED
+			Whatthe--?!
+
+					BOY
+			I'monTV!I'monTV!
+
+	Edjuststaresindisbelief.
+
+
+61EXT.STREET-LATER
+	Ediswalking.PEOPLEYELLathim.
+
+					GUY
+			Ed!Yourshowstinks!
+
+	TheGuyLAUGHSlikehereallygotinagoodone.Edignoreshim.
+
+	TWOTEENAGERSrunin,onehasacameraandquicklysnapsa
+	pictureofEdandtheotherGuy.Merrily,theyshakehishand
+	andrunoff,whooping.
+
+	TherearePEOPLEwhotrailalong.Manyofthemwillshowup
+	againandagain,throughoutthemovie,followingEd.Someof
+	themwilllookmentallyoremotionallyimpaired.
+
+
+62INT.VIDEOSTORE-NIGHT
+	QUICKSHOTSofEdwithCUSTOMERS-Oneortwoshowabitof
+	camera-consciousness.Alittlegrouphasgatheredtoobserve
+	Ed's"show".
+
+
+63INT.APARTMENTBUILDINGHALLWAY-NIGHT
+	Edringsthebell.
+
+					ED
+				(tothecamera)
+			ThisisRay'sapartment.Ray's
+			gotabig-screenTVandthe
+			KnicksareplayinginL.A.
+			tonight,sosometimesIcomeover
+			afterIworklateandwewatch
+			thegamehere.Hemakesfunny
+			comments.He'sreallyagood
+			guy.Hejust...
+
+					RAY(O.C.)
+			Whoisit?
+
+					ED
+			It'sme,Ed.
+
+	Thedooropensacrack,revealingRayinabathrobe.Ray's
+	lookisunwelcoming.
+
+					RAY
+			Hi.
+
+					ED
+			Youwatchingtheballgame?
+
+					RAY
+			Uh,no,uhI'malittletired.
+			Ifellasleep.
+
+					ED
+			Oh.Allright.I'11watchat
+			home,then.
+
+					RAY
+			Yeah...
+
+					WOMAN(O.C.)
+			Ray,wheredoyoukeepthe
+			glasses?
+
+					ED
+			Oh,isSharihere?Whydidn't
+			youjustsayso?Whyareyou
+			givingmeasong-and-danceabout
+			beingtired?
+
+					ED(CONT'D)
+				(callsout)
+			Hi,Shari.
+
+					WOMAN(O.C.)
+			Who'sShari?
+
+					ED
+			Who's--
+
+	Raylookspained.Edrealizeswhat'shappeningandfreezes
+	Ray'sphoneRINGS.
+
+					RAY
+			Ohshit...
+
+	Heturnstoanswerhisphone,allowingthedoortoswingopen
+	alittle.Edcanseeintothekitchen.HeseesaWOMAN,
+	wearingjustpanties,facingawayfromhim,searchingfor
+	glasses.
+
+					RAY
+				(intophone)
+			Hello...Shari,hi...Ohno!...
+			OhGod!
+
+					ED
+				(tothecamera)
+			We'dbettergo...
+
+	RAPIDCUTSofVIEWERSlovingthis,somescreaming"Don'tgo!,
+	don'tleave,stay"etc.
+
+	BACKTOSCENE
+
+					RAY
+				(intophone)
+			No,honey,it'snotwhatitlooks
+			like--
+
+	Shehangsuponhim.Heholdshishead.
+
+					RAY
+			OhGod...Ed!
+
+
+64INT.HALLWAY
+	EdisTIP-TOEINGaway.HestopswhenRaycallshim.Ray'runs
+	outintothehallwayafterhim.Theyspeakwithlowered
+	voices.
+
+					RAY
+			ThatwasShari.Shesawthe
+			wholethingonTV--
+
+					ED
+			Whatisthis?What'sgoingon,
+			whoisthat?
+
+					RAY
+				(embarrassed)
+			It'sthereceptionistatoneof
+			theplacesIservicevideo
+			equipment--she'sverypretty
+			and,youknow,shenevereven
+			talkstomeandthentodayIcome
+			inandshe'sall"IsawyouonTV
+			theothernight...Youwereso
+			great..."NextthingIknow
+			we're...
+
+					ED
+			Nextthingyouknow!Whydidn't
+			youstop?
+
+					RAY
+			Stop?I'maguy.Idon'tstop.
+			Thewoman'ssupposedtostop.
+			We'rethegas,they'rethe
+			brakes.
+
+					WOMAN(O.C.)
+				(callsout)
+			Ray,IfinishedtheSnapple.
+
+					RAY
+			Fine!
+
+					WOMAN(O.C.)
+			Istheremore?
+
+					RAY
+			Inthecabinet,butit'swarm.
+			There'siceinthetray.I
+				(toEd)
+			Talktoher.
+
+					ED
+			Idon'tevenknowher.AllI
+			knowisshelikesSnapple.
+
+					RAY
+			No,nother.Shari.Goover
+			thereandtalktoher
+
+
+65INT.CYNTHIA'SBEDROOM
+
+					CYNTHIA
+			Yes!Go!
+
+	SheTHROWSSOMETHINGatthescreen.
+
+	ShePICKSUPthePHONE.
+
+
+66INT.HALLWAY
+
+					ED
+			Whyme?
+
+					RAY
+			Youbroughtthecamerashere!
+
+					ED
+			Youbroughtthegirl!
+
+					RAY
+			Please!
+
+					ED
+			IfIgoovertoShari,the
+			camera'sgoingthere,too.
+
+	TheCameraOperatorsarevigorouslynoddingandmouthing"Yes,Go."
+	Rayisoblivioustothis,butEdpicksitup.
+
+					RAY
+			That'sgood.She'11--youknow
+			controlherself.Look.IfIgo
+			overthere,she'sjustgonnaslam
+			thedooronme.Justgooverand
+			beghertotalktome,that's
+			all.Please.Youowemefor
+			this!
+
+	EdacceptstheironyofRay'sattitudewithoutcomment
+
+
+67INT.ANOTHERHALLWAY-NIGHT
+	Thedooropens,revealingRITA,Shari'sroommate.
+
+					RITA
+				(nervously)
+			Um...Shariknewyouwerecoming
+			overbecauseshesaw...
+
+					ED
+			Right,yeah--
+
+					RITA
+				(apologetic)
+			Shereallydoesn'twantyouand
+			thecamerainhererightnow.
+
+					ED
+			No,Iunderstand.That's-
+			whereisshe,issheallright?
+
+	Ritaisn'tsurehowmuchsheshouldreveal.
+
+					RITA
+			I...gaveheradrink.Ithought
+			it...butshe'snotmuchofa
+			drinker,soit'smadehera
+			little...belligerent.
+
+	ShariappearsinthedoorwayoverRita'sshoulder.she's
+	holdingaliquorbottleandshe'salittledrunk.
+
+					SHARI
+			Whatdoyouwant?!
+
+					ED
+				(awkward)
+			Shari,I'mjustreallysorry.
+			Look,Iknowthisis...
+			unbelievablyawkward,butifI
+			couldcomeinforlikeasecond
+			and--youknow--justsay...
+			twowords,then...
+
+	Shariindicateswithherhead,thatEdcancomein.
+
+	EdandCarlosenter.Ritashutsthedoor.Sharicrossestoa
+	couch.EdindicatesforCarlostogivethemsomedistance.
+
+
+68INT.CONTROLTRUCK
+
+					DIRECTOR
+			Don'tlosethem,Carlos.Thisis
+			gold.Stayoutoftheirway,but
+			geteverything.
+
+
+69INT.SHARI'SAPARTMENT
+	Carlossettlesacrosstheroom.Hereststhecameradownasif
+	he'snotevenshooting,buthe'sstillguidingitwherehe
+	wantsitthroughoutthescene.
+
+					RITA
+			I'mgonnagotobed.
+				(toShari)
+			Youokay?
+
+	Sharishrugs.
+
+					RITA(CONT'D)
+			Goodnight.
+
+	Shegivesthecameraaquickglance.
+
+					RITA(CONT'D)
+				(quickly,withasmall
+				wave)
+			Hi,Mom.
+				(sheexits)
+
+					ED
+			Shari,Rayfeels--
+
+					SHARI
+				(startingtocry)
+			Don'tdefendthathorse'sassto
+			me.
+
+					ED
+			I'mnot.I'mnot.I'mjust
+			Look--youknow,inaway,it's
+			good.Hegotthisoutofhis
+			systemnowandheknowsit's
+			notworthitand,youknow,
+			somedayifyouguysgotmarried
+			orsomething--
+
+					SHARI
+			Ha!
+
+					ED
+			Okay...
+
+					SHARI
+				(pokingEdasshe
+				talks)
+			I'vegotnewsforyou--Inever
+			intendedtomarryhim.
+
+					ED
+			Oh...howcome?
+
+
+70INT.RAY'SAPARTMENT
+	Ray,watchingonTV.
+
+
+71INT.SHARI'SAPARTMENT
+
+					SHARI
+			Well,foronething,he'sabad
+			lay.
+
+
+72INT.RAY'SAPARTMENT
+	Hiseyesbulgeoutandhebeginstogasp.
+
+	RAPIDSHOTSofviewersreacting--"Whoa!"laughs,etc.The
+	collegegirlsapplauding.oneofthemSCREAMS"Tellit!"
+
+
+73INT.SHARI'SAPARTMENT
+	EdrealizesthatRay'sbeencalleda"badlay"ontelevision.
+
+					ED
+			OhmyGod.
+
+					SHARI
+				(directlyintothe
+				camera)
+			Imeanbad.
+
+					ED
+			Look,nothavingbeenthere...I
+			justthinkyou'rehurtandyou're
+			sayingthisto,youknow,get
+			backathim.
+
+	Shestartstocry.
+
+					ED(CONT'D)
+			Look...whetheryougetback
+			togetherornot,you'retoo
+			terrificapersonto...lower
+			yourselflikethis.
+
+
+74INT.RAY'SAPARTMENT
+	Ray,stillinshock.
+
+
+75INT.SHARI'SAPARTMENT
+
+					ED(CONT'D)
+			Imean,ItoldRay--acoupleof
+			times--thatIthoughtyouwere
+			oneofthebestand...smartest
+			and...mostattractivewomen
+			I'veeverseenso...
+
+	Incomfortingher,he'sgottenhisfaceveryclosetohers.
+
+
+76INT.DORMITORY
+	Samedormgirlsasbefore.
+
+					DORMGIRL
+			Kisshim!Kisshim!
+
+	BACKTOSCENE
+
+					SHARI
+			Really?
+
+					ED
+			Yeah.
+
+	Shetiltsherheadforwardalittle,hesitates,thenkisses
+	him,atfirstwarmly,thenpassionately.
+
+
+77INT.DORMROOM
+	Thegirlsaregoingwild--SCREECHING.
+
+
+78INT.TAD'SHOUSE
+
+					TAD
+			I'mnuts,hah?!Iknewit!I
+			said!
+
+	Hedialsthephone.
+
+
+79INT.JOHN'SHOUSE
+	Johnisstunned.
+
+					JOHN
+			Oh,Jesus!
+
+
+80INT.RAY'SAPARTMENT
+	Hestares,amazed.
+
+	TheWOMANhewasfoundwithappearsbehindhim.
+
+					WOMAN
+			IfoundtheSnapple.
+
+
+81INT.CYNTHIA'SBEDROOM
+	Sheseesthekiss.
+
+					CYNTHIA
+			Yes!Yes!Iwin!Scharlach,
+			youschmuck!Iamthegolden
+			goddessoftelevision!
+
+	Shebeginsbeatingherchest,onefistatatimewhileshe
+	SCREAMSintriumph.
+
+
+82INT.SHARI'SAPARTMENT
+	ShariandEdhavestoppedkissing.Theybothlookstunned.
+	Shariissuddenlysober.
+
+					SHARI
+			OhmyGod.
+
+	ShelooksatCarloswhohasnowmovedclosertothem
+
+					SHARI(CONT'D)
+			OhmyGod.
+
+					ED
+			It's...okay
+
+					SHARI
+			Ikissedmyboyfriend'sbrother
+			ontelevision!
+
+					ED
+			Well,whenyouputitthatway.
+
+					SHARI
+			Leave.Go.
+
+					ED
+			Can'twejust--
+
+					SHARI
+			Go!
+
+					ED
+				(exiting)
+			Allright.Okay.I'11...see
+			you.
+
+	HeandCarlosexit.Goingthroughthedoor,hegivesCarlosa
+	littlepushthenquicklystepsbackinside,slamsthedoorand
+	locksit.
+
+
+83INT.CONTROLTRUCK
+
+					CARLOS(V.O.)
+			I'mlockedout.
+
+					DIRECTOR
+			Staycalm.Shootthedoor.
+			We'rerunningsound.Andwe've
+			gotacamerainthestreet.
+
+
+84EXT.BUILDING
+	ACAMERAisshootingatasecond-storywindow.WeSEE
+	SILHOUETTES.
+
+
+85INT.SHARI'SAPARTMENT
+	Edisatthedoor.Shariisacrosstheroom.Theystareat
+	eachothersilently.Thentheyruntoeachother.Theykiss
+	again.
+
+
+86EXT.BUILDING
+	WecanSEEthemKISSING...
+
+
+87INT.APARTMENT
+	EdandShariareallovereachother.They'rebreathless.
+
+					SHARI
+			Whatarewedoing?
+
+					ED
+			I'vegottotellyousomething.
+			Ihavehadabigthingforyou
+			formonths.
+
+	INTERCUTWITHSHOTSOFVIEWERS
+
+	They'reseeingthedoororthesilhouetteshot,butthey're
+	hearingeveryword.They'remesmerized.
+
+					SHARI
+			Really?
+
+					ED
+			Yeah.ImeanformonthsI've
+			beenseeingyouwithRayyou
+			beinghisgirlfriendandI
+			keptwishingyouweremy
+			girlfriend...But,youknow,what
+			couldIdo?
+
+					SHARI
+			Metoo.ImeanI'mgoingout
+			withRayandI'm...thinking
+			aboutyou.
+
+					ED
+			Really?
+
+					SHARI
+			OhGod,thisissoweird.
+
+					ED
+			Weird?Ifthishappenedlast
+			monthitwould'vebeenweird.
+			Nowwith...theTVand...now
+			it'sjusttooweird.
+
+	Theylookateachother.Theydon'tknowwhattodo.
+
+					ED(CONT'D)
+			I'dbettergo.
+
+	Shenods.Hewalkstothedoor.
+
+					ED(CONT'D)
+			Oncemore?
+
+	Shenods.Theyrunbacktoeachotherandkiss.
+
+
+88EXT.BUILDING
+	Thesilhouettesarekissing.
+
+
+89INT.RAY'SAPARTMENT
+	RaystaringattheTV.
+
+
+90EXT.PRIVATEHOME-LATER
+	"DAYSIX"
+
+	Thisisafairlyold,modestprivatehome.Edpullsup.He
+	andCarlosgetoutofthecar.Edhurriesuptothefrontdoor
+	andenters.
+
+
+91INT.HOME-CONTINUOUS
+	Edenters.He'salittleAGITATED
+
+	ANGLEONAL
+					ED
+			Hi,Al.
+
+	Alisinhiswheelchairandtakingperiodichitsoffanoxygen
+	maskconnectedtoatank.Al'swatchinghimselfonTV.
+
+					AL
+				(excited)
+			Look.It'sme.
+
+	HeWAVES.
+
+					ED
+			Yeah.Ibroughtyousomemovies.
+
+					AL
+			Anythinggood?
+
+	TheyLAUGH.
+
+					ED
+			No,Iintentionallypickedouta
+			lotofcrap'causeIdon'tlike
+			you.
+
+					ED(CONT'D)
+			IsMomhere?Igottatalkto
+			her.
+
+					AL
+			She'sinthekitchen.I'dyell
+			forher,butI'ddie.
+				(sucksmoreoxygen)
+			Youhadabusynightlastnight.
+
+					ED
+				(calls)
+			Yeah.Ma...
+
+					JEANETTE(O.C.)
+			Eddie?...
+
+					ED
+			Yeah?
+
+					JEANETTE(O.C.)
+			AretheTVpeoplewithyou?
+
+					ED
+			Yeah.Thecameraguyishere.
+
+					JEANETTE(O.C.)
+			Sendhimaway.
+
+					ED
+			Sendhim?Ma,Ican't.
+			it's--justcomeouthere.
+			Please,I--
+
+					JEANETTE(O.C.)
+			No.
+
+					ED
+			Doyouwantustocomeinthe
+			kitchen?
+
+					JEANETTE(O.C.)
+			No.It'samess.
+
+					ED
+			Look,Ma,comeonout.Really.
+			Ineedtotalktoyou.
+
+	Afterapause,Jeanetteenters,verycamera-conscious.
+
+					ED(CONT'D)
+				(tothecamera)
+			Thisismymother.
+
+	STIFFLY,hegivesherakiss.
+
+					ED(CONT'D)
+			Ma,doyouknowwhereRayis?
+			I'vebeencallinghimandI'm
+			gettinghismachineand--
+
+					JEANETTE
+			Eddie,howcouldyoudoit?Your
+			brother'sgirlfriend.
+
+					ED
+			Hey,hecheatedonher.
+
+					JEANETTE
+			Hemadeamistake.
+
+					ED
+			Idon'twantto--doyouknow
+			whereheis?
+
+					JEANETTE
+			No.Maybehe'swatching.
+				(indicatesthecamera)
+			Tellhimyou'resorry.Tellhim
+			you'11stayawayfromthatgirl.
+
+					ED
+			No!Andthatgirlhasaname.
+
+					AL
+			Whatdoyouloveheror
+			something?
+
+					ED
+				(embarrassed)
+			Comeon...
+
+					AL
+				(teasing)
+			Lookatyourface.Ihadacar
+			thatcolor.
+
+	VARIOUSREACTIONSOFVIEWERSreallylikingthis.
+
+	BACKTOSCENE
+
+					JEANETTE
+			Iknowyou.ThisShariisa
+			passingfancy.
+
+					ED
+			No!I--Allright,
+			look,ifyouhearfromRay....tell
+			himtocallme,okay?
+
+	HeKISSESheragain.
+
+					ED(CONT'D)
+			How'sMarcia?Sheallright?
+
+					JEANETTE
+			Idon'tknow.
+			She'slivingwiththat
+			"entertainer"...
+
+					ED
+				(tryingtomakehis
+				motherfeelbetter)
+			Well,whoknows?Maybeshe
+			finallypickedawinnerthis
+			time.
+
+					JEANETTE
+				(unconvinced)
+			Mm.
+
+					ED
+			YouandAllivedtogetherafew
+			monthsbeforeyougotmarried--
+			afterDadleft.
+
+					JEANETTE
+				(looksattheTV)
+			OhmyGod!
+
+					ED
+			Imean,thatworkedout.
+
+					JEANETTE
+			OhmyGod!!
+
+	Shegetsintheclosetandclosesthedoor.
+
+
+92INT.OFFICE
+
+					ED
+				(tothecamera)
+			Ithinkwe'rethroughhere.
+
+	TheRealTVgroupisthere.
+	They'resmiling.CynthiaisONthePHONE
+
+					CYNTHIA
+				(intophone)
+			Iwill.I'11tellthem.
+				(hangsup)
+			ThatwasScharlach.Allofyou,
+			scrubyourasses.He'scoming
+			overtokissthem.
+
+	TheyallWHOOPandLAUGH.
+
+
+93INT.SHARI'SAPARTMENT-DAY
+	ShariandRitaarewatchingEdleavehisparentshouseonTV.
+	Ritaisveryexcited.ShariisONthePHONE.
+
+					SHARI
+				(intophone)
+			Um,I'dliketogetanewphone
+			number,please...BecauseI'm
+			gettingcallsfromeverynutcase
+			inAmerica...Right,unlisted...
+			Sure.
+				(sheholds)
+
+					RITA
+			Aren'tyouexcited?Hesaidhe
+			lovedyouontelevision!
+
+					SHARI
+			Hedidn'tsayit.Hisstepfather
+			saidit.
+
+					RITA
+				(joking)
+			Well,thestepfather'scute...
+			Seriously,howdoyoufeelabout
+			Ed?
+
+	Pause.
+
+					SHARI
+			Ithinkhe'sgreat.Hejust
+			makesmefeel...oh,I'mreally
+			gonnagethurt,thistime-Hello...
+
+	CUTSOFVARIOUSVIEWERSWATCHINGREALTV
+
+	EndonTADandBARRYinahealthclub.Thisistherefreshment
+	area.They'veplayedracquetballandthey'resweaty.They're
+	watchingRealTV.
+
+					TAD
+			I'11tellyousomethingelse.
+			Theoldguyinthewheelchair?
+			Thestepfather?They'regonna
+			havehimdie.
+
+					BARRY
+			Whatdoyoumean"they'regonna
+			havehimdie?"
+
+					TAD
+			Youknow,foratearjerker.The
+			audiencefallsinlovewiththis
+			loveableoldgeezerina
+			wheelchairandthenhedies,
+			it's...Theyknowwhatthey're
+			doing.
+
+					BARRY
+			Thisisreal,Bananahead!
+
+					TAD
+			So?
+
+					BARRY
+			Soifit'sashowandtheyhave
+			aguydiethat'swriting,butif
+			it'srealandtheyhaveaguydie
+			that'smurder.
+
+
+94EXT.VIDEOSTORE-DAY
+	Edarrivesforwork.
+
+	PeopleCALLOUTtohim--PEDESTRIANS,PEOPLEFROMCARS,TRUCK
+	DRIVERS."HeyEd,myman."Edwaves.Peopleshakehishand.
+	Ateenageboylooksintothecamera,makingafunnyface.
+	Someoneelselooksintothecameraandsays,"Hi,Ma."
+
+	Suddenly,RayistherewithaWOMAN.Rayisnothappy.He's
+	wearingDARKGLASSESandaHAT.
+
+					RAY
+			Hi.
+
+	Edstops.
+
+					ED
+			...Ray?
+
+					RAY
+			Yeah.
+
+					ED
+			Oh,man,I'vebeentryingtocall
+			you.
+
+					RAY
+			Iknow.
+
+					ED
+			Look,wegottatalk.
+
+					RAY
+			Saveit.
+
+	AGUYinacarappearsandpointsatRay.
+
+					GUY
+			Hey,you'rethatFrenchguyonTV.
+
+					RAY
+			Frenchguy?
+
+					GUY
+			MonsieurBad-a-lay.
+
+	Theguydrivesaway.Rayissteaming.
+
+					RAY
+			LetmejustdowhatIcamehere
+			todo.
+
+	Edthinkshemeanstofight.Edtriestocalmhim.
+
+					ED
+			Whatarewegonnafight?Ray,
+			please,listentome--
+
+					RAY
+				(beckoning)
+			Cassie...
+
+	CASSIE,awomanaboutRay'sage,stepsforward.She'sslightly
+	self-conscious.
+
+					RAY(CONT'D)
+			Goahead.
+
+	RaypointsCassietothecamera.
+
+					CASSIE
+			Thisisreallyhard.
+
+					RAY
+			Youpromisedme.
+
+					CASSIE
+				(tothecamera)
+			IwentoutwithRayafewyears
+			agofor...acoupleofmonths.
+			Andwe...wereintimate.And.
+			he'sreallynotasbadasthat
+			girlsaidhewas.
+
+	Raynods.
+
+					CASSIE(CONT'D)
+			Imean,I'vedefinitelyhad
+			worse.
+
+					RAY
+			That'senough.
+
+	EdisamazedthatRaywoulddothis.
+
+					RAY(CONT'D)
+				(toEd)
+			Good-bye,brother!
+
+					ED
+			Ray,comean--
+
+	Rayleaves,stillangry.
+
+	Cassielingers.
+
+					CASSIE
+				(flirtingslightly)
+			Soyou'reEd.
+
+	RayreturnsandyanksCassieawaywithhim.Edstillhasn't
+	recoveredfromthebizarrenesshejustwitnessed.Twogirls
+	YELLinunisonfromacrossthestreet.
+
+					GIRLS
+			Ed...weloveyou!
+
+
+95INT.REALTVOFFICE-NIGHT
+	Cynthiaandherstaff,aroundaconferencecallbox.
+
+					CYNTHIA
+			We'renotgoingtobeableto
+			comeoverthereforanymore
+			midnightmeetings.Peopleare
+			startingtowatchyourbuilding.
+			Theinterestlevelinyouis
+			soaring.
+
+								INTERCUTWITH:
+
+95AINT.ED'SBEDROOM.
+	Ed'sOFF-CAMERA
+
+					ED
+			Soaringisgood,right?Imean,
+			thatmeansyou'renotgonna
+			cancelme,right?
+
+					KEITH
+				(sotto)
+			Man,hewantsthatballoon
+			payment.
+
+					ED(V.O.)
+			Huh?
+
+					TERRY
+			Ed,whydidn'tyougoovertosee
+			Sharitoday?That'swhatallour
+			viewerswerehopingyou'ddo.
+
+					ED
+			Isn'tshegreat?Imean,maybe
+			justtome,but...Idon'tknow,
+			she'sjust--
+
+					TERRY
+				(impatiently)
+			She'sgreat,she'sgreat.Why
+			didn'tyougoseeher?
+
+					ED
+			Iwantedto!Iwasdyingto!
+			But...
+
+					GREG
+			IsitRay?
+				(pullsoutresearch)
+			TheaudiencehatesRay.Females,
+			18to35--
+
+					ED
+			No,Idon'tneedtohearthat.Cynthia?
+
+					CYNTHIA
+			Yes,Ed.
+
+					ED
+			Couldwejusttalkalonefora
+			second?I--
+
+					CYNTHIA
+			Goodidea.
+				(toherstaff)
+			Couldyouallleaveusalonefor
+			afewminutes?
+
+	ShePANTOMIMESforthemtostayintheroom,butbequiet.The
+	staffscrapechairlegsandfeignmovementandadlib"ByeEd",
+	"Seeyou,buddy"etc.Theyallstay.
+
+					CYNTHIA(CONT'D)
+			Howyoudoing,Ed?
+
+					ED
+			IfeellikewhenIwasakidand
+			mymothersentmetoschoolin
+			orangecorduroypants.
+
+					CYNTHIA
+				(noclue)
+			Uh-huh?
+
+					ED
+			Andallthekidsstaredcalling
+			me"PumpkinAss.""HeyPumpkin
+			Ass,"--forlikeayear.So,
+			now,Ifeellikeeveryone's
+			watchingmeand,youknow,I'm
+			"PumpkinAss"again.
+
+	Thestaffarestiflinggiggles.
+
+					CYNTHIA
+			CanItellyousomething?I
+			thinkyouarefantastic.Ithink
+			youhavetakenanideaandturned
+			itintosomethingexplosive.
+
+	Thestaffstiflelaughter.Oneoftheguysisdoingajerk-off
+	gesture.Cynthiagivesthemthefinger.
+
+					ED
+			Yeah?
+
+					CYNTHIA
+			CanIgiveyouonebitofadvice?
+			AboutShari?
+
+					ED
+			Sure.
+
+					CYNTHIA
+			Awomanwantstobepursued.
+
+
+96EXT.SUBURBANHOME-DAY
+	Shari,inherFed-exuniformismakingadelivery.AWOMAN's
+	signingforit.
+
+					WOMAN
+			Thisissoexciting!Areal
+			celebritydeliveringmyfigs.
+
+					SHARI
+				(uncomfortable)
+			Signhere,please.
+
+					WOMAN
+			ThatRaywasapig.Edis
+			doll.Youlatchontohim
+			honey.
+
+					SHARI
+			BytheX.
+
+					WOMAN
+			Somemoremake-upwouldn'tdoyou
+			anyharm.OnTVyoulooka
+			littlewashedout.
+
+					SHARI
+			WhatwouldIactuallyhavetodo
+			togetyoutosignthis?
+
+					WOMAN
+				(insulted)
+			Oh,anTVaminuteandalreadyan
+			attitude.
+
+					SHARI
+				(annoyed)
+			BytheX.That'sweretwolines
+			cross--forminganX.
+
+	ANGRILY,theWomansignsandslamsthedoor.
+
+	Sheheadsbacktohertruck.ShelooksupandEdistherewith
+	flowers.TheTVcamerasaretherealso.Shariisstartled.
+	Butshe'salsogladtoseehim.
+
+					SHARI
+			Whatareyoudoing?
+
+					ED
+			Imissedyou.
+
+	She'scamera-shy.
+
+					ED(CONT'D)
+			Youknow,Ineversawyouinyour
+			uniformbefore.
+
+					SHARI
+			Yeah,well...
+
+	TheybothLAUGH.
+
+					ED
+			It'sreallyatremendousturnoff.
+
+					SHARI
+			Youshouldseetheonewewear
+			whenitrains.
+
+					ED
+			SundaynightattheDevilsgame,
+			I'mdrivingtheZamboni.
+
+					SHARI
+			Thewhat?
+
+					ED
+			Youknow,thebigmachinethat
+			cleanstheice.
+
+					SHARI
+			Ohyeah.
+
+					ED
+			It'squiteanhonor.Willyou
+			comewithme?
+
+	Shelooksatthecamera.
+
+					ED(CONT'D)
+				(gently)
+			Look,Iknowthisisweird.
+			But...Idon'twanttowait.I
+			reallythinkwemighthave
+			somethingtogether.Don'tyou?
+
+	EMBARRASSED,shenods.
+
+					ED(CONT'D)
+			Comeon.Bemyzambonidate.
+
+	Shedoesn'tsay"no."
+
+	TheyKISS--alittlehesitantly,notpassionately,but
+	affectionately.She'sstillself-conscious,butshe'sgoing
+	withtheflow.
+
+
+97INT.CYNTHIA'SOFFICE
+	They'rewatching.TheyCHEERandhigh-fiveeachother.
+
+
+98INT.SHORTMONTAGE
+	EdandSharidating.She'sshy,butshereallylikesEd.He
+	likesherandisverysweettoher.
+
+	1)EdandSharisomeplacelike"TavernontheGreen."She
+	lookspretty.He'sveryhappy.
+
+	2)Theycomeoutofaclub.TOURISTSphotographthem.Shari
+	isalittledisconcerted.Edtakesoutalittlecameraofhis
+	ownandphotographsthetourists.ThismakesSharilaughand
+	relaxesher.
+
+	3)HOCKEYARENA
+
+	CLOSE-UPofEd,drivingtheZamboni.He'slovingit.HeWAVES
+	toShari.
+
+	SHARIINTHESTANDS,watching.Shewavesandsmiles.
+
+	Theice,aWIDERSHOT.
+
+	TheZamboniis,basicallyoutofcontrol.Carlosissliding
+	alongtheice,shootingEdastheZambonizig-zagsdangerously,
+	eventuallycrashingintotheboards,shatteringthePlexiglas.
+
+
+99INT.LOCALROCKCLUB-NIGHT
+	It'sveryCROWDED.Claustrophobic.Loud.EdandSharienter
+	justtoseetheshow.They'respotted.
+
+	TheCrowd,whichisalreadyfiredupbythemusic,seesthem.
+	Itstartsoutokay,peoplecrowdingaround,pattingEdonthe
+	back.
+
+	ACHANTbegins"Ed,Ed,Ed..."Prettysoonitdrownsoutthe
+	music.
+
+	MorepeoplepresstowardsEd.It'stoocrowded--dangerous.
+	ShariissweptawayfromEd.She'sbuffetedabout,violently.
+	Shegoesdown.Edcan'tmove.TheCrowdisfriendlyand
+	happy,buttheeffectisscary.
+
+
+100EXT.ROCKCLUB-AFEWMINUTESLATER
+	BOUNCERSsqueezeEdandSharioutthedoor,protectingthem.
+	Edisunnerved.Shariissomewhatbedraggled.Herclothingis
+	torn.
+
+
+101INT.ED'SKITCHEN-DAY
+	EdisONthePHONE.
+
+								INTERCUTWITH:
+
+					CYNTHIA'SOFFICE
+			Yeah?!
+
+					ED
+			Theytoreherdress!...
+
+					CYNTHIA
+			We'regoingtogetyoua
+			bodyguard,don'tworry.Ed,I
+			havesomenewsforyou.We're
+			pickingupEdTVforanother
+			month!
+
+					ED
+				(excited)
+			Yeah?!
+
+					CYNTHIA
+			Thatmeansaballoonpaymentand
+			abigraiseforthesecondmonth.
+
+					ED
+			Standback--I'mabouttodomy
+			HappyDance.
+
+	Hedoes.
+
+
+102INT.RESTAURANT
+	EdandShariareEATING.SoisaHUGEMANsittingbetween
+	them.HisnameisMOE.
+
+
+103INT.ROLLERRINK
+	EdandShariareSKATING.Upaheadofthem,Moe,(onskates)
+	isplowingintopeople,knockingthemover.
+
+
+104INT.PIZZAJOINT-NIGHT
+	EdandSharigetuptoleave.Theylookateachother,very
+	affectionately.Theywanttokiss.Thecamerasareclose.
+
+	Ediswearingajacket.Hespreadsitoutwidetoblock
+	Shari'sfacefromthecameras.HeleansinandtheyKISSon
+	thelips,severaltimes,whileEd'sjacketscreensoffthe
+	cameras.They'reinlove.
+
+
+105INT.TVNEWSSHOW-THREEWEEKSLATER
+	Writtenonthescreen--"Day26."
+
+	It'sthesamenewsteamwemetearlier.
+
+					ANCHOR
+			Well,welvehadpetrocks,hula
+			hoops,DavyCrockett,Beatle
+			wigs,andleisuresuits.But
+			America'slatestcrazeisaguy
+			namedEd.Herewiththatstory
+			isentertainmentreporter,Rick
+			Douglas.
+
+					ENTERTAINMENTREPORTER
+			Pat,fourweeksago,noonein
+			AmericahadevenheardofEd
+			Pekurny.Today,thisthirty-one
+			year-oldvideostoreclerkhas
+			becomesomethingofanational
+			obsession.Thewordsviewersuse
+			todescribehimare"charming,"
+			"natural,"and"appealing."And
+			ratingsindicatethat"EdTV"is
+			beingwatchedbymorepeople,
+			eachday,thananyshowinthe
+			historyofcabletelevision.
+
+								CUTTO:
+
+	ASHOTofScharlachbeinginterviewed.ACAPTIONidentifieshim.
+
+					SCHARLACH
+			Thisideajustcametome.I
+			toldmystaff--ifpeoplejust
+			tuneintwiceadayforfive
+			minuteswe'reahit.Sometimes
+			yougottagowithyourgut
+			feeling.
+
+								CUTTO:
+
+106INT.CYNTHIA'SOFFICE
+	She'swatching.She'sANGRY.
+
+					CYNTHIA
+			Sureitcametoyou!BecauseI
+			broughtittoyou!
+				(raisesherfist)
+			Youwantagutfeeling?!How
+			aboutagroinfeeling?!
+				(raisesherfoot)
+
+	BACKTONEWSREPORT
+
+					ENTERTAINMENTREPORTER
+			EdTVhasbecomesopopularthat
+			whenEdgoestosleepRealTVis
+			runninghighlightsofEd'sday
+			allnight.Someviewershave
+			becomeobsessedwithEd.They
+			wakeupwhenEdwakesup,theygo
+			tosleepwhenEdgoestosleep,
+			andinbetweentheytrytowatch
+			asmuchofhimaspossible.
+
+	ASERIESOFMAN-IN-THE-STREETINTERVIEWS.
+
+					WOMAN#1
+				(casually)
+			Yeah,Iwatchit...MorethanI'd
+			liketoadmitsometimes.
+
+					MAN
+				(aboutfifty)
+			Never...no...
+
+					YOUNGERMAN
+			Honestly?...Itrynottogoto
+			thebathroomuntilEdgoestothe
+			bathroomsoIwon'tmiss
+			anything.
+
+	AGUYinanicecreamstore.
+
+					ICECREAMGUY
+			Watchthis!LikeEd.
+
+	HeslicesabananathewayEddoes.
+
+					WOMAN#2
+			Ijustkindofleaveitan,you
+			know,soit's...there.
+
+	THREETEEN-AGEGIRLS
+
+					TEEN-AGER#l
+			Idon'tlikeShari.She's...
+			needy.
+
+					TEEN-AGER#2
+			Ilikeher.She'ssweet.
+
+					TEEN-AGER#1
+			Shejustrubsmethewrongway.
+
+					TEEN-AGER#3
+			I'msogladtheygotridofRay.
+			Hewascreepy.
+
+								CUTTO:
+
+	YOUNGGUYS
+
+					GUY#1
+			Tome,thisShariislike
+			nothing.
+
+					GUY#2
+			She'snotevenhot.ImeanEd's
+			acelebrity.Ifthatwasme,I'd
+			bedatingthegoods.
+
+					GUY#1
+			There'ssomethingwrongwithher.
+			She'sdefinitelynothot.
+
+					GUY#2
+			Nothot.Not.
+
+
+107INT.SHARI'SAPARTMENT
+	She'swatchingthis,wearingabathrobe.
+	Herself-esteemisbeingcrushed.
+
+
+108INT.TVSTUDIO
+	Thisisan"ETV"kindofgossipshow.Thehost--aYOUNG
+	WOMAN--isshowingfilmofEdandSharigettingoutofEd's
+	car.Thefilmfreeze-frames.Sharihasan
+	unflatteringlookonherface.
+
+					GOSSIPQUEEN
+			What'swrongwithher!Everytime
+			youlookatthischick,it'slike
+			shebadlyneedsaTampax.Ed,you
+			candobetter.
+
+	Shariwatching,inhorror.
+
+
+109INT.DELICATESSAN-NIGHT
+	EdandShariareonadate.AWAITRESSistakingtheirorder.
+	Sharistillseemsalittleself-conscious,butEdishavinga
+	ball.
+
+					ED
+			I'11have...
+				(toShari)
+			Getthis--
+				(tothewaitress)
+			I'11havethe"Ed."
+
+					SHARI
+			I'mstunned.
+
+	AWOMANwithheryoungSONapproach.
+
+					WOMAN
+			Mr.Pekurny.I'msorrytobother
+			you.Mysonwouldjustloveto
+			haveyourautograph.
+
+					ED
+			Noproblema.
+				(totheboy)
+			Youwantapicture?
+
+	Theboynods.
+
+					ED(CONT'D)
+			Moe.
+
+	MOE,theBodyguard,inthenextboothhandsEdaglossyofEd
+	andapen.Edsignsit.
+
+					ED(CONT'D)
+			Takethisaroundthecornerto
+			FrameWorld,they'llgiveyoua
+			discount.
+
+	TheWomanandChildleave.
+
+					ED(CONT'D)
+				(toShari)
+			Oh--Sundayisgoodformeto
+			meetyourfolks.Wegetabig
+			familyaudienceonSundayssoit
+			worksout.
+
+					SHARI
+				(ironic)
+			That'slucky.
+
+					ED
+			Saturday,Ithinkweshould
+
+	APHONERINGS
+
+	Edtakesaphoneoutofhispocket.
+
+					ED(CONT'D)
+				(plugging)
+			ComplimentsofMotorola.
+			Hello...Marcia??
+				(toShari)
+			Mysister.--What?...What,
+			rightnow?...I'meating,I'mon
+			adate!...Well,where'syour
+			boyfriend--what'shisname?
+			Cliff....Then,callacab...
+				(wearily)
+			Allright.Look,justdon't
+			startanytroubleokay.Justsit
+			therequietly'tilIgetthere...
+			you'rewelcome.
+
+	HeHANGSUP.He'sdisgusted.
+
+
+110INT.CAR-AFEWMINUTESLATER
+
+					ED
+			Thisusedtobearegularthing.
+			Andtheworstpart,iswhile
+			she'dbewaitingformetocome
+			downtosomebarandgether,
+			she'dstartupwithsomeguyand
+			say"Wait'tilmybrothergets
+			here,he'11kickyourass."So
+			thenIwalkinandthere'ssome
+			rhinocerosinawindbreakerwho
+			triestoshovemeintoashot
+			glass.AndMarcia'sdrunkand
+			screaming"Kickhisass,Ed.
+			Kickhisass."
+				(looksout)
+			Ithinkthisisit.
+
+
+111INT.BAR
+	It'snotaseedydive.EdandShariandthecameraoperators
+	enter.ACUSTOMERapproaches.
+
+					CUSTOMER
+			Hey,hey,hey,hey,hey.You're
+			theguyonTV.
+
+					ED
+			Whatwasthetip-off?The
+			enormouscamera?
+
+					CUSTOMER
+			Watchthis.
+
+	TheguydoesEd's"HappyDance."
+
+					CUSTOMER(CONT'D)
+			See,likeyou.
+
+					ED
+			Yeah.Keepupthegoodwork.
+
+	Edbrushesbyhim.HeseesaWOMANpassedoutatatable.
+
+					ED(CONT'D)
+			Ohgreat.
+
+	Hepreparestolifther.
+
+					MARCIA(O.C.)
+			Ed.
+
+	HeturnsandseesMarciastandingthere.
+
+					MARCIA(CONT'D)
+			Whatareyoudoing?
+
+					ED
+			Hm?I'm,uh...Whyisn'tthis
+			drunkenwomanyou?
+
+	Heletsgoofthewoman.
+
+	Herheadbouncesonthetable.
+
+					ED(CONT'D)
+			What'sgoingon?Whydidyou
+			wantmetocomedownhere?
+
+	Marciaguidesthemintochairs.
+
+					MARCIA
+			Cliffishere.He'sperforming.
+			Iwantedyoutoseehim.
+
+	Forasecond,Eddoesn'tgetit.Then.
+
+					ED
+			Oh!Oh--okay,nowIgetit.
+			It's"StarSearch."Youwanted
+			meherebecausethecameracomes
+			withme.
+
+					MARCIA
+			Ed,heneedsabreak.Youdon't
+			knowwhatkindofbadluckhe's
+			had--
+
+					ED
+			Icanimagine.Yousaidyou
+			wantednothingtodowiththis.
+			Yousworetome."Don'tcome
+			nearme.Don'tbringthisinto
+			mylife..."
+
+
+					MARCIA
+			ForGodsakes,yousaidtwowords
+			aboutsomelousypizzajoint,the
+			guy'samillionairenow.This
+			couldbemywholefuturewe're
+			talkingabout.
+				(toShari)
+			Hi,I'mEd'ssister.
+
+					SHARI
+				(politely)
+			I'veheardsomuchaboutyou.
+
+
+112INT.BAR-LATER
+	Cliffisinthemiddleofhisshow.
+
+	He'swearingaPORTABLEORGAN.He'snotgreat.He'sasmalltime
+professionalwithalotofpep.Marciaisbeaming.Ed's
+	camerasareshootinghim.
+
+	CUTSOFCliff,singingeverytypeofsong,imaginable.This
+	guyisdesperatelytryingtocoverallthebases--i.e.
+	Sinatra-typestandards,somethingfrom"LionKing","DoYa'
+	ThinkI'mSexy,""Smokin'intheBoy'sRoom,""Hey,Hey,We're
+	theMonkees,"thethemefrom"HawaiiFive-0,"arapnumber,and
+	"AveMaria."
+
+	ANGLEONEDANDSHARI
+
+					ED
+				(sotto)
+			Iwishmystepfatherwashere.
+
+					SHARI
+			Why?
+
+					ED
+			Hecouldgivemesomeoxygen.
+
+
+113INT.SHARI'SAPARTMENT-LATER
+	EdandShariareKISSING.
+
+	CUTAWAYSTOVIEWERS
+
+	TADANDBARRY
+
+					BARRY
+			Ohboy!Herewego!
+
+	Edispassionate.
+
+	JEANETTEANDAL
+
+					JEANETTE
+				(cringing)
+			Euuw...
+
+	RAY
+
+	Fuming.
+
+	BACKTOEDANDSHARI
+
+					SHARI
+			Um...
+
+					ED
+			What?
+
+	Sheindicatesthecamera.Edtriestoallayherfears.
+
+					ED(CONT'D)
+			Itoldyou.Ifwe...youknow
+			doit,theygoawayuntil...
+			we'redone.
+
+					SHARI
+			Iknow,buteveniftheygoaway,
+			everybodyinAmericaknowswhat
+			we'redoingbecause...theywent
+			away.
+
+					ED
+			So?Whatdotheythink--we're
+			notkids--
+
+					SHARI
+				(overlapping)
+			Iknow,I...
+
+					ED
+				(overlapping)
+			Shari,Ireallylikeyou...
+
+					SHARI
+				(overlapping)
+			Ireallylikeyoutoo...
+
+					ED
+			...ifthis...
+				(thecamera)
+			...weren'there...?
+
+					SHARI
+			...yeah,then,but...
+
+	CUTAWAYS
+
+					ED
+			So...?
+
+					SHARI
+			Ed...Ithinkweshouldstop
+			seeingeachother.
+
+	Theguyswhosaidshewasn'thot.
+
+	Theyapplaud.
+
+	THEDORMGIRLS
+
+	They'rebooingShari.
+
+	ABAR
+
+	Averyattractivewoman(JILL)andherfriend.
+
+					JILL
+			Thatgirl'sanidiot.
+
+	BACKTOEDANDSHARI
+
+					ED
+			What?...Why?
+
+					SHARI
+				(startingtoweep)
+			Ican'ttakeitanymore...
+
+	GUYSWHODON'TTHINKSHE'SHOT
+
+	Theymockher,crying"Boohoohoo"andpretendingtorubtheir
+	eyes.
+
+	BACKTOEDANDSHARI
+
+					SHARI
+				(crying)
+			Ihavenoprivacy.Evennow!
+			I'mcryingandIcan'tstopand
+			theywon'tgoaway.Andnowit's
+			goingtobeanothermonth!
+
+					ED
+			Shari...
+
+					SHARI
+			Everybodyhatesme!
+
+					ED
+			No.Who?
+
+					SHARI
+			Lookatthis.
+
+	ShepicksupaN.Y.POST.
+
+					SHARI(CONT'D)
+			PagethreeofthePost.
+
+					ED
+				(knowswhatitis)
+			Ohh...
+
+					SHARI
+			Apoll."IsShariGoodEnough
+			forEd?"Seventy-onepercent
+			said"no."
+				(crying)
+			Theyhateme!
+
+					ED
+			Whocares?Idon'tca--No.I
+			docare.
+				(tothecamera)
+			Shameoneverybody.Shameon
+			you!Well,justtheseventy-one
+			percent.Theother...
+				(hecan'tdothemath)
+
+					SHARI
+			Twenty-nine.
+
+					ED
+			Exactly.Boy,you'resmart.
+				(tothecamera)
+			Whyareyousomeantoher?What
+			didshedotoyou?
+				(picksupnewspaper)
+			"IsshegoodenoughforEd?"Who
+			thehellamI?
+				(sarcastically)
+			WhothehelldoyouthinkI
+			shouldbedating?
+
+					SHARI
+			There'salist.
+
+					ED
+			Really?
+				(helooks)
+
+					SHARI
+			Ed?
+
+	Hedoesn'thearher.He'sscanningthelist.
+
+					ED
+			Wow...
+
+
+114INT.DAVIDLETTERMANSHOW(ORSOMETHING)
+	Edisaguest.
+
+					DAVE
+			I'mouthereanhouranightand
+			Ifeellikeadork.You'reon
+			everyminute!Doesn'titjust
+			driveyounuts?
+
+					ED
+				(cheerfully)
+			Yeah.
+
+	LAUGHS.
+
+					DAVE
+			Allthisfameandthemoney
+			you'remaking.Isthisgoingto
+			changeyou,doyouthink?
+
+					ED
+			God,Ihopeso.
+
+	BIGGERLAUGHS.
+
+
+115INT.GREENROOM-LATER
+	It'saftertheshow.Edisgettingreadytoleave.Johnis
+	withhim,keepinghimcompany.A.P.A.isgivingEdabagof
+	gifts.(Ofcourse,EdisstillonEdTV.)
+
+					PRODUCTIONASSISTANT
+			You'vegotahaminthereand
+			Dave'sbookand--
+
+					ED
+			Hey,ifit'sfree,it'sme.
+				(toJohn)
+			Youready?
+
+					JOHN
+			Yeah.Youdidgood.What's
+			wrong?
+
+					ED
+			Aah,IwantedSharitocome.
+
+					JOHN
+			Oh--soI'mjust,what--apoor
+			substitute?
+
+	HeKISSESJohn.
+
+					ED
+				(easily)
+			Yeah.
+				(tothecamera)
+			Honey,ifyou'rewatchingthisis
+			foryou.
+
+					JOHN
+			No!Don't--
+				(newsubject)
+			Oh,wow.
+
+					ED
+			What?
+
+	ANGLEONJILLINTHEHALLWAY(Wemetherearlierinacutaway.)
+
+	She'ssayinggood-byetoaCASTINGASSISTANT.
+
+					JOHN
+			Nomorecalls,wehavea
+			winner.
+
+	Jilllooksup,seesEdandwalksrightuptohim
+
+					JILL
+			Hi.
+
+					ED
+			Hi.
+
+	SECURITYstepsforward.
+
+					ED(CONT'D)
+			It'sallright.
+
+	Theystepback.
+
+					JILL
+			I'mJill.Ireallylikeyour
+			show.Ithinkyou'regreat.
+
+					ED
+			Thanks...That's...
+
+	Shari,watchingthisontelevision.
+
+					JILL
+			YoumustbeJohn.
+
+					JOHN
+			I'mtryingtoremember.
+
+					JILL
+				(toEd)
+			Well,Idon'twanttobotheryou,
+			I'mjust--Iwashere
+			auditioningforaskit.You
+			know,oneofthosethingswhere
+			Davegoesaroundtownwithmodels
+			andwhatever...
+
+					ED
+			Oh,yeah,Ilovethose.Yeah...
+			thosearefunny...
+
+					JILL
+			Well,itwasreallynicemeeting
+			youand,uh...
+				(checksherwatch)
+			I'dbettergetacab.
+
+	Butshedoesn'tleave.
+
+					ED
+			Um...Theygavemealimo,uh...
+
+					JILL
+			Oh,great!Thanks.I'mjust
+			goinguptown.
+
+	Shetakeshisarmandleadshimout.
+
+
+116INT.HEALTHCLUB-NEXTDAY
+	Writtenonthescreen--"Day28"
+
+	TwoWOMENonStairmasters.
+
+					WOMAN
+			V11bethegoesoutwithher.
+			It'slikethoseactors--assoon
+			astheygetfamous--Pfft-
+			theregoesthewife.
+
+
+117EXT.COLLEGE
+	Thedormgirls.
+
+
+118INT.POKERGAME
+
+					COLLEGEGIRL
+			He'llnevercheatonShari!
+
+	ThegameincludesTadandBarry.
+
+
+119INT.TVSTUDIO
+
+					BARRY
+			Youthinkshereallylikeshim?
+
+					TAD
+			Shedoesn'tgiveashitabout
+			him.
+
+					BARRY
+			Youknowwhatwouldbegreat?
+
+					TAD
+			What?
+
+					BARRY
+			IfRaywouldstealthisgirlfrom
+			Ed.Thatwouldbegreat.
+
+					POKERPLAYER#2
+			Youknowwhatwouldbeeven
+			better?
+
+					BARRY
+			What?
+
+					POKERPLAYER#2
+			Ifyoushutyourholeandplayed
+			cards.Goddampineapple
+			brothers.
+
+	Thesameeggheadswho,earlier,hadnointerestinEd.Now
+	they'reallworkedup.
+
+					PANELMEMBER#1
+			Buthe'snotanormalperson
+			anymore.He'sacelebrity.
+			We'renolongerobserving
+			anyone's"reallife."
+
+					PANELMEMBER#2
+				(disagreeing)
+			Butthat'swhat'sinteresting!
+			Theeffectofcelebrityonan
+			otherwiseaverageperson.
+
+					PANELMEMBER#3
+			ButdoyoureallyfeelthatEdis
+			anaverageperson?Imeanthis
+			guyseemstohavea...magnetism,
+			acharismathat,Ithink,
+			transcendstheentireconcept.
+
+					PANELMEMBER#4
+			Iagree.He'sspecial.
+
+	Theyallnod.
+
+
+
+120INT.EWSAPARTMENT-DAY
+	"DAY34"
+
+	Edisopeninglettersandpackages.Therearepilesofthem
+
+					ED
+			Thisisfromagirlnamed
+			Tawny...thisgoesinthenude
+			picturepile.Thankyou,Tawny.
+
+	Heplacesitinalargepile.Heopensanotherenvelope.
+
+					ED(CONT'D)
+			Let'ssee.
+
+	Edstaresandhissmiledisappears.
+
+	ANGLEONTHEMAIL
+
+	ApictureofEd'sfacewithhisbodydrawnunderneathit.The
+	bodyisspurtingbloodandismutilated.Edstaresatit.
+
+					ED
+			Well.Thisiscreative.This
+			goesinthepsychopathpile.
+
+	TheDOORBELLRINGS.
+
+					ED
+			Oh,Ihopethat'snotthisguy.
+				(indicatespsycho
+				letter)
+
+	HePICKSUPabaseballbatandcrossestothedoor.
+
+	Heopensthedoor.Ahandsomemaninhisearlysixtiesis
+	there.HisnameisHANK.
+
+					HANK
+			Hello.
+
+					ED
+			Hi.
+
+	Edwaits.
+
+					HANK
+			Youdon'trecognizeme.
+
+					ED
+			No.AmIsupposedto?
+
+	Hankshrugs.Edstaresathim,thenbeginstolookalittle
+	shaken.
+
+
+121INT.EWSMOTHER'SHOUSE
+	Jeanetteisputtingajarintherefrigerator.Sheglancesat
+	thetelevision.Shedropsthejar.ItSHATTERS...
+
+
+122INT.MARCIA'SAPARTMENT
+	Marciaiswithherhalf-AsiansonANDY.She'sservinghis
+	dinner.OFF-CAMERAweHEARCliffSINGINGandtheDOGHOWLING
+	indistress.Glancingatthetelevision,Marciagasps.
+
+
+123INT.RAY'SAPARTMENT
+	RayisTYPINGonawordprocessor.
+	Hestarescuriouslyatthetelevision.
+
+
+124INT.ED'SAPARTMENT
+	EdisstaringatHankdoubtfully.
+
+					HANK
+			It'sme,Hank--yourfather.
+
+	RAPIDCUTSofVIEWERS,excited.Manyofthemreachforthe
+	phone.
+
+
+125INT.REALTVOFFICE
+	TheRealTVstaffreact.Cynthialooksover--stunned.
+
+					ALICE
+				(toCynthia)
+			Didyoudothis?Didyoufind
+			himandgethimto--
+
+					CYNTHIA
+			Noway...Oh,thisjustkeeps
+			gettingbetter.
+
+
+126INT.ALANDJEANETTE'SHOUSE-DAY
+	Writtenonthescreen--"Day35"
+
+	Edandhismotherarearguing.Alissuckingoxygenandhasa
+	pileof"People"magazineswithEdonthecover.AREPAIRMAN
+	isfixingtherefrigerator.Alltheirfoodisoutandmelting.
+
+	Jeanetteistryingtopreservefoodinanicechestwhileshe
+	argueswithEd.
+
+					JEANETTE
+			Ican'tbelieveyou'retakinghis
+			side.
+
+					ED
+			I'mnot!I'mjusttryingtoget
+			somefacts.
+
+					AL
+				(toEd)
+			SignthisonetoNancy.She's
+			thenursewhohandlesmyurine.
+
+	Edsigns.
+
+					JEANETTE
+			Itoldyouthefacts!He
+			abandonedus--thosearethe
+			facts.
+
+					ED
+			Soeverythinghetoldme
+			yesterdaywasalie.Everything.
+
+	Altakesaloudbreath.
+
+					JEANTETTE
+			Yes!...practically
+
+					ED
+			Whatdoyoumeanpractically?
+			Didhereallyrunawayordidyou
+			throwhimoutlikehesays.
+
+					REPAIRMAN
+			Ineedtoreplacethecoil.
+
+					JEANETTE
+				(toEd)
+			HeranawayafterIthrewhim
+			out.
+				(torepairman)
+			Howmuchisanewcoil?
+
+					REPAIRMAN
+			Ahundredandfiftybucks.
+
+					ED
+			Sohewastellingthetruth
+			youthrewhimout.
+
+					REPAIRMAN
+			ShouldIgoahead?
+
+					JEANETTE
+			Yes.
+
+					ED
+			Yestomeoryestothecoil?
+
+					JEANETTE
+			Both.
+
+					ED
+			Holysh--
+
+					AL
+			ThisonetoDr.Bamajian.Maybe
+			hewon'tmakemewaitanhour.
+
+	Edsigns.
+
+					JEANETTE
+			Hehadgirlfriends!
+
+					ED
+			Hesays--
+
+					JEANETTE
+			Idon'tcarewhathesays.Look,
+			Idon'tneedtorelivethis.On
+			television!
+
+					AL
+			WhateverhappenedtoNorman
+			Rockwell?
+
+					ED
+			Who?
+
+					AL
+			NormanRockwell.Hepainted
+			magazinecovers.Folksy.A
+			mailman,aboyscout,akid
+			visitingadoctor...
+
+					ED
+			Yeah,so...?
+
+					AL
+			Theycelebratedthecommon
+			person.
+
+					ED
+			Well,Idon'tthinkyoucanget
+			morecommonthanme,Al.
+
+					AL
+			No.Onlycelebritiesnow.Now,
+			ifyouputamailmanonthecover
+			ofamagazinehe'dbetterhave
+			killedsomeoneornoonewillbuy
+			it.ThisonetoDr.Rumpley.
+
+	Jeanettestormsbackin.
+
+					JEANETTE
+			Allright--doyouwanttoknow
+			thetruth?ItookyouandMarcia
+			andRaytomysister'sonthe
+			trainfortheweekendandyouall
+			gotchickenpox.SoItookyou
+			homeadayearlyandtherewas
+			yourfatherwithawomaninour
+			bed.Okay?
+
+					ED
+			Chickenpox?Iwassix.He
+			didn'tleave'tilIwastwelve.
+
+					JEANETTE
+			He...apologized,hebeggedme.
+			Hecanbevery...charmingwhen
+			itsuitshispurpose.
+
+					ED
+			Butwhatwasthatwholestory
+			abouthimandanurse?
+
+					JEANETTE
+			Shecould'vebeenanurse.
+
+					ED
+			Could'vebeenanurse?
+
+					JEANETTE
+			Shehadwhiteshoes.
+
+					ED
+			SodoesGrandma.Sodoes
+			ShaquilleO'Neal.Youtoldme
+			youhadahysterectomyandheran
+			offwithyournurse.
+
+					JEANETTE
+			What'sthedifference?
+
+					ED
+			Thedifferenceisfortwenty
+			yearsIthoughtonethingandnow
+			it'sanotherthing.
+
+	Ednods.
+
+					JEANETTE
+			Hewasnogood.Doyouremember
+			howheusedtoscreamatme?You
+			usedtocoveryourearswith
+			dinnerrolls.
+
+					JEANETTE(CONT'D)
+			Also,nojobwasevergoodenough
+			forhim."Smallpotatoes,small
+			potatoes."Al,youremember--
+
+	Albreathesloudly.
+
+					ED
+			Waitaminute.Ithoughtyou
+			didn'tknowAl,'tilafterDad
+			left.
+
+	Pause.Eventherepairmanpokeshisheadoutofthe
+	refrigerator.
+
+					ED(CONT'D)
+			OhmyGod.YouandAlwere-
+			andthat'swhyyouthrewhimout.
+
+					JEANETTE
+			Hehadawomaninmyownbed!
+			Andhowdareyoucallhim"Dad"
+			infrontofAl.
+				(shakesAlbythe
+				shoulder)
+			Thisisyourfather.Thisiswho
+			wasthereforyouwhenyouneeded
+			someone.
+
+					AL
+			Jeanette,you'rehurtingme.
+
+					ED
+				(onthedefensive)
+			I'mnot--Ididn't--Al,you
+			knowhowIfeelaboutyou...
+
+	Albreathesloudly.
+
+					ED(CONT'D)
+				(uncomfortably)
+			IfIdon'tcallyou"Dad"it'
+			justbecause...
+			1wasalreadyabigboywhenyou
+			cameintoourlives--
+				(pointedlytohis
+				mother)
+			orwhenIthoughtyoucameinto
+			ourlives--
+
+					JEANETTE
+			Andwhatdidhecomebacknow
+			for?
+
+					ED
+			Who?
+
+					JEANETTE
+			Hank!Allofasudden.Because
+			nowyou'refamousandhecanget
+			somethingfromyou.Idon'twan
+			youtobecomeavictimlike
+			Marcia.
+				(totheTV)
+			Notthatyou'reavictim,honey.
+			You'renot.Life'sjustbeena
+			littlehardonyou,sweetie.
+
+					ED
+				(toAl)
+			Whatdoyouthink.Imean
+			about...him.ShouldIjust...
+			havenothingtodowithhim?I
+			mean...
+
+					AL
+				(toEd)
+			HaveIeversaidabadwordto
+			youaboutyourfather?
+
+					ED
+			No.
+
+					AL
+			Well,nowIwill.Hewasacrazy
+			mean,son-of-a-bitch.
+
+	Alstartstowheelhimselfout.Edlooksweary.
+
+					AL(CONT'D)
+			Buthewasyourfather.
+
+
+127INT.ED'SBEDROOM-NIGHT
+	He'sasleep.
+
+
+128INT.CONTROLTRUCK
+	They'remonitoringhim.TheyseeEdWAKEUP.Theystir.
+	Sleepy,andscratchinghisass,hegoesintothebathroom.
+
+
+129INT.BATHROOM
+	Edshutsthedoor.HetakeshisPORTABLEPHONEOUTofa
+	bathroomdrawer.(Hestasheditthere.)Hemakesacalland
+	waits.
+
+					ED
+				(whispering)
+			Hi...it'sme,Ed.It'sbeentwo
+			days,Iwanttoseeyou...No,I
+			won'tletthemfollowme,I'11
+			sneakout...Noit'snotallowed,
+			butI'mgoingforit...I'monmy
+			way.
+
+	HetakesCLOTHINGOUTofthebathroomhamper.
+	untilhefindssomethingacceptable.
+
+
+130INT.CONTROLTRUCK
+	They'remonitoringtheemptybed.
+
+
+131INT.BATHROOM
+	Edisdressed.HeCLIMBSOUThisbathroomwindow.
+
+
+132INT.SHARI'SAPARTMENT-LATER
+	Shariopensherfrontdoor.
+
+					ED
+			Hi.
+
+	Shelooksdownthehallway.
+
+					ED(CONT'D)
+			They'renothere.
+
+	Hegoesin,grabsherandkissesherpassionately.
+
+					SHARI
+			Itriedtotellyouoverthe
+			phone--myparentswentto
+			AtlanticCity.
+
+					ED
+			So?
+
+					SHARI
+			Somylittlebrother'sstaying
+			here.I'msleepingwithRita.
+
+					ED
+			OhJe--couldn'thesleepwith
+			Rita?We'11allhaveagood
+			time.
+
+					SHARI
+			I'msorry.
+
+					ED
+			Comeon,let'sgo.
+
+					SHARI
+			Where?
+
+					ED
+			Somewhere.
+
+
+133INT.ED'SCAR-AFEWMINUTESLATER
+	Theygetin.Theylookateachother.
+
+					ED
+			Doyouwanttogotoamotel?
+
+					SHARI
+			Ifeellikeacriminalor,like
+			we'recheatingonsomeone.
+
+					ED
+				(nicely)
+			Just...justrelax.Okay?We
+			won'tdoanything.We'11just
+			sithereforawhile.
+
+					SHARI
+			Okay.
+
+					ED
+			Comeon...
+
+	Gentlyheputshisarmaroundher.Atfirst,shehesitates,
+	butthencurlsupagainsthimandrelaxes.
+
+					ED(CONT'D)
+			Ineedtotalk.
+
+					SHARI
+			Areyouallright?
+
+					ED
+			Sheliedtome.Imeanallmy
+			life,she'stellingmeonestory
+			andthen...itturnsouttobea
+			completelydifferentstory.Come
+			tomeatsomepoint--tellme
+			thetruth.No.Notinmyhouse.
+			Thetruthisastranger.And
+			thisiswhyRayandMarciaare
+			thewaytheyare.Marciagets
+			involvedwithalltheselosers
+			andseesnoproblemwithherself-
+			"Howdotheyfindme"shesays.
+			Raycheatsonyouandthenblames
+			meforit.I'mtheonlyonein
+			thefamilywhotakesany
+			responsibilityforhimself...Oh,
+			man...Areyouallright?
+
+					SHARI
+				(hesitantly)
+			Yeah...Isawthatgirlcomeon
+			toyouattheTVshow.
+
+					ED
+			Ohthatwas...no,I...shejust
+			kindoftrappedmeintogiving
+			heraride.It'syou.Iwant
+			you.
+
+					SHARI
+			...yeah?
+
+	HeTOUCHESher.TheyKISS.Thenagain.Theirhandsare
+	roaming.They'rehot.They'rebreathinghard.He's
+	unbuttoningherblouse.Theirhandsareallovereachother.
+	Herblousecomesoff.LIGHTSGOON.Theyseecameras,
+	shootingatthem.ShariSCREAMSandcoversherbreasts.
+
+
+134INT.TV-DAY
+
+					ANNOUNCER(V.O.)
+			Goodmorning.Welcometoanother
+			dayofEdTV.Lastnight,while
+			mostofuswereasleep...this
+			happened.
+
+
+135INT.FRATHOUSE-MORNING
+	FOURGUYSinadisgustinglymessyroom,watchingthereplayof
+	EdandShari.
+
+					FRATGUYS
+			Yes!!
+
+	TheyGYRATELEWDLY.
+
+
+136EXT.STREET-DAY
+	Shariisworking.Edisfollowingheraround.ShariisANGRY.
+	Thecamerasarethere.
+
+					SHARI
+			Getthemawayfromme.
+
+	ShetakesPACKAGESOUTOFtheTRUCKandTHROWSthematthe
+	cameramen.
+
+					ED
+			It'snottheirfault.
+
+					SHARI
+			No.It'syourfault.
+
+	Shethrowsapackageathim.
+
+					ED
+			Whatdoyouwantmetodo?You
+			wantmetoquittheshow?!
+
+					SHARI
+			No...Couldyou?
+
+					ED
+			No.IfIquitIdon'tgetthe
+			balloonpayment.
+
+					SHARI
+			Thewhat?
+
+					ED
+			Rayborrowedthiswholetubof
+			moneyagainstthisballoon
+			paymentthatIdon'tgetifIqu--
+			it'stoocomplicated.I--Besides...
+
+					SHARI
+			What?
+
+	Pause.
+
+					ED
+			Youseehowpeoplelookatme.
+			Likewhentheyaskformy
+			autographorsay"Hi"tome...
+			It'slikeI'mabasketballplayer
+			ora...youknow,likeI'm
+			someone.
+
+					SHARI
+			Everybody'ssomeone.
+
+					ED
+			Well,yeah,everybody'ssomeone.
+			ButImeansomeonetheywantto
+			be.Imeanlet'sfaceit,I'm
+			workinginthevideostore,no
+			one'scominginsaying"oh,I
+			wishIwasthatguy.1wish
+			wasrewindingthathugepileof
+			tapes."Atleastforamonth
+			I'mnotjustaguywithaname
+			tag.I'mfamous.
+
+	AGUYYELLSfromacrossthestreet.
+
+					GUY
+			Shari!Nicenipples.
+
+					ED
+			Andsoareyou.
+
+	GUYSkeepYELLING"Shari!"
+
+	Shetriestogoafterthem.Edholdsherback.
+
+					SHARI
+			Idon'twanttobefamousfor
+			gettingcaughtwithmyshirtoff.
+			IfI'mgoingtobefamous--
+
+	Thecameraisrightinherface.Shegrabsit.
+
+					SHARI(CONT'D)
+				(tothecameraperson)
+			Thisisgoingrightupyourass.
+
+					ED
+			Comeon.
+
+	Hereturnsthecamera.
+
+	Sharistartsforhertruck.
+
+					SHARI
+			Look...maybewejustbetterput
+			usonholduntilthisisover.
+
+	Shegetsinhertruck.
+
+					ED
+			Comeon!Loosenup.
+				(tryingtojoke)
+			See--thisiswhyseventy-one
+			percentofthepeopledon'tlike
+			you.
+
+	SheSLAMStheTRUCKDOOR.
+
+					ED(CONT'D)
+			Itwasajoke!A...vicious,
+			thoughtlessstupidjoke.
+
+	Hebangshimselfinthehead.
+
+	Shedrivesaway.
+
+	HeBOWS.
+
+					ED(CONT'D)
+				(tothecamera)
+			Andthat,foryoukidsoutthere,
+			ishowyouscrewuparelationship.
+
+
+137INT.ED'SAPARTMENT
+	Edenters.He'swornout.Heplopsdown,andputsontheTV.
+
+					ED
+				(tothecamera)
+			I'mgonnawatchanythingbutme.
+
+	Edisflippingstations.Somethingmakeshimstop.
+
+					ANNOUNCER(V.O.)
+			Comingintwoweekstothe
+			LifestyleChannel--Joma.His
+			Dad'sacop,hisbrother'sa
+			bouncerinatoplessbar,his
+			sisterisablack-beltsocial
+			worker--andJoma'slivingwith
+			twogals.
+
+	ANGLEONTHETV
+
+	WeseeJOMA.Hehasalotofcharisma.Heseemsalittle
+	dangerous,butinanexcitingway.
+
+					JOMA
+			Hey,Ed!I'mcomingtogetyou,
+			man!I'mgonnaeatyourightup!
+				(makesgobbling-up
+				noises)
+
+	ANGLEONED
+
+	Watching.He'sstunned.
+
+
+138	INT.NETWORKCONFERENCEROOM-DAY
+	They'rewatchingatapeofEdTV.Edhasjustenteredhisown
+	apartment.AWOMANisthere,sittingonhissofa.She's
+	caressingEd'sundershortsagainsthercheek.Edishighly
+	agitated.
+
+					ED
+			Howdidyougetintomy
+			apartment?!
+
+	TheBODYGUARDispullingherout.
+
+	REVEALthatScharlach,McIlvaine,Seaver,CynthiaandGregare
+	allwatching.
+
+					McILVAINE
+			Whatissheholding?
+
+					GREG
+				(calmly)
+			ApairofEd'sunderwear.
+
+					McILVAINE
+			OhmyGod!
+
+	ONtheTAPE,thewomanwhilebeingforciblyevicted,offers
+	theunderweartoEd.Edrecoils.
+
+					ED
+			No--keepit.
+
+					WOMAN
+			Iloveyou!1wanttomarryyou!
+
+	She'shauledout.Theystopthetape.
+
+					SCHARLACH
+			See--that'stelevision!This
+			otherthing,thisJama,thathas
+			"stink"writtenalloverit.
+
+					GREG
+			Thebreak-upwithShariwasvery
+			big.Bigratings.
+
+					SEAVER
+			Only,Cynthia,seriously.Tell
+			Ednottosneakoutanymore.
+
+					SCHARLACH
+			Cynthia...
+
+	Hewantsitaccomplished.
+
+
+139EXT.STREET-DAY
+
+					SEAVER(CONT'D)
+			It'sinviolationofhiscontract
+			andifwewantedtobehard-nosed
+			aboutit,hecouldforfeitall
+			pay,includingmoneyhe'salready
+			received.
+
+					CYNTHIA
+				(dutifully,butatad
+				resentfully)
+			Iwillseethathe'sproperly
+			threatened.
+
+					SCHARLACH
+			Nowwhat?What'sontheyoung
+			man'sagenda?Wedon'twantto
+			seehimsittingaroundlikea
+			lovesickpuppy.
+
+					GREG
+			YoungmalesdonotwanttoseeEd
+			getbackwithShari.
+
+					SCHARLACH
+				(impatiently)
+			Enoughwithher.Thatsailed.
+
+					McILVAINE
+			CouldEdlivewithtwogirls?
+
+					GREG
+			Youknowwhotheaudienceis
+			requestingalot?Thatgirl,
+			Jill,thatEdmetatthe
+			Lettermanshow.Shereally
+			scored.
+
+					SCHARLACH
+			Cynthia...
+
+	Hewantsitaccomplished.
+
+
+139EXT.STREET-DAY
+	Ediswalkingfromhiscartoabuilding.CROWDSarebehind
+	barricades.TheyYELLatEdashepasses.Edisusedtothis.
+
+
+140INT.SHARI'SBUILDING-DAY
+	RitaOPENSthedoorandseesEd.
+
+					RITA
+				(nervously)
+			Oh.Ed.
+
+					ED
+			Hi.IsSharihere?
+
+					RITA
+			No.
+
+					ED
+			Whatisshe,atwork?
+
+					RITA
+			Sheleft.
+
+					ED
+			Well,whenwillshebeback?
+
+
+					RITA
+			Shewon't.
+
+					ED
+			Whatareyoutalkingabout?
+
+					RITA
+			Sheleft.Shemoved.Shegot
+			Fed-Extogiveheratransferand
+			sheleft.Shecouldn'tstandit
+			anymore.Wehadpeople,news
+			people,regularpeople,just
+			sleepinginourhallway,going
+			throughourmail,ourgarbage.
+			Imeanitwasshecouldn't
+			takeitanymore.NowI'vegotto
+			move.Ican'taffordthisplace
+			bymyself.
+
+					ED
+			I'msorry.Where'dtheysend
+			her?
+
+					RITA
+			Shewouldn'ttellme.
+
+
+141INT.ED'SBEDROOM-NIGHT
+	He'sofftheair.He'salittledown.He'sONthePHONE-
+
+								INTERCUTWITH:
+
+142INT.CYNTHIA'SBEDROOM
+	She'sworkingoutanacontraption.
+
+					ED
+			Rememberwhenyouwere
+			interviewingme?
+				(detailstofollow)
+
+
+143EXT.PARK-DAY
+
+					CYNTHIA
+			Yeah.
+
+					ED
+			YouaskedmeifIhadadream.
+			Isaid"Sure,Ihaveadream.I
+			justdon'tknowwhatitisyet."
+
+					CYNTHIA
+			Greatline.
+
+					ED
+			WhatifShari'sthedream?
+
+					CYNTHIA
+			Ed,doyouwantmyadvice?
+
+					ED
+			Yeah,that'swhyIcalled.I
+			mean,maybeFed-Exwouldtellme
+			whereshemoved--
+
+					CYNTHIA
+			Leaveherbe.
+
+					ED
+			Yousaidawomanlikestobe
+			pursued.
+
+					CYNTHIA
+			Pursued,notharassed.Giveit
+			somespace.CanItellyou
+			something--asafriend?My
+			sisterwasgoingwithaguy
+			theyhitalittleroughspot
+			theystartedseeingotherpeople
+			theygotbacktogetherandlast
+			monththeyhadtheirthirdchild
+			Forwhatit'sworth.
+
+	OPENONANDY,Ed'shalf-Asiannephew.He'seight.He's
+	wearingabaseballglove.
+
+					ANDY
+			Throwmeahighone,UncleEddie.
+
+					ED(O.C.)
+			Okay.
+
+	REVEALED,alsowearingabaseballglove.Hethrowsahighpop
+	uptoAndy.Andystaggersaroundandalmostcatchesit.
+
+					ED
+			Oh!!
+
+					JILL(0.C.)
+			Wehavetostopmeetinglike
+			this.
+
+					ED
+			Hm?
+
+	REVEALJILL,walkingaDOG.ittakesjustasecondto
+	recognizeher.
+
+					ED(CONT'D)
+			Oh,hi.
+
+	Edishitwiththeball.
+
+					ANDY
+			Sorry.
+
+	REVEALtheRealTVStaffwatchingthisontelevisionintheir
+	office.AsEdandJillchatinthebackground.
+
+					ALICE
+				(toCynthia)
+			Didyouarrangethis?
+
+					CYNTHIA
+				(pointstotheTV)
+			Whosedogisthat?
+
+					ALICE
+				(surprised)
+			That'syourdog.
+
+	Cynthiadoesn'tevensmile.
+
+	MONTAGE
+
+	INTERSPERSEDINTHEMONTAGEARESHOTSOFPEOPLE
+	WATCHINGTHEMONTV
+
+	1.EdandJillgoingintoachicclub--usheredin
+	immediately.Here,asintheothertimesweseeher,Jillis
+	comfortablewiththesituation.She'stheoppositeofShari.
+	Sheposeswillingly.Shechatseasilywithpaparazzi.She
+	clingstoEd.There'snothingovertorobnoxiousabouther.
+	She'sjustcomfortableandgoodatitandalwayslooksgreat.
+
+	2.INTERVIEWwiththeguyswhodidn'tlikeShari.
+
+					GUY#1
+			Waytogo,Ed!
+
+					GUY#2
+			Now,we'retalking!
+
+	3.AN.Y.Poststory:
+
+		"ReadersPickJilloverShari."
+
+	Picturesofbothwomen.Jilllooksgreat.Shariisinher
+	uniformandlookslikeamouse.
+
+	4.SHARI
+
+	Inanewapartment.WatchingEdandJillonTV.She'svery
+	unhappy.Sheturnsitoff.
+
+	5.EdandJillatthenicerestauranthewasatwithShari
+	earlier.Itlookslikehe'sstartingtolikeher.
+
+	6.Edisrefereeingapro-wrestlingmatch.Hecountsoutthe
+	villainwho,then,jumpsupandchaseshimoutofthering.
+
+
+144INT.JILL'SAPARTMENT-NIGHT
+	"DAY47"
+
+	EdandJillareinaHEAVYLIPLOCK.Carlosisrighttherewith
+	thecamera.UnlikeShari,Jillseemsunself-conscious.She's
+	gettingEdprettyturned-on.
+
+	SHOTSofVIEWERS,alsoturnedon,especiallythemen.
+
+					JILL
+			Youwantto?
+
+	It'sclearwhatshemeans.Edisconflicted.He'sclearly
+	aroused.
+
+					ED
+			Um...It'skindof...
+
+	Helooksforhiswatchonthewrongwrist,thenseemstocheck
+	allaroundhisbodyuntilhediscoversit.
+
+					JILL
+			Areyoubusytomorrownight?
+
+					ED
+			No.
+
+					JILL
+			Whydon'tyoucomeover.And
+			I'11makedinner.Andyoubring
+			amovie.And...We'11makea
+			nightofit...okay?
+
+					ED
+				(nervously)
+			Sure.
+
+
+145EXT.STREET-DAY
+	Writtenonthescreen--"Day48"
+
+	Ediswalking,thecamerafollowing.Helookstense.People
+	SHOUT"Hey,Ed""Ed-die"etc.
+
+	ANGLEONANEWSPAPERVENDINGMACHINE
+
+	TheNewYorkPostfrontpage--"IstonighttheNight?"witha
+	pictureofEdandJillkissing.
+
+	ANGLEONED
+
+					ED
+			Ohman...
+
+					CONEDGUY
+			Hey,Eddie.
+
+	Edlooksup.
+
+					CONEDGUY(CONT'D)
+				(givingthe"thumbs
+				up")
+			Goforit!
+
+	Edcontinuesdownthestreet.PeopleYELLtohim"Goodluck
+	tonight,""We'rerootingforyou"etc.
+
+	ASTREETCHARACTERwalksalongsideforaminute.
+
+					STREETCHARACTER
+			Hey,man.ThisisHaitianLoveJuice.
+				(heproducesavial)
+			Yougiveherthis,shebeyours.
+
+	Securitygrabshimandthevialfallsandbreaks.Theliquid
+	hitsthepavementandsmokesup.
+
+					ED
+				(lookingatthesmoke)
+			Jesus!
+
+	Moreshouts"Begentle","We'11bewatching","Useacondom"etc.
+
+	ASCHOOLBUSpasses.TheKIDSYELLoutthewindowtoEd.
+
+					KIDS
+				(inunison)
+			Goodluck!
+
+
+146EXT.MOVIETHEATRE-NIGHT
+	Thereisnoline.AtTICKETTAKERsits,bored.Nooneis
+	goinginorcomingout.
+
+
+147EXT.STREET
+	It'sdeserted.
+
+
+148EXT.RESTAURANT
+	It'sempty.TheHEADWAITERstandsinthedoorwaywithnothing
+	todo.
+
+
+149INT.LIVINGROOM
+	APARTYisinprogress.TheTVison.OnTVEdisinaliquor
+	store,buyingabottleofwine.Edisdressedforhisdate.
+	ThepeopleatthepartyarewatchingTVandcommenting.It's
+	likeaSuperbowlparty.
+
+					VOICE(O.C.)
+			What'shedoing?
+
+					PARTYGOER
+			He'sbuyingwine!
+
+
+150INT.BEDROOM
+	Severalhigh-schoolageBOYS.Theyhavemadethemselveslook
+	likeEd.They'reveryexcited.
+
+					TEEN-AGEBOY#1
+			Youthinkhe'sgonnadoit?
+
+					TEEN-AGEBOY#2
+			Hellyeah.Theguyhasn'thad
+			anysexinsixweeks.
+
+					TEEN-AGEBOY#3
+			Neitherhavewe.
+
+
+151EXT.STREET
+	Ed'scarturnsthecornerandheseesaCROWDgatheredaroundJill's
+building.
+
+
+152EXT.BUILDING
+
+					ED
+				(understating)
+			I'mstartingtofeelalittle
+			pressure.
+
+	EdcarryinghiswineenterstoAPPLAUSEandCHEERS.
+
+
+153EXT.RESIDENTIALSTREET
+	ALONGSHOTencompassesallthehousesontheblock.Their
+	livingroomTV'sarevisible.AllbutonearetunedtoEd.
+
+
+154INT.JILL'SKITCHEN
+	Somethingiscooking.Jillpicksupaplateofsomething-
+	dipandcutvegetablesforinstance.Shestartstoexitthe
+	kitchenasEdandCarlosenter.EdandJillhaveasoft
+	collision.
+
+					JILL
+			Oh.
+
+					ED
+			CanIhelpwithanything?
+
+					JILL
+			No.It'sgoingtobeabouta
+			half-hour.
+
+					ED
+			Whatis?Oh,dinner!
+
+	SELF-CONSCIOUSLY.Hetakesavegetable,dipsitandeatsit.
+
+					ED(CONT'D)
+			Mm.
+
+					JILL
+			Good?
+
+					ED
+			Mm.
+
+	Theylookateachother.Jillleansforwardandkisseshim.
+	Sheputsthetrayofvegetablesonthecounter.Theycontinue
+	tokiss.
+
+
+155INT.BEDROOM
+	ThehighschoolboysareCHANTING.
+
+
+156INT.DORMROOM
+
+					BOYS
+			Ed--Ed--Ed--Ed...
+
+	COLLEGEGIRLS(sameonesasbefore).
+
+					COLLEGEGIRL#1
+			Oh,Ihopeshemakeslovetohim!
+
+					COLLEGEGIRL#2
+			Ithoughtyoudidn'tlikeher.
+
+					COLLEGEGIRL#1
+			Idon't,butIwanthimtobe
+			happy-
+
+	RAPIDSHOTSofotherVIEWERS,watching,transfixed--
+
+
+157INT.JILL'SAPARTMENT
+	EdandJillaremakingout.Theybegintakingeachother's
+	clothesoff.They'repassingthepointofnoreturn.It's
+	goingtohappenrightthereinthekitchen.
+
+	EdandJill,inheavyheat,backuptothekitchentableand
+	climbontoit.Theycontinuetopullattheirownandeach,
+	other'sclothing.They'remakingpassionatenoises.
+
+
+158INT.SHARI'SAPARTMENT
+	Shariisnotwatchingtelevision.She'seatingalittlemeal
+	she'smadeforherself.SheHEARSPEOPLEinherbuilding
+	cheeringandwhooping.Shelooksmiserable.
+
+
+159INT.CONTROLTRUCK
+
+					DIRECTOR
+				(slightlypanicky)
+			Someonesaytheword,howfarcan
+			wegohere?
+
+
+160INT.REALTVOFFICE
+	Cynthiaandherstaffarewatching.CynthiaisONTHEPHONE-
+
+					CYNTHIA(intophone)
+			Staywiththem...don'tleave
+			yet...notyet...
+
+	JillisontopofEd.Carriedawaywithpassion,Edattempts
+	torollheroverandgetontop.Hedoes,butrollstoofar.
+	Hecrashesoffthetable,tothefloor,faceup.
+
+					ED
+				(inpain)
+			Ohhh...
+
+					JILL
+			Ed?
+
+					ED
+			Ohh...doyouownacat?
+
+					JILL
+			Yeah.Why?
+
+	Helooksatherapologetically.
+
+
+161EXT.JILL'SBUILDING
+	EdisbeingloadedintoanAMBULANCE.Helookshumiliated.
+	PEOPLEinthestreetareapplaudingpolitelyasifEdwerean
+	injuredballplayerbeingcarriedoffthefield.Jillisbythe
+	ambulance.She'sPETTINGaCATwholooksallright.
+	PHOTOGRAPHERSaretakingherpicture.She'sposingwillingly.
+	TheambulancedrivesoffasJillcontinuestopose.
+
+
+162INT.TVSTUDIO
+	Writtenonthescreen--"Day49"
+
+	Thetapingof"TheTonightShow"or"theLateShow"--once
+	again,whicheverwehaveaprayerofgetting.TheMONOLOGUEis
+	inprogress.
+
+					JAY(ORDAVE)
+				(mockannoyed)
+			SoIguessyouwereallwatching
+			Edlastnight.
+
+	TheAUDIENCEgoeswild.
+
+					JAY(CONT'D)
+			Thisgotthehighestratingof
+			theyear,sincetheSuperBowl.
+			Iguessthatmakessense.After
+			all,EdisnowtheBuffaloBills
+			ofsex.
+
+	BIGLAUGHS
+
+
+163INT.RESTAURANT-DAY
+	ScharlachEATING.He'sstunned.
+
+					SCHARLACH
+			What?!
+
+	REVEALCYNTHIA
+
+					CYNTHIA
+			Takehimofftheair.
+
+					SCHARLACH
+			Whatareyoutalkingabout?He's
+			fine.He'soutofthehospital
+			already.Theratingsarehigher
+			thanever.
+
+					CYNTHIA
+			I'mtellingyou,it'speaked.Ed
+			TVisanover-inflatedballoon.
+			Getitoffbeforeitexplodesall
+			overus.
+
+	Hethinks.
+
+					SCHARLACH
+			Withallduerespect,Cynthia
+			you'renuts.I'mgivinghim
+			anothermonth!
+
+					CYNTHIA
+				(coldly)
+			Goodluck.
+
+
+164EXT.STREET-DAY
+	"DAY54"
+
+	Ediswalking.He'swearingawhite,Velcrosupportaroundhis
+	waist.He'sagitated.He'scarryingacopyoftheNewYork
+	Post.
+
+					ED
+			Lookatthis!
+
+	WESEEaheadline--"Ed:SheBrokeMyheart."
+
+					ED
+			Shedidnot!
+				(venting)
+			Youknowwhatshedid?
+
+					ED(CONT'D)
+			ShewentouttoCaliforniaand
+			gotoneofthosescandalagents.
+			Oneofthoseagentswhohandle,
+			like...GenniferFlowersand...
+			KatoKaelinandJoeyButtafuco.
+			That'swhatshe--
+
+	AGUYYELLSATED
+
+					GUY
+			HeyEd!...Shewasalittletoo
+			muchforyou,huh?Mustrunin
+			thefamily.
+
+					ED
+				(angry)
+			Oh--likethisguy'severbeen
+			withawoman.
+				(yells)
+			HowaboutIkickyourass'til
+			thecrackgoestheotherway?
+				(tothecamera)
+			Allofasudden,I'mlikefair
+			gameforeveryone.I'mlike--
+
+	Hestopsandlookslikehe'sinshock.Hestaresinthrough
+	thedisplaywindowofabookstore.
+
+	ANGLEON,
+
+	abigDISPLAYofcheap,rushed-out,exploitationbooks.Onthe
+	coverweread"MyBrotherPissedOnMeByRaymondL.Pekurny.11
+	Andthere'sanoldphotooftwolittleboys.(EdandRay)
+
+					ED
+			Ohmy--Hewroteabook?!Ray
+			wroteabook?!Heneverreada
+			book!
+
+
+165INT.HALLWAY-NIGHT
+	"DAY58"
+
+	It'sthehallwayofacheaphotel.Edandthecameracomeoff
+	theelevator.Edlooksatroomnumbers.HecanHEARthenoise
+	fromalltherooms.Aradio--adomesticdisturbance--a
+	babycrying--it'sahorror.HeKNOCKSONadoor.
+
+					HANK(O.C.)
+			Whoisit?
+
+					ED
+			It'sEd.
+
+	ThedooropensREVEALINGEd'sfather.
+
+					HANK
+			Ed!Comein-
+
+	Theyenter.
+
+
+166INT.HOTELROOM
+	It'sdepressing.There'saliquorbottleonthedresser.Ed
+	seesit.
+
+					HANK(CONT'D)
+			How'veyoubeen?
+
+	EdSHRUGS.
+
+					HANK(CONT'D)
+			Theydon'tgetcablehere,so1
+			can'twatchyou.
+
+	EdjustGRUNTS.
+
+	HanktakesLAUNDRYoffachair.
+
+					HANK(CONT'D)
+			Sitdown.
+
+	Hedoes.Helooksaround.
+
+					HANK(CONT'D)
+			Quiteashithole,isn'tit?
+
+					ED
+			Itcouldbe,ifyoufixeditup.
+			Howdidyou...?Imeanhowdoes
+			anyone...winduplikethis?
+
+					HANK
+			Iwasinjail.
+
+					ED
+			Thewholetime?Eighteenyears?
+
+					HANK
+			No.Twotimes.
+
+					ED
+			What...
+
+					HANK
+			Checkforging.
+
+					ED
+			Oh,man!So...
+
+					HANK
+			Thelasttwoyears,I'vebeena
+			limousinedriver,butIdon'tsee
+			wellanymore,so...
+
+					ED
+			SoyousawmeonTVandyousaid
+			"Hey,letmejumponthis."
+
+					HANK
+			Ineedhelp.Howmanytimesif
+			justonelittlethingthatI
+			neededwould'vehappened,it
+			would'vechangedeverything.If
+			Ihadafewdollarswhenan
+			opportunitycamealongor...the
+			tumblersjustneverclickedfor
+			me.
+
+	Eddoesn'tknowwhattosay.He'sbittertowardsHank,but
+	there'salsosomeempathy.
+
+					ED
+				(tothecamera)
+			Allright...Thisismyfather,
+			Idon'tknowwhatthehellhecan
+			do,butifanyoneouttherecan
+			helphim--gethimajob-
+			I'11...helpyou.I'11...
+			mentionyourbusinessor...I
+			don'tknow,we'11figureitout.
+				(quickly,toHank)
+			Igottago.
+
+					HANK
+			Ed...I'msorry.
+
+					ED
+				(stillbitter)
+			Yeah?That'sgood.Sorryis
+			good.YouknowIfinishedthat
+			model.
+
+					HANK
+			What...
+
+					ED
+			Thepirateship.
+
+	Hanklooksblanklyathim.
+
+					ED(CONT'D)
+			--Thatweweredoing"together."
+			Ifinishedit.Itcameoutgreat!
+			Becausenoonewasstandingover
+			myshoulderbotheringme-
+			"That'stoomuchglue.You're
+			usingtoomuchglue."
+
+					HANK
+			Doyoustillhaveit?
+
+					ED
+			No.Raysatonit.I'11seeyou.
+
+	Heexits.Outinthehallway,heleansbackagainstthedoor,
+	drained.Thecameraisrightonhim,soakingitup.
+
+
+167INT.TVSTUDIO
+	ThesamePBS-typepanelofsmart-lookingpeoplewemetearlier.
+	WEOPENONabouthalfthepanel.
+
+					MODERATOR
+			Let'shearfromourguest
+			panelist.You'veexpressedsome
+			interestingthoughtsonthis,
+			subject.Whatdoyouseeasthe
+			meaning,ifthereisany,ofEd
+			TV,John.
+
+	REVEALJOHN,sittingcomfortablyonthepanel,lookingvery
+	wise.
+
+					JOHN
+			IfeelthatEdistheapotheosis
+			ofaprevailingAmerican
+			syndrome.Itusedtobethat
+			someonebecamefamousbecause
+			theywerespecial.Nowpeople
+			areconsideredspecialjustfor
+			beingfamous.Fame,itself,is
+			nowamoralgoodinthiscountry.
+			It'sitsownvirtue.
+
+	TheothersNODappreciativelyasJohnputsaPIPEinhismouth.
+
+	TVINTERVIEWS
+
+					OLDGUY
+			IwasEd'sLittleLeaguecoach.
+			Hehadnocoordination.Thebig
+			game,hestruckcutwiththe
+			basesloaded.Thenhecriedlike
+			awoman.Itwassickening.
+
+								CUTTO:
+
+					OLDWOMAN
+			Iwashisthirdgradeteacher.
+			Isaid"Takehimfortests.
+			There'ssomethingwrongwith
+			him."Theydidn'tlisten.
+
+								CUTTO:
+
+					ANOTHERGUY
+			Heusedtostealthingsfrommy
+			store.AtleastIthinkitwas
+			him.Yeah,itwasprobablyhim.
+
+
+168EXT.ED'SAPARTMENT-DAY
+	AMAN,onthesidewalk,hasaSTUFFEDCATstucktohisbackto
+	teaseEd.
+
+					CATMAN
+			Hey,look,Ijustfelloffa
+			table!
+
+	Suddenly,aTUBFULOFWATERcrashesdownonhim.
+
+
+169INT.ED'SAPARTMENT-CONTINUOUS
+	Edatthewindow,withanowemptyplastictub.
+
+					ED
+				(yellingdown)
+			Okay,isthatfunny?
+
+	Thenhethrowsthetuboutthewindow.
+
+					ED(CONT'D)
+				(tothecamera)
+			Howwasthat?Wasthatfunny?!
+
+
+170INT.NETWORKOFFICE
+	"DAY78"
+
+	Again,everyonethere,includingCynthia.AHonchoisreading
+	areport.
+
+					HONCHO#1
+			Ofmoreconcernthanthesagin
+			Ed'sratingsiswhatviewersare
+			feelingabouthimnow.The
+			positivesaredownandthe
+			negativesareup.
+			There'safeelingthatEdisn't
+			coolanymore.We'restartingto
+			seeabigL.F.
+
+					GREG
+			Hm?
+
+					HONCHO#1
+			L.F.LoserFactor.
+
+					HONCHO#2
+			That'sdeadly.
+
+					McILVAINE
+			Notnecessarily.Imeaninstead
+			ofrunningfromtheL.F.,run
+			withit.Createmoremoments
+			likethetablething.Wecan
+			packageavideo"Ed'sGoofiest
+			Moments."LethimbeAmerica's
+			Goofball.
+
+					CYNTHIA
+			Isn'tthisgettingkindof
+			pathetic.Imeanwedrankthe
+			juice,nowwe'rejustlicking
+			peel.Letitgo!
+
+					SCHARLACH
+			Cynthia,Ithinkyou'relaboring
+			underamisconception.Youseem
+			tobelievethatbecauseyou
+			happenedtopredictthis,we
+			shouldbeimpressed.We'renot.
+			Anybodyinanybusinesscan
+			predictfailure.1needpeople
+			whopreventfailure.Iwantto
+			seethisthingturnedbackinthe
+			rightdirection.Rememberthis
+			wasyourbaby.
+
+
+171INT.BAR-NIGHT
+	"DAY94"
+	TadandBarry--aswemetthem,originally--arewatchingTV.
+	They'rereallyenjoyingit--laughing,poundingthetable.
+
+					TAD
+			Idon'tknow,Istilllovethisguy.
+
+					BARRY
+			YeahonlyIwishtheyhadthe
+			sisteronmore.
+
+					TAD
+			Ooh,thesister!Sheishot.
+
+					BARRY
+			Youknowit.
+
+	REVEALthattheyarewatchingJoma.OntheTV--Jomais
+	eatingdinnerinhisapartmentwithTWOattractiveWOMEN,who,
+	apparently,bothlivethere.Jomaisupset(buthe'sfunny
+	whenhe'supset).What'supsettinghimisthatacrossthe
+	alley,inawindowofanotherbuilding,hecanplainlyseean
+	OVERWEIGHTMAN,withhisshirtoff,exercising.Theoverweight
+	manisapparentlywatchinganexercisevideoandisbouncingup
+	anddowninplacecausingeverythingtojiggleunpleasantly.
+
+					JOMA'SFRIEND
+			Ignorehim.
+
+					JOMA
+			Ican't!It'slikeamudslide.
+				(screamsoutthe
+				window)
+			Putonashirt!
+
+	ANGLEONTADANDBARRY,HYSTERICAL
+
+	ANGLEONTV
+
+					JOMA(CONT'D)
+				(yelling)
+			Isupportthefactthatyour
+			exercisingbut,fortheloveof
+			God,putonashirt.
+
+					JOMA'SFRIEND
+				(toJoma)
+			Shutthecurtains.
+
+					JOMA
+			No!Lethimshutthecurtains.
+
+	TADANDBARRY
+
+	Laughingandwipingtheireyes.
+
+
+172INT.ED'SBEDROOM
+	Offtheair.EdONthePHONE.
+
+	INTERCUTWITHCYNTHIA
+
+					ED
+			ThisJomaissophoney!Imean,
+			thosethingsaren'treally
+			happening.Ithinktheyhave
+			writersmakingthatstuffupfor
+			him.Hey,couldn'twedothat?
+			Hiresomewritersandhavethem
+			writeupsomecrazysituationsI
+			couldgetinto?
+
+	She'slistening,amazed.
+
+					CYNTHIA
+			Ed,everythinggoesoff.
+			"Cheers"wentoff."Mash"wentoff--
+
+					ED
+				(gettingangry)
+			Yeah,butwhentheywentoff
+			peopleweren'tmakingfunof
+			them.Theyweren'tbozos!I'm
+			PumpkinAssagain!
+
+					CYNTHIA
+				(gettingannoyed)
+			Ed--
+
+					ED
+			Youknow,everythingyouaskedme
+			todoIdid.Icallyoufor
+			adviceaboutShariyousay-
+				(mockingimitation)
+			"Leaveherbe,seeotherpeople
+			forawhile."Youjustwantedme
+			togetinvolvedwithJillbecause
+			itmadeforabettershow.
+
+					CYNTHIA
+			Ed--
+
+					ED
+			No.Youscrewedupmylifejust
+			soyoucouldgethigherratings.
+			Younevergaveashitaboutme.
+
+					CYNTHIA
+			Yeah?WellI'mnotstartingnow.
+
+	SheHANGSUPandhasanacidreflux.
+
+
+173INT.POOLHALL-NIGHT
+	EdandJohnareplaying.
+
+					JOHN
+			Look,youputanybodyonTV
+			sixteenhoursaday,atsome
+			pointthey'regoingtowindup
+			rollingoffatableontoacat.
+			Imeanwithnoprivacy,there's
+			no...dignity.
+
+	Edthinks.
+
+	Pause.
+
+					ED
+			Youknowaboutthatfiremanwho
+			rescuedthatlittlegirl?
+
+					JOHN
+			When?Today?
+
+					ED
+			No!Like,tenyearsago.In
+			Texas.Baby...
+				(triestoremember)
+			Jessica!
+
+					JOHN
+			Ohright,right!Shefelldown,
+			likea...
+
+					ED
+			Yeah,athing.Hebecameabig
+			hero.HewasonTVandtherewas
+			aparadeandamovieabouthim
+
+					JOHN
+			Right,right...
+
+					ED
+			Andthen,uh...youknowitblew
+			overandhewentbacktobeinga
+			firemanagain.
+
+					JOHN
+				(cheerfully)
+			Right.
+
+					ED
+			Sohekilledhimself.
+
+					JOHN
+				(alittleshaken)
+			Oh.
+
+	SILENCE.ThecellphoneRINGS.
+
+	EdPICKSUPthephone.
+
+					ED
+			Hello.
+
+	INTERCUTWITHJEANETTEINAHOSPITAL
+
+	She'scrying.
+
+					JEANETTE
+			Eddie...
+
+					ED
+			Mom?
+
+					JEANETTE
+			I'matthehospital.
+
+					ED
+			What'sthematter?!
+
+					JEANETTE
+			He'sdead!Eddie,he'sdead!It
+			washisheart.
+
+					ED
+			OhGod.Whathospital?
+
+					JEANETTE
+			St.Joseph's.
+
+					ED
+			I'mcomingrightover.I'llberightthere.
+
+	Hehangsup.
+
+
+174INT.TAD'SHOUSE
+	TadiswatchingTVandtalkinganthephone.
+
+					TAD
+			Itoldyou!Itoldyouhewas
+			gonnadie!
+
+
+175INT.HOSPITAL-ANHOURLATER
+	Edrushesin.Hegoesuptothedesk.Carlosiswithhim.
+
+					ED
+			Hi.I'mlookingformymother.
+			Hernameis--
+
+	ADOCTORspotshim.
+
+					DR.GELLER
+			Mr.Pekurny.
+
+					ED
+			Yes?
+
+					DR.GELLER
+			I'mDr.Geller.Yourmotheris
+			justlyingdownforafew
+			minutes.wegavehersomething
+			tocalmherdown.
+
+					ED
+			Thankyou.CanIseeher?
+
+					DR.GELLER
+			Justwaithere.She'scoming
+			rightbackout.
+
+					ED
+			Mm...
+				(wearily)
+			Oh,man...
+
+					DR.GELLER
+				(sympathetically)
+
+					ED
+			Whatabouthim--didhesuffer
+			anyorwasitquick?I'dhateto
+			thinkhe...
+
+					DR.GELLER
+			Veryquick.Betweenyouandme,
+			it'snotabadwaytogo.Making
+			lovetoyourwife...it'svery
+			sweet.
+
+					ED
+			Really?Theywere..
+
+					DR.GELLER
+				(nods)
+			Accordingtoyourmother.When
+			theparamedicsgottothehotel,
+			shetoldthemthat--
+
+					ED
+			Hotel?Whatweretheydoingin
+			ahotel?
+
+					DR.GELLER
+			I...don'tknow.I...
+
+					VOICE(O.C.)
+			Eddie.ThankGodyou'rehere.
+
+	EddielooksacrosstheroomandseesAlinhiswheelchair,just
+	enteringfromoutside.HewheelstowardsEd.
+
+					AL
+			How'syourmother?
+
+					ED
+				(shocked)
+			Al!
+
+					AL
+			Ourneighborsgavemearide.
+
+					ED
+			Al!!
+
+					AL
+			Whereisshe?Issheallright?
+
+	Edturnstothedoctor.
+
+					ED
+			Ithought--Ithoughthewasdead.
+
+					DR.GELLER
+			Who?
+
+					ED
+			Al!
+
+					DR.GELLER
+			No.
+				(readshischart)
+			Thedeceasedis...HenryPekurny.
+
+
+176INT.TAD'SHOUSE
+
+					TAD
+				(stunned)
+			Goodtwist!
+
+
+177INT.HOSPITAL
+
+					AL
+			Youthoughtitwasme?
+
+					ED
+			Yes!
+
+					AL
+			It'syourfather.Hank.Your
+			motherwenttoseehimandhehad
+			aheartattack.
+
+					ED
+			Went--
+
+	Again,Edturnstothedoctor.
+
+					NURSE
+			Dr.Geller,Dr.Stackwantstoseeyou.
+
+					DR.GELLER
+				(toEd)
+			Excuseme.
+
+					NURSE
+				(toEd)
+			CouldIgetyourautographformyniece?
+
+					ED
+				(distracted)
+			Um...yeah...
+
+	Jeanetteenters.
+
+					JEANETTE
+			Al!Howdidyou--
+
+					AL
+			TheBurkhartsdroveme.Areyou
+			allright?
+
+					JEANETTE
+				(nervously)
+			I'mfine.I...
+
+					AL
+			Good.Igottapee.
+
+	Hewheelsoff.JeanetteandEdareleftalone.
+
+					ED
+				(loudwhisper)
+			Whathappened?
+
+					JEANETTE
+			Itwashorrible.Hecalledmeup.
+
+					ED
+			Who?
+
+					JEANETTE
+			Hank!Hesaidhewantedtotalk
+			tometoapologizeforeverything
+			hebegged--hecried.
+			SoIwenttothishorriblehotel
+			hewasstayingin...Ifeltso
+			sorryforhim--
+
+					ED
+			Soyouhadsexwithhim?
+
+	JeanetteGASPS.
+
+					JEANETTE
+			What?
+
+					ED
+			Thedoctorsaidyouwerehavingsex.
+
+					JEANETTE
+				(horrified)
+			Toyou?Infrontofhim?
+				(indicatesCarlos)
+			Withthe...
+
+					ED
+			Yes.HeassumedHankwasyour
+			husband.Hedidn'tknow.
+
+					JEANETTE
+			Ohmygod!OnTV!
+
+					ED
+			Why?How...
+
+					JEANETTE
+			Onethingledtoanother.Hewas
+			myhusbandonce.
+
+					ED
+			ButAlisyourhusbandnow!
+
+					JEANETTE
+			Doyouthinkit'sbeeneasyfor
+			me?It'sbeenyears.Alcan't
+			havesex.
+
+					ED
+			Apparently,neithercanHank.
+			Whatthehelldidyoudotohim?
+
+	Alcomesrollingback,SINGING.
+
+					AL
+			"LovelyRita,theMeterMaid...
+
+
+178INT.TVSTUDIO
+
+					JEANETTE
+				(whispers)
+			Don'ttellAl.Hedoesn'tknow.
+
+					ED
+				(pointstothecamera)
+			Well,he'stheonlyonein
+			Americawhodoesn't!
+
+	OPRAHorRICKIorGERALDOorsomeone.
+
+					OPRAH
+			Womenwhoremarrybuthavesex
+			withtheirfirsthusbands.on
+			today'sOprah.
+
+
+179INT.TVSTUDIO
+	Oursamepanelofpundits.
+
+					PANELIST#3
+			Ed'sfamilyisthetipofthe
+			iceberg.Youwatchthedaytime
+			tabloidshowsit'sthesame
+			thing.I'mtellingyou,America
+			isfastbecomingatrailerpark.
+
+					PANELIST#2
+			Let'snotoverstatethecase.
+			Therearemillionsofhard-
+			working,sensible,moral,
+			educatedpeopleinthiscountry.
+			NoteveryfamilyislikeEd's.
+
+	REVEALEDwatchingthisdiscussiononTV.
+
+
+180INT.TVSTUDIO
+	DAVEORJAY
+
+	ACHARTissetupwithlittlepictures.
+
+					DAVE/JAY
+			Solet'srecap.Themother'stoo
+			goodatit,bothbrothersstink
+			atit.
+				(there'sadrawingof
+				afigurefallingof
+				atable)
+			Thestepfathercan'tdoitat
+			allandthefatherdiditbutit
+			killedhim.
+				(there'sadrawing
+				ofatombstone)
+			Howdidthisfamilyeverreproduce
+			inthefirstplace?
+
+
+181EXT.CEMETERYGATES-DAY
+	EdisdrivingJeanetteandAltothefuneral.ACROWDisheldbackby
+	POLICE.Someoneyells"Adulterer".SomeoneelsetriestoofferEda
+	lunchbox.Someoneelseiscarryingasign"WhataWaytoGo".
+
+
+182EXT.CEMETERY-DAY
+	Hank'sCOFFINisbeingcarriedtohisgravesite.Ed,RayandMarcia
+	arepallbearers.OneoftheotherspallbearersisEd'sBODYGUARD.
+	TheOTHERSTWOaretwoguyswhoworkforthemortuary.Carlosis
+	shooting.
+
+					ED
+				(toRay)
+			You'renotgoingtotalktome?
+			You'renotevengonnasayhello?
+
+					RAY
+			Ihavenothingtosaytoyou.
+
+	Edgivesup.HeturnstoMarcia.
+
+					ED
+			Howareyoudoing?IsCliffhere?
+
+	Shedoesn'tanswer.Edreacts.
+
+					RAY
+			Clifflefther,thankstoyou.
+
+					ED
+			Me?!
+
+					RAY
+			That'sright.YouputCliffon
+			television.Sothenhedecidedhe
+			wastoogoodforherandheleft.
+
+					ED
+			Iputhis--who--
+				(toMarcia)
+			Look,Marsh,he'snotthatgood
+			asinger,he'llbeback.
+
+					MARCIA
+				(tooloudly)
+			That'snotfunny!!
+
+	EdCRINGES.
+
+
+183EXT.GRAVESITE-ALITTLELATER
+	Theserviceends.Thesmallgroupbeginstowalkaway.Ray
+	andMarciagoofftogether,ignoringEd.Jeanetteis
+	attemptingtowheelAlawayfromthegrave,butshe'shitting
+	ruts.Edapproaches.
+
+					ED
+			I'11takeit.
+
+					JEANTTE
+				(toAl,uncomfortably)
+			Sweetheart,I'mgonnagoahead
+			andsignallthepapers.
+
+					AL
+			Right.
+
+	Shetoucheshimbuthepullsaway.EdwheelsAl.
+
+					ED
+			Arethingsgonnabeokaywithyou
+			andMom?IsthereanythingIcan--
+
+					AL
+			I'mmovingout.
+
+					ED
+			What?!
+
+					AL
+			I'mgoingtobelivingwithmy
+			brother.He'snotinsuchgood
+			shapeasIam,but...I'mlooking
+			forwardtothepillowfights.
+
+					ED
+				(reallyupset)
+			Oh,Al...Thisisjust...
+
+					AL
+			Hankwasalwaysgoodwiththe
+			ladies.Alwaysgood-looking.
+			Hell,he'sbeendeadfortwo
+			days,hestilllooksbetterthan
+			me.
+
+	HestopswheelingandcrouchesdownnexttoAl.
+
+					ED
+			Iwanttotellyousomething...
+			Iloveyou.You'remyfather.
+
+	Pause.
+
+					AL
+			Iloveyou,too.
+
+	AlKISSEShim.
+
+					AL(CONT'D)
+			I'11buildapirateshipwith
+			you.
+
+	Edwheelshimaway.
+
+
+184INT.CYNTHIA'SOFFICE
+	She'swatching.She'sgenuinelymoved.Shewipeshereyes.
+
+
+185INT.BAR-NIGHT
+	Thisplaceissleazy.Edenters,wornout.Hecrossestothe
+	barwherewefind,Jeanettenursingadrink.She'snotdrunk,
+	butsheiswallowing.
+
+					ED
+			Hi,Ma.
+
+					JEANETTE
+				(startled)
+			Ed!HowdidyouknowIwashere?
+
+					ED
+			You'refamous.Somebodycalled
+			me.Whatareyoudoingina
+			placelikethis?
+
+					JEANETTE
+			Whyshouldn'tIbeinaplace
+			likethis?I'mawhore!
+
+					ED
+				(cringes)
+			Ma...
+
+					JEANETTE
+			I'matramp
+				(pullsonthesleeveof
+				themannexttoher)
+			Meetyournewfather.Thewhole
+			nationislaughingatus!
+
+					ED
+			Andhowisthishelping?comeon
+			say,good-nighttoallyournew
+			friendsandlet'sgohome.
+
+					JEANETTE
+				(exiting)
+			I'mawhore!
+				(yellsatanemployee)
+			Yourbathroomsarefilthy!
+
+	They'reout.
+
+
+186EXT.BAR-CONTINUOUS
+	EdishelpingJeanette.Rayarrives.He'sANGRY.
+
+					RAY
+			I'11takeher.Youhumiliated
+			ourmotheronnational
+			television.You'vesingle-
+			handedlydestroyedthisfamily.
+
+					ED
+			I--Oh,butthatbookyouwrote
+			wasareallove-letter.That...
+			toiletpaperwithcovers.
+
+					BYSTANDER#1
+			Thatbooksucked.Iwantmy
+			moneyback.
+
+					ED
+			Ohgreat.Where'sMoe?
+
+	Helooksaround.Moeisgone.
+
+					RAY
+			Comeon,Ma.
+
+					ED
+				(toRay)
+			Let'srememberhowIgotinto
+			this."Please,Eddie,dothis
+			forme.Ican'tgetabreak."
+				(pretendstocry)
+
+					RAY
+			Youknowwhatyourproblemis?
+
+					ED
+			Yeah.MyproblemisI'vegota
+			brotherwhowritesasentence
+			like"Wegrewupinasmall,
+			littlebedroom."Asopposedto
+			abig,littlebedroom?
+
+					RAY
+			Igotpaidbytheword!No!
+			Yourproblemisyoudon'tever
+			wantanythingtobeyourfault.
+
+					ED
+			Me?!That'syou!
+
+					RAY
+			Icommit.Itakeachance.You
+			wantedtobetheguyonTV,but
+			youdidn'twanttosayyouwanted
+			to.Soyouhavemetalkyouinto
+			itsoyougetwhatyouwant,but
+			ifitgoesbadit'snotyour
+			fault.
+
+					BYSTANDER#2
+			Right.Likeyousayyoulove
+			Shari,but,youwouldn'tmind
+			noodlingthatmodel.
+
+					ED
+			Moe!
+
+					BYSTANDER#3
+			Thetruthhurts.
+
+					ED
+			Yeah?Sodoesakickinthe
+			nuts.
+
+					RAY
+			Foronceinyourlife,behonest
+			withyourself.Iknowyou,Ed.
+			IknowyoulookatmeandMarcia
+			andMomandyouthinkyou're
+			different.
+			You'relike"HowdidIendupin
+			thisfamily?"You'renot
+			different.you'reworse.
+			Becauseyouhavenoguts.
+			Youdriftaround,youdon'tcommit,
+			youmakefunofme--okay.Just
+			don'tkidyourself.
+				(toJeanette)
+			Let'sgo.
+
+					JEANETTE
+			You'rebothgoodboys.
+
+	RayandJeanetteleave.
+
+
+187INT.NETWORKCONFERENCEROOM-DAY
+	EdistherealongwithCynthiaandtheNetworkExecs.There
+	aremoreexecsthanbefore.Cynthia'speoplearenotthere.
+	ThisentiremeetingisonEDTV.Cynthiaisquiet-
+	observing.Edlookswhipped.
+
+					ED
+			Threemoremonths?
+
+					MR.SCHARLACH
+			Absolutely!EdTVismore
+			popularthanever.
+			Congratulations.
+
+					McILVAINE
+			Only,Ed,wewantyou,inthe
+			nextfewweekstospendalot
+			moretimewithyourfamily.
+
+					ED
+			Youdo?
+
+					SEAVER
+			Definitely.Cynthia,explainittohim.
+
+	Cynthiajuststaresather,COLDLY.
+
+					SEAVER(CONT'D)
+			I'11doit.
+				(toEd)
+			Peoplewanttoseewhathappens
+			tothemnow.Doyourmotherand
+			step-fathergetbacktogether?
+			Howdoesyoursisterhandlebeing
+			alone?Yourfeudwithyour
+			brother.
+
+					SCHARLACH
+			Infact,wehaveanewconcept.
+			Sinceyourfamilysigned
+			releases,wecanfollowthemon
+			cameraevenwhenyou'renotwith
+			them.Wecancutaroundfrom
+			familymembertofamilymember.
+			Whoever'sthemostexcitingat
+			thatmoment.
+
+					McILVAINE
+			And,ofcourse,it'sanotherbig
+			bonuspaymentforyou.
+
+	Pause.
+
+					ED
+			AcoupleofyearsagomyUncle
+			Roygotbitontheassbyadog.
+
+	Silence.Whatthehellishetalkingabout?
+
+					ED(CONT'D)
+			SohegavemehisticketstotheU.S.
+			Open--thetennismatches.
+
+	Theystillhavenoideawhathe'stalkingabout.
+
+					ED(CONT'D)
+			SomeandRay,wetellour
+			friends"WatchwhenAndreAgassi
+			isgonnaserveforthefirst
+			time.Whenhe'sbouncingthe
+			ballandit'srealquiet,we'11
+			yell"Whoop".Andyou'11all
+			hearus."
+
+	Pause.
+
+					SCHARLACH
+			Isee.
+				(hedoesn't)
+
+					ED
+			Youknowwhatthatis?It'ssad.
+			Imeanitwasjustsowecouldbe
+			heard.Sowecouldstandout
+			fromthecrowdforasecond.So
+			wedidit.Butwehadnothingto
+			say.Just"Whoop".That'sit.
+			AndthestupidpartImeanthe
+			reallystupidpartiswe
+			thoughtitlike...elevatedus
+			abovethecrowd.Wherethefact
+			isitmadeusstupiderthanthe
+			crowd.
+
+					SCHARLACH
+			Isee.
+
+					ED
+			Stopsaying"Isee."Youdon't
+			see.Cynthia,Ioweyouan
+			apology.
+
+					CYNTHIA
+			Idon'tthinkso.
+
+					ED
+			Yeah.Because,youdidn'ttalk
+			meintoanything.Everythingyou
+			wantedmetodo,Iwantedtodo.
+
+
+188INT.SHARI'SPLACE
+	ShariwatchingEdTV.
+
+
+189INT.CONFERENCEROOM
+
+					ED
+				(tothecamera)
+			Ray,youwereright.It'slike
+			inschool.Iwasalwayssaying
+			"theroomwastoohot,the
+			teacherdidn'tlikeme"--butit
+			wasme!Everythingthat'swrong
+			withmylifeIdid.Okay?So
+			nowthisisit.Myfamilyhas
+			problems.Whichareourfault.
+			AndTVisnottheplacetosolve
+			them.SoIquit.I'mtaking
+			whatverylittledignityI'vegot
+			leftandIquit.Cansomeone
+			validatemyparking?
+
+	Pause.SHOCK.
+
+					MR.SCHARLACH
+			Well,Ed,that's...notreally
+			possible.
+
+					ED
+			Allright,I'11payforthe
+			parking.Bignetwork!
+
+	Scharlachspeakscarefully-gently.He'sawareofthecamera.
+	Hedoesn'twanttocomeoffasavillain.
+
+					SCHARLACH
+			No,Imeanyoucan'tquit.
+
+	Edthinks.
+
+					ED
+			Ican't?
+
+					MR.SCHARLACH
+				(verygently)
+			Well,no.Youagreedtostayon
+			theairaslongasweaskedyou
+			to.Thestationenteredinto
+			thisonthatunderstanding.If
+			youhadrefusedwe'dhavebegun
+			thiswithsomebodyelse.You
+			can'tjustchangetherulesin
+			themiddleofthegame,son.
+			It'snotfairtous.More
+			importantly,it'snotfairtothe
+			viewers.They'reinterestedin
+			you.They'vedevotedhoursand
+			daysandweeksoftheirlivesto
+			you.
+
+					ED
+			Look,ifyoudon'tletmeoutof
+			this...I'11just...I'11just
+			sitinmyapartmentallday.I
+			won'tgoanywhere,Iwon'tdo
+			anything.Whatkindofshowwill
+			thatbe?
+
+					MR.SCHARLACH
+			Nottoogood.That'swhyit
+			statesinyourcontractthatif
+			youdonotcontinuetolivea
+			normallife,you'reinviolation
+			andareliableforthestation's
+			financiallosses.Ed,Iurgeyou
+			toreconsider.Iurgeyouon
+			behalfofallthosepeopleout
+			therewhoseliveshavebecomeso
+			entwinedwithyours.Playfair
+			withthem,Ed.
+
+					ED
+			Allright.Letthemdecide.
+
+	Heturnsrighttothecamera.
+
+					ED(CONT'D)
+			I'dlikeyoualltodomea
+			favor.Turnmeoff.Justgrab
+			theremoteandchangethe
+			channel.Imean,basically,all
+			you'rewatchingnowisaguy
+			deteriorate.
+			Theonlythingmissingisthe
+			smell.You'rebetterthanthat
+			Turnmeoff.Thankyou.
+
+
+190INT.CYNTHIA'SOFFICE
+	Gregburstsin,carryingasheetofpaper.
+
+					GREG
+			Ratingsareupacrosstheboard.
+			Lookatthis!
+				(droneson)
+			Men18to35,women18to35...
+
+	Cynthiastares,amazed.
+
+
+191EXT.STREET
+	EdWALKINGZOMBIE-LIKE-CROWDSSWARM.
+
+
+192INT.LAWYER'SOFFICE-DAY
+	EdiswithSTEVE,alawyer.Stevehasahugecontractonhis
+	desk.
+
+					STEVE
+			Thiscontractyousigned?...It's
+			amasterpiece.Don'tgotowar
+			withtheseguys.Youfartinthe
+			wrongdirectiontheycantake
+			everythingyouownandleaveyou
+			nakedbythesideoftheroad.
+			Youevergoingtogetbackwith
+			thatJill?Ooh--shewasnice.
+			Shari,Ididn'tlikethatmuch
+				("imitates"agabby
+				girl)
+			"yet-tet-tet-tet-tet-tet-tet."
+
+					ED
+			Shutup.
+
+
+193INT.DINER-NIGHT
+	Edissittingalone,eatinglunch.He'ssurroundedbycameras
+	andshieldedbyBODYGUARDS.
+
+	OUTSIDEthedineraCROWDofrubberneckersisoutonthe
+	sidewalk,lookinginathim,someofthemactingup,somejust
+	staringin.Edistired.Heglancesoutthewindowandmakes
+	aMONKEYFACE.Suddenly,heFREEZES.
+
+	HeseesShari'sfaceinthecrowd.Sheputsherfistinhermouth.
+
+
+194EXT.STREET-NIGHT
+	EdandShariarewalking--oncamera.
+
+					SHARI
+			1bailed.Ibailedonyou.
+
+					ED
+			Kinda'.
+
+					SHARI
+			It'swhatIdo.Iyell
+			"Geronimo"andjumpoutofa
+			relationship.
+
+	Helaughs.
+
+	Pause.
+
+					SHARI(CONT'D)
+			Youweren'tabletomakemefeel
+			safeorsecure--noeasyjobfor
+			anyman,Iadmit--andmy
+			problemis,ifIthinkI'm
+			losing,Ipullmyselfoutofthe
+			game.Ibail.See?Itoldyou,
+			I'mthelovecoroner.
+
+					ED
+			Whatdidyoudotoyourhair?
+
+					SHARI
+			Mytruckoverheated,soIopened
+			thehoodandmyhairgotcaught
+			inthefanbelt.SoIhadtoget
+			ahaircut.
+
+					ED
+			It'snice.
+
+	Hetouchesherhair.Theyleaponeachother.They're
+	KISSING.
+
+
+195INT.NETWORKCONFERENCEROOM-DAY
+	Bigmeeting.ManyHonchos,includingScharlachandCynthia.
+	AllbutCynthiaarefocused.Cynthialooksbored.
+
+					HONCHO#l
+			Ithinkthiscouldbegreat.
+			WhatifEdandSharidecideto
+			getmarried?Awedding?The
+			cute,littlehalf-Asiannephewin
+			atuxedo,carryingtheringon
+			oneofthosebigfluffypillows-
+			we'11kill.Asixtyshare.
+
+	Asecretary(MILDRED)enters.She'salittleflustered.
+
+					MILDRED
+			Um...Mr.Scharlach,um--you're
+			notwatchingTV?
+
+					SCHARLACH
+			No,Mildred,we'reworking.
+
+					MILDRED
+			Um...Ed--andShariare--
+
+					SEAVER
+			Engaged?
+
+					MILDRED
+			No.Here.They'reinthe
+			building.They'reontheirway
+			up.
+
+	ScharlachindicatesthathewantssomeonetoturnontheTV.
+	SomeonedoesandtheyseeEdandSharicomingdownthehall.
+	Theyentertheconferenceroom.Thecameras,ofcourse,are
+	withthem.EdiscarryingaCARTON.
+
+					ED
+			Hi,kids.Busy?
+
+	MUCHCONFUSION
+
+					ED(CONT'D)
+			Ijustcameuptopassoutthese
+			EdTVhats.
+
+	HetakesalotofHATSoutofthecartonandbeginsplacingon
+	theheadsoftheHonchos.
+
+					ED(CONT'D)
+			Aguymadetheseupforme.He
+			spelledEdwithtwoD's.Okay,
+			listen.TherealreasonIcame
+			uphere--andthenI'11getout
+			ofyourway--isI'vebeen
+			thinkingaboutwhatyousaid.
+			Aboutlet'sstarthavingmorefun
+			withthisshow,youknow?Let's
+			giveitabigkickintheass.
+
+					HONCHO#1
+			Well,wewerethinking--
+
+					ED
+				(cheerfully)
+			Shutup.
+
+	HetakesbackthatHoncho'shat.
+
+					ED(CONT'D)
+			Let'shaveacontest.Nowthis
+			wouldmostlybeopento
+			professionalinvestigatorsand
+			detectives.Butanyonecanjoin
+			in.
+
+					SHARI
+				(rehearsed)
+			Whatdowehavetodo?
+
+					ED
+			Mylovelyassistant,Shari.I'm
+			gladyouasked.Thecontestis
+			whocandigup--legally,of
+			course--I'mnotsuggesting
+			thatanyonebreakanylaws--
+			themostembarrassingand
+			humiliatingfactsaboutanyof
+			theexecutiveshereattheNorth
+			AmericanBroadcastingSystemwhich
+			ownsRealTV.
+
+	TheHonchosstaringblankly.
+
+					ED(CONT'D)
+			Butfacts!Theyhavetobe
+			verified.Anythingfromtheir
+			past,theirpresent,business,
+			personal--arrests,affairs...
+			Andwhoevercomesupwiththe
+			sleaziest,mostdegrading
+			material--I'11giveyouten
+			thousanddollars.Andyougetto
+			beonEdTV.
+				(totheHonchos,
+				excitedly)
+			Hah?
+
+					SHARI
+			Soactnow.Here'sEd'shome
+			phonenumber.
+
+	SheholdsupaCARD.
+
+
+196INT.CONFERENCEROOM
+	It'spackedwithLAWYERSandEXECS.Everyoneisagitated,
+	exceptCynthia,whoseemsrelaxed-EdandShariaregone.
+
+					SCHARLACH
+			Legal?!Howcanthisbelegal?
+			It'sdefamation!It'sslander!
+			It's...
+
+					LAWYER
+			Not,technically.Heisnot
+			showingarecklessdisregardfor
+			thetruth.
+
+					SCHARLACH
+			You'refired!
+
+	ThemeetingcontinuesANGRILY.
+
+
+197INT.CONFERENCEROOM-LATER
+	TheHonchosarewatchingEdTV.TheylookSTRAINED,ANXIOUS.
+
+	InEd'shomeaBANKOFPHONEShavebeensetuplikefora
+	telethon.ManningthephonesareEd,Shari,Ray,Marcia,Al
+	andJeanette.ThePHONESKEEPRINGING.
+
+					RAY
+				(intophone)
+			Uh-huh...uh-huh...Really?!She
+			washowold?
+
+	IntheconferenceroomoneoftheExecslooksDIZZY.
+
+	TheCAMERAPANStoAlonthephone.
+
+					AL
+				(shocked)
+			Hepaysaprostitutetodowhat
+			tohim?Idon'tevenwantthat
+			onmyshoes.
+
+	INTHECONFERENCEROOM
+
+	FEARandSHOCK,exceptforCynthia,whoisLAUGHINGandcan't
+	stop.
+
+					SCHARLACH
+			Stoplaughingoryou'refired.
+
+	Shestops.
+	Thenshegetsup.
+
+					SCHARLACH(CONT'D)
+			Whereareyougoing?
+
+					CYNTHIA
+			I'vegotthisgreatidea.Weput
+			togetheravideo."TheNetwork
+			ExecutivesGoofiestMoments."And
+			listen,i'vereallylovedworking
+			here.
+
+	Ontheword"loved"sheshotScharlachTHEFINGER.Sheexits,
+	LAUGHING.
+
+
+198INT.ED'SAPARTMENT-NIGHT
+	Edisoffthephone,
+
+					ED
+			Okay.Wehaveawinner.Now
+			pleasedon'tfeelbadlyifyours
+			wasn'tselected.Inoureyes,
+			you'reallwinners.
+
+					RAY
+			Andeachcontestantgetsoneof
+			these.
+				(holdsupatee-shirt
+				withwritingonit)
+			An"Itriedtoscrewanetwork
+			executive"tee-shirt.
+
+					ED
+			Ahundredpercentcotton.Okay,
+			herewego,Andy.
+
+	EdgrabsasealedENVELOPE.AndyplaysaDRUMROLL--not
+	terriblywell.
+
+					ED(CONT'D)
+			Andy'savailableforexecutions.
+			Andthewinneris...
+
+	Asheopenstheenvelope.
+
+
+199INT.CONFERENCEROOM
+	TheExecutivesstaring,HORRIFIED.
+
+
+200INT.ED'SAPARTMENT
+	Hetakesoutthecardandregistersmock-surprise.
+
+					ED
+			Hey,thewinnerisfromright
+			hereinNewYorkcity.
+			CarlBowersaformerorderlyat
+			theMartinCenter--aclinic
+			thatspecializesin,whatthey
+			call,maleenhancement
+			procedures.
+
+
+201INT.CONFERENCEROOM
+	Scharlach'sEYESWIDENinHORROR.
+
+
+202INT.ED'SAPARTMENT
+
+					ED
+				(tothecamera)
+			Howmanyofyouknowwhata
+			penileimplantis?Asitwas
+			explainedtome,whathappensis--
+
+
+203INT.CONFERENCEROOM
+	AsEdexplains,Scharlachreachesforthephone,fumblingit
+	foramoment.
+
+
+204INT.ED'SAPARTMENT
+
+					ED
+			Andthemanofthehour--the
+			executivewiththewinningsecret
+			themanwho,thankstothe
+			miracleofspace-agescienceand
+			apumphekeepsinhispocket,
+			cannow--
+
+	ASHOTOFatelevisionsettunedtoEd.SuddenlyEdis
+	replacedbyaRealTVlogo.
+
+					ANNOUNCER(V.O.)
+			AndthatconcludesRealTV's
+			coverageofEdTV.Staytuned
+			fornewprogramminginformation.
+
+	MUSAK
+
+
+205INT.CONFERENCEROOM
+
+
+206INT.TVSTUDIO
+	AnENTERTAINMENTREPORTER.
+
+
+207INT.TVSTUDIO
+	ThePANEL.
+
+
+208EXT.CHURCH
+
+					ENTERTAINMENTREPORTER
+			AspokespersonforRealTV
+			announcedthatEdreceiveda
+			checkcoveringhisfourmonthson
+			theair,hisballoonpaymentand
+			anadditionalbonustoshowthe
+			Network'sappreciationforall
+			his--quote--hardworkand
+			loyalty--unquote.Whenasked--
+
+								CUTTO:
+
+	ThePanel.
+
+					PANELIST#1
+			Infiveyearsnoonewilleven
+			rememberthisperson.
+
+					PANELIST#4
+			Fiveyears!Sixmonths.He's
+			the"macarena."He's--
+
+								CUTTO:
+
+	ANEWSREPORTERisreportingonawedding.
+
+					REPORTER
+			MarciaPekurny,thewomanknown
+			tomostAmericansas"Ed's
+			sister"wasmarriedheretodayto
+			CarlosCoto,whosomeofyoumay
+			rememberastheprimarycamera
+			operatoron"EdTV"--
+
+								CUTTO:
+
+209INT.TVSTUDIO
+	Anewsshow.
+
+					NEWSANCHOR
+			Thecurrentrageof"Reality
+			Television"gotarealdoseof
+			realitytoday.Lifestyle
+			TelevisionsJomawasshotthis
+			evening,outsidehisapartment.
+			BecauseJomawasontelevision
+			twenty-fourhoursaday,
+			Lifestyle'scameraswerethereto
+			recordtheshooting.
+
+	WESEEJomawalkingintohisbuilding.Somebodystepsforward
+	withaGUN.TheASSAILANTisjostledasheshootsandthe
+	bullethitsJomaintheass.Hefallstothesidewalk.
+
+					JOKA
+			Ohhhh!!!...myass!Heshotme
+			intheass!
+
+	TheCAMERAPANStotheAssailant,whowemightrecognizeas
+	someonewhowe'veseenfollowingEdfromtimetotime.
+
+					ASSAILANT
+			NowI'mfamous.
+
+	REVEALEdandShariwatchingthisontelevision.
+
+					ED
+			Iknowhim.Igavehimanautograph.
+
+	Shariturnsitoff.
+
+
+
+
+	THEEND
+
+
+
+
+
+
+
+EdTV
+Writers:  EmileGaudreault  SylvieBochard
+Genres:  Comedy
+UserComments
+
+
+
+
+
+
+
+

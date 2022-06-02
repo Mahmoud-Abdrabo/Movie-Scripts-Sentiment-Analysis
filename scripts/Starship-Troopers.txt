@@ -1,0 +1,6172 @@
+
+
+
+STARSHIPTROOPERS
+
+Screenplayby
+EdwardNeumeier
+
+Basedonthenovelby
+RobertHeinlein
+
+
+
+1	FROMTHEFEDERALNET--NOTICE--JOINUPNOW!
+
+	ProudYOUNGPEOPLEinuniform,thebloomofhumanevolution.
+
+				YOUNGPEOPLE
+		I'mdoingmypart...Me,too...
+		Areyou?
+
+	Themobileinfanterylogo:	LIGHTNINGBOLTSONABLACKSHIELD.
+
+				OFFICIALVOICE
+		Jointhemobileinfanteryandsavetheworld!
+		Serviceguaranteescitizen-ship.
+		Wouldyouliketoknowmore?
+
+2	BUGMETEOR:
+
+	BeholdactualpicturesofaMETEOR,thisoneamileacross,asithurtles
+	pastanobservationship.
+
+				OFFICIALVOICE
+		TheBugssendanothermeteorourway!
+
+	ABRIGHTEXPLOSIONinspaceoutbeyondthemoon.
+
+				OFFICIALVOICE
+		Butthistimeweareready!
+		Planetarydefensesarebetterthanever!
+		Wouldyouliketoknowmore?
+
+3	KLENDATHU---WHYWEHAVETOFIGHT!
+
+	Klendathu,afierceorangeplanetringedbyanasteroidbelt,
+	orbitsadoublestar.
+
+				OFFICIALVOICE
+		Klendathu,sourceofthebugmeteorattacks,
+		orbitsatwinstarsystemwhosebrutalgravitational
+		forcesproduceanunlimitedsupplyofmeteorites...
+
+	A"Youarehere"mapoftheKNOWNGALAXYshowstheEarthin
+	relationshiptotheBUGPLANETARYSYSTEMandKlendathu.
+
+				OFFICIALVOICE
+		Toensurethesafetyofoursolarsystem,
+		Klendathumustbeeliminated!
+		Wouldyouliketoknowmore?
+
+
+
+4	LIVEBROADCAST--FROMORBIT-THEINVASIONOFKLENDATHU!
+
+	ForBATTLEGROUPS,sixtySTARSHPSstrong,orbittheorangeplanet.
+	Graphics:	KLENDATHU:	THEINVASION
+
+				OFFICIALVOICE
+		WebreaknetnowandtakeyoulivetoKlendathu
+wheretheinvasionhasbegun!
+
+5	EXT	KLENDATHU--NIGHT--THECAMERA
+
+	takestheMobileInfanteryCAPTROOPERSwearingfullyarmedMarauder
+	POWERSUITSastheymoveuptheline,thepanstothe
+	NETCORRESPONDENT
+
+				NETCORRESPONDENT
+		We'vejustlandeshereonwharcaptroopresarecalling
+		"BigK"withthe6thMobileInfanterydivision...
+		It'sanuglyplanet,abugplanet,aplanethostileto
+		lifeasweiGKKKKKK!
+
+	BloodhitsthelensastheCorrespondentiscutinhalf.
+	TheCAMERAcatchesaglimpseofHUGECLAWSasCapTrooper
+	JOHNNYRICO,18,blowsawaySOMETHINGBIGbigwithhispulsecannon.
+
+				JOHNNY
+		Com'on,let'sgo!	ONTHEBOUNCE
+
+	Thecaptroopersmoveout,amongthemDIZZYFLORES,18,ACE
+	LEVY,19,andKITTENSMITH,18.TheCAMERApauses,unsure.
+
+				FEDNETCENTRAL(O.S.)
+		FOLLOWTHEM...!GO!GO!
+
+	TheCAMERAfollows.ThePULSEofBUGBATTERIESisblinding.
+	CapTroopersscreamastheyaretornapartrightandleftbyanenemy
+	seenonlyindisorientatingglimpses.
+
+				JOHNNY
+		THISWAY!
+
+	Thegroupsplitsintotwo,andtheCAMERAfollowsJohnny.
+	SomethingslicesKittenSmith,andhegoesdownscreaming.
+
+				JOHNNY
+		KITTEN!
+
+	Johnnystopstohelphiscomrade.ACLAWslashesintohim.
+
+	
+				JOHNNY
+		AAAAAAAAAAAAAAAA!
+
+	NowsomethinggrabstheCAMERA,spinningitaround.
+	WeglimpsethehideousjawsofanARACHNIDWARRIOR.
+
+				CAMERAMAN(O.S.)
+		AAAAAAAAAAAAAAAA!
+
+	TheCAMERAhitstheground.Johnny,badlywounded,bleeding
+	fromthemouth,crawlsintoCAMERA,tryingtogetawayfromthe
+	darkINSECTSHAPESthatcloseinonhim.
+
+				JOHNNY
+		Oh,God...Oh,God,helpme...
+		pleasehelpme...
+
+	Hiseyesglazeoverasheremembers
+
+								FLASHBACK:
+
+6	INT	NEWUNIHIGH-CLASSROOM-DAY-CARMENIBANEZ
+
+	isbeautiful,just18,andquitepleasedwithherselfbecause
+	JohnnyRicoisclearlyinfatuatedwithher.
+
+				RASCZAK(O.S.)
+		Theendofanotherschoolyear,andfor
+		menodoubtanotherfailure...
+		Rico,payattention!
+
+	TheteacherJEANRASCZAK,38,aruggedveteranwhoproudly
+	displayshismissinghand,scowlsatJohnny,bemused.
+
+				JOHNNY
+		Sorry,Mr.Rasczak.
+
+	ButassoonasRasczakturnsbacktotheclass,Johnnybeginstosketch
+	acartoononhisdesk'stouchscreen.
+
+				RASCZAK
+		HereinHistoryandMoralPhilosophy
+		we'veexploredthedeclineof
+		Democracywhensocialscientistsbrought
+		theworldtothebrinkofchaos,andhowthe	
+		veteranstookcontrolandimposedastability
+		thathaslastedforgenerationssince...
+		YouknowthesefactsbuthaveItaughtyou
+		anythingofvalue?You.
+		Whyareonlycitizensallowedtovote?
+
+	RasczakpointsatLANNY,17,withhisstump
+.
+				LANNY
+		It'sareward...whattheFederationgivesyou
+		fordoingFederalService.
+
+	Rasczakiscrestfallen,makesabigshowofpatience.
+
+				RASCZAK
+		No.Somethinggivenhasnovalue!
+		Haven'tItaughtyoudimwitsanything?
+		Iguesstheyoughttorevokemy
+		teachingcredential...
+
+	Laughter.Johnny'scartoon,meanwhile,istakingshape:
+	JohnnyandCarmenflyingroundplanetVenusinaspaceship.
+
+				RASCZAK
+		Whenyouvote,you'reexercisingpolitical
+		authority.You'reusingforce.Andforce,my
+		friends,isviolence,thesupremeauthority
+		fromwhichallotherauthorityderives.
+
+	CARLJENKINS,18,asuperintelligentgeek,jumpsin.
+
+				CARL
+		Gee,wealwaysthoughtyouwerethe
+		supremeauthority,Mr.Rasczak.
+
+	Laughter.Rasczakgrins.
+
+				RASCZAK
+		Inmyclassroom,youbet.Whetherit's
+		exertedbytenortenbillion,political
+		authorityisviolencebydegree.The
+		peoplewecallcitizenshaveearned
+		therighttowieldit.
+
+	DIZZYFLORES,18,athletic,pretty,nononsense,chimesin.
+
+				DIZZY
+		Mymotheralwayssaysthatviolence
+		neversolvesanything.
+
+				RASCZAK
+		Really?Iwonderwhatthecityfathersof
+		Hiroshimawouldhavetosayaboutthat.
+		You.
+
+	RasczakpointsatCarmen.
+
+				CARMEN
+		Theyprobablywouldn'tsayanything.
+		Hiroshimawasdestroyed.
+
+	Johnnypresses�"SEND"onhisdesk,andthecartoonappears
+	acrossthewayonCarmen'sscreen.
+
+				RASCZAK
+		Correct.Nakedforcehassettledmore
+		issuesinhistorythananyotherfactor.
+		Thecontraryopinion'violencenever
+		solvesanything'iswishfulthinking
+		atitsworst.
+
+	WhileRasczaklooksaway,CarmenthrowsJohnnyherwonderful
+	smile,andJohnny'sgone,checkedout,flyingroundVenus.
+
+				RASCZAK
+		Peoplewhoforgetthatalwayspay...
+		Theypaywiththeirlivesandtheir
+		freedom.
+
+	DizzynoticesthedreamylookonJohnny'sface.
+	SodoesRasczak.Hepointsathimwithhisstump,
+	snapsJohnnyto.
+
+				RASCZAK
+		You.Tellmethemoraldifference,
+		ifany,betweenthecitizenandthecivilian?
+
+				JOHNNY
+		Thedifferenceliesinthefieldofcivic
+		virtue.Acitizenacceptspersonal
+		responsibilityforthesafetyofthebodypolitic,
+		ofwhichheisamember,defendingit,
+		ifneedbe,withhislife.
+		Theciviliandoesnot.
+
+				RASCZAK
+		Theexactwordsofthetext.Butdo
+		youunderstandit?
+		Doyoubelieveit?
+
+				JOHNNY
+		Uh,Idon'tknow.
+
+				RASCZAK
+		Ofcourseyoudon't.Idoubtifany
+		ofyouherewouldrecognize'civicvirtue'
+		ifitbityouintheass.
+
+	Abellrings.Rasczakshrugs,indifferent.
+
+				RASCZAK
+		Well,that'sit.Haveanicelife.
+
+7	EXT	NEWUNIHIGH-HALLWAY-DAY-JOHNNYANDCARMEN
+
+	walkwiththeirfriends.SeveralCOUPLESholdhands.Johnny
+	triestotakeCarmen'shand,butshedemurs.Johnnybroods.
+
+				CARMEN
+		C'mon,let'sseeifthey'vepostedthe
+		mathfinaltestyet.
+
+				STUDENT
+		Hey,Rico,wegonnatakeTesla?
+
+				JOHNNY
+		HowshouldIknow?
+
+				STUDENT
+		You'recaptainoftheteam!
+
+8	EXT	QUAD-DAY-JOHNNYANDCARMEN
+
+	joinotherstudentsaroundaMULTI-SCREENKIOSK.
+
+				CARMEN
+		FirstthingFleetAcademylooksat
+		isyourmathscores.
+		Wishmeluck!
+
+	Carmenentershername,receivesherscore:	97%!	Shebeams.
+
+				JOHNNY
+		Goodforyou.
+
+				CARMEN
+		Yourturn...
+
+	ThenshespotsCarlacrossthewaytalkingwithMARCO,17.
+
+				CARMEN
+		Holdon...IwannatalktoMarco.
+		Hissister'satFleet!
+
+	Carmenrushesoff.Johnnycheckshisscore:	35%!Crushed,he
+	makessurenononeelsehasseen.Carlwalksuptohim.
+
+				CARL
+		Youstillhaven'tkissedheryet?Don'tlie.
+
+				JOHNNY
+		What'sthehurry?
+
+				CARL
+		Othersarewaiting.
+
+	CarlpointsoutDizzy,talkingwithfriends.
+
+				JOHNNY
+		Didyoureadhermind?
+
+				CARL
+		Don'thaveto...Somematingsemaphore
+		isprettyhardtomiss.
+
+	It'strue.YoucantellbythewayshelooksatJohnny.
+
+				JOHNNY
+		Yeah,butIwantCarmen.
+
+				CARL
+		Yougotitbad.
+
+	CarmenreturnstoJohnnyasCarlsheadsoff.
+
+				CARL
+		Don'tforgetaboutthisafternoon.
+			(toCarmen)
+		He'salwayslatewhenhewalksyouhome
+		tofishforakiss.
+
+	Carmenblushes,covers.
+	
+				CARMEN
+		She'sflyingstarships!
+
+				JOHNNY
+		Who?
+
+				CARMEN
+		Marco'ssister.Canyouimagine
+		maneuveringhalfamilliontonsthrough
+		crwodedspacelanes...
+		Yougottahavenervesofsteel!
+		Reflexesarecritical
+
+				JOHNNY
+		Ihavegoodreflexes.
+
+	CarmennoticesthewayDizzy'slookingatJohnny,doesn't
+	likeitonebit,takesJohnny'sarm.
+
+				CARMEN
+		C'monJohnny,we'llbelateforBiology.
+
+9	INT	BIOLOGYLAB--DAY-THEBIOLOGYTEACHER
+
+	isanolderwoman,veryspry,alsoblind.Johnny,Carmenand
+	otherstudentsgatheraroundcoveredlabtables.
+
+				BIOLOGYTEACHER
+		Forourfinaltoday,pleaseidentifythemouthparts,
+		theabdominalorgans,andforextracredit,locatethe
+		nervecordandcounttheganglia.
+		Youmaybegin.
+
+	Thestudentsremovethecovertoreveallargealienbugs,60
+	centimeterARKELLIANSANDBEETLESlaidoutfordissection.
+
+				CARMEN
+		Eeuch!
+
+				JOHNNY
+		Aw,c'mon,it'sjustabug.
+
+				BIOLOGYTEACHER
+		Justabug,eh?Wehumansliketothinkweare
+		Nature'sfinestachievement.I'mafraiditisn't
+		true.ThisArkellianSandBeetleissuperiorinmany
+		ways.Ithasfewermovingparts,canreproduceitself
+		invastnumbers,andunboudbyconcernsofegoand
+		mortality,makestheperfectselflessmemberof
+		society.
+
+				JOHNNY
+		Betterputyourgoggleson.
+
+	Johnnyslicestheabdomenopenwithasurgicallaser.Green
+	fluidspraysfromtheslit.Carmenturnsawaylookingill.
+
+				BIOLOGYTEACHER
+		Ourgalaxyisteamingwithinsectlife.Wehave
+		identifiedovertwobillionspeciessofar.
+		Human,life,itwouldseem,istheanomaly.
+
+				CARMEN
+		Butwe'reintelligent.Humanmindshaveinvented
+		art,mathematicsandinterstellartravel.
+
+				BIOLOGYTEACHER
+		True,weknowofnoinsectsocietythathas
+		producedaShakespeare,anEinsteinora
+		Cherynkov,butbeforeyouletthatgotoyour
+		head,taketheexampleoftheArachnids,a
+		highlyorganized,highlyevolvedinsectsociety.
+
+	Shepointstoaninsectevolutionchartthatstartswitha
+	commonantandendswithatwometertallARACHNIDWARRIOR.
+
+				BIOLOGYTEACHER
+		Theyarerelativelystupidbyhumanstandards.Workers
+		haveanIQof12,warriorsaround35,andyetthe
+		Arachnidshavecolonizedplanets.Overamillionyears
+		ofevolution,NaturehasprovidedtheArachnidswiththe
+		biologicalmeanstohurltheirsporeintospace.
+
+	Johnnyappliesaspreaderandjackstheinsectsabdominalcavity
+	openwitharesoundingcrack.Buggutsgushout.
+
+				JOHNNY
+		Well,ifthat'sthecrop,thatmustbethegastric
+		caecal...
+
+				CARMEN
+		Excuseme...!
+
+	Sheheadsforthedoor,handoverhermouth.
+
+10	EXT	CIVICPARK-DAY-JOHNNYANDCARMEN
+
+	walkhomefromschooltogether.
+
+				JOHNNY
+		35%onthemathfinal!Noonecouldbe
+		thatdumbwithnumbers.
+
+				CARMEN
+		Well,atleastyoudidn'tloseyourlunch
+		overabug.Howembarassing.
+
+				JOHNNY
+		Whocaresaboutbugs?Youcan'tgoanywhere
+		ifyoudon'tknowmath.
+
+				CARMEN
+		Don'tbesosure.Ilikeyouevenifyouare
+		dumbwithnumbers.
+
+				JOHNNY
+		Thenhowcomeyouwon'tholdhandswithme
+		atschool?
+
+				CARMEN
+		Idon'twanteveryonetosee.
+
+				JOHNNY
+		Whywon'tyoukissmewhenwe'reallalone?
+
+				CARMEN
+		Howcomethat'sallyoutalkaboutanymore?
+
+				JOHNNY
+		It'sallIthinkaboutanymore.
+
+	Indeed,theyareallalonenow.ThelookinJohnny'seyesayshow
+	aboutit.Carmengrins,reachesforJohnny'shand.
+
+11	EXT	PUPLICTRANSPORTATION-DAY-CARMEN
+
+	andJohnnystandtogethernearabankofTRANSPORTERS.
+
+				CARMEN
+		Youcan'twalkmehome.
+
+				JOHNNY
+		Whynot?
+
+				CARMEN
+		IthoughtyouweregoingtohelpCarl.
+
+				JOHNNY
+		Carlcanwait.
+
+				CARMEN
+		Johnny,myDad'shometoday.
+
+	Johnny'sfacedarkenswithfrustration.
+
+				JOHNNY
+		What'shegotagainstme...Imean,I'm
+		ateenager.Youcan'tbeacitizenwhen
+		you'reonlyateenager!
+
+				CARMEN
+		It'snotyou,Johnny.Yourparentsarerich
+		theydon'tneedtobecitizens,andthatstuff
+		meansalottomydad.He'saveteran.
+
+				JOHNNY
+		Well,ifyourdaddoesn'tlikeme,howcome
+		we'resuchgoodfriends?
+
+				CARMEN
+		SometimesIdowhatIwant,eh?
+
+	Carmenstepsintotheflux.	ZAPPP!	She'sgone.
+	Johnnygrins,happytobeinlove.
+
+12	INT	CARL'SHOUSE-BASEMENT-DAY-JOHNNY
+
+	ishard-wiredtothestacksofprocessingunitsthatcompriseCarl's
+	basementworkshop.Carlconcentratesontheimageofaplayingcard,
+	thesixofdiamonds,displayedonamonitor.
+
+				CARL
+		Don'tthinkaboutit...gooninstinct.
+
+				JOHNNY
+		Aceofspades.
+
+	Theaceofspadesappears,andthecomputerindicates"nomatch".
+	Carlputsanothercardup,thejackofdiamonds.
+
+				CARL
+		Statisticallyspeakingyoushould'veaccidentally
+guessedrightbyknow.
+
+				JOHNNY
+		Inadditionto"psychicdolt"thistestalsoproves
+		I'munlucky?Twoofhearts.
+
+	Wrongagain.
+
+				CARL
+		Luckisnotafactor.Noonereallyknowswhy
+		somepeoplearesensitiveandsomearen't.
+		Federalstudieslikethismightprovideaclue.
+
+	Thenextcardupisthenineofclubs.
+
+				JOHNNY
+		Iwouldn'twanttoknowwhateveryonewas
+		thinking.Fourofspades.
+
+	Suddenly,AGIANTYELLOWFROGjumpsontothekeyboard,fritzing
+	themonitor.Johnnyremovestheblindfold.
+
+				CARL
+		Cyrano,youbigyellowturd!
+
+	Johnnyknowsthisfrog,scratcheshimontheneck.
+
+				JOHNNY
+		Hejustwantsattention.Youdon'tplaywith
+		himlikeyouusedto.
+
+	Carlconcentratesforamoment.
+
+				CARL
+		GobugMom,Cyrano.
+
+	Cyrano'seyeswiden.Hehopsoffthetableandupthestairstwoat
+	atime.Carlclearsthescreen.
+
+				JOHNNY
+		Howdoyoumakehimdothat?
+
+				CARL
+		Igavehimtheimpressionthattherewasaflycrawling
+		upmymom'sleg.Heisgoingtogoeatit.
+
+	Fromupstairs,CARL'SMOMshrieks.
+
+				MOM(O.S.)
+		Getout!Getout!CARL...!
+
+				JOHNNY
+		Carl,promisemeyouwon'teverdoanythinglikethat
+		tome.
+
+				CARL
+		Don'tbeafraid.Can'tdohumans...yet.
+		C'monlet'sgo.
+
+	Carl,putsupmorecards,Johnnymissesthemall.
+
+				JOHNNY
+		Tenofclubs.Youstillgonnasignupfor
+		StarsideR&D?
+
+				CARL
+		PassporttotheUniverse.
+		Whowouldn'twantthat?
+
+				JOHNNY
+		I'vebeenthinkingaboutapplyingfor
+		FederalService,too.Fleet,maybe.
+
+				CARL
+		Yourfatherwillneverletyou.
+
+				JOHNNY
+		I'meighteen.It'smydecision,IthinkI'd
+		makeaprettygoodpilot.I'vegoodgreat
+		reflexes.Youneedthatformaneuvering,
+		youknow.
+
+				CARL
+		Only1in14maleapplicantsmakeitthrough
+		stellarnavigation.
+		Sowhatdoyouthinkyourchancesare?
+
+				JOHNNY
+		Eightpoint...no,uh,seven...
+
+				CARL
+		Ifyoucan'tdothosenumbers,youhaven't
+		gotachance.
+
+				JOHNNY
+		AllIknowisCarmen'sgoingtobeacitizen,
+		andIdon'tthinkit'llworkoutforusifI'mnot.
+
+				CARL
+		Love...howexcruciatinglypathetic.
+		Nowtryandpayattention.
+
+	Carlputsacardup.
+
+				JOHNNY
+		Queenofhearts.
+
+	Thecomputerindicatesamatch.Johnnypeersaroundatthemonitor.
+	ItistheQueenofhearts.
+
+				CARL
+		Well,whatdoyouknowaboutthat!
+
+13	EXT	ATHLETICFIELD-STANDS-DAY-CARMEN
+
+	andotherstudentswearingorangeandblacksingthe"UniHighSong".
+	TheSCOREBOARDsays:	REGIONALFINAL.
+	Acrossthefield,fanswearredandgoldandsinganothersong.
+
+14	INT	LOCKERROOM-DAY-JOHNNY
+
+	andotherUNIHIGHTIGERS,allexceptionallyrobustyoungmanandwomen,
+	suitupintheirorangeandblackuniforms.
+
+				DIZZY
+		Tesla'stough.Theytumblegoodandthey
+		hitHARD.
+
+	DizzybouncesaJUMPSHOEtoJohnny.Thespringfiresandvaultsithighinto
+	theair.Johnnycatchesit,putsiton,smilescockyattheTESLAGIANTSwho
+	suitupinredandgold.
+
+				JOHNNY
+		Wetumblegood,too.
+
+15	EXT	ATHLETICFIELD-DAY-WHAM!--TIGERSANDGIANTS	
+
+collide.Poweredbyjumpshoes,theplayisgymnastic.Johnnymovestheball,
+flipshighintheairovertheGiantdefensiveline,makestenmetersbeforeheis
+broughtdown.
+
+16	EXT	STANDS-DAY-THECROWD
+
+	cheersasJohnnyrunsbacktojoinhisteam.HeseesCarmenwaving,gladthat
+	Johnnyhasseenheramongallthepeople.
+
+17	EXT	HUDDLE-DAY-JOHNNY
+	
+	andotherTigerslistenasquarterbackDizzycallstheplays.
+
+				DIZZY
+		Kickthree,fadeleft.Ontwo.
+
+	Theymakefists,thenbrealforthevlineofscrimmage.
+
+18	EXT	SCRIMMAGELINE-DAY-THETIGERS
+	
+	havetheball.TheGiant'sQUARTERBACKassignsZANDERBARCALOW,18,
+	handsome,super-confident,toguardJohnny.
+
+				ZANDER
+		Time'srunningout.
+
+	Zanderpoints.TheSCOREBOARDshows	TIGERS19,	GIANTS20,
+	threeminutesandcountingontheclock.Johnnygrins.
+
+				JOHNNY
+		Alotcanhappeninthreeminutes.
+
+				DIZZY
+		Hut...hut!
+
+	Johnnytakesthehandoff,flipsoveragauntletofGiantguards.Zander
+	hurlshimselfatJohnny,misses.Johnnyscores.
+	Zandertumblesintothecrowd,losesajumpshoe.
+
+19	EXT	SIDELINES-DAY-ZANDER
+
+	looksupandseesCarmen,smilingassheoffershimahand.Shehelps
+	himup.Heholdsherhandlongerthannecessary.
+
+				CARMEN
+		Areyoualright?
+
+				ZANDER
+		I'mgettingbetter.
+
+20	EXT	ATHLETICFIELD-DAY-JOHNNY
+
+	runsbacktojoinhisteamasthecrowdcheers.TheTigerslead
+	21-20.JohnnyfrownswhenheseesCarmentalkingtoZanderon
+	thesidelines,shakinghishead,smiling.
+
+21	EXT	SIDELINE-DAY-ZANDER
+
+	findshisshoe,strapsiton.
+
+				ZANDER
+		Sowhatareyoudoinglater?
+
+				CARMEN
+		Everyoneisgoingtothedance.Aren'tyou?
+
+				ZANDER
+		Idon'tknow.It'smylastnightasacivilian.
+		IshipoutforTereshkovatomorrow.
+
+	Zanderheadsforthefield.Carmenfollows,interested.
+
+				CARMEN
+		You'regoingtotheAcademy?
+		That'swhereIwanttogo.I'dlove
+		totalktoyouabouthat.
+
+	AREFEREEblowshiswhistleatZander,signallingimpatiently.
+
+				ZANDER
+		I'mallears.
+
+				CARMEN
+		Don'tyouhavetofinishthegame?
+
+22	EXT	SCRIMMAGELINE-DAY-THEGIANTS
+
+	areinpossession.ZanderlandshardinfrontofJohnny.
+
+				JOHNNY
+		Don'tgetanyideas.She'smygirl.
+
+				ZANDER
+		Youcanneverbesure.
+
+	JohnnyscowlsatZander,turnshisheadtolookbackatCarmen.
+	Shewaves,smiling.TheGiantspullablitz.
+
+				DIZZY
+		WATCHTHEBLITZ...!
+
+	ZanderknocksJohnnyonhisass,andtheGiantsscore.It's
+	TIGERS21,GIANTS22andlessthanaminutetogo.
+
+23	EXT	HUDDLE--DAY--DIZZY
+
+	ordersupthenextplay.Johnnykeepslookingoverhisshoulder
+	becauseZander'sbacktalkingtoCarmenagain.
+
+				DIZZY
+		Flipsix,threehole.Rico?
+		Hey!
+
+	DizzyslamsJohnnyupsidehishelmetwithherforearm.
+
+				JOHNNY
+		What?
+
+				DIZZY
+		Youweredrifting.Flipsix,threehole.
+		Onone,gotit?
+
+				JOHNNY
+		Justthrowmetheball,Diz.
+
+	Theymakefistsandbreak.
+
+24	EXT	SCRIMMAGELINE--DAY--JOHNNY
+
+	takespositionagainacrossthelinefromZanderwhonowgrinsat
+	Johnnybroadly.Johnnydoesn'tgrinback.
+
+				DIZZY
+		Hut!
+
+	Atthesnap,Johnnybreaksforopenfield.Dizzythrows,Johnnycatches
+	it,tripsZanderuppainfully,andhurlshimselfintotheendzoneasa
+	hornsoundsthegame'sfinish.
+
+25	EXT	ATHLETICFIELD-DAY-CHEERINGUNIFANS
+
+	rushontothefieldastheschoolbandstrikesupavictorymarch.
+	Tigersdoflipsintheair.Giantslookdejected.
+	Zanderpickshimselfup,watchesJohnnyleavewithCarmen.
+
+26	INT	JOHNNY'SHOUSE-NIGHT-JOHNNY
+
+	walksthrouhroomsfilledwithelegantfurniture.He'sallspiffedup
+	forthebigdance.HisMOTHERcatcheshimpreeninginfrontofa
+	mirrorbytheTRANSPORTERinthehall.
+
+				MOTHER
+		Whosaidyoucouldgrowupsofast?Lasttime
+		Icheckedyouwereonlyfiveyearsold.Youhad
+		suchabrightlittleface...
+
+				JOHNNY
+		Aw,don'tgetmushy.
+
+	Johnny'sFATHERenterscarryingaFEDERALSERVICECATALOGUE.
+
+				FATHER
+		Thiscameforyoutoday.Ipresumeonyour
+		request.
+
+				JOHNNY
+		AlotofmyfriendsaredoingFederalService...
+
+				MOTHER
+		Youaren'tthinkingofapplying...?
+
+	Johnnyshrugs.
+
+				FATHER
+		Haveyoulostyoulostyourmind?I'drather
+		taketenlashesinPublicSquarethanseeyou
+		ruinyourlife.
+
+				JOHNNY
+		It'satermofservice,notacareer.Ijustwantto
+		getoutonmyownandseetheGalaxyfora
+		coupleofyears.
+
+				MOTHER
+		Johnny,peoplegethurt...peoplegetkilledin
+		theFederalService.Ifsomethinghappened
+		toyouIdon'tknowwhatIwoulddo...
+
+				FATHER
+		Whogaveyouthisidea?It'sthatteacher.
+		What'shisname?YouknowtheoneI
+		mean.
+
+				JOHNNY
+		Mr.Rasczak.
+
+				FATHER
+		Rasczak...Sillyname.Thereoughttobe
+		alawagainstusingaschoolasa
+		recruitingstation!
+
+				JOHNNY
+		No,Mr.Rasczakdoesn'tdothatatall.
+		Hesortadiscouragesyoureally.
+
+				FATHER
+		Good,becauseyou'regoingtoHarvard,
+		andthat'stheendofit.
+
+				JOHNNY
+		I'meighteen.It'smydecision.
+
+				FATHER
+Oh,isthathowitis?
+
+				MOTHER
+		Waityoutwo.DadandIhaveasurprise
+		foryouthatwillsettlethis.
+		Canyouguesswhatitis?
+
+				JOHNNY
+		Uh,no.
+
+				FATHER
+		AtriptotheOuterRings.
+		Whad'yathinkofthat?
+
+				JOHNNY
+		Wow!SantoriandZegemaBeach,I've
+		alwayswantedtogothere.
+
+				MOTHER		
+		Goodgood,thenit'sallsettled.
+
+				FATHER
+		AyearatHarvardandyou'llseethis
+		"FederalService"isjustmenialtraining
+		forinferiorpeoplesotheycancall
+		themselves"citizens"andtakeairsfor
+		therestoftheirlives.
+
+				JOHNNY
+		Waitaminute!CarlisdoinghisFederal
+		andheisn'tinferior.He'sthesmartest
+		kidatschool!
+
+				FATHER
+		Sorry.Carl'safineboy...
+
+	Johnnyputsonhisjacket.
+
+				JOHNNY
+		Idon'tknowwhattheyteachatHarvard,
+		butIthinkI'mprettygoodenoughthe
+		wayIam!
+	
+				MOTHER
+		Johnny,please.Calmyourself.
+
+				JOHNNY
+		Well,that'swhatyou'resaying!You're
+		sayingthatI'mnotgoodenoughtheway
+		Iamnow!
+
+	Johnnystompsout,thetransportergoesZAPPP!
+
+				MOTHER
+		Whydidyougoanddothat?Hewasall
+		readytogoZegemaBeach!
+
+				FATHER
+		Teenagers!
+
+27	INT	UNIHIGHGYMNASIUM-NIGHT-EVERYONE
+
+	atthe"FarewellDance"isdressedup.RasczakandotherTEACHERS
+	chaperon.AspotlightfindstheBANDLEADER.
+
+				BANDLEADER
+		Alright,everybody,thisisthelastdance,so
+		let'sturndownthelightsandmakeita
+		slowone.
+
+	Thelightsgodown.Dizzy,dressedpretty,brightenswhensheseesJohnny
+	standingalonenearthedancefloor.
+
+				DIZZY
+		Hey,Rico,wannadance?
+
+				JOHNNY
+		Actually,Diz,IpromisedCarmen...
+
+				DIZZY
+		Toobadforherifshe'snotaround.
+
+	Dizzypullshimontothefloor,holdshimclose.
+
+				DIZZY
+		Youknow,it'ssad...Mostofusprobably
+		won'tseeeachotheragainaftertonight.
+	
+	Thereisaninvitationhere.Johnnydoesn'ttakeit.
+
+				JOHNNY
+		YoustillgonnaplayforBrazil?
+
+				DIZZY
+		Lookslike,unlessTokyoletsmestart.
+
+				JOHNNY
+		Well,anyonewhogetsyouislucky.
+
+				DIZZY
+		Howcomewenevergottogether?
+
+	DizzylooksatJohnnymeaningfully.He'sdistracted.Carmencrosses
+	theroom,stunninginherformal.
+
+				JOHNNY
+		Can'twejustbefriends,Diz?
+
+				DIZZY
+		Sure.
+
+				JOHNNY
+		Uh,look,Diz...
+
+				DIZZY
+		Guessyougottago.
+
+				JOHNNY
+		You'rethebest.
+
+	JohnnyheadsforCarmen.DizzywatchesjealouslyasCarmentakes
+	hishand.Shelooksaroundforsomeonetodancewith.
+	Carl,anerdinatux,wavesshyly.
+
+28	INT	GYMNASIUM-DANCEFLOOR-NIGHT-CARMENANDJOHNNY
+
+	dance.Johnnywantstokissher,Carmenplayfullyavoids.
+
+				JOHNNY
+		Isn'titgreattobeinlove?
+
+				CARMEN
+		HowdoIknowifthisislove?
+	
+				JOHNNY
+		Itwouldn'tbesoromanticifweweren't...
+
+				CARL
+		Outathewayyoutwo!
+
+	CarlandDizzydanceby,DizzysmilingbravelybecauseCarlisaterribledancer.
+	Johnnygoesinforthekissagain.
+
+				CARMEN
+		Romanceisjustavestigialbiological
+		responsetoprocreation...
+
+				JOHNNY
+		Aw,you'reinlovewithme...
+		Youjustdontknowityet.
+
+	Johnny'sconfidencemakeshersmile.Johnnymovesintokissher,
+	butthemusicends.Everyoneapplauds.Thelightscomeupand
+	peopleheadforthedoors.JohnnyseesRasczak.
+
+				JOHNNY
+		Wait,IwanttotalktoMr.Rasczak.
+
+				CARMEN
+		I'llmeetyououtside.
+
+	JohnnyheadsovertoRasczak.
+
+				JOHNNY
+		MisterRasczak?
+
+				RASCZAK
+		Whatisit,Rico?
+
+				JOHNNY
+		Ijustwantedtosaythanks'causeHistory
+		andMoralPhilosophywasthebestclass
+		Ihadthisyear.
+
+				RASCZAK
+			(smiling)
+		Well,it'snotreallymyjobtoplease.
+		Hopeyoulearnedsomething.
+
+				JOHNNY
+		Iwannajoinup,Mr.Rasczak.IthinkI
+		havewhatittaketobeacitizen.
+
+				RASCZAK
+		Goodforyou.Gofindout.
+
+				JOHNNY
+		Well,myparentsareagainstit,andI
+		knowit'smychoice,butIwas
+		wondering...
+		Whatwouldyoudoifyouwereme?
+
+				RASCZAK
+		Figuringthingsoutforyourselfisthe
+		onlyfreedomanyonereallyhas.
+		Usethatfreedom.
+		Makeyourownchoice,Rico.
+
+29	EXT	UNIHIGHGYMNASIUM-NIGHT-JOHNNY
+	
+	walksoutandfindsCarmentalkingwithZander.Hewearstheblue
+	uniformofaFleetpilottrainee.CarmenexamineshisFLEETPIN,
+	apairofsilverwings.
+
+				CARMEN
+		Johnny,thisisZander.
+
+				ZANDER
+		Yeah,weknoweachotherfromthegame.
+		Nohardfeeling,eh,chum?
+
+				JOHNNY
+		Noneatall...Wewon.
+
+				CARMEN
+		Goodluckattheacademy.
+
+	Zandertakesbackthewingsandpinsthetohistunic.
+
+				ZANDER
+		Always.
+
+30	EXT	PROMENADE-NIGHT-JOHNNYANDCARMEN
+
+	walktogetheralongtheriverholdinghands.
+
+				CARMEN
+		HejustgotacceptedtotheFleetAcademy.
+		Isn'tthatgreat?
+
+				JOHNNY
+		Yeah,sure,Iguess.
+
+				CARMEN
+		No,Imeanifhecangetin,maybeIhavea
+		chance.
+
+				JOHNNY
+		Whatareyoutalkingabout?Webothknow
+		you'regonnabeapilot.
+
+				CARMEN
+		Zanderisgoingforpilot,too.
+
+				JOHNNY
+		Youtwohavesomuchincommon.
+
+	CarmenpullsJohnnytoastop,lookshimintheeye.
+
+				CARMEN
+		JohnnyRico,you'rejealous!
+
+				JOHNNY
+		Ican'thelpit.
+
+				CARMEN
+		He'snothinglikeyou.
+
+				JOHNNY
+		Idon'tevenknowifyou'remygirl.
+
+	Carmensmiles,leansinclosetoJohnny.
+			
+				CARMEN
+		Areyoutheboyforme?
+
+				JOHNNY
+		I'mgonnadoit,Carmen.I'mgonnasign
+		upforFederalService.
+
+	Theykiss,tentatively,butthepassiongrowsandtheybreakapart,
+	breathless.
+
+				CARMEN
+		Oh,Johnny...
+
+31	EXT	PUBLICTRANSPORTATION-NIGHT-JOHNNYANDCARMEN
+
+	makingoutastheywaittheirturn.Thereareafewotherpeoplearound
+	includingaPOLICEMAN.
+
+				CARMEN
+		Everyone'slooking...weshouldn't...
+
+				JOHNNY
+		Whocares?
+
+				CARMEN
+		You'reright.Let'sneverstop...
+
+				POLICEMAN
+		Hey,you,there'saplaceforthat!
+
+	Withoutstopping,JohnnypullsCarmenintotheflux.	ZAPPP!
+
+32	INT	FEDERALHOUSING-NIGHT-JOHNNYANDCARMEN
+
+	kissingatherfrontdoor.JohnnymoveshishandtenativelytoCarmen'sbreast.
+	Shetakeshishand,smiling,putsitunderhershirt.
+
+				JOHNNY
+		Iloveyou,Carmen.
+
+				CARMEN
+		Shhh...
+
+	Sheputshermouthonhisandtheymelttogether.Thedoorfliesopen,
+	andCARMEN'SDADstandsthere.
+
+				CARMEN'SDAD
+		Carmen,it'slate.Getinside.
+
+				CARMEN
+		Sorry,Dad.Seeyou,Johnny.
+
+	Carmenducksinside.HerfatherlooksJohnnyover.Hecarriesaterrible
+	battlescaroonhisface.
+
+				CARMEN'SDAD
+		Idon'twantyouaroundCarmenanymore.Getme?
+
+				JOHNNY
+		MaybeCarmen'sgonnamakeherowndecisionsfrom
+		nowon,Mr.Ibanez.
+
+	Carmen'sDadreddens.He'dliketopunchJohnnyout.
+
+				CARMEN'SDAD
+		Carmen'sgonnabeacitizen.Shedon'tneedyou
+		andyourrichfamily.TheFederation'llgiveher
+		everythingsheneeds.
+
+				CARMEN(O.S.)
+		Dad,leavehimalone...
+	
+	Carmen'sDadslamsthedoorinJohnny'sface.
+
+33	EXT	FEDERALBUILDING-DAY-JOHNNYANDCARMEN
+	
+	meetCarlinfrontoftheinductioncenterwhereastaedyflowofprospective
+	citizensfilethroughthemaindoors.
+
+34	INT	LOBBY-DAY-THERECRUITINGSERGEANT
+
+	ismissingonearm.Hesmilesbroadlyatthethreeteenagers.
+
+				RECRUITINGSERGEANT
+		Freshmeatforthegrinder,eh?
+
+				CARL
+		That'sus.Wheredowesign?
+
+	Heturnsinhischairtograbtheforms.Johnnyandhisfriendsseethatheisalso
+	missingbothlegs.TheRecruitingSergeantcatchesthemlooking,
+	smilesevenwider.
+
+				RECRUITINGSERGEANT
+		Hereandhereandhere.
+
+	Ashesigns,JohnnylooksatthecampaignribbonsontheRecruitingSergeant's
+	chest.WehearMUSIC:	"TheMobileInfanteryAnthem"playssoftlyinhonor
+	ofdistantbattles.
+
+				RECRUITINGSERGEANT
+		WelcometotheadventureofFederalService.
+		Followtheblueline.
+
+35	INT	PROCESSINGHALL-DAY-JOHNNY,CARMENANDCARL
+
+	areroutedintodifferentlines,joiningotherhopefulcivilians.
+	ACOLONELmakesaspeechovertheloudspeaker.
+
+				COLONEL
+		Thereisnoguaranteeofservice.Wedon'tneed
+		allofyou.Itcostsagreatdealtotrainhumanbeings
+		forusefultasks.Manyjobsarehazardoustoyour
+		health.Ifyouarechosenanddonotwishtoserve
+		youmayresignatanytimesimplybycompleting
+		form1240/A.Thankyouforexercisingyou
+		constitutonalrights.
+
+36	INT	CHANGINGROOM--DAY--JOHNNY
+
+	andothersinthelinestripdown.TheguyinfrontofJohnnyis
+	DON,18,athleticandcheerful.
+
+				DON
+		Theytookmysister,they'lltakeanybody.
+
+37	INT	TESTINGFACILITY--DAY--JOHNNY
+
+	grimacesasaTECHNICIANinstallsanINTERFACEPLATEon
+	hisside,drawingfluids.
+
+				DON
+		Oh,thisisthepartthathurts!
+
+	APSYCHOFFICERsitsdownacrossfromeachcandidate.
+
+				PSYCHOFFICER
+		Notalkingplease.I'mgoingtoaskyousome
+		questions.Pleaseanswerallquestionstruthfully.
+		We'llknowifyoudon't.
+		Birthplace?
+
+				JOHNNY
+		HereinBuenosAires.
+
+	ThePsychOfficerchecksJohnny'sresponseonameter.
+
+38	INT	VARIOUSTESTINGSTATIONS-DAY-JOHNNY
+
+	ispokedandprodded,subjectedtoaural,visualandpharmacological
+	stimuli,andscannedfromheadtotoe.
+
+				PSYCHOFFICER(V.O.)
+		Areyourparentscurrentlycitizens?
+
+				JOHNNY(V.O.)
+		No,sir.
+
+				PSYCHOFFICER(V.O.)
+		Whichdoyouthinkismoreimportant,
+		courageorconfidence?
+
+				JOHNNY(V.O.)
+		Courage,Iguess.
+
+				PSYCHOFFICER(V.O.)
+		Pleasecompletethissentence.
+		Iwanttobecitizenbecause...
+
+				JOHNNY(V.O.)
+		Iwanttobeacitizenbecause...
+		well,becauseofmygirl,sir.
+
+39	INT	DEBRIEF-DAY-JOHNNY
+
+	sitsacrossfromaMAJORwhoviewsalistonamonitorJohnnycan'tsee.
+
+				MAJOR
+		I'mhappytotellyouthatyou'vebeen
+		acceptedforFederalService.
+
+				JOHNNY
+		Wow,that'sgreat.
+
+				MAJOR
+		Lookslikeyou'requiteanathlete.
+		Boy,lookatthosereactionstats.
+
+	TheMajorcluckshistongueashehighlightsthelastcategoryonhislist:
+	MOBILEINFANTERY.
+
+				MAJOR
+		Myjobistoderterminewhatyou're
+		bestsuitedfor.
+
+				JOHNNY
+		Iwanttobeapilot,sir.
+
+				MAJOR
+		Sorry,son,noway.Yourschoolrecords
+		sayyoudon'thavethemathskills.
+
+	Johnnyswallowsthis.Heknewitwascoming.TheMajordeletes
+	"Pilot"fromthelist,thenseveralotheritems.
+
+				MAJOR
+		Thatrulesoutthescientificandengineering
+		applications,andI'mafraidwereserve
+		non-militaryoptionsforcandidateswhoare
+		franklylessable-bodiedthanyouare,son...
+
+	HeturnsthemonitoraroundandshowsJohnnythelist.
+	TheonlythingleftisMOBILEINFANTERY.
+
+				MAJOR
+		Itlooksliketheonlythingyou'regood
+		foriscannonfodder.
+		I'mputtingyoudownforthe
+		MobileInfantery.
+
+40	INT	AUDITORIUM-DAY-CARMEN
+
+	proudlytakestheFederalServiceoathwithabouttwenty-fiveotherpeople,
+	agleamingsilverFLEETPINonherchest.ShelooksaroundforJohnny,
+	seeshimgrinningather.
+
+				JOHNNYETAL
+		...ofmyownfreewill,withoutpromise,coercion,
+		orinducement,afterhavingbeendulyadvised
+		andwarnedofthemeaningandconsequenceof
+		thisoath,donowenrollintheFederalService
+		oftheTerranFederationfornotlessthantwo
+		yearsandasmuchlongerasmayberequired
+		bytheneedsoftheService...
+
+41	INT	FEDERALBUILDING-LOBBY-DAY-JOHNNYANDCARMEN
+
+	walkouttogetherhappily,handinhand.
+
+				CARMEN
+		IwonderwhereCarlis.Youdon'tsuppose...?
+
+				JOHNNY
+		Naw,Imadeit,Carlmadeit.
+
+	Justthen,Donrushespast,shamefaced,crying.
+
+				JOHNNY
+		Hewasinthegroupwithme.
+		Iguesshedidn't...
+
+				CARMEN
+		Shhh!Don'tmakehimfeelworse.
+
+	TheRecruitingSergeantisgettingreadytogohome.He'sgotlegsnow,
+	andhetakesaprostheticarmfromitscaseandsnapsiton.
+	Hegrinswhenheseesthemstaring.
+
+				RECRUITINGSERGEANT
+		Theyputmeoutfronttodiscouragetheweak-hearted,
+		butattheendofthedayIgohome.
+		How'dyoukidsdo?
+
+				CARMEN
+		I'mgonnagoforpilot.
+
+				RECRUITINGSERGEANT
+		Goodforyou.Weneedeverypilotwecanget.
+
+	JohnnyholdsthedoorforCarmenandtheRecruitingSergeant.
+	SuddenlyCarlappearslookingalittlepalerthanusual.
+
+				CARMEN
+		Hey,Carl,what'swrong?
+
+				JOHNNY
+		DidyougetStarsideR&D?
+
+				CARL
+		No.
+
+42	EXT	FEDERALBUILDING-DAY-JOHNNYANDCARMEN
+
+	arestunned.
+
+				JOHNNY
+		Idon'tbelieveit!
+
+				CARL
+		IgotGames&Theory.
+
+	Well,everyone'salittleimpressedbythis.
+
+				CARMEN
+		Games&Theory?That'sMilitary
+		Intelligence...Oh,Carl!
+
+				JOHNNY
+		Whoa!Waytogo,boy-yo!
+
+				RECRUITINGSERGEANT
+		Nexttimewemeet,I'llprobablyhavetosalute
+		you.Whataboutyou,son?
+
+				JOHNNY
+		Infantery,sir.
+
+	TheRecruitingSergeantbeams,offersaprosthetichand.
+
+				RECRUITINGSERGEANT
+		Well,goodforyou.TheMobileInfanterymademe
+		themanIamtoday.
+
+	JustwhatJohnnywantedtohear.TheywatchtheoldSergeantwalk
+	away.	MUSIC:	"TheMobileInfanteryTheme".
+	CarmentakesJohnnyandCarlbythearmastheywalk.
+
+				CARMEN
+		Let'sallmakeavow.Let'sswearwe'llalways
+		befriendsnomatterwhat.
+
+				JOHNNY
+		I'llgoforthat.
+
+				CARL
+		Well,we'regonnabemillionsoflightyearsaway
+		fromeachother,andchancesarewe'llneversee
+		eachotheragain,butsure...
+
+				CARMEN
+		Ican'twaittotellmyDadI'min.
+		He'sgonnabesohappy!
+
+				JOHNNY
+		Myfather'sprobablygonnakillme.
+
+43	INT	JOHNNY'SHOUSE-STUDY-NIGHT-JOHNNY
+
+	standssullenlyashisFatherragesathim.
+
+				FATHER
+		You'llresign,andthat'sallthereistoit.
+		Itmightlookbad,butifthat'stheworst
+		yousuffer...
+
+				JOHNNY
+		Iwon'tquit!
+
+				FATHER
+		I'mtellingyou,youwill!
+		You'renotgoingback.You'regoing
+		togoonvacation!
+
+				JOHNNY
+		I'mnotgoingonvacation!Iwantto
+		beacitizen!It'smydecision.
+		Imadeit.
+
+	Johnnyturnsforthedoor.Hisfatherthrowshislastshot.
+
+				FATHER
+		Youwalkoutthatdoor,you'recutoff,
+		youngman...Youunderstandme?
+		Alright,THAT'SIT,YOU'RE...
+
+44	INT	JOHNNY'SHOUSE-HALLWAY-NIGHT--JOHNNY
+
+	walksout,grim,seeshismother,tearsinhereyes.
+
+				FATHER(O.S.)
+		...CUTOFF!
+
+				MOTHER
+		Johnny,whywon'tyouchangeyourmind?
+		Doescitizenshipmeansomuchtoyou?
+
+				JOHNNY
+		Well,yeah,sure...
+
+				MOTHER
+		Ihopeso.Ihopeyoudon'truinyourlife
+		oversomesillylittlegirlwhowantstolook
+		handsomeinauniform.
+
+	Johnny'sfacereddens.
+
+				JOHNNY
+		Don'ttalkaboutmygirlthatway.
+
+	Johnnyturnsonhisheel,headsforthetransporter.		ZAPPP!
+
+45	EXT	FEDERALTRANSPORTATIONHUB-DAY-JOHNNY
+
+	looksforCarmenamonghundredsofyoungpeopleboundfor
+	FederalServicedestinations.Recruitswearcivilianclothes.
+	Everyoneelseisinuniform.
+	
+				P.A.(O.S.)
+		Outboundgroup1380,UrsaMinor
+		andTyko,nowtransportingat
+		bank17...
+
+	Nowheseesherenteringstrugglingwithluggage.Johnnyrushesto
+	helpherandsoonheiscarryingallherbags.
+
+				JOHNNY
+		You'relate.
+
+				CARMEN
+		MyDadhadtohelpmepack.Suddenly
+		he'safraidhe'snevergonnaseeme
+		againorsomething.Itwassweet,butit
+		tookforever.Anyway,IguessI'mready
+		togo.
+
+	Atthefreightstation,CarmenentersherFederalI.D.cardandgets
+	numberedtagsforherbags.
+
+				JOHNNY
+		Me,too.I'mwearingeverythingIown.
+
+	Johnnyloadsthemontoaconveyorbelt.
+
+				CARMEN
+		Poorboy.I'msorryyourparentsweresomad.
+
+				JOHNNY
+		Whocares!TheFederation'llgivemeeverything
+		Ineedforthenexttwoyears,right?
+	
+	Carmen'salreadymovedtothenextline.Johnnyfollows.
+
+				CARMEN
+		YoutalktoCarl?
+
+				JOHNNY
+		Heleftthismorning.Hecouldn'tsaywhere.
+
+	Carmenlogsin,entersherdestination:	LUNA-TERESHKOVA
+	FLEETACADEMY.	Theticketsstationspitsoutapass.
+
+				CARMEN
+		It'sexciting,butit'sscary,tooisn'tit.
+		Goingsomeplacenewwhereyoudon't
+knowanyone.
+
+	Carmenheadstowardabankoftransporters.Johnnystopsher,
+	takesherbythearms.
+
+				JOHNNY
+		I'mgonnamissyou.
+
+				CARMEN
+		I'llmissyou,too,Johnny.
+
+				JOHNNY
+		Iloveyou.
+
+				P.A.(O.S.)
+		Outboundgroup948A,Tereshkova,
+		allsections,transportingatbank5.
+
+				CARMEN
+		Oh,that'sme.
+	
+	Shescansherpass,butJohnnystopsheragain.
+
+				JOHNNY
+		Com'on,justsayit.Tryitonforsize.
+
+				CARMEN
+		Alright,Iloveyou.
+
+	Carmenkisseshim,jumpsintothetransporter.
+
+				JOHNNY
+		Doyoumeanit?
+
+				CARMEN
+		Isaidit.Isn'tthatenough?
+		Don'tforgettowrite!
+
+	ZAPPP!	Thelastthingheseesareherbeautifuleyes.
+
+46	FROMTHEFEDERALNET-AWORLDTHATWORKS!
+
+	PeoplearedoingFederalServicejobsallovertheknownGalaxy.
+
+				OFFICIALVOICE
+		FromallovertheknownGalaxy,prospectice
+		citizensworktogethertomakeabetter
+		tomorrow!
+		Wouldyouliketoknowmore?
+
+47	CRIME&PUNISHMENT-TONIGHT!
+
+	ACRIMINALstandsbeforeaFEDERALCOURT
+
+				OFFICIALVOICE
+		Amurdererwascapturedandtriedtoday.
+		Sentence:	DEATH.
+		Tonightatsix,allnet,allchannels.
+		Wouldyouliketoknowmore?
+
+48	NOTICE-AREYOUPSYCHIC?
+
+	AFederalclinicspecializinginpsycicresearch.
+
+				OFFICIALVOICE
+		Ifyouthinkyouarepsychic,maybeyouare.
+		Harnessyouruniqueabilitiesandtake
+		advantageofthemanyFederalbenefits
+		availableforpsychiccitizens.
+		Wouldyouliketoknowmore?
+
+49	TRAVELADVISORY-INSECTTRAGEDYONTANGOURILLA
+	
+	Aprefabtownshipsitsontheshoresofatranquilalienbay.
+	Then,a"YouAreHere"mapoftheKnownUniverse.
+
+				OFFICIALVOICE
+		DisregardingFederalwarnings,Mormon
+		extremistsestablishedPortJoeSmith,
+		asettlementof300onTangoUrilla,a
+		systemjustinsidetheArachnid
+		QuarantineZone.
+
+	ArchivalpicturesofacaptivetwometerARACHNIDWARRIOR,
+	multipleeyes,cuttingmouthpartsandclaws.WarySCIENTISTS
+	keeptheirdistanceasiteatsaCOW.
+
+				OFFICIALVOICE
+		ToolatetheyrealizedthaTangoUrillahad
+		alreadybeenchosenbyothercolonists
+		--Arachnids!
+
+	NowbodypartslittertheruinedstreetsofPortJoeSmith.
+
+				OFFICIALVOICE
+		Thecouncilasksfuturecoloniststoobeyall
+		officialFederalwarnings.
+		Wouldyouliketoknowmore?
+
+50	EXT	CAMPCURRIE-PARADEGROUND-DAY-SERGEANTZIM
+	
+	is40,astoundinglyfit,andlikealldrillinstructors,hecarriesasmallbaton.
+	HeaddressessixtyshornRECRUITS.
+
+				ZIM
+		Theproblemwithyouisthatnoneofyouare
+		goodenoughthewayyouare.
+
+	Johnnystandsinformationwithhissquad,amongthem:
+
+	BRECKINRIDGE,18,DJANA'D,19,KATRINAMcINTIRE,18,ACELEVY,
+	18,SHUJUMI,18,andKITTENSMITH,18.
+			
+				ZIM
+		Iamyourseniordrillinstructor,
+		CareerSergeantZim.
+			(then)
+		TOTHINKTHISHADTOHAPPENTO
+		ME!Whatabunchofapes.No,strikethat.
+		Youdon'tratethatgood...yousunken-chested,
+		slack-bellied,droolingrefugeesfromapron
+		strings!InmywholelifeI'veneverseensuch
+		adisgracefulhuddleofmomma'sspoiled
+		littledarlings!Suckinthoseguts!
+		Youthere,EYESFRONT!
+
+	ZimgivesKittenSmiththehairyeyeball.Smithcracksup.
+
+				ZIM
+		DoyouthinkI'mfunny?DoImake
+		youlaugh?DoyouthinkI'ma
+		comedian?
+
+	KittenSmithshakehishead"no",buthecan'tstiflehimself.
+
+				KITTENSMITH
+		Sorry...!
+
+				ZIM
+		Thefirstandlastwordsoutofyour
+		stinkingholeswillbe"sir".
+		Doyougetme?
+
+				KITTENSMITH
+		Sir,sorry...sir.
+
+				ZIM
+		Seethearmory?Runaroundit!
+
+	KittenSmithsquints.Outinthedistance,atinybuilding.
+	Zimsmackshimonthelegwithhisbaton.
+
+				KITTENSMITH
+		YEOW!
+
+				ZIM
+		RUN,ISAID.Bronski,keeppace!
+
+	KittenSmithruns.BigCORPORALBRONSKI,28,takesoutafter
+	him,layingabatonacrosshisbacksideeverytimeheslows.
+
+				ZIM
+		Youarenowallbrothersandsistersin
+		thesamefamily,myfamily,theMobile
+		Infantery.Iwillbeyourmother.
+		Iwillbeyourfather.Ifyoudonot
+		pleasemeIwillthrowyououtofmy
+		familybecauseIhateallslackersand
+		negativehackers.
+		Doyougetme?
+
+				JOHNNYETAL
+		Sir,yes,sir!
+
+	ZimpointsatthelittleWHITEPICKETFENCEleadingtoa
+	transporternearthefrontgate.
+
+				ZIM
+		AnytimeyouthinkI'mbeingtotough,
+		anytimeyouthinkI'mbeingunfair...
+		QUIT!Grabyourgearandtakea
+		strolldown"WashoutLane".
+		Getme?
+
+				JOHNNYETAL
+		Sir,yes,sir!
+
+				ZIM
+		Iwonderifthere'sahandfulof
+		gutsinthewholebunch.Who
+		thinksthey'vegotwhatittakes
+		toknockmedown?
+
+	Breckinridge,abigguyfromafarmplanet,stepsforward.
+
+				BRECKINRIDGE
+		Sir,IguessmaybeIdo,sir.
+
+	Zimcrooksafingerathim.Breckinridgecharges.Zimknocks
+	himflat.Breckinridgeholdshisarm,twistednow.
+
+				ZIM
+		Youalright,Breckinridge?
+
+			BRECKINRIDGE
+		Sir,yes,sir.It'smyarm.Ithinkit's
+		broken,sir.
+
+				ZIM
+		MEDIC!
+
+	AMEDICchargesup,checksBreckinridge'sarm,grins.
+
+				MEDIC
+		Cleanbreak...Doc'llhavehimbackon
+		activedutybytomorrow.
+
+				ZIM
+		Good.Who'snext?
+
+	Shujumistepsup,assumesafightingstance.Zimlookshimover.
+	There'snotnotmuchtohim.ShujumiattacksZim,countershis
+	counter,dancesoutofrange.
+
+				DJANA'D
+		Lookitthelittleguygo!
+
+	NowZimattacks.ShujumiflipkicksZiminthehead.
+
+				JOHNNY
+		He'sgoodalright.
+
+				KATRINA
+		I'llbethemakessquadleader.
+
+				ACE
+		He'llhavetogetpastme.
+
+	TherecruitscheckAceout.ZimsweepsShujumi'slegs,putsa
+	kneeinthelittleman'sthroat.Shujumipassesout.
+
+				ZIM
+		MEDIC!
+
+51	EXT	OBSTACLECOURSE-DAY-THERECRUITES
+
+	tumbleabrutalobstaclecourseusingJUMPBOOTS.
+
+				ZIM(V.O.)
+		Someofyoumaynot�makeit.
+
+	Djana'dhitsatowerandfallstothedeckhard,droppingherrifle.
+	Sheholdsherknee,hurt.Zimracesovertoher.
+
+				ZIM
+		WHYISTHATWEAPONONTHEGROUND?
+		YOURWEAPONISMOREIMPORTANTTHAN
+		YOUARE!PICKITUP!PICKITUP!
+
+	Zimbeginstokickherbecauseshedoesn'tmovefastenough.
+
+				ZIM(V.O.)
+		YoumightthinkIamunfair.
+
+52	EXT	ZEROGRAVITYCOMBAT-DAY-THERECRUITES
+
+	watchpoorKittenSmithsparwithZim.KittenSmithwhacksZimacrossthejaw.
+	Zimdoesn'tevenflinch.
+
+				ZIM
+		Isthatallyougot?Youhitlikekitten,Smith!
+		Thisisapunch.
+
+	WHAM!	ZimknocksKittenSmithforaloop.
+
+				ZIM(V.O.)
+		Youwillnotlikeme.
+
+53	INT	HYPERPHYSICALTRAININGENVIRONMENTS-DAY-ZIM
+
+	watchestherecruitsfacesimulated3-DOFF-WORLDFOES.Inoneroom,
+	CYCLOPSSOLDIERSofAntilles,inanother,redDEATHWALKERS,
+	andinathird,screechingARACHNIDWARRIORS.
+
+				ZIM(V.O.)
+		Butifyousurviveyouwillthankme
+		becauseyouwillbebornagainhard.
+		Youwillbeanewperson.
+		YouwillbeaCapTrooper.Andthen,
+		MAYBE,you'llbegoodenough...
+
+54	EXT	COMBATKNIFEPRACTICE-DAY-ZIM
+
+	throwsaknife,buriesthepointinanarrowpost.
+
+				ZIM(V.O.)
+		...toserveinmyfamily.
+
+				ACE
+		Sir,Idon'tunderstandswhoneedsa
+		knifeinanukefightanyway...
+		Allyougottadoispushabutton,sir!
+
+	Zimyankstheknifeoutofthepost.
+
+				ZIM
+		Putyourhandonthepost,private.
+
+	Aceobeys.Zimthrows,stickshishandtothepost.
+
+				ACE
+		AWK!
+
+				ZIM
+		Theenemycannotpushabuttonifyou
+		disablehishand.MEDIC!
+
+	ZimpaysnoattentiontoAcewhoremainsstucktothepost.A
+	recruittrotsup.Johnnystares,surprised.It'sDizzy.
+
+				DIZZY
+		Sir,recruitFlores,reportingforduty,sir.
+
+	ShesnapsZimasaluteandhandshimherorders.
+
+				ZIM
+		Iseeyouspecificallyrequestedtransfer
+		fromFortCronkitetothistraininggroup...
+
+	Dizzygrinsself-consciouslyatJohnny.
+
+				DIZZY
+		Sir,Ihearditwasthebest,sir!
+
+				ZIM
+		Itisthebest...BUTWHATMAKESYOU
+THINKYOU'REGOODENOUGH?
+ONYOURBELLYANDGIVEME
+FIFTY,RECRUIT!
+
+	Dizzyhitsthedeckandstartsdoingpush-ups,countingoffas
+	MEDICSarriveandgotoworkonAce'shand.
+
+55	INT	MESSHALL-DAY-THERECRUITES
+
+	lineupformesspiledfour-squaretogetheronasingleplate,
+	meatonthebottom,icecreamontop.
+
+				ACE
+		I'dliketodisableZim...!
+
+				KATRINA
+		ImproperAttitude!They'llkickyouout
+		fortalkinglikethat...
+
+				DJANA'D
+		Theycankickyououtforanything.
+		ImproperConduct,Unsatisfactory
+		Performance...
+
+				KITTENSMITH
+		OffyougodownWashoutLane,bye-bye!
+
+	Acecutsintothefrontoffthemessline.
+
+				ACE
+		Aw,youeithergotwhatittakes
+		oryoudon't.
+
+				DJANA'D
+		C'monAce,waityourturn!
+
+				ACE
+		Atease,soldier.It'sallthesamemuck.
+
+				JOHNNY
+		Bettergetinlinelikeeveryoneelse,Ace.
+
+	Silence.Therecouldbeafight.Zim,standingnearby,watches
+	withinterest.Aceopenshishand.
+
+				ACE
+		Yougotsomegutsforarichkid.
+		Iguessyouandmecouldbebuddies.
+
+				JOHNNY
+		Whatanhonor...
+
+				ACE
+		Hey,don'tlaugh.Everyoneoughtahave
+		afriendlikeme!
+
+	AcemakesabigfriendlyshowoftradingplaceswithJohnny.
+
+				BRECKINRIDGE
+		Comeon,Ace,backofftheline!
+		Baclofftheline!
+
+	Noweveryone'slaughing,pushingAcetothebackoftheline.
+	Johnnyhashisgrub.Dizzycomesupwithhertray.
+
+				DIZZY
+		Hey,amigo,comechowwithme.
+
+				JOHNNY
+		Nothanks,Diz.
+
+				DIZZY
+		What'syourmalfunction,Rico?
+
+				JOHNNY
+		Youare.Ijoineduptogetoutonmy
+		own.Andyouhadtotagalong.
+
+				DIZZY
+		What?YouthinkIjoinedtheMobile
+		Infanterybecauseofyou?
+
+				JOHNNY
+		Yousayingyoudidn't?
+
+	Johnnyturnsaway.Dizzywatcheshimgo,hurt.
+
+56	EXT	OBSTACLECOURSE-DAY-THERECRUITS
+
+	tumbledownthedifficultcourseintheirpowersuits.Attheheadof
+	thepack,breathinghard,JohnnyandAcerace.
+
+				ACE
+		Whatmakesyouthink...you'llmake...
+		squadleader,Rico?
+
+				JOHNNY
+		Something...I'vegot...youdon't.
+
+				ACE
+		Yourichkids...areallthesame!
+
+				JOHNNY
+		Itisn'taboutrich...It'sabout
+		who'sbest...!
+
+	Theycometoatrap,preparetoleap.
+
+				DIZZY
+		Comingthrough!
+
+	Dizzyjumpsoverthemfrombehind.JohnnyandAcetumbleintothemud.
+	Theywatch,chagrined,asDizzyreachestheendofthecourseeffortlessly.
+
+				ZIM
+		C'mon,moveit,youapes!
+
+57	INT	SHOWERS-NIGHT-DIZZY
+
+	entersastherecruitsscrubdown.
+
+				KITTENSMITH
+		Weallhaveonethingincommon.Wewere
+		allstupidenoughtosignupforMobile
+		Infanterie.What'syourexcuse,
+		Breckinridge?
+
+				BRECKINRIDGE
+		Well,myfamilyisallfarmers.Ihatefarming.
+		MobileInfantery'spurepicnicbycomparison.
+
+				KITTENSMITH
+		Sothegrow'embiganddumbonthefarm
+		planet,eh?	Djana'd?
+
+				DJANA'D
+		I'mgoinginforpolitics.Yougottabea
+		citizenforthat.SohereIam.
+
+				KITTENSMITH
+		C'mon,keepitgoing...Katrina!
+
+				KATRINA
+		Iwannabeamom.It'seasiertoget
+		alicenceifyou'veserved.
+
+				ACE
+		I'mgoingcareer...officer'straining.
+		That'swhyIwannabesquadleader.
+		Theylookforthat.
+
+				JOHNNY
+		Wantingitdoesn'tmakeyouthebest
+		oneforthejob.
+
+				ACE
+		Oh,yeah?Idon'tseeanyoneelsehere
+		withthechopstolead.
+
+				JOHNNY
+		Well,maybeyoubetterlookagain.
+
+				SHUJUMI
+		Federation'sgonnagivemeascholarship
+		whenmyhitchisup.Iwannabea
+		neurologist,studybrainchemistyand
+		associatedstimulus...
+
+	Dizzydressesdown.Johnnyandalltheotherguyscheckherout.
+	Shehasafabulousbody.DizzycathesJohnnylooking.Heturns
+	hisbackasshestepsintotheshowernexttohim.
+
+				KITTENSMITH
+		Yourturn,Rico!
+
+				JOHNNY
+		Aw,whoaskedyoutobesonosey?
+
+				KITTENSMITH
+		Me,Igotplanstobewriter,andawriter's
+		gotarighttobenosey.Flores,youknow
+		RicofromBuenosAires...What'shisstory?
+
+	DizzyusesherhandtodiverttheshowerspraytowardsJohnny'scrotch.
+
+				DIZZY
+		Well,somesayheturnedhisbackonthefamily
+		fortunetobeacitizen,otherssayhediditfor
+		agirl...missedaspotthere,bucko...whichis
+		funnybecauseJohnnysaysIjoineduptobe
+		withhim,butwhywouldIdothat?
+		Hedoesn'tevenlikeme.
+
+				BRECKINRIDGE
+		Don'tlookthatwaytome.
+
+	EveryonelookdownatJohnny'scrotch,laughing.Johnny
+	blushes,grabsatowelandexitstheshower.
+
+58	INTBARRACKS-NIGHT-INTOCAMERA-JOHNNY
+
+	pansthebarrackswithalittlehandcam,neatbunksinarow,otherrecruits
+	loungingaroundintheirskivvies.
+
+				JOHNNY
+		Iknowit'snotmuch,butit'shome.Over
+		there'smybunkwhereIdreamaboutyou
+		everynight...
+
+Ace,KittenSmith,ShujumiandBreckinridgedancearoundandmoonthe
+	camera.
+
+				JOHNNY
+		Hey,doyoumind?
+
+	Johnnymovesthecameraawayfromtheguys.Katrinawalksbyfromthe
+	showerwithDizzy,mugsintoframe.
+
+				KATRINA
+		Hey,what'sgoingon?
+
+				DIZZY
+		Ibetit'sthatgirlIwastalkingabout...
+		Hername'sCarmen,Ithink.
+
+				ACEANDTHEOTHERS
+		Carmen!Oohlala,Carmencita!
+
+				KATRINA
+		Hi,Carmen!
+
+	Johnnyheadsforthedoor.
+
+				ACEANDTHEOTHERS
+		Hey,whereyougoing?Comeback...!He's
+		gettingawy...Grabhim...!
+
+	Thepicturegoesallscrewy,comesupagainon:
+
+59	EXT	BARRACKS-NIGHT-INTOCAMERA-JOHNNY
+
+	talkquietlynowoutsidethebarracksdoor.
+
+				JOHNNY
+		Boot'sprettytough,andsometimes
+		IthinkIwon'tmakeit,butthenI
+		imagineyou'rewatchingme,andthat
+		givesmesometing...Itryharder.
+		Thankstoyou,IthinkImighthave
+		ashotatsquadleader.
+
+	Thebarrackslightsgoout.Tapsplaysoverthepublicaddress.
+	Johnnylowershisvoice.
+
+				JOHNNY
+		Uh-oh,Igottapackitin.Ihopeyou're
+		havingfun,hopeyou'recareful.
+		Notrainingaccidentsforyou,eh?
+			(leaningintocamera)
+		Iwanttokissyousobadly.Iwant
+		tofeelyounexttome,I-
+
+	Behindhim,someonebeginstosing,badly.
+
+				ACE
+		Iloveyoutruly,sotruly,dear...!
+
+	Ace,thesinger,andtheotherguyspeerdownfromthetransom
+	overthedoor,giggling,delightedwiththemselves.
+
+							PULLBACKTOREVEAL:
+
+60	INT	TERESHKOVAFLIGHTACADEMY-DAY-CARMEN
+
+	watchestheendofJohnny'sletter.Acecontinuestosing.
+
+				ACE
+		Ourlovewillgrow,dear,yearbyyear...
+
+				JOHNNY
+		Bye!Writeme!I'mgonnakillyouguys!
+
+	Theletterends.Carmensmiles.ABALDCADETPILOTsmacksheronthe
+	armassherunsbyinasleekbluepressuresuit.
+
+				BALDCADET
+		Orbitinfive,Ibanez!Firstonetheregets
+		tofly!
+
+	Grinning,Carmengrabsherduffel,takesoffafterher.
+
+61	INT	BOARDINGCORRIDOR-DAY-CARMEN
+
+	andthebaldcadetraceforthehatchpastotherrecruits.
+
+62	INT	BOAT-DAYCYCLE-CARMEN
+
+	getstherefirst,jumpsintothepilotseat.TheBaldPilottakes
+	secondseat.
+
+
+				CARMEN
+		Lookingitdown!
+		
+	TwoLATECADETSduckinthroughtheclosinghatchdoor.
+
+				LATECADET
+		Ohno,notIbanezagain,she'scrazy!
+
+				CARMEN
+		Onmymark,inthree,two,one...
+
+63	EXT	LUNARORBIT-THEBOAT
+
+	straeksupwardfromthelunarfloorpastorbittingtrainingplatformswhere
+	CADETSinbrightlycoloredpressuresuitsfloatagainsttheEarthwhich
+	hangsbeyondthehorizon.
+
+				CARMEN(O.S.)
+		...GO!
+
+64	INT	BOAT-LUNARORBIT-CARMEN
+
+	blastspastaDESTROYERorbitingindock,zipsbetweenCORVETTES
+	andotherslowerfleettrafficinthecrowdedspacelanesofLuna.
+	Thetwolatecadetsareterrified.
+
+				BALDCADET
+		Geez,IthoughtIlikedtoflyfast!
+
+				CARMEN
+		Thisisnothing.Today,Igettoflythat!
+
+	Shepoints.Nowvisiblefrombehindahostofsmallerships,
+	STARSHIPATHENA,ofolderdesign,butimpressive.
+
+65	INT	ATHENA-COMMANDANDCONTROL-DAYCYCLE-CARMEN
+
+	arrivesonthebridge,dark,cramped,all-business.Shesalutestheinstructor,
+	CAPTAINDELADIER,40s.
+
+				CARMEN
+		PilotTraineeIbanezreportingforduty,ma'am.
+
+				DELADIER
+		Takethenumberonechair,Ibanez.
+		Followallinstructionsofyousupervisor.
+
+				CARMEN
+		Yes,ma'am!
+
+	Carmenturnsforherstation,butstopsinhertracks.Hersupervisoris
+	ZanderBarcalow,nowa2ndLieutenant.
+
+				CARMEN
+		Hey!Whatareyoudoinghere?
+
+				ZANDER
+		I'mtheguywho'sgonnateachyouto
+		flythiscrate.
+
+	Carmenlogson.Theshiprecognizesherasapilottrainee.
+
+				CARMEN
+		Assistantinsructor...Youmustbesome
+		kindofahotstick.
+		ShouldIcallyou"sir"?
+
+				ZANDER
+		OnlywhenIgiveyouanorder.
+
+				DELADIER
+		Preparefordeparture.
+
+	CarmenandZandergotowork.
+
+				CARMEN
+		It'samazing,usrunningintoeachother
+		likethis.Maybeit'sfate.
+
+				ZANDER
+		Maybenot.Iheardaboutthiscrazygirl
+		comingthroughtheacademy,solidmath,
+		alittlewildonthestick,butanatural.
+		Whenitturnedoutitwasyou,Imade
+		surewe'drunintoeachother...
+
+				DELADIER
+		Alright,takeherout,Ibanez.
+
+				CARMEN
+		Yes,ma'am.
+
+	Alleyesareoncarmenasshegrabsthestick.Theshipshuddersunder
+	herhand.ShewinksatZander.
+
+				CARMEN
+		Insimulation,mysupervisorscouldnever
+		keepup.
+
+				ZANDER
+		Thisisn'tsimulationanymore.
+		Take'erouteasy,cadet.
+
+				CARMEN
+		Oh,yes,sir.Vector?
+
+				ZANDER
+		Twenty-fivebyfive,rollseven.
+		Anddon'texceedportspeed.
+
+	Carmenrocksthestick,andtheviewfromthebridgespinssmoothly
+	awayfromthedenseorbitingyardsosLunatowardtheoutersystem.
+
+				CARMEN
+		Or...?
+
+				ZANDER
+		Theyrevokeourflightstatus.
+
+				CARMEN
+		Oh,Isee...teamwork.
+
+	Carmenjogspastlumberingfreighters.Zander'simpressed.
+
+				DELADIER
+		Steadyasshegoes,numberone.
+		Prepareforwarp.Numbertwo,
+		designforJupiterorbit.
+
+				ZANDER
+		Yes,ma'am.Stardriveinthree...
+		two...one...
+
+	Spaceappearstobend.ZanderandCarmenshareasmile.They
+	blurtogether,becomingone,then:	WHAM!
+
+66	EXT	LUNA-STARSHIPATHENA
+
+	disappearsinaflashofblindinglight.
+
+67	EXT	WARGAMESCOURSE-DAY-THERECRUITS
+
+	havebeendividedintotwoteams.REDTEAMincludesAce,Katrina,
+	Breckinridge,andDjana'd.Johnny,Shujumi,KittenSmith,andDizzy
+	arepartofBLUETEAM.
+
+				ZIM
+		Theobjectofthisexerciseistocapture
+		yourenemy'sflagbeforeyourenemy
+		capturesyours.
+
+	BronskipassesoutMoritaSmartRifles.
+
+				ZIM
+		Theseweaponshavebeenmodifiedfor
+		thisexercise.Ifyourenemyhitsyou,
+		yoursuitwillfail.Youwillbeunable
+		tomove.Youwillbeasgoodasdead.
+
+68	EXT	WARGAMESCOURSE-LATER-DJANA'D
+	
+	bumpsthemagnificationofherheadsupdisplaytosurveyBlueTeam's
+	flagguardedbytworecruits.ShejumpsdowntojoiningotherRed
+	Teammembersonthemove.
+
+				DJANA'D
+		It'srightoverthenextridge...
+		Onlytwoguards.
+
+	Johnny,KittenSmith,andDizzyopenfirefromathicketastheypass.
+	Djana'dandtheotherscollapseastheirsuitsfail,Djana'dlaughing
+	becauseplayingatwarseemsfunny.
+
+				KITTENSMITH
+		YouarenowprisonersoftheBlueTeam.
+		Tellusyourplansordie!
+
+				DJANA'D
+		Ohno!Name,rank,andmindyourown
+		businessisallyougetfromme!
+
+69	EXT	REDTEAMFLAG-DAY-REDTEAM
+
+	opensfireastheBlueTeamappears.ShujumiandotherBlueTeammembers
+	godowninanambushledbyBreckinridge.Johnnydivesforcover,andfinds
+	himselfsharingitwithDizzy.
+
+				KITTENSMITH
+		I'mgoingin!Let'sgo!
+
+	KittenSmithmakesarunfortheflagwitharifleteam.AceandKatrinaopen
+	firefromtwonewhiddenRedTeampositions,takingKittenandhisteam
+	downwithacrossfire.
+
+				JOHNNY
+		Man,they'redefended...nowayin.
+
+				DIZZY
+		Flipsix,threehole.
+
+				JOHNNY
+		What?
+
+				DIZZY
+		Highschool...remember?Runaflip
+		six,threeholeplay,andyoumight
+		score...
+
+	Johnnylooksatthecourseinanewway,nods.
+
+				JOHNNY
+		Coverme.
+
+				DIZZY
+		Yougotit.
+
+	Johnnytumblesopenground,vaultsintotheair.DizzytakesoutBreckinridge
+	asherisestofire.Johnnylands,knocksoutKatrina,thenAce.Hepicksup
+	Ace'sfallenMorita.
+
+				JOHNNY
+		Thanks,pal.
+
+70	EXT	OBSERVATIONTOWER-DAY-ZIMANDCORPORALBRONSKI
+
+	watchJohnnyfiringbothMoritassimultanouslyandtakingouttheremaining
+	RedTeamdefenders.HegrabstheRedTeamflagandhurlsitintotheairlikespear.
+
+				ZIM
+		Kid'sgotsomemoves...
+
+71	INT	AIRBORNESKIMMER-DAY-THERECRUITS
+
+	lineupinthedoorofaSKIMMER,themilitary'sstandardutilityaircraft,
+	topracticedropsfromaltitude.
+
+				ZIM
+		Smith,GO!McIntire,GO!Flores,GO!
+		Rico,I'mmakingyousqaudleader!
+
+				JOHNNY
+		Sir,thankyou,sir!
+
+				ZIM
+		Don'tstandtheredumb...GO!
+
+	Johnnyjumps,plummetingtowardtheearth.
+
+				JOHNNY
+		YEEEE-Haaaaaaaaaaaaa...!
+
+	Nextinline,Acescowls.
+
+72	INT	BARRACKS-NIGHT-THERECRUITS
+
+	havesomefreetime.Johnnymakesabigshowofpolishingthechevrons
+	thatdesignatehimasSquadLeader.
+
+				KITTENSMITH
+		Lookathim.Doyouthinkanyonehas
+		everbeensopleasedwithhimself?
+
+				ACE
+		Zimhaddachoosesomeonetobe
+		hisbrownnose,Iguess.
+
+				JOHNNY
+		IjustwantyouguystoknowthatI'll
+		neverdoanythingthatIhaven'tasked
+		youtodofirst.
+
+	JohnnyapproachesDizzy.
+
+				JOHNNY
+		Couldn't'vedoneitwithoutyou,Diz.
+		Friends?
+
+	Dizzysmiles,shakes.
+
+				DIZZY
+		Yeah,sure...friends.
+
+	Bronskiwalksthroughwiththemail.
+
+				BRONSKI
+		Levy...Shujumi...Rico.
+
+	JohnnygrabstheE-disk,popsitintohishandcam.TheFleetMaillogoappears:
+	APPROVEDMESSAGE
+
+				JOHNNY
+		Betit'sfrommygirl.
+
+	Johnny'spalsgatherforalook.Carmenappears,dresseddowntoskivvies,
+	inherquartersaboardstarshipAthena.
+
+				CARMEN
+		Hi,Johnny,Iwould'vewrittensooner,
+		butthey'vereallygotusgoingevery
+		momenthere.
+
+				ACE
+		Yeow,Rico,youdon'tdeservethat!
+
+				JOHNNY
+		Shhhh...!
+
+				CARMEN
+		I'mgladyou'redoingsowell.Ifthey
+		haven'tmadeyousquadleaderbynow,
+		I'msureyouwill.
+
+	Johnnyholdsuphissquadleaderchevronsvictoriously.
+
+				JOHNNY
+		Allittakesistheloveofagoodwoman...
+
+	Theimagechangesabrupltly.NowCarmen'swearingatrimblueflightsuit.
+	ShestandsthecameraonAthena'sgunnerydeck.Outside,theringsof
+	Saturnsparkleinbrightsolarlight.
+
+				CARMEN
+		Lookatthat.Isn'titbeautiful?Ihad
+		toshowyou.It'sgreattobeouthereon
+		myown.I'mjustnotsomelittlegirlfrom
+		BuenosAiresanymore.I'mgonnabea
+		starshippilot,andI'mgonnaseethe
+		universe...
+			(shesighs)
+		Andthat'salsotheproblembecauseI
+		don'treallywanttogetmarried,
+		Johnny.Idon'twanttohavekids.
+		Iwantacommand,ashipofmyown,
+		andyouknow,Idon'tthinkthat's
+		gonnaleavealotofroomforyouand
+		me.
+
+	Johnnyisstunned.Alltheotherrecruitssuddenlyseemtohave
+	somethingelsetodo.
+
+				CARMEN
+		Iknowthat'snotwhatyouwantedtohear...
+		butIhavetofollowmyheart.I'msorry.
+		I'mafraidyou'llhateme,andIcouldn't
+		standthat.Writeme,alright?Writeme,
+		soI'llknowthatwe'llalwaysbefriends.
+
+	TheFleetMaillogoappearsagain:	ENDOFMESSAGE.Johnny
+	shutsthehandcamoff.Aceputsahandonhisshoulder.
+
+				ACE
+		Funnyhowtheyalwayswanttobeyourfriends
+		aftertheykickyourgutsout.
+
+				JOHNNY
+		It'swhatIdeserve.
+	
+				ACE
+		Whad'yatalkinabout?
+
+				JOHNNY
+		Ijoinedupforher.Iwouldn'teven
+		behereifitwasn'tforher.
+		I'mafool.
+
+				ACE
+		Youmadesquadleaderonyourown,
+		and,hey,youstillgotmetokick
+		around.
+
+	Johnnysmilesinspiteofhimself.
+
+				JOHNNY
+		Thanks,Ace.
+
+	Johnnyturnsforthedoor,flippingthechevronslikeacoin.
+	Dizzywatcheshimleave.She'dsoliketocomforthim.
+
+73	EXT	LIVEFIRECOMBATRANGE-DAY-THERECRUITS
+
+	armtheirMarauderpowersuits.ZimandBronskiwearCommandmodelsuits
+	withrankdesignations.Johnnychecksweapons,scanstheelectronicson
+	eachsquadmember'spowersuit.
+
+				ZIM
+		WiththeMarauder'svisualcapabilities,
+		allyouhavetodoislookatsomething
+		tohitit,soyouwillexerciseEXTREME
+		CAREonmyfiringline.
+		Doyougetme?
+
+				RECRUITS
+		Sir,yes,sir!
+
+				ZIM
+		Thelivefiringcombatrangeisthe
+		closestsimulationofactualcombat
+		wecanprovide.Ifyoudonothit
+		yourtarget,itwillshootyou...
+
+	FiftyblackenedAUTOMATEDTARGETDRONESfittedwithpulseguns
+	arepresentlyvisiblealongagauntletoflowwalls,gullies,andthree-story
+	buildingfacades.
+
+				ZIM
+		TheMarauderpowersuitwillprevent
+		seriousinjury,butifyouarehit,you
+		willbenon-operationalandyourteam
+		scorewillsufferaccordingly.Rico,
+		haseachmemberofyoursquadcompleted
+		aweaponssafetycheck?
+
+				JOHNNY
+		Sir,yes,sir!
+
+	OnasignalfromZim,theLiveFireCombatRangecomestolife
+	asthetargetdronestakecoveranddisappearfromview.
+
+				ZIM
+		Perfectscoreforthisexerciseis300.
+		Bcompanycamethroughlastweek
+		with285.Iexpectyoutodobetter.
+
+74	EXT	LIVEFIRECOMBATRANGE-DAY-THERECRUITS
+
+	takeoutthetargetdronesastheyappear.Halfwaythroughthecourse,
+	arecruittakesahitandgoesdown,immobilized.Djana'dhasaclear
+	shot,butBreckinridgegetsinherway.
+
+				DJANA'D
+		You'reinmylineoffire,Breckinridge
+
+	Beforetheotherscanreact,aseconddroneappears.
+
+				JOHNNY
+		CROSSFIRE!EVERYBODYDOWN!
+
+	Everyonekissesdirt.Pulsesfromthetwodronesflythickoverhead.
+	Shujumirisestofire,aroundslamshimbacktotheground.
+	JohnnyandDjana'dknockoutthetwodrones.
+
+				JOHNNY
+		Alright,nomorescrewups.Acetakes
+		point.Diz,youandKittenSmithcover
+		theflanks.Djana'd,you'rerearguard.
+		Moveout.
+
+	Thesquadresumesistadvance.Breckinridgebangsonhishelmet.
+	Thereissomethingwrongwithhis"headup"display.
+
+				JOHNNY
+		What'stheproblem?
+
+				BRECKINRIDGE
+		Dunno.Display'sfritzed.
+
+				DJANA'D
+		Loseanotherrifle,we'regonnamessup
+		ourscore...
+			
+				JOHNNY
+		Letmesee.
+
+	Breckinridgetakesoffhelmet,handsittoJohnny.Djana'dturnson
+	Breckinridge.Her"headup"zeroeshim.
+
+				DJANA'D
+		Howcomewhensomethinggoeswrong,
+		it'salwaysyou,Breckinridge?
+
+	That'swhenDjana'dtripsonaloosestone.Shefumblesherrifleand
+	itdischarges.TheroundtearsthetopofBreckinridge'sheadoff.
+	Therecruitsstareinhorror.
+
+				JOHNNY
+		Oh,God...uh...MEDIC!
+
+	ZimarriveswithBronskionthebounce.
+
+				ZIM
+		Rico,youarerelievedofsquadcommand.
+		Levy,McIntireyouwillescortprivateRico
+		totheC.O.'sOffice.
+
+	TherecruitswatchJohnnyleave,stareaghastattheirdeadcomrade.
+	NoonelooksatDjana'd,whostandsalonesobbing.
+
+75	INT	C.O.'SOFFICE-DAY-JOHNNY
+
+	standsbeforetheC.O.bracedbyKatrinaandAce.ZimandtheC.O.are
+	bothsaddenedbytheproceedings.
+
+				C.O.
+		Rico,didyougivetherecruitpermission
+		toremovehishelmet?
+
+				JOHNNY
+		Sir,yes,sir.Breckinridgereporteda
+		helmetmalfunction,andIaskedhim
+		toshowittome,sir.
+
+				C.O.
+		AreyouratedtorepairaMarauder
+		powersuit,Rico?
+
+				JOHNNY
+		Sir,no,sir.
+
+				C.O.
+		Thenwhydidyouorderyourmanto
+		removehishelmetduringalivefire
+		exercise?
+
+				JOHNNY
+		Sir,Ineededeveryoneinmysquad
+		operational,sir...I...Iwantedtowin,
+		sir.
+
+				C.O:
+			(sigh)
+		Youdisobeyedsafetyregulation21-404.
+		Youmay,ofcourse,demandtrialby
+		courtmartial.
+
+				JOHNNY
+		Sir,no,sir!
+
+				C.O.
+		Doyoufreelyadmittothecharges
+		madeagainstyou?
+
+				JOHNNY
+		Sir...IguessIdo,sir.
+
+	Zimlooksoutthewindow.Djana'd,dressedfortravel,incivilianclothes,
+	cryingassheheadsoffdownWashoutLane.
+
+				C.O.
+		Sergeant,we'velosttworecruits
+		overthisincidentalready...
+		isthereanypossibilityofsalvaging
+		thisman?
+
+				Zim
+		Ibelieveso,sir.
+
+				C.O.
+		Alright.We'lltryadministrative
+		punishment.Untilthenyouare
+		confinedtoyourquarters,Rico.
+
+76	INT	BARRACKS-SUNSET-JOHNNY
+
+	looksoutthewindowtotheparadegroundwhereaPOSThasbeen
+	erected.TherecruitslookupasZimenters.
+
+				ZIM
+		Alright,let'sgo,Rico.
+
+	Johnnytakesoffhisshirt.Acewhonowholdsthechevronsofsquad
+	leader,watches,feelsbadforhispal.
+
+77	EXT	PARADEGROUND-SUNSET-THERECRUITS
+
+	standwithrecruitsfromotherplatoons.Johnnyisledtothepostand
+	strungupastheC.O.readsthecharge.
+
+				C.O.
+		Forincompetenceofcommand,for
+		failuretoabidebysafetyregulations
+		inalivefireexercise,fornegligence
+		whichcontributedtothedeathofa
+		teammate...
+
+	ZimstepsuptoJohnny,offershimaredrubbermouthpiece.
+
+				ZIM
+		Biteonthis.Ithelps.Iknow.
+
+				C.O.
+		...recruittraineeJohnRicoissentenced
+		toadministrativepunishment.Tenlashes.
+
+	Johnnytakesitinhismouth.Histearawayshirtistornaway.Johnny
+	standsatthepostalone.CorporalBronski,abigmanwithanunhappy
+	task,unrollshiswhip.
+
+				C.O.
+		Youmaycarryoutthesentence.
+
+				BRONSKI
+		One.
+	
+	CRACK!	Johnny'sfacewrenchedbypain,spontanoustears,aterrible
+	soundstifledbythebrightredmouthpiece.
+
+				BRONSKI
+		Two.
+	
+	CRACK!	Again.DizzyflinchesforJohnny.
+
+				BRONSKI
+		Three.
+
+	CRACK!	Acelooksaway.
+
+				BRONSKI
+		Four.
+
+	CRACK!	Zimwatcheswithoutanyapparentemotion.
+
+				BRONSKI
+		Five.
+
+	CRACK!	Johnnyfaints,saggingagainsthistether.
+
+								FADEOUT
+
+78	EXT	OUTERSYSTEM-STARSHIPATHENA
+
+	cruisespast,600,000metrictonsofstarclassdestroyer,FIGHTERS
+	andLANDINGBOATSliningheropenhangardeck.
+
+79	INT	ATHENA-COMMANDANDCONTROL-NIGHTCYCLE-CARMEN
+
+	worksaloneontheemptybridge.Sheyawns.Zanderbringscoffeeforhimself
+	andCarmen.
+
+				CARMEN
+		Thanks.Youreadmymind.Thirdwatch
+		alwaysseemstolastforever.
+
+				ZANDER
+		Oh,Idon'tknow...Dependsonwhoyou
+		arespendingitwith.
+
+	Hecaressesherhair.Shekisseshishand.Zandernoticestheplotmap.
+
+				ZANDER
+		Profile'swrong...there.
+
+				CARMEN
+		No,Ireplottedthecourse.It'smore
+		efficientthisway.
+
+				ZANDER
+		Threeweeksaboardastarshipandyou
+		knowitall,huh?
+
+				CARMEN
+		Hey,checkit.
+
+	Zanderslidesintohischair,runsacheck.
+
+				ZANDER
+		YouknowIwastalkingtoCaptain,
+		Deladier,andshesaid...
+
+				CARMEN
+		Don'tchangethesubject.AmIright?
+
+				ZANDER
+		Well,whad'yaknow...
+
+				CARMEN
+		Don'tmesswiththeboss.Sowhat'd
+		thecaptainsay?
+
+				ZANDER
+		Shegotacommand...andshethinkswe
+		oughtateamupofficiallyandcrewforher.
+		Shethinkswe'regoodtogether.
+
+				CARMEN
+		Youandme,huh?
+
+	Zanderturnshischairsotheyareveryclose,movesafingeralong
+	herhand,upherarmandplayfullyaroundherbreasts.
+
+				ZANDER
+		Ihaveafeelingaboutus.We'regood
+		together,wayaheadofthecurvein
+		everydepartment.Iseemtobeableto
+		anticipateyourneeds.
+		YouknowwhatIwant...
+
+	Carmengrabshimbetweenhislegs.
+
+				CARMEN
+		No,whatdoyouwant?
+
+	Zanderpullshertohimandtheykisspassionately.Shebrteaksitoff,
+	getsseriousforamoment.
+
+				CARMEN
+		Iwanttobepartofthebestflightteam
+		intheFleet...
+
+				ZANDER
+		Me,too...DayandNight-Cycle.
+
+	TheystarttocaressagainwhensuddenlyALARMSsound.Captain
+	Deladierappearsonthehotscreen,stillwakingup.
+
+				DELADIER
+		Report.
+
+				ZANDER
+		Captain,weareinthepathofanunidentified
+		objectmovingatnearlightspeed...
+
+	CarmenandZanderfranticallychecktheirdisplays.
+
+				CARMEN
+		WHEREISIT?
+
+				ZANDER
+		THERE!	GRAVITYFIELD...IT'SBIG!
+
+				CARMEN
+		Itlookslikean...asteroid.
+
+				DELADIER
+		Inthispartofthesystem?
+
+	CarmenandZanderseeitthroughthefrontscreens:		Ahuge
+	ASTEROIDtumblesdirectlytowardsthematterrificspeed.
+
+				ZANDER
+		SweetJesus...!
+
+	CarmenbreaksglassthatreadsEMERGENCYRETROS,armstheswitch
+	withinandfirestherockets.
+
+80	EXT	OUTERSYSTEM-STARSHIPATHENA
+
+	torquestooneside.Theasteroidgrazestheship,cuttingahugegash
+	inAthena'shull.Iceandrocktravellinginistwakeshreds
+	COMMUNICATIONSEQUIPMENT.
+
+81	INT	COMMANDANDCONTROL-NIGHTCYCLE-CARMENAND
+
+	Zanderbracethemsevesasdiamondhardparticlespoundthefrontscreens.
+	Theshipcontinuestotumble.
+
+82	EXT	ATHENA-FLIGHTDECK-AFIGHTER
+
+	losesit'smooring,tumblingintoothercraft,explosionsrippingthedeck.
+
+83	INT	ATHENA-VARIOUS-NIGHTCYCLE-CREWMEN
+
+	aresuckedintospace.Othershangonfranticallyasautomaticdoors
+	sealAthena'swoundandtheirfates.
+
+84	INT	COMMANDANDCONTROL-NIGHTCYCLE-CAPTAIN
+
+	Deladierarrivesonthebridge,nowcrowdedasotherFLIGHTOFFICERS
+	rushtotheirstations.Zander'sgoingthroughstarcharts.
+
+				DELADIER
+		Where'ditcomefrom?
+
+				ZANDER
+		Trajectoryindicatesitcameoutof
+		theArachnidQuarantineZone.
+
+				DELADIER
+		Number4,contactFleetandtell'em
+		there'salooseasteroidheadedtheirway.
+
+				COMMUNICATIONSOFFICER
+		Communicationsaredown,ma'am.
+
+				DELADIER
+		Engineering.Damageassessment.
+
+				ENGINEERINGOFFICER
+		Hull'scompromised.
+		We'reluckytobealive,ma'am.
+
+	DeladiernoticesCarmenstaringatamonitor,stunned.ADEAD
+	CAPTROOPERtrailsinthewreckageoftheflightdeck.
+
+				DELADIER
+		Goodwork,Number1.You'lldo.
+
+				CARMEN
+		Thankyou,ma'am.
+
+85	INT	BARRACK'S-DAY-JOHNNY
+
+	wearshiscivilianclothes,pcksastheotherrecruitsgetreadyforthe
+	day'straining.Noonesaysanything.Hemovesstiffly,carefulofhis
+	back.
+
+				DIZZY
+		Itstinks,yougoin.
+
+				JOHNNY
+		Idon'tstaywhereI'mnotwanted.
+
+				DIZZY
+		Iftheydidn'twantyou,theywoulda
+		kickedyouout,amigo.
+
+				JOHNNY
+		Hey,theyhumiliatedmeinfrontof
+		everyone!I'mjustsupposedtotake
+		it,huh?Well,I'mnotgonna,andI
+		guessthatprovesIjustcan'tcutit.
+
+	CorporalBronskileansin,impassive.
+
+				BRONSKI
+		Yourcall'sgoingthrough,Rico.
+		Takeitthere.
+
+	AnearbyVU-PHONElightsup.Thescreenflashes:		RINGING
+	Hismotherappearswhenshepicksuptheotherend.
+
+				MOTHER
+		Hello...Oh,Johnny...!
+
+				JOHNNY
+		Hi,mom.
+
+				MOTHER
+		Bill...pickup...it'sJohnny!You
+		littlerat.Youhaven'tcalled,you
+		haven'twritten.It'sbeensolonely
+		herewithoutyou...
+
+	ThescreensplitsasJohnny'sfatheractivatesanextension.
+
+				FATHER
+		Johnny!Where'syouruniform...?
+
+	Johnny'smothermakesafacetoshuthimup.
+
+				FATHER
+		Well,it'sjustgoodtohearfromyou.
+		What'sup,son?
+
+				JOHNNY
+		It'snotreallyworkingoutformehere,
+		dad.Iwasthinking...Iwashopingit
+		wouldbealrightifIcamehome.
+
+				MOTHER
+		Well,ofcourseyoushouldcomehome
+		immedietly!
+
+				JOHNNY
+		I'vemadeamessofthings.I'vebeen
+		sostupid...
+
+				FATHER
+		Don'ttalklikethat.Getyourselfhome
+		asfastasyoucan.
+
+				MOTHER
+		We'llallhavedinner.I'llfixyourfavorite.
+
+				FATHER
+		Yeah!We'lltalkitoutandhaveagood
+		glassofwine...and...well,weloveyou,
+		son.
+
+	TheskyinBuenosAiresseemstodarkenperceptively.Johnny's
+	motherlooksoutthewindow.
+
+				MOTHER
+		Oh,my,what'sthat?
+
+				FATHER
+		Lookslikerain.
+
+				MOTHER
+		Thistimeoftheyear...?
+
+	Thetransmissionendsabruptly.Aphonecompanylogoappears:
+	TRANSMISSIONTERMINATED.
+
+				VU-PHONEVOICE
+		Yourtransmissionhasbeenterminateddue
+		toatmosphericinterference.Pleasetryyour
+		callagainlater.
+
+	Johnnyzipshisduffel,heftsitgingerlyoverhisshoulder.
+
+				JOHNNY
+		Well,seeya.
+
+				DIZZY
+		YoutakethestrolldownWashoutLane,
+		you'reonlyprovingonething,Johnny.
+
+				JOHNNY
+		What'sthat,Diz?
+
+				DIZZY
+		Thatyoudon'thavewhatittakes
+		tobeacitizen!
+
+	Dizzyturnsonherheelandmarchesaway.
+
+86	INT	THEC.O.'SOFFICE-DAY-JOHNNY
+
+	signsform1240/A.Zimstandsaswitness.
+
+				C.O.
+		Nowyou,Sergeant.
+
+	Zimsignsbitterly.TheC.O.sighs.
+
+				C.O.
+		That'sit,son.Youcango.
+
+	TheC.O.andZimturntootherthings.Johnnypicksuphisduffelandheads
+	outthedoor.
+
+87	EXT	PARADEGROUND-DAY-JOHNNY
+
+	walksalone,sad.Askimmerhumsbyoverheadandhelooksafterit.
+	OutacrosstheparadegroundheseestheglintofMarauderpower
+	suitsasrecruitstumbletheobstaclecourse.
+
+88	EXT	WASHOUTLANE--DAY-JOHNNY
+
+	reachesthelittlewhitefencethatleadstothetransporter.Heturns
+	backforonelastlookandnoticespeoplerunningtothe
+	Comminicationsshack.KittenSmithrunsby.
+
+				JOHNNY
+		Hey,Kitten,what'sgoingon?
+
+				KITTEN
+		It'swar!
+
+89	EXT	COMMUNICATION-DAY-JOHNNY
+
+	joinsotherstoseewhat'sontheFederalNet.Recruits,non-coms,andofficersgather	withoutanysenseofmilitarydecorum.Peoplecryopenly,amongthemCorporal
+	Bronski.
+
+				OFFICIALVOICE
+		...earlyestimates.Millionsdead,acityin
+		ruins...
+
+	Onscreen,thesmolderingruinsofwhatwasonceahugecity.
+
+				JOHNNY
+		Oh,jeez,isthatGeneva?
+
+				KATRINA
+		Goddambugswhackedus,Johnny.
+
+				OFFICIALVOICE
+		...BuenosAireshasbeenwipedoftheEarth.
+		Nothinglivesinwhatwasoncecalledthe
+		LatinParadise...
+
+	Johnnyishorrified.Dizzyissuddenlystandingnexttohim.
+
+				DIZZY
+		Aw,Johnny,geez...It'shome.
+
+				OFFICIALVOICE
+		TheFederalCourtmetmomentsagoand
+		votedunanimouslyformobilizationto
+		destroytheArachnidthreat.
+
+	Johnnysetshisjaw,turnsandrunsfortheC.O.'soffice.
+
+90	INT	C.O.'SOFFICE-DAY-THEC.O:ANDZIM
+
+	andotherstafferswatchthegrimnewsunfold.Animation
+	illustratestheinsecttreachery.
+
+				OFFICIALVOICE
+		Themeteorderivedfromhere,nearKlendathu,
+		intheArachnid'shomesystem...
+
+				ZIM
+		I'mserious,sir.I'llgoanywhere.
+		Iwantcombat.
+
+				C.O.
+		Forgetit,Zim.We'regonnaneedyou
+		here.Theonlywayyou'llgetacombat
+		assignmentisifyoubustyourselfto
+		private.Yougetme?
+
+				ZIM
+		Yes,sir,Igetyou.
+
+				C.O.
+		WhatcanIdoforyou,Rico?
+
+				JOHNNY
+		Sir,Iwishtoreconsidermyrequest
+		todropout,sir.
+
+				C.O.
+		Sorry,son.Ican'tdoit.Yousigned
+		the1240/A.Itwouldbeillegal.
+
+				JOHNNY
+		Sir,iknowitwaswrong.Ididn't
+		learnfromonemistakeandImade
+		another,sir.
+			(then)
+		Sir,myfamily...mywholefamilywas
+		inBuenosAires,sir.
+
+	ZimpicksupJohnny's1240/AofftheC.O.'sdesk.
+
+				ZIM
+		Isthatyoursignature,Rico?
+
+				JOHNNY
+		Sir,yesitis,sir.
+
+				ZIM
+		Doesn'tlooklikeittome.
+
+	ZimgivestheC.O.alook.TheC.O.shrugs,turnsaway,watchingthenews
+	ofthecomingwar.Zimtearsupthe1240/A.
+
+				ZIM
+		Getoutahere,private.
+
+91	FROMTHEFEDERALNET-HUMANKINDGOESTOWAR!
+
+	ActualpicturesofBuenosAires:	SURVIVORSpickthroughrubble,
+	peoplewail,kidsplaytagintheruins.
+
+				OFFICIALVOICE
+		OutoftheashesofBuenosAirescomesfirst
+		sorrow,thenANGER!
+
+				ANGRYPERSON
+		Theonlygoodbugisadeadbug!
+
+				OFFICIALVOICE
+		Wouldyouliketoknowmore?
+
+92	COMBAT-VICTORYONDANTANA!
+
+	AwoundedCAPTROOPER,grimsmile,flashes"V"forvictoryashis
+	wearycomradescarryhimoffthefield.
+
+				OFFICIALVOICE
+		CapTroopersestablishafootholdonDantana,
+		aplanetsystemattheouteredgeofthe
+		ArachnidQuarantineZone.Casualtiesarehigh,
+		butcasualtieswon'tstoptheMobileInfantery!
+		Wouldyouliketoknowmore?
+
+93	HOMEFRONT-KIDSKILLBUGSANDMOMISGLAD!
+
+	MOMsmilesasherCUTEKIDSstompinsectsinthegarden.
+	FACTORYWORKERSturnoutordnance.PEOPLElineup
+	toenlist.
+
+				OFFICIALVOICE
+		Everyone'sdoingtheirshare.Areyou?
+		Thewareffortneedsyoureffortatwork,
+		athome,inyourcommunity.
+		Wouldyouliketoknowmore?
+
+94	LEADERSHIP-SKYMARSHALLANNOUNCESOFFENSIVE!
+
+	SKYMARSHALLDIENES,72,addressestheFEDERALCOUNCIL.
+
+				SKYMARSHALLDIENES
+		Weareagenerationcommandedbyfatetodefend
+		humankind!Wemustmeetthethreatwithourvalor,
+		ourblood,withourverylives,toinsurethathuman
+		civilization,notinsect,dominatesthisgalaxynow
+		andalways.
+
+	Thecouncilrisestoitsfeetforastandingovation.
+
+				OFFICIALVOICE
+		SkyMarshallDienesannouncesplansforan
+		offensiveagainstKlendathu,sourceofthe
+		bugmeteorthatdestroyedBuenosAires.
+
+95	LIVEBROADCAST-AQZ-FLEETBATTLESTATIONTICONDEROGA
+
+	isasprawlingpre-fabstructurecoveringseveralsquarekilometersofspace
+	whereSTARSHIPSarestackedinberths.
+	Supertitle:	COUNTDOWNTOVICTORY.
+
+				OFFICIALVOICE
+		Wenowbreaknetandtakeyouliveto
+		FleetBattleStationTiconderogadeep
+		insidetheArachnidQuarantineZone.
+
+96	INT	BATTLESTATION-NIGHTCYCLE-THECAMERA
+
+	followstheNetCorrespondentasheworksacorridorcrowdedwith
+	MOBILEINFANTERYandFLEETPERSONNEL.
+
+				NETCORRESPONDENT
+		NoonehereintheAQZknowswhenthe
+		invasionofKendathuwilloccur,but
+		everyone'stalkingaboutit,andthetalksays
+		tomorrow!
+
+	NewlymintedcaptroopresJohnny,Dizzy,Ace,andKittenSmithhappenalong.
+
+				NETCORRESPONDENT
+		Here'sabunchofM.I.kidswholooklikethey
+		eatbugsforlunch!
+
+				DIZZY
+		Yum,yumyum...!
+
+				NETCORRESPONDENT
+		Soyou'renottoworriedaboutfightingthe
+		Arachnids...?
+
+				ACE
+		Hey,shootanukedownabughole,
+		lottadeadbugs,amIright?
+
+				KITTENSMITH
+		Ijusthopeit'snotoverbeforewegetinit!
+
+				NETCORRESPONDENT
+		Somesaythebugswereprovokedbyhuman
+		attemptstocolonizewithintheAQZ,thata
+		"liveandletlive"policyispreferableto
+		warwiththebugs...
+
+				JOHNNY
+		Yeah,well,I'mfromBuenosAires,and
+		Isaykill'emall!
+
+97	INT	RECREATIONDECK-NIGHTCYCLE-JOHNNY
+
+	andhisfriendsdrinkatacrowdedbar.Aroundtheroomthere's
+	singinganddancing,amadsortofrevelrybredoffearand
+	excitement,butnearbyaVETERANdrinksalone.
+
+				KITTENSMITH
+		Thatguy'sbeeninit.
+
+				JOHNNY
+		Howcanyoutell?
+
+				KITTENSMITH
+		Theeyes.He'sgotthe1000metersstare.
+
+	He'shardandhumorless,allwisedup.AceadmireshisLASERCUTTATTOOS.
+	Dizzyeyeshisskullandcrossboneearring.
+
+				ACE
+		Greatscars.
+
+				DIZZY
+		Ilikethejewelry.Hey,amigo,wherecan
+		Igetanearringlikeyours?
+
+				VETERAN
+		PortJoeSmith,OuterRings,Dantana...
+		EverytimeIcomebackfromadrop,my
+		gunnygivesmeabone.Igotthreenow.
+		Youdon'tseealotofguyswiththree.
+
+				JOHNNY
+		Waht'sitlike...combat?
+
+				VETERAN
+		Iguessit'snotsobad.Imeanas
+		longasyoudon'tgetanyonyou.
+
+				KITTENSMITH
+		Getanywhatonyou?
+
+				VETERAN
+		Oh,you'llknowwhenithappens.
+		Seeyouonthebounce.
+
+	Theveteranpayshistabandheadsout.
+
+				ACE
+		Isayweallgotothelaserparlor
+		andgetcuttogether.
+
+				JOHNNY
+		WhatdoIwantwithascar?
+
+				DIZZY
+		What,yourskin'stoopretty?
+		C'mon,everyone'sdoingit!
+
+				CARMEN(V.O.)
+		Hey	Johnny!	JohnnyRico!
+
+	JohnnylooksupandseesCarmen.Shelloksgraetinuniformwith
+	thehatandthelieutenant'sbarsonhershoulders.
+
+				JOHNNY
+		Carmen...?
+
+	Johnnyremembershimself,snapstoattention,salutes.Dizzyandtheothers
+	followsuit.Carmensalutesback,sheepish.
+
+				CARMEN
+		Oh...atease.GuessIoughtalosethehat
+		whenI'moffduty,eh?
+
+	Dizzy,disgusted,turnsbacktoAceandKittenSmith.Carmentucksherhat
+	underherarm.Herhairisveryshort.
+	
+				JOHNNY
+		Whathappenedtoyourhair?
+
+				CARMEN
+		Whatdoyouthink?Everyonediditwhen
+		wegotourwings.Youdon'tlikeit,doyou?
+
+				JOHNNY
+		It'salright,Iguess.Youhearfromanyone
+		madeitoutofB.A.alive?
+
+	Carmenshakesherhead,sadly.
+
+				CARMEN
+		It'sfunny.SometimesIforget.Thenit
+		hitsme,andIcan'tstopcrying.
+
+				JOHNNY
+		ItryjusttobehappyI'mstillalive.
+
+				CARMEN
+		Youdon'tlookveryhappytoseeme.
+
+				JOHNNY
+		ShouldIbe?
+
+				CARMEN
+		Johnny...Lifeissodifferentfromthe
+		wayitwas.Onedayyou'llseewhat
+		Ididwasbestforbothofus.
+
+	ZanderleavesagroupofFLEETOFFICERStojointhem.
+
+				ZANDER
+		Everythingcoposetic,Lieutenant?
+
+				CARMEN
+		Zander,yourememberJohnny?
+		ZanderandIareaflightteamnow.
+
+	ZanderputshisarmaroundCarmen,givesherasqueeze.
+
+				ZANDER
+		BestintheFleet!
+
+				JOHNNY
+		Igetit.Thisisthepartthat'sbest
+		forbothofus.
+		Don'tdomeanymorefavors,eh?
+
+	Johnnyturnstoleave.
+
+				CARMEN
+		Johnny,wait...
+
+				ZANDER
+		Forgetit,Carmen.TheMobileInfantery
+		doesathankless,dirtyjob,sothey
+		naturallytendtobeshort-tempered,
+		thoughtlessandrude.
+
+	JohnnyturnsbacktofaceZander.
+
+				JOHNNY
+		Yougotsomethingtosayaboutthe
+		MobileInfantery?
+
+				ZANDER
+		Youheardme.Wannamakesomething
+		outofit,private?
+
+				JOHNNY
+		Notwithanofficer,no,sir.
+		TheM.I.doesn'tmintstupidcap
+		troopers.
+
+	Everyonecanseewhat'sabouttohappen.Acircleisforming,
+	Fleetononeside,MobileInfanteryontheother.
+
+				ZANDER
+		Let'sdisregaedrank...Everybodyhear
+		that?Rankisnotanissuehere.
+
+				CARMEN
+		Zander,please...Let'sgo!
+
+	Zandertakesoffhishat.
+
+				ZANDER
+		It'salright.What'shegonnado?
+
+	WHAM!	Johnnypuncheshimrightinthenose.Zandergoesdown,
+	bleeding.AceandKittenSmithgrabJohnny.
+
+				ACE
+		Whoa,easythere,buddy...Nicepunch.
+
+	Zanderstaggerstohisfeet,readytofight,butFleetOfficerspullhim
+	back.CarmenlooksatJohnny,thehateinhiseye,thebloodonhisfist.
+
+				CARMEN
+		What'swrongwithyou?
+
+				JOHNNY
+		Hey,it'sjustavestigalresponseto
+		procreation...bitch.
+
+	Carmenturnsaway,stung.Johnnyimmediatelyregrets.Dizzy,
+	forherpart,couldn'tbehappier.
+
+				DIZZY
+		Forgetit,Johnny.CapTroopersand
+		Fleetweren'tmeanttomix!
+
+98	INT	LASERPARLOR-NIGHTCYCLE-JOHNNY
+	
+	grindshisteethasalasermountedonarobotarmfinishesslicingan
+	intricatepatternintohisarm.
+
+				JOHNNY
+		Ithurts...!
+
+	Dizzy,Ace,andKittenSmithawtch,grinning,passingabottle.
+	Acepoursboozedirectlyintothefreshwound.
+
+				ACE
+		No,thishurts.
+
+				JOHNNY
+		YAAAAAAAA!
+
+				KITTENSMITH
+		Well,here'stoit!We'regonnafightn,and
+		we'regonnawin!
+
+	Theyputtheirarmssidebyside.Eachhasasimiliarscar:
+	Lightningboltsonashieldandthewords:	DEATHFROMABOVE.
+
+				ACE
+		MobileInfanteryrules!
+
+				JOHNNY
+		Deathtoallbugs!
+
+				DIZZY
+		Don'tgetanyonyou!
+
+99	EXT	KLENDATHU-FROMSPACE-FLEETSTARSHIPS
+
+	ofeveryclassmaneuverintightorbitaroundtheorangeplanet.
+	The"MobileInfanteryAnthem"playslokeHolst,poundingand
+	relentless.Theinvasionhasbegun!
+
+100	INT	BULLRUN-DROPROOM-JOHNNY
+
+	andhisplatoon,wearingfullyarmedMARAUDERPOWERSUITS,
+	waittodropwithothercaptroopers.Theirmoodisgrim.
+	LIEUTENANTWILLY,35,easy-goingandconfident,enters.
+
+				ACE
+		Officerondeck!
+
+	Everyonesnapstoattention.
+
+				LT.WILLY
+		Atease.Alright...wegothotpoopstraight
+		fromthetop:
+		Willy'sWildcatsisinwiththefirstwave.
+		Meansmorebugsforustokill...
+
+	Thisdoesnothingtobreakthetension.Lt.Willyreassures.
+
+				LT.WILLY
+		Nowifyoufollowordersandremember
+		yourtraining,Iguaranteeyou'llmakeit
+		backalive.Anyquestions?
+
+	Therearenone.
+
+				LT.WILLY
+		Alright...nextwegotalittlelastminute
+		briefingfromMilitaryIntelli-genceI
+		thinkyou'regonnalike...
+
+	Thebriefingplayson"headup"displaysandthereadyroomscreens.A
+	captiveBUGWARRIORclicksandshrieksasFEDERALSCIENTISTS
+	tortureit.Thetrooperscheer.
+
+				OFFICIALVOICE
+		EverydayFederalscientistsarelookingfor
+		newwaystokillbugsandyoucanhelp...
+
+	Theheadscientiststurnsandspeakstocamera.It'sCarl.
+	JohnnyandDizzyshareanamazedgrin,noticingadifferencein
+	theiroldfriend,somethingthatspeaksof...authority.
+
+				CARL
+		Todefeattheenemy,wemustknowthe
+		enemy.Takeforinstanceyourbasic
+		Arachnidwarrior.MinimalIQ,armored,
+		completelylethal.Youcanblowalimboff...
+
+	Carlpicksupapulsegunandblowsoneofthebugslegsoff.
+	Theinsectscreams.
+
+				CARL
+		...andit'sstill86%combateffec-tive.
+		Buthere'satip:Aimforthenervestem
+		andputitdownforgood.
+
+	Carlfiresagain.Thebugkicksandsquealsasitdies.
+	Carltossesthepulsegunaside.
+
+				CARL
+		Nowwhileyouareoutkillingbugs,
+		wewantyoutobeoureyesandears.
+		Thebugsusesomekindofplasmaburst
+		todivertmeteorsandaimthemtowardEarth.
+		Weneedtoknowhowtheydothis.Ifyou
+		encounteranyplasma,reportitimmediately
+		toyoursuperior.Goodluckandgoodhunting!
+
+	Thebriefingendsasklaxonssound.
+
+				P.A.(O.S.)
+		ThisistheCaptainspeaking.
+		Allpersonnelpreparefordrop.We
+		areatDminusthreeandcounting.
+
+				LT.WILLY
+		Moveout!
+
+	Johnnyandtheothertroopersclimbintocapsulesontheporttrack.
+	Dizzygiveshim"thumbsup".Thecapsulesealsasitmoveswith
+	theothersdownthefiringtube.
+
+101	INT	CAPSULE-JOHNNY
+
+	getstheshakesasthecapsulebumpsandboomstowardthefiring
+	tube.Lt.Willyappearsonthe"headup"display.
+
+				LT.WILLY
+		Smashtheentirearea,killanythingthat
+		hasmore'nacouplelegs,anddon'tany
+		ofyouloaferscomebackaboardwith
+		unexpendedbombs.Getme?
+
+				JOHNNYETAL
+		Yes,sir!
+
+				FIRECONTROL(O.S.)
+		Fiveseconds...
+
+	Sweatrollsdownhisface,hyperventilation...WHAM!
+
+102	EXT	SPACE-KLENDATHUORBIT-SILVERCAPSULES
+
+	streamtowardKlendathufromthereartubesstarshipsofBullRun.
+	WemovedownthelinepastMannerheim,Dauntless,GeorgeMarshall,
+	andYamamotototheRodgerYoung.
+
+103	INT	RODGERYOUNG-COMMANDANDCONTROL-CARMEN
+
+	holdsRodgerYoungintightmaneuver.Suddenly,aburstofBLUEBUGPLASMA
+	ripspastthestarboardbow.
+
+				CARMEN
+		Plasma,ma'am...fromtheplanet.
+
+				DELADIER
+		BugBatteries...AccordingtoMilitary
+		Intelligence,it'llberandomandlight.
+		Dropstatus?
+
+				ZANDER
+		Dropis35%complete,ma'am.
+
+	Twomoreburstsofbugplasmastreakpast.
+
+				DELADIER
+		Steadyasshegoes,Number1.
+
+104	EXT	KLENDATHU-HIGHATMOSPERE-NIGHT-THECAPSULES
+
+	burnwhentheyhitatmosphere,outerskintearingawayinbigsilversheets.
+
+105	INT	CAPSULE-NIGHT-JOHNNY
+
+	takesinENTRYDATAfromtheheadsupdisplay.
+
+				GUIDANCECOMPUTER(V.O.)
+		...surfaceintwenty-fivrseconds
+		...LZhasbeenidentified
+		...beaconisinplace...
+
+106	INT	RODGERYOUNG-COMMANDANDCONTROL-CARMEN
+
+	watchesnervouslyasdeadlyburstsofbugplasmafilltheheavensaroundthe
+	battlegroup.Below,thesurfaceofKlendathufairlybistleswithoutgoing
+	defensivefire.
+
+				DELADIER
+		Thisisn'trandomorlight.
+		Someonemadeamistake...!
+
+				ZANDER
+		That'sit,we'reemptyma'am!
+
+	Outthefrontscreens,ablastfrombelowhitsGeorgeMarshallamidships
+	anditreelsintoYamamoto.Bothstarshipsbegintoburn.
+
+				DELADIER
+		Someonemadeabiggoddammistake!
+		Getusoutofhere,Number1!
+
+	Carmendodgespastburningships,avoidscollisionwithDauntless,
+	andthenKA-WHAM!	they'rehit.Carmenfliesoutofher
+	stationandintoCAMERAhard.
+
+107	EXT	KLENDATHU-CLOUDLAYER-NIGHT-THESECONDSKIN
+
+	tearsaway.Johnnyissittingonair.
+
+				GUIDANCECOMPUTER(V.O.)
+		...surfaceinfifteenseconds...
+		deployingchutenow...
+
+	Thechutepops.Acrossthesky,litbyoutgoingbugplasma,hecanseehundreds
+	ofcaptroopersinorderedrowsdriftingdownintothecloudlayer.
+	It'squietintheclouds,then:
+
+108	EXT	KLENDATHU-NIGHT-FROMTHEAIR-JOHNNY
+
+	looksdownashepassesoutofthecloudsandseesthebattlefield.
+	Plasmablastsexploodeintothesky.THOUSANDSOFBUGSboil
+	outofthegroundtodefendagainsttheinvader.
+
+				GUIDANCECOMPUTER(V.O.)
+		...surfaceinfive...four...three...
+
+	Johnnyburnshischuteoff,dropsthelasthundredfeetandlands
+	onthebounce.
+
+109	EXT	KLENDATHU-NIGHT-JOHNNY'SPOV-THEFLASHPULSE
+	
+	ofbugbatteries,screamingvoicesonthecom,concussionsshakingtheground.
+	NoneofitcomparestothesoundofhisownracingHEARTBEAT.
+	LieutenantWillyshouts.
+
+				LIEUTENANTWILLY
+		Upthereontheridge!We'llnukethosebugpositions
+		fromtheAAAAAAAA!
+
+	AHOPPER(anairborneArachnidwarriorwithpowerfulrearlegsand"popout"
+	wingsforgliding)landsonLieutenantWillyandcrackshisheadlikeanut.
+
+				ACE
+		KILLIT!
+
+	JohnnyandAceopenfire,backingaway.Pulseroundstearitapart,bugguts
+	gushing.
+
+				JOHNNY
+		Lieutenant'sboughtthefarm.
+		Where'stheSarge...?
+
+				ACE
+		Ididn'tseehim!
+
+	NowcomesafloodofWORKERSbuildingeveradvancingfortifications,
+	andwiththem,hundredsofdeadlyARACHNIDWARRIORS.
+
+				KITTENSMITH
+		Heretheycome...!
+
+				DIZZY
+		Ace,what'rewedoing?
+
+				ACE
+		Iuh...uh...
+
+	Dizzyandtheothersopenfiresimultanously.Thewholeareagoeswhitehot
+	inthemagnesiumflashofsomanypulsecannons.Shujumifireswildlyat
+	advancinginsects.
+
+				SHUJUMI
+		Youwantsome?Here'ssome!
+		C'MON!
+
+				JOHNNY
+		Don'twasteyourammononthe
+		workers!
+
+	Shujumican'thear.Awarriorfindshim,ripshislegoff,hurlshimback
+	intothewaitingjawsoftheoncomingbugs.
+
+				SHUJUMI
+		AAAAAAAAAAAA!
+
+	Hefights,screaming.Aclawreachesforhisface,rippingthetopofhisheadoff.
+
+				KATRINA
+		Let'sgetoutofhere!
+
+	Nowthegroundopensbehindherandahuge(6meters)TANKERBUG
+	lumbersoutoftheground,it'sfunnel-shapedsnoutextrudingabove
+	multipleeyes.
+
+				DIZZY
+		Lookout!
+
+	ThetankerbugspraysandhitsKatrina.Shescreams,asherlegsmeltout
+	fromunderher.
+
+				KATRINA
+		AAAAAAAAAAAAA!
+
+	Warriorsconvergetofeedonher.Acewantstohelpher,butJohnnyblockshim.
+
+				JOHNNY
+		C'mon,Katrinawasright.We
+		gottagetoutofhere!
+
+110	EXT	KLENDATHU-NIGHT-JOHNNY
+
+	andtheothersurvivorsonthebounce.TheentiresurfaceofKlendathuseems
+	tobechurningwithinsectsasmoreandmorebugscometothesurfaceto
+	repeltheinvasion.
+
+				JOHNNY
+		It'sageneralretreat!Theboatsare
+		comingdown.
+
+	TheycometotherearlineswheretheNetCorrespondentandhis
+	CAMERAMANaredoinglivecoverageoftheinvasion.
+
+				NETCORRESPONDENT
+		We'vejustlandedhereonwhatcaptroopers
+		arecallingthe"BigK"withthe6thMobile
+		InfanteryDivision.It'sanuglyplanet,abug
+		planet,aplanethostiletolifeaswekowiGKKKKK!
+
+	TheCorrespondentiscutinhalfbyawarrior.Johnnyblowsitaway.
+
+				JOHNNY
+		C'mon,let'sgo!ONTHEBOUNCE!
+
+	Thecaptroopersmoveout.KittenSmithlooksupasapurplebeacon
+	streaksacroosthrsky.
+
+				KITTENSMITH
+		Icanseethebeacon...!
+
+				ACE
+		Retrieval!
+
+	AhopperpouncesonKittenSmithm,andhegoesdownscreaming.
+
+				JOHNNY
+		KITTEN!
+
+	Johnnytouchesdown,staresinhorrorasKittenSmith'sheadrollspasthis
+	fee.Johnnyopensupwithhispulsecannon.Thehopperattacks,putsaclaw
+	rightthroughJohnny'sthigh.
+
+				JOHNNY
+		AAAAAAAAAAAAA!
+
+	Crushingjawsclosearoundhim,crushing,cuttinghisflesh.Johnnybringsthemuzzle
+	ofthepulsegununderthehopper'snervestemandSPLAT!	blowsitsheadapart.
+
+				DIZZY
+		Johnny!	JOHNNY!	WHEREAREYOU?
+		JOHNNY!	Johnny...!
+
+	ButDizzycan'tfindJohnny,andsoonshe'slostinthesmoke.Johnnylooks
+	downattheterribleholeinhislegwherebrightarterialbloodgushes.
+
+				JOHNNY
+		Medic...MEDIC...!
+
+	NowtwomoreArachnidwarriorscloseinonhimthroughtheenveloping
+	smoke.Hefireshispulserifleempty,anddroppingit,crawlsdesperately,
+	dragginghisuselessleg.
+
+				JOHNNY
+		Oh,God...Oh,God,helpme...
+		pleasehelpme...!
+
+	AthirdArachnidwarriorrearsupinfrontofhim,deadlyjawsslashingdown
+	towardhim,whensuddenlyitisblowntopiecesintheblindingblastofa
+	point-blankpulsecannon.
+
+				VOICE(O.S.)
+		Takemyhand!
+
+	Johnnyreachesout.ASTEELHANDtakeshis,dragginghimbackasbugs
+	attack.Hisrescuers'spulsecannonthundersoverhead.Bugpartsflyas
+	insectsswarminforthekill.
+
+								FADEOUT
+
+111	FROMTHEFEDERALNET-100,000DEADINONEHOUR!
+
+	Actualpicturesofthebattlefield,manandinsectlyingdeadtogetherontheblood
+	drenchedplainsofKlendathu.
+
+				OFFICIALVOICE
+		CrsisisforHumankind!Fleetofficial
+		admittheyunderestimatedthe
+		Arachnid'sdefensivecapability.
+		Wouldyouliketoknowmore?
+
+112	SKYMARSHALLRESIGNS!
+
+RetiringSkyMarshallDienessalutesincomingSKYMARSHALLTEHATMERU,75,
+	bforeagatheringoftheFederalCouncil.
+
+				OFFICIALVOICE
+		AcceptingresponsibilityforKlendathu,
+		SkyMarshallDienesresigns.Hissuccessor,
+		SkyMarshallTahatMeru,outlineshernew
+		strategy.
+
+				SKYMARSHALLMERU
+		Untilweunderstandthebugbetter,we
+		mustproceedwithcaution...
+		WecanillaffordanotherKlendathu.
+
+113	SCIENTISTSSUSPECTMYSTERIOUSBRAINBUGS!
+
+	FEDERALSCIENTISTSdisplayanorganizationalchartofthe
+	ArachnidspeciestoppedbyaQUESTIONMARK.
+
+				OFFICIALVOICE
+		Toexplaintheintelligentmilitaryactions
+		oftheArachnids,FederalScientistspostulate
+		theexistenceofaleadershipcaste...BRAINBUGS!
+
+114	SOMETIMESLOVEDONESDIEFORAGOODREASON!
+
+	NamesscrollbydesignatedKIA,WIA,andMIAaccordingly.
+
+				OFFICIALVOICE
+		Familiesoofthosewhohavediedorbecome
+		incapacitatedbyFederalServiceareentitled
+		tobenefits!Ifyouseethenameofalovedone,
+		pleasedonotcall.AFederationofficialwillcall
+		you.Wouldyouliketoknowmore?
+
+115	EXT	FLEETBATTLESTATIONTICONDEROGA-THERODGERYOUNG
+
+	limpstoport,ahugechunkrippedoutofitsmid-section.Althoughstable,
+	shefliesinverted.
+
+				CARMEN(O.S.)
+		Ticonderoga,thisisRodgerYoungrequesting
+		approachvector...
+
+				TICONDEROGAC&C(O.S.)
+		Affirmative,RodgerYoung...onezerozero
+		ninerfivetwo...welcomeback.
+
+116	INT	RODGERYOUNG-COMMANDANDCONTROL-ZANDERAND
+	CARMEN
+
+	stareattheBATTLE-SCAREDSTARSHIPSandBURNT-OUTHULKSthatlinethe
+	docksofTiconderoga.
+
+				CARMEN
+		Youknow,we'reluckytobealive.
+
+	AbloodybandagewrapsCarmen'shead.Zandernodsgrimly.
+
+117	INT	RODGERYOUNG-GANGWAY-THEDEADBODIES
+
+	ofCREWMENandCAPTROOPERSarebeingoff-loadedviaconveyerbelt.
+	ZanderandCarmenmaketheirwayupthesteepcompanionwaybesidethe
+	ghastlyconveyerbelt.
+
+				ZANDER
+		Givemehand,willya?
+
+	Carmentakeshishand.Zanderkissesher.
+
+				ZANDER
+		Iwasthinking.Maybeweshouldget
+		married,Carmen.
+
+				CARMEN
+		Youweren'tthinking...youweredreaming!
+
+				ZANDER
+		Ifwe'regonnabeateam,whynotbea
+		realteam?
+
+				CARMEN
+		There'sawaron.Iwantacommand,
+		Iwantmyownship,youdo,too...
+
+				ZANDER
+		So?
+
+				CARMEN
+		Sowho'sgottimetogetmarried?
+
+	Carmenletshishandgoandleapsthroughthehatch.Zanderfallsback
+	ontotheconveyerbelt,findshimselfeyeball-to-eyeballwithahorribly
+	maimedtrooper,scramblestogetoff.
+
+118	INT	BATTLESTATIONTICONDEROGA-COMMONAREA-ZANDER
+
+	joinsCarmeninthecrowdedcommonareawheredeadbodiescompeteforspace
+	withwoundedawaitingtriage.Survivorswatchcasualtylistsscrollbaona
+	FederalNetterminal.
+
+				ZANDER
+		Fleetencouragesmarriagesamongflight
+		officers.You'dprobablygetapromotion
+		outofit.
+
+				CARMEN
+		Funny...
+
+				ZANDER
+		I'mnotkidding.Marriageis-
+
+				CARMEN
+		No,funnythere'salmostnowoundedatall.
+
+				ZANDER
+		Hey,bugsdon'ttakeprisoners.
+
+	CarmenlooksatthewordsattheNetterminal:WOULDYOULIKETOKNOW
+	MORE?Shebitesherlip,entersJohnny'sname.Inaninstant,shehasthenews:
+	RICO,JOHND.-KIA
+
+				CARMEN
+		Ohno.
+
+	Tearsfillhereyes.
+
+				ZANDER
+		Carmen...?
+
+				CARMEN
+		Excuseme...!
+
+	Sherushesaway.ZanderlooksatJohnny'snameonthescreen,shrugs,presses
+	theERASEbutton.
+
+119	INT	TICONDEROGA-CORRIDOR-ZANDER
+
+	findsCarmen,saggingagainstawall,weepimg.
+
+				ZANDER
+		I'msorry,Carmen.
+
+				CARMEN
+		Please,I...Everybody'slostsomeone
+		bynow.Thisshouldn'tbeany
+		different...
+
+	Zanderputsanarmaroundher.Sheholdsontight.
+
+				CARMEN
+		No,I...Oh,Zander,I'mafool.
+
+				ZANDER
+		You'reupset,that'salright.
+
+	Zanderkissesherhair.Tearsrolldownherface.
+
+				CARMEN
+		No,don'tyousee?Noonecanwaitfor
+		anythinganymore...You'reright...
+		Weshouldgetmarried...
+
+	ZanderholdsCarmenasshesobs,feelinglucky.
+
+							DISSOLVETO:
+
+	120	INT	STASISTANK-DAYCYCLE-JOHNNY'SBODY
+
+	floats,suspendedinfluid,mouthhangingopen,hisskinwhiteasdeath.
+	AlowunderwaterKNOCKINGwakeshim.Heopenshiseyesandsees
+	AceandDizzyoutsidethetank.
+
+	AceholdsupaKIAlist,pointingatJohnny'sname,laughing:Rico,JohnV-KIA.
+	Theirvoicesaredistantandgarbled.Dizzycupsherhandsagainstthesideofthe
+	tank.
+
+				DIZZY
+		Twomoredays.
+
+	Johnny'swoundsarenowmostlyscarsexceptforhislegwheredelicaterobotic
+	armsculturelayersofnewtissue.Johnnygivesaweakthumbsup.Theknocking
+	soundcontinues.
+
+	Johnnyturns.ASTEELHANDtapsthesideofthetank.Johnnygrins,astonished.
+	Themanwearingitishisformerhighschoolteacher,nowaLieutenant,JeanRasczak.
+
+121	EXT	SPACE-AQZ-ABATTLEGROUP
+
+	consistingofSTARSHIPS,theirtender,FREIGHTERSandotherSUPPLYCRAFT.
+
+122	INT	TROOPTRANSPORT-M.I.QUARTERS-JOHNNY
+
+	stowshisgearalongwithAceandDizzy.Acroostheroom,acollectionof
+	battle-hardenedvetscheckoutthenewcomers.
+
+				ACE
+		DizzysaysyoutwoknewthisRasczak
+		characterinBuenosAires...
+
+				JOHNNY
+		Hewasourteacher...
+		Hewasgreat.
+
+				ACE
+		Yeah,well,Ihearhe'sareal
+		nutbuster.
+
+				DIZZY
+		TheRoughneckskilledmorebugsthan
+		anyotheroutfitin2ndBrigade...
+		Onlytook15%casualtiesonBigK.
+
+	TheysizeuptheRoughnecks.Therearescars,powerprosthetics,andone,
+	bigSUGARWATKINS,26,wearsabugclawonachainaroundhisneck.
+
+				JOHNNY
+		Seeingashowwe'reaboutallthat's
+		leftof1stBrigade,you'dhavetocall
+		thatanimprovement.
+			(toSugarWatkins)
+		Youtopkick?
+
+				SUGARWATKINS
+		Areyoukidding?Theyalwaysgetkilled.
+		Youwantthejob?
+
+				JOHNNY
+		Iwouldn'tmind.
+
+	CORPORALBIRDIE,24,turns,givesJohnnytheonceover.
+
+				BIRDIE
+		Iwould.Niceearring.
+
+	Dizzylooksherover.Nottoobig,butshe'stough.
+
+				DIZZY
+		WhereyoubeenbesidesBigK?
+
+				BIRDIE
+		Outerrings.ZegemaBeach.
+
+				JOHNNY
+		IalwayswantedtogotoZegemaBeach.
+
+				SUGARWATKINS
+		Goodluck.It'snotthereanymore.
+
+				ACE
+		IsyourLieutenantasbadastheysay?
+
+	Birdiebeltshim,andAcegoesdown.
+
+				BIRDIE
+		NoonetalksabouttheLieutenantthatway.
+		Hesavedmylife!
+
+	Acejumpsup,readytofight,butotherRoughnecksblockhim.
+
+				SUGARWATKINS
+		Mine,too.
+
+				OTHERROUGHNECKS
+		Sameforme...me,too...
+
+	JohnnyandDizzyshrug.Ace'sonhisown.
+
+				ACE
+		Soundslikeheisquiteaguy.
+	
+	SERGEANTGILLESPIE,28,stepsintotheroom.
+
+				GILLESPIE
+		Attention!
+
+	Everyonesnapsto.Rasczakenters.
+
+				RASCZAK
+		Thisisforyounewpeople.Ionly
+		havetworules.Ruleone,everyone
+		fights.Ruletwo,noonequits.
+		Ifyoudon'tdoyourjob,I'llkillyou
+		myself.Doyougetme?
+
+				JOHNNY,DIZZYANDACE
+		Wegetyou,sir!
+
+	HepointsatJohnny'searringwithhissteelhand.
+
+				RASCZAK
+		Getridofthejewelry.Ihateit.
+		WelcometotheRoughnecks.
+
+				BIRDIE
+		Rasczak'sRoughnecks!
+
+	TheRoughneckscheer.Rasczaksmilesvaguely.
+
+				RASCZAK
+		Alright.There'sanewSkyMarshalland
+		anewplan.We'regonnacleanoutthe
+		systemsoutlyingKlendathuoneplanet
+		atatime.TomorrowwehitTangoUrilla.
+		AfterFleetglassestheplanet,M.I.mopsup.
+
+123	EXT	TANGOURILLA-DAY-BUGWARRIORS
+
+	standsentryonearthworksthattowertheentrancetotheircolonywherean
+	endlesslineofWORKERSenterbearingfoodstuffappropriatetothisexotic
+	jungleplanet.
+
+	Adistantsound.Awarriorlooksup,curious.SuddenlyaFORMATIONOFTAC
+	FIGHTERSscreamsdownfromhighorbitandawhitehotnuclearfirestormburns
+	consumesthelandscape.
+
+	Bugsscreamastheytwistandkickinthewallofflame.Heatmeltsthedirtinto
+	darkglass.Ashturnstheskyred.TheoutofthesmokecomeRasczakandhis
+	Roughnecks.
+
+				RASCZAK
+		Spreadout,teamsofthree.Whenyou
+		locateabughole,secureit,gasit,
+		andcloseit.
+
+124	EXT	TANGOURILLA-FLATS-DAY-TACFIGHTERS
+
+	streakbyoverhead.Ontheground,Johnny,DizzyandAceareonthebounce.
+	Acespotsabugholewhereworkersandwarrorshavebrokenthroughthe
+	glassedsurface.
+
+				ACE
+		There.
+
+	Rocketstakeoutwarriors.Buggutsgoflying.Dizzysetsworkersonfire.
+	JohnnxandAcestepoverburningbugcarcassestotherimoftheholeand
+	firetheirgasrounds.
+
+				JOHNNY
+		Fireinthehole!
+
+	JohnnydropsanH.E.round,andthey'reintheairwhentheexplosioncollapses
+	theentrancetothebugcity.
+
+				BIRDIE(O.S.)
+		Younewguysoverthere...
+		WEcouldusesomehelp...
+
+125	EXT	TANGOURILLA-MOUNTAINS-BUGS
+
+	boiloutoftheground.Birdie,SugarWatkinsandotherRoughnecksareabouttobe
+	overrunwhenJohnnytouchesdownwuthAceandDizzy.
+
+				JOHNNY
+		Lookslikeyou'vegotalittlebug
+		problem,ma'am...
+
+				BIRDIE
+		Stowit,trooper.Giveitverything
+		you'vegot!
+
+	Thecaotroopersletthebugshaveit,buttheinsectskeepcoming,theliving
+	crawlingoverthedead,andnow,trudgingupoutoftheground,comesa
+	TANKERBUG.
+
+				JOHNNY
+		WATCHOUT!
+
+	Thetankerbugstartstospray,creatingatoxicperimeteraroundthehole.
+	RasczakarrivesjustasBirdietakesachemicalhit,fallingtogroundminus
+	anarm,screaming.
+
+				BIRDIE
+		AAAAAAAAAAAAA!
+
+	Johnnyjumps,landingbehindthetankerbuginthemouthofthehole.Itturns
+	withsurprisingspeed.Johnnyflipsupontoitsback,cracksitsarmorwithhis
+	pulsecannon.
+
+				RASCZAK
+		Sugar,inforpickup!
+
+	RasczakandSugarWatkinspullBirdietosafety.Johnnyfiresarocketinto
+	theholehe'smadeinthetankerbug'sback,andjumpsclear.KA-WHAP!
+	Thebigbugexplodes.
+
+				RASCZAK
+		Gasthatholeandcloseit!
+
+	TheRoughnecksfiregasrocketsintothebughole.Johnnytouchesdown
+	besideRasczak.
+
+				RASCZAK
+		Where'dyoulearntodothat,soldier?
+
+				JOHNNY
+		UniHighTigers,sir.Don'tyou
+		remember?Iwascaptainofthe
+		team.
+
+				RASCZAK
+		I'mnotinterestedinnostalgia,Rico,
+		Ineedacorporal.You'reituntilyou're
+		deadorIfindsomeonebetter.
+
+	Rasczakturnsaway,givesBirdieprostheticthumpsupassheiscarriedpast
+	tomeetanarrivingskimmer.
+
+				RASCZAK
+		Don'tworry,Birdie,yournextarmcomes
+		withafactoryguarantee!
+
+	DizzyandAcegatheraroundJohnny,claphimontheback.
+
+				DIZZY
+		Waytogo,amigo!
+
+				JOHNNY
+		I'mgonnaneedasquadleader.
+
+				ACE
+		Noway.BigKtaughtmeIain'texecutive
+		material.
+
+				JOHNNY
+		Whataboutit,Diz?
+
+				DIZZY
+			(asnappysalute)
+		LookslikeI'myourgirl,sir.
+
+	TacFightersreelbyoverhead.WOMP!Suddenly,BUGPLASMAshootsskyward
+	fromtheflatlandsbelow.SeveralTacFightersareblownoutoftheair.
+	Flamingdebrisrainsdown.
+
+				RASCZAK
+		Saddleup,Roughnecks.That's
+		ourtrash!
+
+	Roughnecksheadoutonthebounce.
+
+126	EXT	TANGOURILLA-RIDGE-DAY-JOHNNY
+
+	andtheotherslookdownasheercliffonthebugbattery,acharredcircular
+	pitsometenmetersacross.Inside,somethingismoving.
+
+				JOHNNY
+		Whatkindofstinkin'bugisthat?
+
+	Johnnyjumpsthemagnificationonhis"headup".Downinthepit,agiant
+	translucentPLASMABUGrearsoutofoneofthesubterraneantunnels
+	thatringthebattery.
+
+				SUGARWATKINS
+		Youneverseenhowtheydoitbefore?
+
+	Johnnyshakeshishead.SwollenBREEDERBUGSgatheraroundthe
+	plasmabugtoinjectitwiththeircatalyticjelly.
+
+				ACE
+		Agghh!It'smakingmesick...!
+
+	Theplasmabugwrithesinpainandbeginstoswell,colorchangingfrom
+	yellowtoblueinaccordancewithsomeviolentinternalchemicalreaction.
+
+				SUGARWATKINS
+		It'sgonnapop!
+
+	WOMP!Theplasmabugexplodesinitscauldron.Ablastofbugplasma
+	streakspastthemtowardstheheavens.Nowanewplasmabugcrawlsinto
+	thepittobeginthecycleanew.
+
+				GILLESPIE
+		Sir,look!
+
+	SergeantGillespiepoints.Aholeopensnearthebatteryanddozensofwarriors
+	rampageoutofthegroundanduptheclifffacetowardtheRoughneckposition.
+
+				RASCZAK
+		Wemustberightoverthecolony.
+		Let'sgetsomeairsupport,eh?
+
+				GILLESPIE
+		Yes,sir!Fleet,thisisRoughneck
+		patrol,over...?
+
+	Rasczakmovesoffdownthelinegivingorders.
+
+				RASCZAK
+		Corporal,Iwantpulsecannonsthere
+		andthere!Rifleteams,spreadout
+		alongtheridge!Sugar,bringupthat
+		flamethrower!
+
+				GILLESPIE
+		Fleet'spullingthebattlegroupback
+		tosafedistance...They'dlikeusto
+		knockoutthosebatteries,sir.
+
+				RASCZAK
+		They'dratherspendourlivesthan
+		risktheirships.Who'sgotthenuke?
+
+				DIZZY
+		That'dbeme,sir.
+
+				RASCZAK
+		Heatitup.
+
+	Dizzyactivatesatacticalnuke.ItmakesadistinctiveHIGHPITCHEDSQUEAL.
+
+				RASCZAK
+		Roughnecks,youmayfireatwill.
+
+	TheRoughnecksopenfire.Bugsareblowntopiecesbuttheykeepclimbing.A
+	warriorbreechestheirline.SugarWatkinstorchesit.Thenuke'sreadylightflashes.
+
+				DIZZY
+		I'mhot,sir!
+
+				RASCZAK
+		FIRE!BLASTSHIELDSDOWN!
+
+	Johnnyblowsawarriorawayfromtheedge.Dizzyleansoverandfires.Therocket
+	streaksdowntowardthebattery.
+
+				RASCZAK
+		HITTHEDIRT!
+
+	Anexplosioninthetwokilotonrangeturnstheworldblackandwhite.Whencolor
+	returnsJohnnyandtheotherslookdownonthesmolderingcraterwhichwasoncethe
+	bugbattery.
+
+				GILLESPIE
+		NowcomesthepartIhatethemost.
+
+				JOHNNY
+		What'sthat?
+
+				GILLESPIE
+		Wegodownintothecolonyandmake
+		sureallthequeensaredead.
+
+127	INT	TUNNELS-DAY-THEROUGHNECKS
+
+	fighttheirwaydowngassed-outtunnelsintobugcity.Theymeetwarrorsat
+	everyturnandkillthem.Helmetlampsmakeweirdshadowsofdeadbugs
+	piledeverywherealongtheway.
+
+				SUGARWATKINS
+		YouknewtheLieutenantbeforethewar...
+		Whatwashelike?
+
+				JOHNNY
+		Hewasateacher,kindofaknowitall...
+		Alwayshadthislittlesmile.
+	
+				SUGARWATKINS
+		Geez,Idon'tthinkI'veeverseenhim
+		smile.
+
+				JOHNNY
+		Mustfillyourbottleuprealquick
+		whenyourwifeandkidsgetsmeared.
+
+	JohnnyjoinsRasczak,AceandDizzyandtheyblowawayseveralwarriors
+	guardingtheentranceofalargechamber.
+
+128	INT	BUGNURSERY-DAY-THEQUEENS
+
+	areeightmeterslongwithcorpulentbodiesandtinyheads.Onlyonesurvives,
+	andthoughsheisherselfdying,herabdomen,rippledbylifewithin,continuesto
+	undulate.
+
+				JOHNNY
+		Alldeadexceptone,sir.
+
+				RASCZAK
+		Killthebitch.
+
+				JOHNNY
+		Yes,sir.
+
+	Johnnysignals.Dizzy'spulsecannonripsopenthedyingqueen.Thousandsof
+	wrigglingprematurebugscomespillingout.Horrified,knee-deepRoughnecks
+	setthemafire.
+
+129	EXT	TANGOURILLA-BASECAMP-DAY-FLEETENGINEERS
+
+	unloadPRE-FABBARRACKSfromHERCULESCARGOBOATS.
+	Roughneckseat.Rasczakstands,bangingaspoononhismesskit.
+
+				RASCZAK
+		TangoUrillaisnowbugfree.Means
+		theRoughneckshavekilleda
+		helluvalottabugs...!
+
+	Roughneckscheer.RasczakkicksopenaCARGOMODULE.Beerkegs
+	roolout.Hekicksopenasecondmodule.Inside,musicalinstruments.
+	Acepicksupaviolin.
+
+				RASCZAK
+		Iexpectthebest,butIgivethebest.
+		Habvesomefun.That'sanorder!
+
+130	EXT	BASECAMP-NIGHT-LATER-ACE
+
+	leadsalittlequartet,playsasweetfiddle.Roughneckslaughanddance.
+	DizzytriestopullJohnnyintothefun.
+
+				DIZZY
+		C'mon...
+
+				JOHNNY
+		Nah,Idon'tdothatanymore...
+
+				DIZZY
+		Youusedtodance...
+
+				JOHNNY
+		Isaidno.Wantmetopullrank?
+
+				DIZZY
+		Well,excuseme,sir...
+
+	Dizzyheadsbacktotheothers.JohnnyturnsandfindsRasczakregardinghim
+	withanodd,sadsmile.
+
+				RASCZAK
+		Yopuaskedmesomeadviceonce,Rico.
+		Wantsomenow?
+
+				JOHNNY
+		Yes,sir...
+
+				RASCZAK
+		Neverpassupagoodthing,eh?
+
+	Gillespieappears.
+
+				GILLESPIE
+		Lieutenant,Brigade'sonthecom...
+
+	Rasczakheadsaway.JohnnyjoinsDizzy.
+
+				JOHNNY
+		Hey,Diz...
+
+				DIZZY
+		What?
+
+	Johnnytakesherhand,bowsimplishly.
+
+				JOHNNY
+		MayIhavethehonor?
+
+	Hepullsheroutamongtheothersandtheybegintodance.Acewatches
+	withagrin,putssomespiritinhisfiddle.
+
+131	INT	COMMUNICATIONS-NIGHT-RASCZAK
+
+	isinholoconferencewithanINTELLIGENCEOFFICER
+
+				INTELLIGENCEOFFICER
+		At0821wereceivedadistresscallfrom
+		PlanetP,prioritycode,requesting
+		reinforcement...
+
+				RASCZAK
+		Ithought4thbrigadecleanedoutP.
+
+				INTELLIGENCEOFFICER
+		Owenreportedtheeradicationofalow
+		generationcolonyamonthago.That'swhy
+		MICOMwantsonsiteassessment.
+
+				RASCZAK
+		Soundsmorelikesomeidiotat
+		MilitaryIntelligenceCommand
+		wantstogetmeandmycaptroopers
+		killed...
+
+	TheIntelligenceOfficerreddens.
+
+				INTELLIGENCEOFFICER
+		TakeyourgroupdowntoPandhavea
+		looksee.Leavethethinkingtous,
+		Lieutenant.That'snotyourjob.
+
+				RASCZAK
+		Myjobistoprotectthelivesofmy
+		soldierssotheycankillbugs,Major,
+		andifyou'rewalkingmeintoatrap-
+
+				INTELLIGENCEOFFICER
+		Bugsdon'tlaytraps...Theyaren't
+		intelligent!Unlikeyou,they'restupid
+		enoughtofolloworders!
+
+				VOICE(O.S.)
+		That'llbeall,Major.Dismissed.
+
+	TheIntelligenceOfficerdisappearsabruptly.Anewhologramappears.
+	Rasczak'sjawdrops.It'shisformerstudentCarlJenkins,nowaColonel,
+	wearyandpissedoff.
+
+				CARL
+		Thisconferenceisover.Doyourduty,
+		Lieutenant.That'sanorder.
+
+	Rasczakrecovers,salutesstiffly.
+
+				RASCZAK
+		Yes,sir.
+
+132	INT	PRE-FABSLEEPINGUNIT-DAY-JOHNNYANDDIZZY
+
+	aremakinglove.Thedoorpopsopen.Rasczakstandsthere.Dizzyducksunder
+	thecovers.Johnnymanagesasalute.
+
+				RASCZAK
+		Corporal,theRoughnecksaremoving
+		outforPlanetPimmediately.Get
+		yourselfsquaredawayandreportto
+		Gillespieforlogistics.
+
+				JOHNNY
+		Yes,sir!
+
+				RASCZAK
+		Who'sthatwithyou?
+
+	Dizzyshowsherself,grinning.
+
+				RASCZAK
+		Reportintenminutes.
+
+	Rasczakslamsthedoorshutonthem.Theyfallbackintooneanothersarms,
+	laughingastheyresumelovemaking.
+
+				DIZZY
+		PlanetP?Whatkindofnameisthat?
+
+				JOHNNY
+		Theyranoutofnamesalongtime
+		agointhispartofthegalaxy.
+
+133	EXT	PLANETP-BADLANDS-DAY-THEROUGHNECKS
+
+	movethroughcanyonsoftoweringwind-carvedrockformations.
+	Gillespiecarriesthecommunicationspackage.
+
+				GILLESPIE
+		Idon'tunderstandit,Lieutenant.
+		It'snotgettinganythingfrom4th
+		Brigade...
+		noteventheirtransponder.
+
+				RASCZAK
+		Keeptrying,Sergeant.
+
+134	EXT	CANYONFLOOR-CONTINUING-DAY-THEROUGHNECKS
+
+	walkinacolumnfarbelow.Somethingiswatchingfromtheabove...HOPPERS,
+	lotsofthem,movingfromrocktorockforbetterposition.
+
+135	EXT	CANYONFLOOR-CONTINUING-DAY-ACE
+	
+	seessomethingoutofthecornerofhiseye.
+
+				JOHNNY
+		BUGS...!
+
+	Thehoppershit.SeveralRoughnecksgodown.Everyoneopensup.
+	Dive-bombingbugsareblowntobits.Roughneckssetthemonfire
+	whentheyhittheground.
+
+				DIZZY
+		Johnny,watchout!
+
+	AburningbughurlsitselfatJohnny.Johnnyjumpsoutofthewayas
+	Dizzyfires,blowingitapart.Thedeadlyhoppersseemtobeeverywhere
+	abovethemintherocks.
+
+				RASCZAK
+		LET'SGO!ONTHEBOUNCE!
+
+136	EXT	FLATLANDS-DAY-THEROUGHNECKS
+
+	moveoutintotheopen.Inthedistancetheysee4thBrigadeHQ,awalled
+	compoundandpartiallyconstructedlandingpad.
+
+				RASCZAK
+		Gillespie,putincallforretrieval.
+		We'reoffthisrock.
+		Gillespie,doyoureadme?
+
+				GILLESPIE
+		AAAAAAAAAAA!
+
+	TwohoppersarepullingGillespieupintotherockswhereotherbugs
+	jointofeast.
+
+				RASCZAK
+		Throwarifle!
+
+	DizzytossesherMoritatoRasczak.Gillespiewrithesinthehopper's
+	claws.Rasczakfires,killingGillespie.
+
+				RASCZAK
+		Iexpextanyoneheretodothesame
+		forme...Rico,Watkins,Flores,Levy
+		prepareforrearguardaction.Therest
+		ofyoumakefor4thBrigade.
+
+	JohnnyandtheotherscovertheRoughneckretreatashopperssoardown
+	ontheflatlandsfromthecanyonwalls.
+
+				RASCZAK
+		FIRE...!
+
+	Johnnyandtheothersblastbugsoutoftheair.
+
+				RASCZAK
+		FALLBACK100METERS...!
+
+	Asecondwaveofhopperscomein.
+
+				RASCZAK
+		ANDFIRE...!
+
+	Fornow,theskyisclear.
+
+				RASCZAK
+		4THBRIGADEHQ!ONTHEBOUNCE!
+
+137	EXT	4THBRIGADEHQ-DAY-THEOUTPOST
+
+	is50metersby100,standardissuepre-fab.TheRoughneckslandonthe
+	compoundwall.Inside,WORKERBUGSgrazeontheremainsof200
+	deadcaptroopersstrewnoverthecomplex.
+
+				RASCZAK
+		Jeez,Commandreallyhumpedthebunk
+		onthisone...
+
+	Rasczakturnsaway.Roughnecksengageinthesportofmethodically
+	killingtheworkers.
+
+				RASCZAK
+		Rico,you'reactingSergeantnow.
+		MylastSergeantlostthecompack.
+		Puttogetherasearchteamandfind
+		theradioshack.
+		Weneedretrieval.
+
+				JOHNNY
+		Yes,sir.
+
+138	INT	4THBRIGADEHQ-OFFICECOMPLEX-DAY-JOHNNY
+
+	surveystheaftermathofthelaststandwithRasczak,insectandhumandead
+	everywhere.
+
+				DIZZY(O.S.)
+		It'shere,sir.
+
+139	INT	COMMINICATIONS-DAY-RASCZAKANDJOHNNY
+
+	entertheradioroom.ADEADMAJORisslumpedovertheconsolewith
+	holeinthebackofhishead.Johnnycheckstheequipment.
+	It'dead,too.
+
+				JOHNNY
+		Diz,seewhatyoucando.
+
+				DIZZY
+		I'monit!
+
+	Dizzygoestowork.Rasczakchecksthewoundinthebackofthedeadmajor's
+	head.
+
+				RASCZAK
+		What'sthatlookliketoyou,Rico?
+
+				JOHNNY
+		Lookslikeabugwasinhisbrain,sir.
+
+				ACE(O.S.)
+		Lieutenant,Ithinkyou'regonna
+		wannaseethis,sir.
+
+140	INT	MESSHALL-DAY-ABUGHOLE
+
+	inthemiddleofthefloorissurroundedbycarnage.
+
+				ACE
+		Dirtybugscameinrightwhenthey
+		werehavingchow!
+
+				RASCZAK
+		Gasthatholeandsealit.
+
+	Thentheyhearasound.Taptaptap.Rasczaksignalsforquiet.Taptaptaptap.
+	It'scomingfromthekitchen.
+
+141	INT	KITCHEN-DAY-THEROUGHNECKS
+
+	entercautiously.Thenoiseiscomingfromafreezer.Acestandsreadytofire.
+	Johnnyleversopenthedoor,jumpsbackasGENERALOWEN,60,tumblesout
+	facefirst.
+
+				ACE
+		Officeronthedeck,sir.
+
+				RASCZAK
+		Pickupthegeneral!
+
+	Roughnecksprophimup.GeneralOwentriestotalk,butnowordscomeout.
+	Rasczakbendsdowntolisten.
+
+				GENERALOWEN
+		Getout...yougottagetmeout...!
+
+				RASCZAK
+		GeneralOwen,sir?
+
+	Theoldmangrins,hugelyrelieved.
+
+				GENERALOWEN
+		Atease,Lieutenant.ThankGodforyou,
+		forallofyou...thisisgrand...
+		sowhere'stheboat?
+
+142	INT	COMMUNICATIONS-HALLWAY-DAY-JOHNNYANDRASCZAK
+
+	helptheoldGeneral,nowwrappedinablanket,rambling.
+
+				GENERALOWEN
+		Iwasforcedtohide,ofcourse.Thesecurity
+		oftheFederationinthistheaterofoperations
+		wasatstake!
+
+				JOHNNY
+		Diz,what'swiththeuplink?
+
+	Dizzylokksupfromwheresheisworkingontheradiocontrols.
+
+				DIZZY
+		Workinonit...!
+
+				GENERALOWEN
+		Theygetinyourmind...theymakeyoudo
+		things!Lookhere...TheydidittoFarley...!
+
+	Hepointsattheholeofthedeadmajor'shead.
+
+				RASCZAK
+		Thedistresscall...Thebugswantedus
+		torescueyou...!
+
+				GENERALOWEN
+		Oh,youcanbesureofit!Theywere
+		bidingtheirtime...waitingforthemost
+		opportunemoment!
+
+	Rasczak'slostinterestinthegeneral.He'sonthecom.
+
+				RASCZAK
+		ToallRoughnecks,thisisRasczak.
+		Prepareforattack.Repeat.Weare
+		goingtobeattacked...!
+
+				GENERALOWEN
+		Theyweren'tgonnadoittome.
+		Ohno!Iknowtoomanysecrets!
+
+	RasczaklooksatGeneralOwenwithcontempt.
+
+				SUGARWATKINS(O.S.)
+		Fireinthehole!
+
+	Anexplosioninthemesshallclosesthebughole.
+
+143	EXT	OFFICECOMPLEX-DAY-GENERALOWEN
+
+	blinksashestepsoutintothelight.Roughneckssnaptoattention.
+	GeneralOwenlooksatthecarnagethatwasoncehiscommandand
+	beginstokeen,collapsingtohisknees.
+
+				GENERALOWEN
+		OhGod...!Mysoldiers...!Allofmy
+		boysandgirls...!
+
+	TheRoughnecksareshocked.They'veneverseenageneralbreakdownbefore.
+	LieutenantRasczakslapsOwenhard.
+
+				LT.RASCZAK
+		Shutup!Yoursoldier'sdeadand
+		you'renot!
+
+				GENERALOWEN
+		Iknow...Iwishyou'dshootme...
+
+				LT.RASCZAK
+		Ioughta!
+
+	AnditlookslikeRasczakjustmight,butjustthenAcetouchesdown
+	nexttoJohnnyandRasczak.
+
+				ACE
+		Lieutenant,wegottrouble!
+
+144	EXT	RAMPARTS-DAY-RASCZAK
+
+	andJohnnyjoinotherstunnedRoughneckstoseeTHOUSANDSOFBUGSon
+	themarchfromeverydirection.Bugbatteriesopenupinthedistance.
+
+				RASCZAK
+		Warmitallup!Everythingyougot!
+		Levy,collectthebiggunsfromthe
+		towers.Watkins,putGeneralOwen
+		withthewounded.Rico,where'smy
+		communications?
+
+				JOHNNY
+		What'sgoingon,Diz?
+
+				DIZZY(O.S.)
+		Igotpower!Gimmeaminute!
+
+	Johnnyrunsforthecommunicationsroom.
+
+				JOHNNY
+		Wedon'thaveaminute!
+
+145	INT	COMMUNICATIONS-DAY-DIZZY
+
+	hastheboardup.Outsidethebattlehasbegun.NukesgoWOMP!and
+	pulsegunschatter.
+
+				DIZZY
+			Whatfrequency?
+
+				JOHNNY
+			Allbands.
+
+				DIZZY
+			Roughneckpatroltobattlegroup...
+			Roughneckpatroltobattlegroup...
+
+				RODGERYOUNG(O.S.)
+			ThisisRodgerYoung...What'sgoing
+			ondownthere?We'retakingplasma!
+			WehaveOrionP-11asclear!
+
+				JOHNNY
+			SHUTUP,SIR!Weneedpickupnow!
+
+				RODGERYOUNG(O.S.)
+			Whatisyourposition?
+
+				JOHNNY
+			Landingzoneisextremelyhostile.
+			Comedownonthistransmission!
+
+				RODGERYOUNG(O.S.)
+			Inside4thbrigadecompound?
+			That'scrazy!
+
+				JOHNNY
+			ThenIhopeyouhaveacrazy
+			pilot!Keepthelineopen,Dizzy!
+
+	Johnnyracesoutthedoor.
+
+146	EXT	4THBRIGADEHQ-DAY-THECOMPOUND
+
+	iswhitehotasRoughnecksonthewallsunloadnukes.Johnnycrosses
+	thecompound,landsnexttoRasczakonthewall.
+
+				JOHNNY
+		Boatcomingdown,sir!
+
+	TheRoughnecksstopfiringastheyrunoutofnukes.
+
+				ROUGHNECKS
+		I'mempty...allnukedout...Me,too!
+
+	Johnnyscansthebattlefield.Nukeshaveturnedthesurfaceintodarkglass.
+	Now,outofthesmoke,comethebugs,steamingglasscrackingbeneath
+	millionsofmarchingfeet.
+
+				ACE
+		Jeez,wemustakilledamillionalready...!
+
+				JOHNNY
+		Notenough,Iguess.
+
+	SugarWatkinsseesGeneraOweninthecompoundbelow,
+	stumblingaimlesslyamonghisdeadsoldiers.
+
+				SUGARWATKINS
+		General!GENERAL,staywiththewounded...
+		Sir,thegeneral...!
+
+				RASCZAK
+		Ah,thehellwithhim...
+
+	Hopperssweepintothecompound.TheRoughnecksopenfire.GeneralOwen
+	makeeasypickingsforonesthatgetthrough.
+
+				RASCZAK
+		Fallback...formacircle!Ifno
+		livingbugcomesoverthatwall,
+		wecannotbeharmed.
+
+	DizzyarrivesonthrbounceastheRoughnecksfallbackintothecompound.
+	Bugspileinoverthewalls.Thecircleaffordsthem360degreesofkillzone.
+
+				RASCZAK
+		Rico,Flores,Watkins,Levy!We
+		controltheskyuntilretrieval!
+
+				JOHNNYETAL
+		Yes,sir!
+
+	Rasczak,SugarWatkins,JohnnyandDizzystandback-to-backinthecenter
+	ofthecircle,sweepingtheskieswiththeheavygunsfromthetowers.
+	Hoppersareblowntopieces.
+
+				ACE
+		Gettinglowhere,sir!
+
+				DIZZY
+		300roundsandcounting,sir!
+
+				RASCZAK
+		Makeeveryshotcount!
+
+	Johnnylooksup.ARETRIEVALBOAThurtlesdownthroughburstsof
+	bugplasma,takesagrazinghit,rightsitselfwithretrosandlandswithin
+	thecircle.Roughneckscheer,saved!
+
+				RASCZAK
+		Sergeant,securetheboat!
+
+				JOHNNY
+		Yes,sir!
+
+	Roughnecksmovetoprotecttheboat.Thehatchblowsopen.
+
+				RASCZAK
+		Boardthewounded!
+
+	Deadbugsringthecompoundwalls,formingrampsforlivinginsect
+	soldierstoenterthecompoundingreaternumbers.
+
+				RASCZAK
+		Movetoretrievalonmycommand!
+		Firstgroup,now...!
+
+	ThecircleshrinksasRoughnecksfallbackandboardtheboat.
+	Moreandmorebugspileinoverthecompoundwalls.
+
+				RASCZAK
+		Alright,Flores!Levy!Rico...!
+
+	Suddenly,thegroundcollapsesunderRasczak.Hefallsintohiswaist,
+	vomitsbloodassomethingchewsonhimfrombelow.
+
+				RASCZAK
+		AAAAAAAAAAAA!
+
+				JOHNNY
+		Coverus,Ace!
+
+	Aceandtheothersfirefromtheboat.JohnnyandDizzyfireattheground
+	aroundRasczak.Rasczakstopsscreaming.Theytrytopullhimfree.
+
+				JOHNNY
+		Hityourjets,sir!
+
+				RASCZAK
+		Ican'tMylegsaregone...
+		Getontheboat...
+
+	Thecompundwallcollapses.Awaveofbugschargesin.
+
+				RASCZAK
+		Rico,tell'emtoglassthisgoddamplanet.
+		I'veneverseensomanybugsupstairsat
+		thesametime...
+
+				JOHNNY
+		We'renotleavingyouhere,sir!
+
+	Weakly,Rasczakpicksuphispulsegun,checksthepower.
+
+				RASCZAK
+		Thisismyfarm.Getontheboat,
+		NOW!That'sanorder,Sergeant.
+
+				JOHNNY
+		Give'emhell,sir!
+
+	JohnnyandDizzyrunfortheboat.Rasczakopensfire,pickinghisshots,
+	butsoonthebugsarealloverhim.
+
+				RASCZAK
+		C'monyousonsofbitches!
+		There'snobugalivecankilla
+		realmAAAAAAA!
+
+	Attheboat,DizzyturnstolookbackatRasczak.Ahopperswoops
+	downonDizzy,it'sclawsrippingintoherabdomen.
+
+				DIZZY
+		AAAAAAA!GETITOFFME
+		GETITOFFGETITOFF
+		GETITAAAAAAAAAA!
+
+	Johnnyblowsthebugoffherback.Bloodspraysfromadeepgashin
+	herneck.Johnnypicksherup,triestostopthebloodwithhishand.
+	Thelifeisleavinghereyes.
+
+				JOHNNY
+		Hangon,Diz...don'tdieonme...
+
+	ATANKERBUGbreachesthebrokenwall.Acejumpsouttohelphis
+	friends.Thehatchclosesjustasthetankerbugsprays.Theboatblasts
+	off,drippingmetal.
+
+147	INT	CARGOBAY-DAY-JOHNNY
+
+	holdsDizzyinhisarms,drenchedinherblood,fightingG-forcesasthe
+	boatsheadsfororbit.
+
+				DIZZY
+		Iboughtthefarm,didn'tI,
+		Johnny?
+
+				JOHNNY
+		No,you'regonnabealright,Diz!
+
+				DIZZY
+		It'salright'causeIgottohaveyou,
+		Johnny...
+
+	MEDICSpushJohnnyaside,gotoworkonDizzy.
+
+148	INT	BOAT-COCKPIT-DAY-JOHNNY
+
+	slamsintothecockpit.Outthefrontscreen,violentburstsofBUGPLASMA
+	filltheskyastheybreakatmosphere.
+
+				JOHNNY
+		GetonthecomandtellFleetto
+		glassthatrock...!
+
+	Theco-pilotturnsaround.It'sZander.Hiseyesnarrow.
+
+				ZANDER
+		Onwhoseauthority,Corporal?
+
+				JOHNNY
+		Thiswouldbemine,sir.Acting
+		SergeantJohnRico.I'veassumed
+		commandonthismission.
+
+	Thepilotturnsaround.It'sCarmen.
+
+				CARMEN
+		Johnny...!Ithoughtyouweredead!
+
+				JOHNNY
+		I'mnot,butalotofmysoldiersare.
+		Glasstheplanet!
+
+	Johnnyleaves.CarmenpunchesupFleetCommand.
+
+				CARMEN
+		RodgerYoung,thisisinboundshuttle
+		DeRuyterwithanofficialrequestfrom
+		theMobileInfanterytobombard
+		PlanetP-11...
+
+149	INT	BOAT-CARGOBAY-DAY-JOHNNY
+	
+	returnstoDizzy'ssideasthemedicsstruggletosaveher.Bloodpours
+	outofhermouth.Herbodythrashes.
+
+				DIZZY
+		JOHNNYHEHHEHCAN'THEH
+		BREATHEGODJOHNNYCAN'T
+		HEHHEHHEHHEH...!
+
+	Dizzydies.AMedicslapsher.Herheadlolls,mouthopen,eyesblank.
+	Theydropherandmoveontothenextcasualty.Johnnysitsthere,
+	stunned.Carmenentersfromthecockpit.
+
+				CARMEN
+		Negativeonyourrequest.Fleet
+		Commandhasthebattlegroup
+		onstandby...
+
+		CarmenseesDizzylyingdeadonthedeck.
+
+				CARMEN
+		...I'msorry.
+
+				JOHNNY
+		Wegottachokeonthemudandthe
+		bloodandFleetcan'tbebotheredto
+		spit.
+
+				CARMEN
+		No,Ithinksomething'sup.TheSky
+		Marshall'shere.
+
+	Shepointsoutforaviewingport.Johnnylooks.Fifteenbattlegroups,
+	100shipsstrong,layoffPlanetP,allofthemdwarfedbytheSky
+	Marshall'sflagship,BuenosAires.
+
+				CARMEN
+		IthoughtyouwereKIA,Johnny...
+
+				JOHNNY
+		Thatwasjustamixup.
+
+				CARMEN
+		Youlookso...Idon'tknow,you
+		looklikeyou'vereallybeeninit.
+
+				JOHNNY
+		Whathappenedtoyoureye?
+
+	Carmentouchesthescaroverhereye.
+
+				CARMEN
+		Almostgotknockedoutofthesky
+		overBigK.
+
+				JOHNNY
+		Ilikeit.It'skinda...you.
+
+150	EXT	BATTLEGROUP-ORIONSYSTEM-THEBOAT
+
+	landsontheflightdeckoftheRodgerYounginthemidstofthe
+	flotilla.
+
+151	INT	OFFICERSQUARTERS-DAYCYCLE-ZANDER
+
+	enters,watchesCarmendress.Shehumsasshechecksherselfinthe
+	mirror,touchesthrscaroverhereye,smiles.
+
+				ZANDER
+		Whereareyougoing?
+
+				CARMEN
+		Afuneral.
+
+				ZANDER
+		Thatgirlwhodiedonthewayup
+		...hisgirl?
+
+				CARMEN
+		Yeah.
+
+				ZANDER
+		Howdoyoufeelabouthimnow?
+
+				CARMEN
+		Idon'tknow,Zander.
+
+				ZANDER
+		Ido.
+
+152	INT	RODGERYOUNG-GUNNERYDECK-CARMEN
+
+	entersasJohnnyspeaks.Dizzyislaidoutindressgray.Thesurviving
+	Roughneckshavegatheredtopayfinalrespects.
+
+				JOHNNY
+		Dizzyboughtthefarm.Shewasmy
+		goodfriend,andfriensarethebest
+		luckanyonegets...Butinwar,wemust
+		goonwithoutourfriends.Wetake
+		withustheirmemory,andweareleft
+		towonderifthereismeaningintheir
+		death.Letmetellyouwhatitis:
+		Dizzyboughthefarmsowecankeep
+		onfighting.
+
+	SeveralINTELLIGENCEOFFICERSmarchintothebay.
+
+				JOHNNY
+		Officerondeck!
+
+	Everyonesnapstoattention.ColonelCarlJenkinsstridesintotheroom.
+	Hiseyesarehollow,andhelooksgrim.HereturnsJohnny'ssalute,
+	nodstoCarmen.
+
+				CARL
+		Pleasecontinue,Sergeant.
+
+				JOHNNY
+		Dizzywouldn'twantourtears.She'd
+		wantustorememberher...witha
+		vengeance.Sogooutandkillabug
+		forDizzy.Killasmanyasyoucan.
+		Youareherrevenge,andeverybug
+		youkillhonorsherdeath.
+
+	JohnnynodstotheGUNNERYCREW.TheyloadDizzy'sbodyintoa
+	tube.Johnnystepsback,salutesDizzy.Everyonesalutes.
+
+				JOHNNY
+		Wombtotomb,captrooper!
+
+				ROUGHNECKS
+		Wombtotomb!
+
+	TheCREWCHIEFfiresthetube.Outtheviewports,APULSEOFLIGHT
+	dispersesintospace.TheRoughnecksfileout.Carlapproaches.
+	CarmentakesJohnnyandCarlbythehand.
+
+				CARMEN
+		Well,lookatthis.Thethreeofusback
+		togetheragain.
+
+				JOHNNY
+		Howareyou,Carl?
+
+				CARL
+		Johnny,I'msorryithadtobeyour
+		unitonPlanetP.Thatmissionhad
+		averylowsurvivalprobability...
+
+				JOHNNY
+		Bugslaidatrap,didn'tthey?
+
+				CARL
+		Elegantproofofintelligence,
+		isn'tit?Wethoughttheremight
+		beabrainonP.
+
+				CARMEN
+		Youknewandyousentthem
+		anyway?
+
+				CARL
+		Acolonyhastoreachacertainsize
+		beforeitproducesaBrain...wethink
+		300generations.Wouldatooexpensive
+		tolaunchanoperationiftherewasn'ta
+		Brain...
+
+	CarlseesthewayCarmenislookingathim,likehe'sabug.
+
+				CARL
+		Youdon'tapprove.Well,toobad.
+		We'reinthisforthespecies,boys
+		andgirls.It'ssimplenumbers,they
+		havemore,andeverydayIhaveto
+		makedecisionsthatsendhundredsof
+		peoplelikeyoutotheirdeaths.
+
+				JOHNNY
+		Didn'ttheytellyou,Colonel?
+		That'swhatcaptroopresaregood
+		for.
+
+	Carlallowshimselfatinysmile.
+
+				CARL
+		Hopeyou'rereadyformore.We're
+		goingbacktoPtocapturethatBrain.
+
+				JOHNNY
+		TheRoughnecksarealwaysready,sir.
+
+				CARL
+		IheartheyneedanewLieutenant...
+		Wantthejob?
+
+				JOHNNY
+		I'lltakeit...untilIgetkilled
+		oryoufindsomeonebetter.
+
+	KLAXONSsound.Suddenly,everyonehassomeplacetogo.
+
+				CARMEN
+		HopeyougetyourBrainBug,Carl.
+
+				CARL
+		It'sgoodtoseeyoutwo.Itreminds
+		meofthewaythingswerebefore...
+
+	Carlturnsabruptlyandheadsaway.Hisentouragefollows.
+
+				CARMEN
+		Takecare,wilyaJohnny?
+
+				JOHNNY
+		Seeyouonthebounce!
+
+153	INT	RODGERYOUNG-COMMAND&CONTROL-CARMEN
+
+	stepsontothebridge.There'sanewNUMBER2sittinginZander'schair.
+	She'srightoutofTereshkova,andshelooksscared.
+	CarmenturnstoCaptainDeladier.
+
+				CARMEN
+		Where'sLieutenantBarcalow?
+
+				DELADIER
+		Herequestedacombatassignment.
+		There'salwaysaneedforexperienced
+		pilotsontheground.
+		Ihadnochoicebuttolethimgo...
+		Hesaidyou'dunderstand.
+
+	Carmenbitesherlip,takesfirstchair.Deladierfeelsbadforher,knows
+	she'smadeapainfuldecision.
+
+154	INT	RODGERYOUNG-DROPROOM-ROUGHNECKS
+
+	aresuitingup.Aceenters.
+
+				ACE
+		Officeronthedeck!
+
+	Roughnecksfallin.Johnnystepsintotheroom.Therearemanynewand
+	muchyoungerfaces.
+
+				JOHNNY
+		Ionlyhavetworules.Ruleone,
+		everyonefights.Ruletwo,noone
+		quits.Ifyoudon'tdoyourjob,
+		I'llkillyoumyself.
+		Doyougetme?
+
+				ROUGHNECKS
+		Wegetyou,sir!
+
+				JOHNNY
+			(toAce,sottovoce)
+		Who'reallthesekids?
+
+				ACE
+		Wegotreinforced.Mostof'em
+		justgotoutaboot...
+
+				JOHNNY
+		We'retheoldmen,Ace.
+
+155	EXT	PLANETP-4THBRIGADEHQ-DAY-CARGOSHIPS
+
+	havelanded.Captrooperssetfiretohugepilesofdeadbugs.BULLDOZERS
+	pushbodiesintoamassgrave,amongthemRasczak.
+	Johnnywalkspastwithhisteam.
+
+				JOHNNY
+		We'lltakethishighground.Lookouts
+		thereandtherteandupthere.Ifthe
+		bugscomeupstairsinthisneighbor-hood,
+		we'llbethefirsttoknow.
+
+				ACE
+		Gotit.Fleettacticalwantstoknow
+		wheretheycandeploytheskimmers.
+
+				JOHNNY
+		Downthereontheflats,eh?
+		Listenup,Roughnecks!Our
+		primaryobjectiveistoassist
+		ourfriendsfromtheFleet...
+
+	Roughnecksboo.
+
+				JOHNNY
+		Alright,cutitout.Wewilldeploy
+		fromskimmersinteamsofsix.
+		Ifthebugsopenupabattery,
+		weputitoutofbusiness.
+		Anyquestions?
+
+	AHERCULESCARGOBOAThurtlesoutoftheskyandlandsonthehigh
+	groundJohnnyhasintendedforbhisH.Q.Johnnyscowls,marchesover
+	totheboatandconfrontsaFLEETOFFICER.
+
+				JOHNNY
+		Would'yamindmovingyourboat?
+
+				FLEETOFFICER
+		Bettertalktotheboss.
+
+	ThecargobaysopentodeployFLEETSKIMMERS.Zanderjumpsdown
+	tooverseetheoperation.
+
+				JOHNNY
+		You'restandingonmyH.Q.,
+		Lieutenant!
+
+				ZANDER
+		ThisisaFleet-drivenoperation,son,
+		andtheFleetthinksmyboatwillbe
+		saferonthehighground.
+		Youcanhaveeverythingelse,eh?
+
+				JOHNNY
+		YouheardtheSkyMarshall...
+		Moveitalldown-
+
+	Suddenly,inthedistance,bugbatteriesopenfire,notonebuttwenty.
+	ZanderandJohnnysharealookofconcern.
+
+				ZANDER
+		RodgerYoung,preparetoreceice
+		outgoingfire...!
+			(tohiscrewchief)
+		I'lltakethefirstgroup.
+
+				JOHNNY
+		Saddleup,boys,that'sourtrash!
+
+156	EXT	SPACE-PLANETPORBIT-BUGPLASMA
+
+	beginstotakeatollonthebattlegroupastheorbitingshipslaytheireggs.
+	CapTroopersaresclicedastheydrop.
+
+157	EXT	RODGERYOUNG-BRIDGE-CAPTAINDELADIER
+
+	turnstoCarmen.
+
+				DELADIER
+		Evasiveaction!
+
+	Carmendodgesotherstarships,turnstohernewnumber2.
+
+				CARMEN
+		Prepareforwarp!
+
+				NEWNUMBER2
+		Yes,ma'am!Warpin5...4...
+		3...!
+
+	KA-WHAM!TheRodgerYoungtakesadirecthit.
+
+158	EXT	RODGERYOUNG-PLANETPORBIT-THERODGERYOUNG
+
+	iscutintwo.Therearsectionexplodes,theforwardsectionbeginstoburntowards
+	thebridge.
+
+159	INT	RODGERYOUNG-BRIDGE-CAPTAINDELADIER
+
+	calmyevacuatesthebridge.Powerfailsandsodoesthegravity.
+
+				CARMEN
+		ThisisRodgerYoung,we'regoing
+		down...Repeat,thisisRodgerYoung,
+		we'regoingdown...!
+
+				DELADIER
+		Ibanez...LET'SGO!
+
+160	INT	RODGERYOUNG-ESCAPECORRIDOR-CARMEN
+
+	andCaptainDeladierrunforthelifepods.Anexplosionflipsthecorridor.
+	CaptainDeladier'slegiscrushedwhenanairlockclosesonher.
+
+				DELADIER
+		AAAAAAAAAAA!
+
+	Carmenhitstherelease,pullsherfree.DeladierpushesCarmenaway.
+
+				DELADIER
+		Leaveme,Lieutenant!That'sanorder!
+
+				CARMEN
+		Noway,ma'am!
+
+161	INT	RODGERYOUNG-LIFEPODBAY-CARMEN
+
+	pushesintothechaoticlifepodbay.PANICKEDCREWshoving,screaming,
+	fighting.Theshippitches.Theytumble,landingnearapod.Carmenjumps
+	forit,pullsDeladierinafter.
+
+162	EXT	RODGERYOUNG-PLANETPORBIT-THERODGERYOUNG
+
+	disintegratesaslifepodsshootawaytowardtheplanet.
+
+163	INT	LIFEPOD-PLANETPORBIT-CARMEN
+
+	navigatesthroughagraveyardoffloatingwreckage,deadcaptroopers,
+	someone'strombone.Shesetsherbeaconandthepodplummets
+	downward.
+
+				CARMEN
+		Mayday,mayday!Thisis
+		LieutenantCarmenIbanezin
+		lifepodRY63...I'mgoingin...
+
+164	EXT	PLANETP-BASECAMP-DAY-ROUGHNECKS
+
+	boardtheSkimmers.ZanderapproachesJohnny,upset.
+
+				JOHNNY
+		What'syourproblemnow,
+		Lieutenant?
+
+				ZANDER
+		TheRodgerYoungjustburnedup...
+
+	Johnny'sfacefalls.
+
+				JOHNNY
+		Anysurvivors?
+
+	Zanderpoints.Farinthedistance,aglowingpodplummetstowardtheplanet.
+	Johnnytracksitonhis"headup".
+
+165	INT	LIFEPOD-ATMOSPHERE-DAY-CARMEN
+
+	isshakenviolentlyasthepodhitsatmosphere.
+
+166	EXT	PLANETP-DAY-CARMEN'SPOD
+
+	hitsandgoesstraightthroughthecrustofPlanetP.
+
+167	INT	BUGCITYTUNNELS-DAY-THEPOD
+
+	comestorest.Carmenblowsthehatch,pullsDeladierout,grabsaMorita
+	pulserifle.Tunnelsleadineverydirection.
+
+				CARMEN
+		ThisisLieutenantCarmenIbanez.
+		Isanyonereceiving?
+
+168	EXT	BASECAMP-DAY-JOHNNY
+
+	grabsthehandsetfromAce.
+
+				JOHNNY(O.S.)
+		Affirmative!Carmen,thisisRoughneck
+		basecamp...Whatisyourpresent
+		location?
+
+169	INT	BUGCITYTUNNELS-DAY-CARMEN
+
+	seesawarriorcomingatherfromoutoftheshadows.Carmenfiresaburst
+	andkillsit.Nowtherearetwo.Carmenbacksupfiring,butthereare
+	toomany.
+
+				CARMEN
+		Mypresentlocationis42degrees
+		Southby176degreesEast...
+		situationisextremelyhostile...
+		I...AAAAAAAAA!
+	
+	Theyhaveher.SheputsthebarreloftheMoritainhermouth,butaclaw
+	cuthertriggerfingeroffattheknuckle.
+
+170	EXT	PLANETP-ROUGHNECKBASECAMP-DAY-JOHNNY
+
+	andZanderarehorrifiedbywhattheyhear.
+
+				CARMEN(O.S.)
+		AAAAAAAAAAAAAA!
+
+				JOHNNY
+		We'vegottagogether!
+
+				ZANDER
+		YouknowaswellasIdoshe's
+		probablyalreadydead.
+
+	Johnnyknowsit'strue,swallowsbitterly,turnsaway.That'swhenheseesit.
+	Nearby,thegroundshifts,aclawbreaksthrough,aholeopensupandbugs
+	boilupoutoftheground.
+
+				SUGARWATKINS
+		Heretheycome!
+
+	Theyturnandseeasecondbugholeopenup.
+
+				JOHNNY
+		We'reoutahere.Lieutenant,get
+		yourmenintotheskimmers.This
+		realestate'sabouttogobuggy.
+
+				ZANDER
+		Hey,justcalmdown,I'mgiving
+		theordershere-
+
+	Theentireareaunderneaththebasecampcollapsestoformahugenew
+	canyon.TheHerculesboattopples,crushingSkimmersandunfortunate
+	Fleetpersonnnel.
+
+171	EXT	NEWCANYON-DAY-JOHNNY
+
+	andthesurvivingRoughneckspickthemselvesup.Thearenow30meters
+	belowtheplanet'ssurface.Abovethem,bugslinethewiderimofthe
+	newlyformedcanyon.
+
+				JOHNNY
+		Formaperimeter!
+
+	Throughthedust,exposedbugtunnelscanbeseeninthecanyonwallsand
+	pilingoutofthembythescore,deadlyArachnidwarriors.Johnnythrows
+	Zanderapulsecannon.
+
+				JOHNNY
+		Makeyourselfuseful,flyboy...
+		PREPARETOREPELBUGS!
+
+	TheRoughnecksopenfireatthechargingbughorde.Warriorsareblownto
+	pieces.GasgrenadesflyandH.E.roundsclosetunnels.Amaimedwarrior
+	getsthroughandheadsforZander.
+
+				ZANDER
+		AAAAAAAAAAA!
+
+	JohnnyandAceteamuptoblowitaway.Zandertakesadeepbreath,
+	loosaround,impressed.TheRoughneckshavekilledagreatmanybugs.
+
+				JOHNNY
+		Ace,getonthecom.TellFleetwe
+		needretrieval...Sugar,salvagesome
+		armorandsuitupLieutenantBarcalow.
+
+	SugarWatkinstossesabloodyjumpboothisway.
+
+				ZANDER
+		Thanks.
+
+				ACE
+		FleetCommandsaysretrieval'snogo.
+		Thebattlegroup'satsafedistance...
+		andwegotanotherproblem.
+
+	AcepointsoutaTankerbugthat'sbeenbroughuptotherim.
+	Johnnyseesanother.
+
+				JOHNNY
+		Lookslikethey'regonnahoseusdown...
+
+	Johnnychewsonthis.
+
+				JOHNNY
+		Alright...Listenup,Roughnecks.
+		We'regonnaheadwestdownthrough
+		bugcity,pickupanyRodgerYoung
+		survivorswerunacross,andjoinA
+		Company.Getme?
+
+				ROUGHNECKS
+		Wegetyou,sir!
+
+	Zander,awkwardinapowersuit,confrontsJohnny.
+
+				ZANDER
+		Whatdoyouthinkyou'redoing?
+
+				JOHNNY
+		I'mgonnasaveCarmen.
+
+				ZANDER
+		Thatwouldmeanacomletedisregard
+		forthemissionobjective.Theyhang
+		youforthat,Rico.
+
+				JOHNNY
+		Yeah,that'sright.
+
+	JohnnyandZanderstareeachotherdown.
+
+				ZANDER
+		Let'sgo.
+		
+				JOHNNY
+		Moveout.
+
+	Johnnystartsforthegapingmouthofanexposedbugtunneland
+	theothersfallinbehindhim.
+
+				ACE
+		Bughunt!
+
+				ROUGHNECKS
+		BUGHUNT!
+
+172	INT	TUNNEL-DAY-JOHNNY
+
+	leadshisdeadlyforcethroughenemyterritory.TheRoughneckskill
+	everythingthatgetsintheirway.Zanderlendshisinexperiencedhand.
+
+				JOHNNY
+		Mr.Barcalow,savepower,don't
+		wasteitonworkers...
+		Ace,tellAardvarkwe'reonour
+		way...
+
+				ACE
+		Yes,sir!
+
+	Warriorsappearinthetunnelbehindthem.
+
+				JOHNNY
+		Sugar,closethetunnel...!
+
+				SUGAR
+		Fireinthehole!
+
+	SugarWatkinsfiresanH.E.roundandsealsthetunnel.
+
+173	INT	BUGCITY-FEEDINGPIT-DAY-CARMEN
+
+	openshereyes.ShecanhearBUGSCLICKING.She'sinapitfilled
+	withhumandead.Anearbycarcasswearsauniformfrom4thBrigade
+	OffinthedarkshehearsHUMANMOANING.
+
+	Shecrawlsoverrottingcorpsestowardthesound.Themoaningturns
+	toSCREAMING.It'scomingfromoutsidethepit.Shepullsherself
+	uptopeerovertheedge.
+
+174	INT	BUGCITY-THEROYALCOURT-DAY-CARMEN
+
+	seeshundredofbugsatwork,WARRIORS,WORKERSanddozensof
+	small(2meters)CHARIOTBUGS.Aworkerwalkspas,steppingonher,
+	butpayshernoattention.
+
+	Sheseesthesourceofthescreaming:	CaptainDeladierishold
+	betweentwowarriors,andshe'sscreamingbecauseofwhatshesees,
+
+				DELADIER
+		NAAAAAAAA...!OHPLEASE...
+
+	TheBRAINBUGishuge(5meters)andpulpy.Ihasvestigiallegsthat
+	cannotsupportistweight,andsoitmustbemovedbyashiftingcarpetof
+	chariotbugs.
+
+				DELADIER
+		...OHGODAAAAAAAAAAAAA...!
+
+	Athorn-likePALPunfoldsoutofthebrainbugandstrikes,drivingdeepinto
+	Deladier'sheadandsucksherbrainsout.
+
+				DELADIER
+		AAAAAAAAAAAAAAA!
+
+	CarmenwatcheshorrifiedasDeladierdies.Thesuddenlyawarriorgrabsher
+	fromaboveanddragsheroutofthepit.Shescreamsasitsclawssliceinto
+	herlimbs.
+
+				CARMEN
+		AAAAAAAAAAAAAA!
+
+	Nowthebrainbugcomesforher.Sheseesthepalpunfold,thethorn-like
+	spikecomingtowardher.Carmenisnolongerlookingforescape.
+	Allshewantstodoisdie.
+
+	Suddenly,everybuginthechamberstopsasthoughtolisten.Carmenhearsit.
+	AHIGH-PITCHEDSQUEAL,gettinglouder.
+	Johnnyentersthechamberalone.
+
+	Thewarriorsmovetowardhim.HeholdsupaNUKE,sourceofthehigh-pitched
+	tone.Thereadylightflashes.TheBrainBugemitsaseriesofharshclicks.
+	Thewarriorsfreeze.
+
+				JOHNNY
+		Youknowwhatthisis...?
+
+	Johnnymakesanexplosivesound.TheBrainBugslowlywithdrawsitspalp.
+
+				JOHNNY
+		Sureyoudo...You'reabigfatsmart
+		bug,aren'tyou?
+
+	JohnnymovestowardCarmen.TheBrainBug'smultipleeyestrackhim.
+	ThewarriorsholdingCarmenthreaten.Johnnyturnsonthebrainbug,
+	hisfingeronthenuke'strigger.
+
+				JOHNNY
+		I'lltakeyouwithme.
+
+	TheBrainBugclicks.Thewarriorsbackoff.Carmencollapses.
+	Johnnyreachesforher.
+
+				JOHNNY
+		Takemyhand!
+
+	ChariotbugsmovetheBrainBugdownahole.Workerssealthehole
+	behinditwithamazingspeed.JohnnydragsCarmenbacktowardthe
+	tunnelheenteredfrom.Thewarriorscharge.
+
+				JOHNNY
+		Roughnecks...NOW!
+
+	JohnnythrowshimselfontopofCarmenastheRoughnecksburstinto
+	thechamber,gunsblazing.Thefightisfurious,pointblank,deadlyto
+	bugandRoughneckalike.
+
+	SugarWatkinsscreamsasawarriorripshisarmoff.Zandertakesa
+	clawthroughthegut.
+
+				ZANDER
+		AAAAAAAAAAAAA!
+
+	Heblowsitaway,seeshisintestineshangingoutofthewound,shoves
+	thembackinsideandkeepsonfighting.AwarriorrearsupoverJohnny
+	andCarmen.
+
+				JOHNNY
+		Weapon!
+
+	AcethrowshimaMorita.Johnnycatchesit,pumpsthreeroundsintothe
+	bug'snervestem.Hestrugglesoutfromunderthedeadwarrior.
+	Everybuginthechamberisdead.
+
+				JOHNNY
+		Areyouhurt?
+
+	CarmenthrowsherarmsaroundJohnny.
+
+				CARMEN
+		Johnny...!
+
+	Zandertakesthisin.Carmenseeshim,thenhiswound.
+
+				CARMEN
+		Zander...!Oh,you'rehurt.
+
+	Acetakesalookathiswound,makesaface.
+
+				ACE
+		Ahgeez...
+
+	Zanderpusheshimaway,strugglestohisfeet.
+
+				JOHNNY
+		Canyouwalk?
+
+				ZANDER
+			(clenchedteeth)
+		Notaproblem.
+
+				JOHNNY
+		Let'sgetsomearmoronher,and
+		thewe'llgetoutathisstinkin
+		bughole!
+
+	Variouscomponentsaregladlypassedforward.JohnnyandAce
+	helpherputtingiton.
+
+				CARMEN
+		IthoughtIwasdead.Luckyfor
+		meyoujokersshowedup,eh?
+
+				ZANDER
+		Itwasn'tluck.Ricoignoredthe
+		missionobjectivetorescueyou...
+
+				CARMEN
+		Isittrue?
+
+				JOHNNY
+		Yeah,ifIlivethroughthis,
+		they'llprobablyhangme.
+		Nowcom'on,let'smoveout!
+
+175	INT	BUGCITYTUNNELS-DAY-THEROUGHNECKS
+
+	double-timeit,racingforthesurface.Theycometoafork.
+
+				CARMEN
+		Whichway?
+
+				JOHNNY
+		Up.WegottabenearACompany
+		bynow.
+
+	Thetunnelfloordropsout.FIVEROUGHNECKSdisappearintothehole.
+	WARRIORSclimbupintothetunnel.
+
+				JOHNNY
+		FALLBACK!
+
+	TheRoughnecksbachkupfast,shooting.Zanderstaggers,collapses.
+	Johnnydropstohisside,rollshimover.
+
+				JOHNNY
+		Howbadareyou,pal?
+
+				ZANDER
+		Beenbetter,buddy.
+
+	Johnnyseeswarriorscomingupintothetunnelbythescore.
+
+				JOHNNY
+		Alright,we'regonnacarryyou...
+
+				ZANDER
+		Nah,Ifigureyoufolksoughtaget
+		upstairsbeforeit'stoolate...
+		Gimmeethenuke.
+
+	Zandercheckshispulsecannon'savailablepower.
+
+				JOHNNY
+		Don'tbeahero...
+
+				ZANDER
+		Thisismyfarm.Nowc'mon,give
+		mewhatyougotandgetoutof
+		here...
+
+	Johnnynods,handshimthenuke.Carmenseeswhat'shappening.
+
+				CARMEN
+		Zander,whatareyoudoing?
+
+				ZANDER
+		Justgivingyousomethingto
+		remembermeby,baby.
+
+				CARMEN
+		Zander,no...!
+
+	Hegrabsherandkissesher.JohnnydragsCarmenaway.Zanderopens
+	fireasthefirstwarriorsreachhisposition.
+
+176	INT	BUGCITY-INCLINEDTUNNEL-DAY-JOHNNYANDCARMEN
+
+	racedesperatelyforthesurface.TheyhearthechatterofZander'spulsecannon
+	andthescreamsofdyingbugs.
+
+				JOHNNY
+		GO.GOGOGOGO...!
+
+	TearsstreamdownfromCarmen'sface.
+
+177	EXT	PLANETP-DAY-JOHNNYANDCARMEN
+
+	andthesurvivingRoughnecksmakeittothesurface.	WOMP!
+	Asubterreneannuclearexplosionblowsacolumnofearthandstone
+	intotheair.
+
+178	EXT	PLANETP-ACOMPANYBASECAMP-JOHNNY
+
+	andtheothersenterACompany'sperimeter.Noonenoticestheirarrival
+	becauseeveryone'sgatheredinabigcirclewatchingtheBrainBug.
+
+				CARMEN
+		Look...theygotit.
+
+	Severalofitsdelicatelegswereapparentlybrokenduringthecapture.
+	Carlapproachesitwithoutfear,putshishandonthething.
+
+				GENERAL
+		What'sitthinking,Colonel?
+
+	Carlsmilesinacruelway.
+
+				CARL
+		It'safraid.
+
+	JohnnyandCarmenapproachtheGeneral.
+
+				JOHNNY
+		Sir,I'dliketoturnmyselfin.
+		Derelictionofdutybyanofficer
+		duringwartime.
+
+				GENERAL
+		Andyoufreelyadmittoit?
+
+				JOHNNY
+		Yes,sir.
+
+				GENERAL
+		Iswhatthismansaystrue,
+		Lieutenant?
+
+				CARMEN
+		Tothebestofmyunderstanding,
+		i
+
+
+
+StarshipTroopers
+Writers:  RobertA.Heinlein  EdwardNeumeier
+Genres:  Sci-Fi  Action
+UserComments
+
+
+
+
+
+
+
+

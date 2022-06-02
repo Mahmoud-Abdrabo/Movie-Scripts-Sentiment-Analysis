@@ -1,0 +1,6664 @@
+
+
+
+
+
+Spider-ManScript
+
+
+
+
+
+	8/4/1993
+
+
+
+
+
+	SPIDER-MAN
+
+
+
+	Writtenby
+	BarryCohenandTedNewson
+	and
+	JamesCameron
+
+
+	2ndRevisionby
+	JosephGoldmariandJamesCameron
+	and
+	JohnBrancato
+	--------
+	ThirdRevisionbyJamesCameron
+	basedonscreenplaysbyTedNewsom&JohnBrancato,
+	BarneyCohenandJosephGoldman
+
+	SECONDREV.
+	7/29/1993
+
+
+
+	FADEIN:
+	INT.PROFESSOROCK"SPRIVATEPHYSICSLABORATORY,THE
+	CYCLOTRONROOM(CREDITSEQUENCE)-DAY
+
+	AmightyWARNINGKLAXONassaultsourears.AFLASHINGRED
+	WARNINGLIGHTstabsoureyes.
+
+	SeveralDIALSgointotheRED.Ahandpushesasidea
+	YELLOWTHERMOSandpushesforwardaREDPOWERTHROTTLE.
+	WeheartheWHININGUPofacyclotron.ADIGITALDIAL
+	climbsto"5%POWER."ASPIDERcrawlsacrossaDIAL.
+
+	BeginOPENINGCREDITS.
+
+	THECYCLOTRONROOMisinanoldbasementfullofpeeling
+	paintandplumbingwrappedwithTAPE.Leaksarehereand
+	there.COBWEBSareallaround.
+
+	DOCTOROTTOOCTAVIUS(OCK)isastrongbutstrange
+	featuredmaninhismid-fifties.
+
+	Hisassistant,WEINER,hoversnearbylookingon.He's
+	openmouthedwithamindlesskindofcuriosity.WEINERis
+	alocal,small-timehoodhiredbyOCKtocircumventthe
+	schooladministrationandto"procure"whateverOCKneeds
+	forhisexperiments.Heshadeshiseyesagainstasearing
+	BLUE-WHITEBEAMthateruptsfromtheWINDOW.THEROOMIS
+	DIVIDEDINTOACONTROLROOMANDTHEEXPERIMENTCHAMBERS.
+
+				WEINER
+		Whoa,whoa,whoa...what'sthat?
+
+	WithaWHOOSH,theWINDOWEXPLODES,showeringtheTWOwith
+	shardsofGLASS,andthrowingthemtothefloor.
+
+				OCK
+			(rising)
+		Webeginagain...let'skickinthatnew
+		transducer.Seeifwecandoublethe
+		poweroutput.
+
+				WEINER
+			(risingmoreslowly)
+		Whoa,Doc...waitaminute...
+
+	ButOCKisalreadyattheTHROTTLE.Thecyclotronwhirls
+	up.Thelightsgoon.Louder,brighterthanbefore.OCK
+	looksthroughthebrokenWINDOWintotheEXPERIMENTAL
+	CHAMBER.ThePOWERDIALinchesupward,"eight,nine..."
+	theBLUE-WHITELIGHTisblindingnow.TheWHINEpitchis
+	shattering.
+
+	ENDOPENINGCREDITS.
+
+				OCK
+		Okey...dokey!
+
+	ThePOWERDIALhitsten.
+
+	EXT.EMPIRESTATEUNIVERSITY-DAY
+
+	AsSTUDENTSgotoclass,thesoundofthecyclotronspills
+	outoftheSCIENCECENTERontothegroundsofEmpireState
+	University.
+
+	WeseePETERPARKER,apleasantfacedseniorwho'samong
+	thetopinhisclass.Sincereandserious,hehasyetto
+	developawaywithwomen.
+
+				LIZ
+			(fallinginstep)
+		HiyaPeter...
+
+	LIZALLENisalsoasenior.She'sbeautifuland
+	intelligent.
+
+				PETER
+			(ardentbut
+			uncomfortable)
+		HiyaLiz...how'reyoudoing...?
+
+				LIZ
+			(teasingsoftly)
+		How'mIdoingwhat?
+
+				HARRY
+		Peter!Peter!Waitup!
+
+	HARRYistheschoolnerd.Aquirkykidwho,likePETER,
+	canbealittlebackwardaroundgirls,especiallypretty
+	oneslikeLiz.
+
+				HARRY
+			(toLiz)
+		Wouldyou,uh...excuseusforaminute?
+
+	DespitePETER'Sprotestingbodylanguage,HARRYpullshim
+	awaylikeaconspirator.
+
+				PETER
+		Whatisit?what...
+
+				HARRY
+		DidtheAstro-PhysicsJournalreally
+		acceptyourpaper?
+
+				PETER
+			(laughs,embarrassed)
+		Yeah...well...allIgot'sthedatabut
+		they'veagreedtopublishitwhenit's
+		finished.Youknow...it'smy
+		calculationonthePlanetaryConjunction.
+
+				HARRY
+		Anditsinfluenceontheanti-force.
+		Isn'tit?
+
+				PETER
+		Yes.Look,Harry,Iambusywith...
+			(indicatesLizstanding
+			there)
+
+				HARRY
+		Yeah,youandtherestoftheclass.
+		EveryoneisbusywithLiz.
+
+				LIZ
+			(growingimpatient)
+		Peter?
+
+	AHANDreachesinandsmacksherbottom.
+
+				FLASH
+		Hiya,cupcakes...
+
+				LIZ
+			(elbowinghim
+			affectionately)
+		Flash...!
+
+	Theykissandwalkaway.
+
+				HARRY
+			(sneering)
+		AndFlashisthebusiestofthemall...
+
+				PETER
+			(disappointed)
+		Comeon,Harry...we'llbelatefor
+		Octavius.
+
+	HARRYmakesagesturedismissingOCKascrazy.
+
+				HARRY
+		Ockisnuts,don'tyouagree?
+
+				PETER
+		Ockisagenius,Harry.Crazy,Yes!But,
+		ageniusmisunderstood,andunappreciated.
+
+	INT.CYCLOTRONAREAHALLWAY-DAY
+
+	ItisabasementhallwayfullofLOCKERSwhichSTUDENTS
+	arebangingopenandshutastheyputstuffinandtake
+	stuffout.Intheirmidst,aMANisbangingonthedoor
+	marked"CyclotronRoom-AuthorizedPersonnelOnly!"
+	ProfessorROSOMORF,SIXTISH,respectable,agoodold
+	fashionedprofessor,he'stheheadofthePhysicsDept.
+	WithhimisALEXANDERTHORKEL,a40-ish,Waspishschool
+	administrator.ForascientistascrazilyfocusedasOCK,
+	THORKELisanaturalenemy.
+
+				ROZ
+			(knockingfuriously)
+		DoctorOctavius!Youarelateforyour
+		lecture.Thestudentsarewaiting.
+		DoctorOctavius!
+
+				THORKEL
+		YourfriendisimpossibleProfessor
+		Rosomorf,Itoldtheboardweshouldlet
+		himgo.
+
+	TheLIGHTaboveTHORKEL'sheadEXPLODES.Thenallthe
+	LIGHTSbehindhimEXPLODEinsuccession.THORKELandROZ
+	lookamazed...
+
+				THORKEL
+		What'shedoinginthere,nothiscrazy
+		experimentagain.
+
+				ROZ
+		Youmeanhisanti-forcetheory...oneday
+		they'llgivehimtheNobelPrizeforit.
+
+				THORKEL
+		Meanwhileheisdemolishingour
+		university.Octavius!!
+			(knocks)
+		Openthedoor.
+
+	INT.OCK'SLAB
+
+				OCK
+		Theanti-forceexperimenthasnowreached
+		thelimitofelectronicoverloadsafety.
+		Therefore,Weiner,youwilldisconnect
+		theoverloadsafetydevice...
+
+	FOURWALDOS(three-fingered,snake-likemechanicalarms)
+	suddenlythrustthemselvesintotheCHAMBERandbegin
+	working,eachatadifferenttask.OCKisanacknowledged
+	masteratmanipulatingtheseWALDOS.
+
+	HeflicksaswitchandasearingBLUE-WHITEBEAMlances
+	downfromaFOCUSINGCONEandstrikesaGRAMWEIGHT
+	marked,"1,000,000"),illuminatingitandfillingour
+	earswithasplittingBUZZTONE.
+
+	Theknockonthedoorgrowslouder.
+	WEINERcomesupbehindOCK.
+
+				WEINER
+		Whoa,Doc...someone'satthedoor...
+
+				OCK
+			(ignoring)
+		Worldclassscientificmindandthey
+		stickmeinthebasementwiththisthird
+		ratecyclotron...
+
+	INSERT:TheDIALmarked"RELATIVEGRAVITY"reads
+	"1,000,000"butsuddenlyitsnapsto"0.999999!"
+
+				OCK
+		Okey!Dokey!
+
+	TheWEIGHTbeginstojiggleand,foraninstant,it
+	appearstolifteversoslightly.
+
+	INT.COLLEGEPHYSICSLAB-DAY
+
+	Thisisanenormousroom,100labtables.Theyellowing
+	smokeofathousandexperimentshangsintheair.AHUGE
+	AMERICANFLAGdominatesthebackwall.
+
+	PETER,HARRYandLIZsetuptheirTABLES.FLASHreadsthe
+	DAILYBUGLEsportssection.PETERcan'ttakehiseyesoff
+	LIZ.WhenshelooksbackhelooksdownathisGEAR.
+
+				LIZ
+			(softly)
+		Whatisit,Peter?
+
+				PETER
+			(embarrassed)
+		It'snothing.
+
+	INT.OCK'SLAB
+
+	WEINERopensthedoorandseesROZandTHORKELwaiting
+	impatient.
+
+				WEINER
+		Yes,gentlemancanIhelpyou?
+
+				THORKEL
+		Tellyourboss,thathisclassiswaiting.
+
+				WEINER
+			(looks)
+		Youbettertellhimyourself.
+
+	THORKELlooksatROZwhowaveshisshoulder,thentheboth
+	call.
+
+				ROZ&THORKEL
+		ProfessorOctavius!!
+
+	ProfessorOCKturnsandlooksatthebewilderedmen.
+
+				OCK
+		Gentlemen,come,youmustseethis.
+
+				ROZ
+		But,yourstudents...
+
+				OCK
+		Theimbecilescanwait...Ihavebetter
+		thingstodothanteachintroductory
+		PhysicsRosomorf.Undergradsare
+		kindlessadolescence.
+
+				THORKEL
+		Youseeheisimpossible.
+
+				OCK
+		Thorkelyouarethedummiest
+		administratorouruniversityhaseverhad.
+			(Thorkelturnstogo)
+		Don'tgoThorkel!!Come!Look!
+
+	Hestartstoplayhismachineshandlesandbuttons.
+
+				THORKEL
+		Theuniversitypaysyoutoteach
+		somethingtoyourstudents.
+
+	INT.COLLEGEPHYSICSLAB-DAY
+
+				LIZ
+		Well,doyoumeannothing...ordoyou
+		meansomethingbutyouwon'ttellmewhat
+		itis?
+
+				PETER
+			(regaining)
+		Imeanplainnothing.
+
+				LIZ
+		Well,Iguessthat'saboutasnothingas
+		youcanget...plainnothing.
+		Abeat.
+
+				PETER
+		Liz...!
+
+				LIZ
+		Ahh,itissomething.
+
+				PETER
+		No...look.
+
+	TheequipmentonherTABLEisstartingtovibrate.They
+	lookatit,curiously.Wehearthecyclotron'sWHINE
+	begintobuild...
+
+	INT.CYCLOTRONROOM-DAY
+
+	Everythingisshakinglikeinanearthquake...Rozand
+	Thorkelseemtodanceintheirplacegoingcrazywith
+	angerandsurprise.TheWHINEisdeafening!Thelightis
+	blinding!WEINERhashiseyesclosedandhishandsover
+	hisears.
+
+				OCK
+		Iamgoingfor20percentpower!
+
+				THORKEL
+		NO!!Don'tdothat...
+
+				ROZ
+		Ock!Itsdangerous...
+
+				THORKEL
+		OckIwarnyou...
+
+	WEINERcrosseshimself.TheCONSOLEeruptsinsparks.
+
+	INT.ELECTRICALCONDUITMONTAGE-DAY
+
+	Wefollowtheelectricaloverchargeasitcracklesalong
+	theWIRESandCABLESinsidetheWALLSandFLOORS.Itis
+	makingitswayuptotheLAB!
+
+	INT.LAB-DAY
+
+	Allthekidsarenowtryingtoholdontotheirvibrating
+	equipment.
+
+	TheCHARGEcracklesupaWIREanderuptsatLIZ'STABLE.
+	ABREAKERexplodesinflames.ThereisanoutburstofAD
+	LIBS:"Fire!""Everybodyout!"
+
+	THORKEL(comesrunningheisshabbyandbewildered)seeing
+	LIZtrappedbehindthefirewhichisgrowingfromsecond
+	tosecond.
+
+				THORKEL
+		Keepcalm,everybodykeepcalm.Usethe
+		frontdoor.Everybodyoutthefront.
+
+				PETER
+		Liz!Comeon...!
+
+				LIZ
+		Ican't.Helpme!
+
+				PETER
+		I'mcoming!
+
+	Hewadesintothefire,butisbeatenbackbytheFLAMES.
+	Hissleeveisonfire.Hepatsitout.
+
+				LIZ
+		Peter!
+
+	FlashappearsandtriestohelpbutThorkelstopshim.
+
+				THORKEL
+		Getback,youidiots.Youcan'tgoin
+		there!
+
+	LIZsmashesattheWINDOW,butthisisaninnercity
+	schoolandtheWINDOWSarecoveredbySTEELGATES.Liz
+	wrapsherfingersintheGATE.
+
+				LIZ
+			(outatthestreet)
+		Help!Helpme!
+
+	OutsidetheWINDOWtheairisclearandpeoplecomeand
+	go.Somearestoppingtolookupatthegirlonthe
+	secondfloorwhoscreams(buttheycan'thear,ofcourse)
+	downatthemastheFLAMEScloseinbehindher.
+
+	PETERcomesflyinginwithaFIREEXTINGUISHER.He
+	fumbleswithit.FLASHpushesThorkel,grabsthe
+	extinguisherawayfromhimwithascowlofdisdain.
+	LIZturnstofacetheFLAMES.Suddenlythereisan
+	eruptionofCO2CLOUDSandtheroarofaFIRE
+	EXTINGUISHER.
+
+	TheFLAMESarebeatendownenoughforhertoleapout.
+	FLASHisthere,holdingtheEXTINGUISHER.PeopleCHEER.
+
+				PETER
+		ThanksforyourhelpFlash.
+
+				FLASH
+		Noproblemwimp.
+
+				PETER
+		Ourherohasarealwaywithwords.
+
+				LIZ
+		Oh,whydon'tyougrowup.
+
+	PETERisstung,insulted,turnsaway.
+	ROSOMORFpeepsin,worried--facesThorkel.
+
+				THORKEL
+		Thismanwillbringadisasteruponthis
+		university.
+
+	OCKcomesin,startshislecturecalmlyasifnothinghas
+	happened.
+
+				OCK
+		Theuniverseismadeupofforces...and
+		counter-forces.Scienceisthestudyof
+		theforces!
+
+	FLASHhandstheEXTINGUISHERtoPETER.LIZembraces
+	FLASH,throwingaglimpseatPETERwhotriedsobravely.
+	HelooksawayandturnsthelastoftheEXTINGUISHERon
+	thelastoftheFIRE.
+
+				OCK
+			(continueswithouta
+			hitch)
+		ButI...ProfessorOttoOctavius...have
+		devotedmylifetothestudyofthe
+		counter-forces!Goodjob,Peter.
+
+				PETER
+			(takingplaceatlab
+			table)
+		Thanks,Professor.
+
+	THORKELhaswalkedslowlyanduncomprehendinglytowardthe
+	frontofthehugeLAB.HesimplycannotbelieveOCK'S
+	behavior.
+
+				THORKEL
+		Idon'tbelieveit,Isimplydon't...
+
+				OCK
+		CanwecarryonMr.Thorkel.
+
+				THORKEL
+		Idon'tbelieve...oh,allrightcarryon
+		Professor.
+
+				OCK
+		Well!ThisweekmydearstudentsIhave
+		madeastunningbreakthrough...
+
+				THORKEL
+		Waitaminute,waitaminute...you've
+		gotfireformstofillout,Dr.Octavius.
+
+				OCK
+		Ihavenotimeforforms,or
+		administratorswhopersistin
+		interruptingme,Mr.Thorkel.
+
+	THORKELsteamsoutandbangsshuttheDOOR.
+
+				OCK
+		Inowbelieveitspossiblethatthese
+		counterforcescanbe...collected...the
+		waythemagnifyingglasscollectsthe
+		sunlight...andfocusedintoahardbeam
+		Icall...Weiner!
+
+	WEINERbacksawayfromtheBLACKBOARDtorevealaword
+	thatOCKhasscrawledinlargeletters.Itsays"Anti-
+	Force."
+
+				OCK
+		Icallit,theAnti-Force!
+
+	OCKispluggingaHUGECABLEintoasmallLUCITEBOXwith
+	aSILVERBALLinsideit.
+
+				OCK
+			(continuesasheworks)
+		Thisanti-force,onceharnessed,is
+		capableofundoinganynaturalforceat
+		whichitisaimed...forinstance...
+			(looksupmaniacally)
+		Gravity!
+
+	LIZscribblesdownanoteandmouthstheword"gravity."
+	ThensheturnstoPETER.
+
+				LIZ
+			(whispers)
+		I'msorry...
+
+				PETER
+		It'salright.
+
+	OCKis"playing"hisCOMPUTERlikethePhantomofthe
+	Operaattheorgan.
+
+				OCK
+		Wepatchinthecyclotron...
+		Thelightsflickerandgodim.
+
+				OCK
+		Paynoattentiontothelights...Iof
+		coursestealitsenergy,anditlooses
+		power.Wepatchinthecyclotron...and
+		wegraduallyapplypower.Thepowerthat
+		Iamstealing...
+
+	AstheWHINEbuildsintheLAB...
+	OCKpeersthroughtheLUCITEBOXatus,distortedbyit.
+
+	TheBOXisaminiatureversionofthecyclotron's
+	experimentalchamber,andnowtheBLUE-WHITEglowbegins.
+	ItcracklesroundtheSILVERBALL.
+
+				OCK
+		Andsowestand,foursquareagainstthe
+		fundamentalforcethatordersand
+		maintainsouruniverse...gravity...
+		whichisholdingdownthisgoddamnball.
+		Rise!
+
+	TheLIGHTSgototallydark.ThekidsreactwithWHOOPS
+	andCATCALLS.
+
+				HARRY
+		Whatacrock...
+
+				PETER
+		ShutupHarry...thisisveryinteresting.
+
+				OCK
+		Mr.Parker!Haveyousome...interesting
+		observationyou'dliketosharewiththe
+		class?
+
+				PETER
+		Nosir...
+
+				OCK
+		Thenshutup!Andpaysomeattentionto
+		theexperiment.
+
+	OCKpeersatusthroughtheLUCITEBOXastheSILVERBALL
+	beginstorise.OCK'Sfaceisecstatic.
+
+				OCK
+		Rise!Rise!!!
+
+	TheSILVERBALLsuddenlyshootsup,shatteringthetopof
+	thebox.Itfliesuptotheceilingwhereitshattersa
+	LIGHTFIXTURE.
+
+	TheshardsraindownonOCKwhoreachesoutandcatches
+	thefallingBALLandscalesitinaraisedfist.
+
+				OCK
+		Nowthat'swhatIcallanexperiment!
+
+	TheCYCLOTRONWHINEcutsoutandOCKwheelstothe
+	COMPUTER.HehitsaKEYandseveralCOLOREDPROJECTION
+	BEAMSlanceoutofthebackoftheroom.Theypiercethe
+	smokeandlightaPROJECTIONDISPLAYinthefront.
+
+	TWOCOLOREDSPHERESone,YELLOW,oneBLUEtouchwhere
+	theircircumferencesmeet.BehindthemisaBLACK
+	depictionof"space".
+
+				OCK
+		Youarelookingatarepresentationof
+		twouniverses.OurBlueone.Ourreal
+		universe...somethingwecantouchand
+		feelandseeanddrawcalculationsabout.
+		Thisisus.TheYellowuniverse...this
+		issomethingelse.Someotherdimension...
+		something...ontheotherside!
+
+	OCKhitsanotherCOMPUTERKEYandaholeappearswherethe
+	TWOSPHEREStouch.TheBLUEANDTHEYELLOWMARBLEIZEwith
+	eachother.ThecolorsswirluntilbothSPHERESare
+				BRIGHTGREEN.
+
+				OCK
+		Ifitwerepossibletogenerateenough
+		powerbehindit,theanti-forcecould
+		wipeoutnotjustgravity...butallour
+		universalforcesatthesametime.In
+		effect...itwouldblastaholebetween
+		thisuniverseandthenext.Each...
+			(indicatesgreenspheres)
+		wouldflowintoeachother.Noblue
+		universe.Noyellow.End,finished,
+		over.
+
+				LIZ
+			(withastudent'sear)
+		Thatsoundslikeascenariofortheend
+		oftheworld.
+
+				OCK
+		Mygirl,itis!Itis.Itwouldmean
+		wipingouteverythingthat'sknown...and
+		lettingineverythingthat'sunknown.
+
+				FLASH
+		Isn'tthatalittledangerous?
+
+				OCK
+		Don'tworryyourself,trueinter-
+		dimensionalpenetrationisstillpurely
+		theoretical,butoneday...Maybevery
+		near...maybeinthe21stcentury...
+
+	INT.BASEMENTHALLWAY-DAY
+
+	PETER,LIZ,FLASHandHARRYalltakeBOOKSfromtheir
+	LOCKERS.
+
+				LIZ
+			(whisperstoPeter)
+		Look,it'sjust...Idon'tknow...when
+		youandFlashgoaftereachotherlike
+		that...
+
+				PETER
+			(whispers)
+		He'snotmytype.
+
+				LIZ
+		Hedoesn'thavetobe.
+
+				PETER
+		Check.
+
+				LIZ
+		Andbesides,he'snotallbad.
+
+	PETERlooksatFLASHwho'safewLOCKERSdown.FLASHhas
+	takenaFOOTBALLfromhisLOCKERandisspinningitonhis
+	fingerwithgreatjoyandconcentration.
+
+				PETER
+		Youdon'tgetnicknamedFlashbecause
+		you'rearocketscientist,Liz.
+
+				LIZ
+		Giveitup,Parker.You'ddiefora
+		nicknamelikeFlash.
+
+				PETER
+		Yeah,ofembarrassment.
+
+	KIMcomesbyandleansseductivelybyherLOCKER.KIMis
+	aripeoneandhot-hot-hot!
+
+				KIM
+			(teasing)
+		Hey,Flash...I'mscalpingapairofthe
+		MidnightMadnessWrestlingMatchtomorrow
+		night.
+
+				FLASH
+		TheSlammies???I'dkillforthat!!!
+
+				KIM
+		Wouldyoupay$125?
+
+				FLASH
+		Well,uh,I...gee...if...canItell
+		youtomorrow?
+
+				KIM
+			(movingon)
+		Yousnooze,youlose.HiyaLiz...
+
+				LIZ
+		Kim,youknowPeterandHarry?Thisis
+		mynewroommate...KimNickson.
+
+	KIMispullingherpet,afootlongSALAMANDER,outofher
+	LOCKER.Shewrapsitaroundherneckandturnstothe
+	boys.
+
+	Theygobug-eyed!
+
+				KIM
+			(interested)
+		Hellooo,Peter.
+
+				PETER
+			(embarrassed)
+		Hi...
+
+				LIZ
+		We'regoingtotheStudentReunion
+		Meeting.Youcoming?
+
+	PeterlooksatKIM.Wow.ThenhelooksatLIZwho's
+	adjustingherselfinasmallMIRROR.HARRYjabshimin
+	theribs.Yeah,yeah!
+
+				PETER
+			(frustrated)
+		Ican't...IgottagoovertotheDaily
+		Bugle.I'mtryingtosellsomephotos.
+
+				KIM
+		Soooh,aphotographer...?
+
+				PETER
+		Justanamateur.Well...nicemeeting
+		you,Kim.
+
+				KIM
+		Yeah...Ibetitwouldbe.
+
+				HARRY
+		CanIbeyourdateforthereunion
+		ShooShoo?
+
+				KIM
+		NoJerk!
+
+				HARRY
+			(sheturnstogo)
+		WhatdidIsay...
+
+				LIZ
+		It'snotwhatyousaid,it'showyousay
+		it,ShooShoo!
+
+	EverybodyleavesandHarryisleftalone,hethrowshis
+	bagdown.
+
+				HARRY
+		Damn!
+
+	PETERturnstogoandcomesfacetofacewiththehulking
+	WEINER.
+
+				WEINER
+		Peter,DocOckwantstoseeyou.
+
+				PETER
+		AboutmydataIbet.
+
+				WEINER
+		Idon'tknow.
+
+				PETER
+		HeknowsaboutmyworkonthePlanetary
+		Conjunction,doesn'the?
+
+				WEINER
+			(lies)
+		Idon'tknow.
+
+	INT.CONTROLROOM-DAY
+
+	PETERenterswide-eyedbehindWEINER.Thisplaceisafar
+	cryfromtheexperimentintheLABROOM.It'safantastic
+	netherworldtowhichnoundergradgainsentrance.Noone
+	butPETER.
+
+	OCKissittinginaswivelCHAIRwithhisbacktoPETER.
+	HehasthelookofCaptainNemoinhisNautilus.Thisis
+	OCK'Sdomain.
+
+				PETER
+		Hello,ProfessorOctavius.
+			(noresponse)
+		Ireallyadmiredyourexperiment.
+
+				OCK
+			(backtoPeter)
+		Wehavealotofinterestsincommon,
+		Peter.Perhapsweshouldputourheads
+		together,ifyouknowwhatImean...
+
+				PETER
+			(flattered)
+		Thatwouldbe...great.
+
+				OCK
+			(turnswithasmile)
+		NowyoutakethePlanetaryConjunction.
+		ThisSaturdaynightwewillwitness
+		Saturn,Jupiter,theMoon,theEarth,the
+		Sun...allinarow.Neverseenwithin
+		thememoryofman,ormeasuredforits
+		effect.Thetotalgravitationalforce
+		mustbequiteexceptional.Isn'tthat
+		thesubjectofyourpaper...?
+
+				PETER
+		Yessir,I'veworkedoutanewwayto
+		calculatethecombinedgravitational
+		effect.
+
+				OCK
+		I'mabusyman,Mr.Parker.ButIthink
+		Icouldfindthetimetogooveritwith
+		you.Makesureitall...checksout.
+
+				PETER
+		Well...I'msortofworkingwith
+		ProfessorRosomorfandhesuggestedwe
+		kindofkeepitbetweenus.Hethinks
+		thatmytheoryis...well,Idon'tknow...
+
+				OCK
+			(tohimself)
+		Thescoundrel...
+			(turnsangry)
+		Iwanttoseethatdata,Peter!
+
+				PETER
+		ButProfessorOctavius...ifIknewyou
+		wereinterested...sorry,I'vealready
+		givenitto...ProfessorRosomorf,andhe
+		isafteralltheheadofourPhysics
+		Department...andIcouldn't...
+
+	OCKturnssweetagain.Hesmilestoobroadly.
+
+				OCK
+		Well,I'mcertainsomethingcanbeworked
+		out.Runalong,youngman.
+
+	PETERbeginstoleave.
+
+				OCK
+		Justaminute...howaboutifIshowyou
+		mydiscoveries...somethingInever
+		showedtoanyotherstudent...asa
+		matteroffacttoanybodyatall.
+
+				PETER
+		WellIamreallyflattered,ImeanI'd
+		loveto...butI...
+
+				OCK
+		Verywellshallwesayifyoucomehere
+		tonight...
+
+				PETER
+		ButProfessorIdon'tnowifIshould...
+
+				OCK
+		Makeiteightsharp...I'llbewaiting
+		foryou...Righthere...
+
+	Peterlooksworriedthenleaves.
+
+	OCKturnstoWEINERwhoslouchesagainstthewallsmiling.
+
+				OCK
+		Thesameacademicworldthat'ssokeento
+		embracethatboy'sundergraduatework,
+		ridiculesmyanti-forcetheoryas
+		quackery.Iaskyou,Weiner...whatis
+		oursocietycomingto?Ha!
+
+				WEINER
+		Theyareallabunchofbrainless
+		assholes,that'swhatIsay...
+
+				OCK
+		Weiner!Gogetmethatboy'sdata!
+
+				WEINER
+		Costyoufiftybucks.
+
+				OCK
+			(Weinerhissing)
+		Justgetit.We'llnegotiateyourfee
+		whenyouhavethedata,alrightWeiner?
+
+	EXT.DAILYBUGLE-DAY
+
+	EstablishasARTDECOBUILDINGwellbeyonditsprime.A
+	signsays:"TheDailyBugle."Peterentersthebuilding.
+
+				JAMESON(V.O.)
+		Garbage!Absolute,100%garbage!
+
+	INT.JAMESON'SOFFICE-DAY
+
+	Veryforties,verymessy.J.JamesonscanssomePHOTOSas
+	PETERstandshelplesslyby.
+
+				JAMESON
+		Bagladies.Ihatebagladies.
+
+				PETER
+		Yes,sir.
+
+	JAMESONis50ish,greyatthetemples,brushcutontop.
+	Hetooisforties.HischewedupCIGARisforties.This
+	guyisahardcase.
+
+				JAMESON
+			(looksattheotherphotos)
+		Littlekids...Ihatelittlekids.This
+		isadailynewspaper.Weneednewsvalue
+		photographs,notartsy-fartsyshit!
+
+				PETER
+		Yes,sir.
+
+	JAMESONcomestoapictureofaBUSINESSSUITEDMANwitha
+	MOHAWK.PETERsmilesinanticipation.
+
+				JAMESON
+		Kid?Youwantapro'sassessment?
+
+				PETER
+		Yes,sir!
+
+				JAMESON
+			(handingphotosback)
+		Yourphotossuck.
+			(cigarforemphasis)
+		Parker,myreadersaremorons.Igotta
+		grabthembytheeyes.Everytimeyou
+		pressthebuttonofthatNikonofyours
+		itcostsyoufifty-fivecents.Sothe
+		nexttimeyou'reabouttotaketheplunge,
+		askyourself,amItakingdogbitesman?
+		Becauseifyouare...
+
+				PETER
+		Iknow,Iknow.Youwantmanbitesdog...
+
+				JAMESON
+		Parker,thisisthepostmodern20th
+		century.Iwantmaneatsdog!Getout!
+
+	EXT.STREET-DAY
+
+	Aseedyeastvillagewalkup.Petertakeshiscameraand
+	takesvariousshotsofawino.ALLIN.Heclimbsthe
+	stairstohisbuilding,looksthroughthemail,he
+	collectsfromabeatendownmailbox.
+
+				PETER
+			(reading)
+		Rent!Rent,morebills,rent...
+		electricity,bills...
+
+	INT.PETER'SAPARTMENT-DAY
+
+	Aone-room,shabbyroofapartment,achaosofbooksand
+	papers.Aphotoenlargeranddarkroombathsinkitchen
+	pots;8x10stackedtothewalls;asparecameraand
+	lenses.Self-consciouslywackykitsch;plasticdinosaurs,
+	wind-uptoys,astuffedcarp.Anunmadebedanda50's
+	dinettesetaretheonlyfurniture.Agrimyskylight
+	leadstotheroof.It'snotaprettyplace,butithas
+	personality.Avoicefromthekitchen,ashadowofan
+	intruder,issneakingaround.
+
+				PETER
+		There'snothinginthereworthstealing!
+
+				MAY(V.O.)
+			(fromwithinthekitchen)
+		That'stheunderstatementoftheyear.
+
+				PETER
+		AuntMay,you'retrespassing.
+
+				MAY
+			(comesin)
+		Iwasjustsodesperatelybored...I
+		thoughtI'dcomeoverandmakeyoudinner...
+
+				PETER
+		Iamoldenoughto...tomakemyown--
+
+				MAY
+		ButIdidn'tfeellikegettingtoknow
+		yourroaches.
+
+				PETER
+		I'llintroduceyou.
+
+				MAY
+		Oh.Andthosefoulchemicalsinthepots...
+
+				PETER
+		Itakepictures,remember?
+
+				MAY
+		Anyway,I'vedecidedtokidnapyoufor
+		dinnerinForestHills...
+
+	Shegrabshercoat,crossesbacktoPeterandtugsonhis
+	shoulder.
+
+				PETER
+		It'sFridaynight...
+
+				MAY
+		Yes.Doyouhaveadate?
+
+				PETER
+		No.
+
+				MAY
+		Thencomeon.
+
+	INT.LARGECOMPUTERLAB-NIGHT
+
+	ItisdarkandemptyexceptforCOMPUTERS.Sittingatit,
+	litbytheGLOWofitsscreen,isSOLOMONROSOMORF(ROZ).
+	Asheworks,aDOORopensbehindhim.Someonewalks
+	quietlythroughtheLAB.ROSOMORFkeepsworking.The
+	intruderapproaches...
+
+				THORKEL
+			(athisear)
+		ProfessorRosomorf,whathappenedhere?
+
+				ROZ
+		Someonetriedtorobmeofsomepaper...
+		Isuspecttheywerelookingforthatone.
+
+				THORKEL
+		Whatisit?
+
+				ROZ
+			(unruffled)
+		Awardwinningstuff.
+			(turningslightly)
+		PeterParker'sdataonthePlanetary
+		Conjunction.DamnluckyIhiditinmy
+		computerunderanothertitle.
+
+				THORKEL
+		MyGod,what'sgoingoninourschool?
+		FirstProfessorOctaviusalmostblowsup
+		thePhysicslab...Nowthis.Youreport
+		itintriplicate,ofcourse.
+
+				ROZ
+		Thorkel,becarefulwhenyoutalkto
+		Octavius.Remember...themanisavery
+		fragilegenius.Onedayhe'llbringus
+		alltheNoblePrize.
+
+				THORKEL
+		Rosomorf,themanisaverydangerous
+		crackpot!
+
+	OffscreenthevoiceoftheCYCLOTRONWHINEbeginsto
+	build.
+
+				ROZ
+		That'shimagain.He'sworkingdayand
+		night.
+
+				THORKEL
+		Itellyouthemanisverydangerous.
+			(thewhinegrowslouder)
+		ComeonRosomorf,let'sstophimbefore
+		thisbuildingwillexplode.
+
+	INT.CYCLOTRONROOM-NIGHT
+
+	OCKandWEINERareatworkasbefore.OCKtakesnonotice
+	oftheTWOMENwhocomein,northeWORKERwhocomesin
+	behindthemandsetstoworkattachingaBIGLOCKtothe
+	door.
+
+				THORKEL
+		Shutitdown,Octavius.
+
+	OCKignoreshim.WEINERtouchesOCK'Sshoulder.OCK
+	ignoreshimtoo.
+
+				THORKEL
+		You'veblownhalfthecircuitsinthe
+		ScienceCenter.
+
+				OCK
+		Callanelectrician.
+
+				THORKEL
+		Ihavecalledthelocksmith.
+
+				OCK
+		What...whatishedoing.
+
+	Hepointstowardtheworkerwho'sworkingonthelockon
+	themaindoor.
+
+				THORKEL
+		Wehavetoshutyourlabdownandtakea
+		lookatthelines.
+
+				ROZ
+		Please,Otto,wemustlockitup.
+
+				OCK
+			(toThorkel)
+		You'redenyingmeaccesstomycyclotron?!
+
+				THORKEL
+		Youbet.
+
+	OCKglaresbackandforthbetweentheTWOMEN,theWORKER,
+	andWEINER.ThenhepullsBACKtheREDPOWERTHROTTLE.
+
+	TheWHINEdescends.
+
+	TheWALDOSpullbackanddanglefromtheirpanel.The
+	WHINEdies.
+
+				OCK
+			(contemplating)
+		Okey,dokey...justgivemetilltomorrow.
+		Iwanttocleanupmypapers.Tomorrow...
+		Ha...Tomorrowyoucanhavethisroom...
+
+				ROZ
+		Oh...wellThorkel...fewmorehours
+		won'tmakeadifference.
+
+				THORKEL
+		Ihope.
+
+	Hesignalstotheworkertostop.
+
+	INT.APARTMENTOFAUNTMAYANDUNCLEBEN-NIGHT
+
+	TheN.Y.MetsareplayingbaseballonT.V.PETERwatches
+	withhisUNCLEBEN,apaunchy65yearsoldinPOLYESTER
+	SLACKSandaCOMFYOLDSWEATER.AN.Y.METSCAPis
+	perchedonBEN'Shead.ABEERCANisinhishand.A
+	clutteredbutfamiliarlivingroomsprawlscomfortably
+	aroundthem.
+
+				BEN
+		Anotherbrewski?
+
+				PETER
+		No,I'mfine,UncleBen.
+
+				BEN
+			(atT.V.)
+		Yah!Waytodoit.Alright!
+			(toPeter)
+		Youdon'tfollowtheMetslikeyouused
+		to,doyou,Pete?
+
+				PETER
+		No,notsomuchanymore.
+
+				BEN
+		Funny.WhenyourMomandDad,uh,passed
+		away...Ihadthisidea...Iwantedyou
+		tobethebestbaseballplayerthatever
+		was.Geez,whateverhappenedtothat?
+
+				PETER
+		Littleleague.
+
+				BEN
+			(softandwarm)
+		Yeah...BabeRuthyouwasn't.
+
+	AUNTMAYenters.
+
+				AUNTMAY
+		It'sonthetable!TurnofftheTV!
+
+	BENnods,risessluggishlyandslowly,andturnsthesound
+	offonly.PETERmovestowardhisAUNTinthedoorway.
+
+				AUNTMAY
+		How'sthatgirlyoutoldusabout,Peter?
+
+				PETER
+		Liz?She'sgreat...Butshehasa
+		boyfriend.
+
+	INT.THEDININGROOM-NIGHT
+
+	PETERpassesAUNTMAYandtakeshisseat.
+
+				AUNTMAY
+		Aboyyourageshouldhaveagirlfriend.
+
+				PETER
+		AuntMay...shehasasteadyboyfriend.
+
+				AUNTMAY
+		Peter,anygirlthat'sworthyour
+		attentionisofcoursegonnahavea
+		boyfriend...Butifshereallygetsto
+		knowwhatyouhavetooffershe'll...you
+		getmydrift?
+
+				BEN
+		Look,justleavehimalone,okay.When
+		he'sreadyforgirlshe'llbeaholy
+		terror.
+			(winks)
+		It'sintheblood.
+			(nowseriousbusiness)
+		Lookit,howareyoufixedformoney,
+		Pete?MaybeIcanhelpyououtalittle.
+
+				PETER
+			(lyingtothem)
+		No,I'malright.Myscholarshipcovers
+		almosteverything,andIsellsomephotos
+		hereandthere.Todaymyphysics
+		professoraskedforsomeofmywork...he
+		wantstostudymydata.Theymight
+		publishmyworkinthesciencemagazine...
+		that'llbringmesomemoney...
+
+				BEN
+			(practicallycheering)
+		Publishyourwork?!YouhearthatMay...?
+
+				PETER
+			(embarrassedlaughs)
+		Yeah,infactIhavetoleavealittle
+		earlytonight,tomeetProfessor
+		Octavius...Heofferedmetobehis
+		assistant...
+
+				BEN
+		Whoa!DidyouhearthatMay...?
+
+				AUNTMAY
+		Oh,Peter,youpromisedyou'dspendthe
+		night...
+
+				PETER
+		I...Ican't,AuntMay.Professor
+		Octaviuswantstodiscussmynew
+		findings.
+
+				AUNTMAY
+			(disappointed)
+		Peter,whatyoushouldbefinding...isa
+		nicegirlfriend.
+
+	INT.BASEMENTCYCLOTRONROOM-NIGHT
+
+	WEINERiseatingalargeSANDWICHandadrinkingaCOKE.
+
+				OCK
+		I'llshowthem...closingthecyclotron
+		onme...Weiner!
+
+				WEINER
+		Yes,Professor...
+
+				OCK
+		Whereishe?It'stenpasteighto'clock...
+
+	AKNOCK
+
+				WEINER
+			(withmouthfull)
+		Thatmustbehim.
+		Heopensthedoor.
+
+				PETER
+		Goodevening.
+
+				OCK
+		Youarelate.
+			(toWeiner)
+		Weiner,gooutsideandgetussomething
+		toeat.Anddon'tstealit!Justbuyit.
+		I'llreimburseyou.
+
+				WEINER
+			(toPeter)
+		DoyouwantanythingParker?
+
+				PETER
+		Nothankyou,Ijusthaddinneratmy
+		aunt's...
+
+				OCK
+		Pissoff,Weiner!
+
+	WEINERleaves.PETERwandersaround.
+
+	Hegoesintotheexperimentalchamber,heoverlooksthe
+	SPIDERwhichisscuttlingawayandcrawlsinsidetheopen
+	WINDOW...andintothechamber.
+
+				OCK
+		Okey,dokey,Parker...howwouldyoulike
+		totakeWeiner'splace...Imean,bemy
+		assistant?
+
+				PETER
+		Well,Professor,thatwouldbeagreat
+		honor,butI'malreadyworkingwith...
+
+				OCK
+		Rosomorf...thatimbecile.Don'tyou
+		understand,kid,thatIamaboutto
+		uncoverthegreatestdiscoverysince
+		Einsteincameupwithhistheoryof
+		relativity...The"Anti-Force."
+
+				PETER
+		Wow!ThetheoryoftheAnti-force!You
+		shouldgofortheNoblePrizeProfessor...
+
+				OCK
+		NobleShmoble,Iamgoingforamuch
+		biggerprizekid.Okey,dokey.Letme
+		showyou,kid,whatIgothere.
+
+	OCKbeginstheexperiment.Wemoveinpasttheshattered
+	WINDOW.WeseetheSPIDERcrawlingonthechamber'sGEAR.
+
+				OCK
+		Presentmaximumanti-forcepowertodate
+		is38percentoftheoreticallimit.I
+		havepatchedinthevariable
+		particle-waveaccelerator...
+			(shrugs)
+		Iwillnowtrytoreach50%power...
+			(bigbreath)
+		Andifyourpaperhasanyvalue...Ican
+		useittogetthepowerI'mmissingto
+		createtheanti-force,tobreakthrough
+		andbeatanyotherformofpowerinour
+		oranyotheruniverse,capish!
+
+				PETER
+		Sorry,Professor,Ican'tdoit.Igave
+		mywordtoProfessorRosomorf.
+
+	OCKisangry...OcknowseestheSPIDER.Heshootsouta
+	WALDOtotryandcrushitbuttheSPIDERistoofast.The
+	WALDOslamsagainstthewallofthechamber.Hestartsto
+	pusheverybuttonorswitchinsight.Adeafeningwhining
+	starts.
+
+	AnURGENTWARNINGTONEcausesOCKtolookatthe"Relative
+	Gravity"DIAL.Itisat"4.999999KG"butsuddenlythe
+	numbersstarttotumblerapidly.
+
+	INSERT:Theglowing5KGWEIGHT.
+	INSERT:ThePOWERDIALinchestoward50%POWER!
+
+				OCK
+			(screaming)
+		50percent...anti-force...50percent...
+		that'sallI'mmissing!Parker,wecan
+		berichtogether!
+
+				PETER
+		Sorry...I'dbettergonow.
+
+				OCK
+			(reallyangrynow)
+		You'llbesorry,Parker.
+
+	PETERleaves.
+
+	AnotherURGENTWARNINGTONEcausesOCKtolookatthe
+	monitorSCREEN.Onit,flashingRED,istheword,
+	"OVERLOAD!"OCKpushestheREDPOWERTHROTTLEforward!
+	TheWHINEincreasestoaPULSEandTHROB.
+
+	INT.EXPERIMENTALCHAMBER-NIGHT
+
+	Incrediblylit,theSPIDERisdroppingonit'sshimmering
+	WEB-STRANDdowntowardthe5KGWEIGHTwhichnowGLOWSin
+	timewiththeTHROBandPULSE.
+
+	INT.THECONTROLROOM-NIGHT
+
+	TheMONITORisflashing"MAXIMUMOVERLOAD-SHUTDOWN!"
+	OCKcontinueswiththeexperiment.Andthenheseesthe
+	SPIDER!
+
+				OCK
+		You!Getoutofthere,youcreeping...
+
+	HetriestoshovetheSPIDERwithhishand.
+
+	INT.EXPERIMENTALCHAMBER-NIGHT
+
+	ThroughtheBLUE-WHITEwecanbarelymakeoutOCKonthe
+	othersideiftheshatteredWINDOW.HesendsTWOWALDOS
+	aftertheSPIDER.TheSPIDERevadeshimandjumpsonto
+	thePROFESSOR'sback.ItthenclimbsontothePROFESSOR's
+	neckandbiteshim.
+
+				OCK
+			(anguish)
+		Noooooooooooo!
+
+	ThegravityDIALgoesto.000001,thenpopsbackupas
+	OCK'Stinyworldgoesberserk.DIALSspin,crack,explode
+	ordroopliquidly.WIRESdanceontheCONSOLEwhich
+	eruptslikethe4thofJULY.
+
+	OCKbeginstofloat.Hisshirtbeginstotearaway.A
+	DIALfloatsbywithitspulledWIRESundulatinglikea
+	Medusa.WALDOSsmashthroughthewallsandflaillike
+	snakes.OCK'SYELLOWTHERMOSdistortsandEXPLODES!
+	OCK,hishairwild,facelockedinamulti-Ggrimace,is
+	pinnedhalfwayupawallthatisshoweringtheroomwith
+	SPARKS.
+
+				OCK
+			(ecstasyabovethedin)
+		It'sanenergystorm!Okey!Dokey!
+
+	WeseeclearlytheSPIDERstillstucktohisneck.
+	Thebigbeastbuffetsandshakes.Tubes,junctions,
+	valvesandwhatnotfalloff,crashingtothefloorwhere
+	theytwitchandwrithewithalifeoftheirown.
+
+	Then,anenormousEXPLOSIONripsalargeholeinthe
+	CYCLOTRON'sside,sendingdebrisandaHUNDREDMICRO-
+	STREAMSofELECTRONICPARTICLESlancinginourdirection.
+
+	INT.BASEMENTHALLWAY-NIGHT
+
+	Ultimateweirdness!ThePULSINGBLUE-WHITELIGHT
+	penetratesfirsttheDOORoftheCYCLOTRONROOMandthen
+	theverywalls!LOCKERSbang,LAMPSPOP,theceilingsags
+	inaSURREAL,RUBBERYway.
+
+	TheWALLSsagtoo!TheCYCLOTRONSIGNpivotsandembeds
+	itselfinaWALL.ALADDERsinksintheWALL.TheBLUE-
+	WHITELIGHTdanceswildlyaboutinPULSES.Then,
+	suddenly,itstops...DEADSILENCE.WEINERcomesrunning
+	inholdingadoubledeckersandwichandalargebottleof
+	Pepsi.WeinerentersOCK'Slab,singing,notatfirst
+	noticingwhat'sgoingon.Suddenlyhestopsdead.
+
+	INT.CYCLOTRONROOM-NIGHT
+
+	AsceneoutofDALI'ssurrealisticcanvas.Thereare
+	thingsinsideofotherthings.DIALSlooklikeDALI
+	watches.Thisplacehasbeenrippledtothemax!
+	OCKlaysfaceup,unconsciousonthefloor,aWALDOacross
+	hischest.TheSPIDERisweavingitsweb.CAMERAslowly
+	DOWNtoseeOCK.PIPESandWIRESarestucktohisbody.
+	TheWALDOseemstobewrappinghim.Hewakesuptosee
+	thoseMECHANICALARMSburiedinhisbody.Theyweave
+	aroundhimasiftheyarelookingforprey.Hetriesto
+	tearthemout,buttheyseemtobeapartofhisbody,
+	likehisotherlimbs.Hescreams.SuddenlyWeinersees
+	OCK.
+
+				WEINER
+		Professor...whathappenedtoyou?What
+		didyoudo...
+
+	Suddenlyoneofthewaldoshitshimsostronglythathe
+	fliesbackandoutthroughthedoortothecorridor.
+
+	INT.BASEMENTHALLWAY-NIGHT
+
+				WEINER
+		OhmyGod...whathappenedhere...
+
+	Hehearsthepolicesirensapproaching,herunsaway.
+
+				WEINER
+		Ibettergetoutofhere.
+
+	EXT.THEEMPIREUNIVERSITY-NIGHT
+
+	ThelongSCREAMseguestoaPOLICESIREN.ACOPCARpulls
+	toahaltinfrontoftheCOLLEGE.ManyNYPDCARSare
+	alreadythere,alongwithaNUCLEARREGULATORYVAN,some
+	AMBULANCES,aVANfromtheENVIRONMENTALPROTECTIONAGENCY
+	andTWOTVVANS.ROZrunsacrossthelawn.
+
+	POLICESTRUGGLEtoholdbackthecrowdofpress,students
+	andgeneralgawkers.
+
+	J.JAMESONpushestothefrontofthemobintimetosee
+	TWOCOPShustleaBUGLEPHOTOGRAPHERbackintoit.
+	TheMANshakeshishead.JAMESONthrowsdownhisCIGAR,
+	stompsit,andpullsoutafreshone.THORKELarrivesto
+	addresstheCROWD.
+
+				THORKEL
+			(throughbullhorn)
+		Thereisnodanger.Pleasegobackto
+		yourdorms.Irepeat,thereisnodanger.
+
+				JAMESON
+			(approacheshim)
+		Spillitout,Professor!Thepublic
+		wantstoknow!
+
+	TheCROWDclosesonTHORKEL.
+
+				THORKEL
+		Whoareyou?
+
+				JAMESON
+		Jameson,DailyBugle,ChiefEditor,now
+		whatreallyhappenedhere?
+
+				THORKEL
+		Therewillbeapressannouncementinthe
+		morningMr.Jameson...nowifyou'll
+		excuseme.
+
+	ThiselicitsafloodofADLIBS:"Iheardaterrible
+	explosion?""Nuclearaccidents?""Meltdown?""Genetic
+	engineering?""Areyouguysmakingmutantsinthere?"
+
+				THORKEL
+		Ihavenothingtosay...therewillbean
+		announcement.Now,pleasegohome...
+		everybody...wemustclearthegrounds...
+
+	InthebackofthecrowdarePETER,HARRY,LIZ,FLASHand
+	KIM.
+
+				FLASH
+		Youthinkthey'llcancelclasses?
+
+				HARRY
+		Theymust...thewholebuildingmustbe
+		contaminatedwithsomekindofpoisonous
+		gas.
+
+				PETER
+		Howaboutnuclearcontaminations?
+
+				KIM
+		MyGod...letsbeatit.
+		Butnobodymoves.
+
+				LIZ
+			(moreinterestedinother
+			things)
+		Couldanyonebeinthere,Peter?
+
+				PETER
+			(concerned)
+		Idon'tknow...MaybeProfessorOctavius.
+		Heusuallyworkslate...
+
+				FLASH
+		Thatnut,Ibetitwasallhisdoing...
+
+				JAMESON
+			(seeingPeter)
+		HeyParker!PeterParker!
+
+	PETERpushesforward.
+
+				PETER
+		Mr.Jameson!Whatareyoudoinghere?
+		What'sgoingon?
+
+				JAMESON
+		That'sforthemtoknow,andforyouto
+		findout.
+
+				PETER
+		Butsir,theywouldn'ttellus.You
+		heardThorkel...hesaid...
+
+				JAMESON
+		Apressannouncementtomorrow...!Butwe
+		mustknowtonightParker.Thisisyour
+		university,right...
+
+				PETER
+		Yes,but...
+
+				JAMESON
+		Yougotyourcamera?
+
+				PETER
+		Sure,butIcan't--
+
+				JAMESON
+		Ahundreddollarssaysyoucan?
+
+				PETER
+		Yessir!
+
+				JAMESON
+		Getinsideandgetpictures,fiftybucks.
+
+				PETER
+		Youjustsaidahundred.
+
+				JAMESON
+		Seventy,butIwantbloodandgore.
+
+				PETER
+			(callingback)
+		Seeyaguys.
+
+	Hedashesoff.FLASHshakeshisheadindismayatthis
+	guy.
+
+				LIZ
+		Whereishegoing?
+
+				JAMESON
+		Tomakefiftybucks.
+
+	EXT.SCIENCECENTER-NIGHT
+
+	PETERapproachesaCYCLONEFENCEkeepinglowandoutof
+	sight.Heleapsitlikeaskirmisherbutfails
+	ignominiouslyinaheap.He'stornhisPANTSandcuthis
+	leg.Hemovestothesideofthebuilding.
+
+	ADUMPSTERsitsnexttoaFIREDOOR.It'slocked.As
+	PETERmullsoverhisnextmove,theLOCKclicksandthe
+	DOORslowlyopens.PETERleapsontheDUMPSTER...and
+	fallsin.
+
+	INT.DUMPSTER-NIGHT
+
+	PETERlaysintheGARBAGE,apainedlookonhisface.He
+	rollsoverandcomesfacetofacewithawetDAILYBUGLE.
+	Theheadlinereads,"WaveofViolenceRipsCity!"Hepulls
+	himselfupandpeersout.
+
+	HeseesaUNIFORMEDGUARDholdtheDOORopenforTHREEMEN
+	INRADIATIONSUITSwhoremovesomeweirdlyfusedobjects.
+	WhentheylettheDOORswingclosed,PETERstopsitby
+	insertingtheNEWSPAPERinthetop.
+
+	EXT.FIREDOOR-NIGHT
+
+	PETERsqueezesinsideandjumpstoknockoutthe
+	NEWSPAPER.TheDoorclosesbehindhim.
+
+	INT.BASEMENTHALLWAY-NIGHT
+
+	Skewed,strange,surreal,PETERstaresattheweirdness
+	andfumbleswithhisCAMERA.Hesnapsoffafewshots,
+	thenfreezeswhenhehearsafamiliarvoice.
+
+				ROZ(V.O.)
+			(filteredthroughfacemask)
+		Takeiteasy.Takeiteasywithhim.
+
+				THORKEL(V.O.)
+		Takehimawayandneverbringhimback!
+
+	NowweseeROZandTHORKELfollowing2GUARDScarryingOCK
+	inastretcher.TheyallwearRADIATIONSUITS.Awaldo
+	sneaksoutfromunderthesheetandhitsThorkel,asfast
+	aslightning.Hefallsback.He'scoveredwithaSHEET
+	andattachedtoLIFESUPPORTEQUIPMENT.Octaviusmoans.
+
+				THORKEL
+		Whatwasthat?
+
+				ROZ
+		Whatwaswhat?
+
+				THORKEL
+		Whathitme?
+
+				ROZ
+		Whathityou?
+
+				THORKEL
+		Idon'tknow.Itwassofast.
+
+				ROZ
+		You'regoingtobefine,Otto.
+
+	PETERgetsoffashotandducksintotheMEN'Sroom
+	leavingtheDOORajarforapeak.
+
+	AWALDOslipsdownfromtheSHEET.PETER'Seyesgowide
+	atthesight.Whatinthehellhashappenedhere?
+
+	INT.MEN'SROOM-NIGHT
+
+	TheURINALSaretwistedinbizarreshapes.PIPESare
+	exposedandspoutWATER.TheMIRRORSlooklikesomething
+	outofafunhouse.PETERhearstheSTRETCHERgoby.
+	PETERgoestotheDOORofOCK'SLabandcracksit.PANup
+	totheSPIDER,GLOWINGsoftly,danglingfromaSHIMMERING
+	STRANDabovePETER.
+
+	AsPETERlooksoutattheSTRETCHER,theSPIDERdropson
+	hisneck.Hereactsbyswattingitaway.Badmove.
+	TheGLOWINGSPIDERnowsquatsmalevolentlyonthebackof
+	PETER'shand.Hestaresatittransfixed.Itbites.
+
+				PETER
+		Ow!!!
+
+	PETERthrowstheSPIDERtotheripplytilefloorwhereit
+	scuttlesunsteadilyoutthedoor.
+
+	SweatstartstobeadonPETER'Sface.Heshakeshishead
+	toclearit.Hisvisionbecomesuncertain.Helurches
+	againstaWEIRDSINK.
+
+	PETER'SPOVisnotjustuncertain,notjustfuzzy,not
+	justmovinginandoutanamorphically.It'sallofthat!
+
+				GUARD(V.O.)
+			(heavilydistorted)
+		Hey!Whatareyoudoinghere,kid?
+
+	PETERturnstoseeaUNIFORMEDGUARDdistortedbyhis
+	crazyvision.
+
+				PETER
+		Ifeelalittlefunny...
+
+				GUARD
+			(heavilydistorted)
+		Yeah?Well,Iain'tlaughing.Getout...
+		Justgetoutofhere...
+
+	EXT.FIREDOOR-NIGHT
+
+	Itbangsopen.TheGUARDthrowsPETERoutandthenthrows
+	hisBACKPACKathim.
+
+				GUARD
+			(stilldistorted)
+		YougetyourselfovertothePolicelines.
+
+				PETER
+			(ultrawooz)
+		Right.Policelines.
+
+	EXT.UNIVERSITY-NIGHT
+
+	PETERmeldsintothecrowd.Asinadream,JAMESON
+	appearsathisside.
+
+				JAMESON
+			(distorted)
+		Okay,scoop,whaddayagot?
+
+				PETER
+		I...gotpicturesoftheProfessor...in
+		there...it'ssostrangeinthere...so
+		bizarre...
+
+				JAMESON
+			(winks)
+		Goodjob,kid.Bizarreiswhatweneed.
+		Pickthisupinthemorning.
+			(holdinguphiscamera)
+		There'llbetwocrisptwentiestucked
+		inside.
+
+	Hehurriesoff.PETERpeersafterhimandallofasudden
+	hisvisioncorrectstoaperfectfocus.Thesweatis
+	gone.He'sokay.Hemakeshiswaythroughthecrowdto
+	thestreet.
+
+	WeTRACKwithPETERasthemaddingthrongrecedesbehind
+	him.Heturnsacorner.HehearsaSIREN.
+
+	AnAMBULANCEscreechesaroundthecorner.Itnearlyhits
+	PETERwholeapstoavoidit.
+
+	EXT.BRICKBUILDING-NIGHT
+
+	PETER'Scheekispressedagainstthebrick.Heopenshis
+	eyesandseesthathe'shangingontothesideofthe
+	buildinglikeaspider.Andhe'sthreestoriesup!
+	Helooksdownandseesthestreetthirtyfeetbelowhim!
+	AndtheAmbulancewhichhejumpedoverisdrivingaway.
+	Hetriesadownwardstep,butaBRICKdislodgesand
+	crashestothesidewalk.Hetakesanupwardstep.And
+	thenanother.
+
+	Tentativelyatfirst,andthenwithgrowingconfidence,he
+	"crawls"totheroofofthebuilding.Atthetophe
+	gropesforaRAILINGandslips.Hedangleseightstories
+	abovethestreet.Then,withagrunt,hevaultstothe
+	roofone-handed.
+
+	EXT.THEROOF-NIGHT
+
+	PETERisflatonhisback,staringatthestars.Hesits
+	upandlookswonderinglyathishands.
+
+	OnthebackofhisrighthandareTWOPUNCTUREWOUNDS
+	surroundedbyafaintBLUE-WHITEPULSINGGLOW.TheGLOW
+	disappears.
+
+				PETER
+			(mutterstohimself)
+		Thisisweird.MyGod,Ifeelsoweird...
+
+	Heleapstohisfeet.Heflexes.Feelsweird.Good
+	Weird.Infact,greatweird!Hetriesacoupleof
+	"jumpingjacks"andonthethirdjumphesoarsintothe
+	air!
+
+				PETER
+			(exhilarated)
+		Veryweird.
+
+	Thegreat,bespangled,NEWYORKCITYishisbackdropas
+	PETERjumpsandturnsanddoesloopsintheair.
+	Withtheagilityandtactilityofaspider,PETERleaps
+	fromtheRAILINGtoaWALLtoaFLAGPOLEtoanotherWALL
+	wherehelandssidewaysandsticks.
+
+				PETER
+			(sideways)
+		Very,veryweird.
+
+	HeleapsofftheWALLandlandsattheedgeoftheroof.
+	Helooksdown.Noone'slookingback.So,hetakesa
+	stepbackandleapsthealleytothenextroof.
+
+	EXT.ROOFTOPSHACK-NIGHT
+
+	PETERlandsonit.Thenextroofissevenstoriesupand
+	acrossthestreet.PETERbiteshislip.
+
+				PETER
+		Well,whatthehell!!
+
+	EXT.THETALLERBUILDING-NIGHT
+
+	BacklitbyaFULLMOON,PETERsomersaultstotheroofof
+	thetallerbuilding,andmissesthetop!
+
+	HestickstothebrickFACADE,upsidedown!Helaughs
+	withthemoment.AWINDOWopensbelowhimandapretty
+	BLONDEinaTOWELsticksherheadout.Shelooksthisway
+	andthat,andallsheseesisaMANinaLOUDSPORTCOAT
+	downthestreet.Neverthinkingtolookup,shewithdraws
+	intotheroom.
+
+	EXT.CHELSEASTREET-NIGHT
+
+	TheMANintheLOUDSPORTCOATleansagainstaLAMPPOST
+	andlightsaCIGARETTEwithaBEATUP,SILVERPLATED
+	LIGHTER.
+
+	IntheLIGHTERheseesareflectionofPETERleapingoff
+	thetallerbuilding.Hesnapsaroundandlooksupintime
+	toseePETERmakeittothenextFACADE.
+
+	EXT.ROOFTOPMONTAGE-NIGHT
+
+	WiththeUPTOWNSKYLINEbehindhim,PETERcastscautionto
+	thewindandleapsfromrooftoptorooftop.
+
+	Watchingfromthestreet,theMANintheLOUDSPORTCOAT
+	followsPETER'Sprogress.
+
+	PETERleapstoaBROWNSTONEandlandsamidtheWASH.
+	HeleapsuptoaTENEMENTandlandsonaBILLBOARDacross
+	whichhedoesa"bugcrawl"andleapsagain.
+
+	HetouchesdownonaPIGEONCOOPandboundsupandoutof
+	frameagain.TheCOOPOWNER,aLATINOinanundershirt
+	andaYANKEESCAP,comesrunningoutoftheCOOP.
+
+	He'ssosurprisedthatheleavestheDOORopenandtwenty
+	WHITEMORNINGDOVESflyawayinafuriousflapping,free
+	atlast.TheLATINOletsoutastreamofHispanic
+	expletivescompletewithalltheappropriatelyobscene
+	gestures.
+
+	PETERslidesdownaCABLEtoaLAMPPOST,andswirlsdown
+	thePOLEtoaPHONEBOOTH.
+
+	EXT.PHONEBOOTH-NIGHT
+
+	PETERcomesfacetofacewiththemanintheLOUD
+	SPORTCOAT.HegivesPETERhisCARD.
+
+				REISS
+		You'reakidwho'sgoingplaces,andI'm
+		gonnapointyoutherightway.
+
+				PETER
+			(readingcard)
+		MaxReiss,models,stripdancers,escort
+		girls,bluemovies...
+
+				REISS
+		Oops...sorry,wrongcard.
+			(exchangescards)
+
+				PETER
+		MaxReiss,Talentmanagement.
+
+				REISS
+		It'sabigoutfit.Gotalotof
+		departments.
+
+				PETER
+		Yeah...well...whyyouapproachme?I'm
+		not...
+
+				REISS
+		Ohyesyouare...verytalented.The
+		threequestionsofshowbusinesssuccess.
+		Onedoyouthinkyoupossessaunique
+		talent?
+
+				PETER
+		Well...
+
+				REISS
+		Two...whatareyougonnadowithit?
+
+				PETER
+			(notaclue)
+		Well...Idon'tknow.
+
+				REISS
+			(theclincher)
+		Three...howmuchmoneyyougotinyour
+		pocket?
+
+				PETER
+		Ten.
+
+				REISS
+		YouinvesthalfofthatwithmeandI'll
+		makeyouastar.
+
+				PETER
+			(laughing)
+		Whatareyoutalkingabout?
+
+				REISS
+		I'mtalkingaboutfame.I'mtalking
+		aboutfortune.I'mtalkingaboutthe
+		chanceofalifetime.How'dyouliketo
+		beonMTVtomorrownight?
+
+				PETER
+		MTV...?Me?Really?
+
+				REISS
+		Taxi!
+
+	Itscreechestoastop.
+
+				PETER
+		Hey!
+
+				REISS
+			(gettingin)
+		Kid!Tomorrownight.Sameplace,same
+		time.
+
+				PETER
+			(callingafter)
+		HowdoyouknowI'llshowup?
+
+	AstheTAXIroarsoff...
+
+				REISS
+			(fromthetaxiwindow)
+		Becauseyouwannabeastar...everybody
+		does.
+
+	PETERpullsoutaQUARTER.Andentersaphonebooth.He
+	dials.
+
+				PETER
+		Hello?AuntMay?
+
+				AUNTMAY(V.O.)
+			(filtered)
+		Peter?Whattimeisit?Areyoualright?
+
+				PETER
+		Well,no,ImeanyeahI'mfine,but
+		listen...Aunti,thecraziestthing
+		happenedtometonight.
+
+	INT./EXT.PHONEBOOTH/AUNTMAY'SBEDROOM-NIGHT
+
+	AsUNCLEBENstirsfitfully
+
+				AUNTMAY
+			(lovingly)
+		Doesthishavetodowithacertaingirl
+		wetalkedaboutatdinner?
+
+				PETER
+		No,no,look,therewasthisradioactive
+		experiment...Iwaspoisoned!
+
+				AUNTMAY
+		Youwerewhat?
+
+				PETER
+		Iwasbittenbyabug.
+
+				AUNTMAY
+		Oh!Igetit,youmeanalovebug.
+
+				PETER
+		No...No...Aspider...
+
+				AUNTMAY
+		Peter,didyouatleasttalktoher?
+
+				PETER
+		AuntMay,listentome.Igotbittenon
+		thehand...byapoisonousspider.
+
+				AUNTMAY
+		Shebityou?
+
+				PETER
+		No.Iwasinthebathroomand...
+
+				AUNTMAY
+		Oh,youdiditinthebathroom?Peter,
+		thisiscraziness,whydon'tyouuseyour
+		bed?You'reupallnight.You'reinthe
+		radioactivelabs.Younevertaketimeto
+		eatorsleep.AmIright?
+
+				PETER
+		Yes,AuntMay.
+
+	INT.PHONEBOOTH-NIGHT
+
+				AUNTMAY(V.O.)
+		Didyoueatsomethingtoday?
+
+				PETER
+		Yes,AuntMay.
+
+				AUNTMAY(V.O.)
+		Okay,Petergobacktobed,andremember
+		weloveyou.
+
+				PETER
+		AndIloveyoutoo,AuntMay.
+			(hangsup)
+		Andbytheway,Igotamessofsuper
+		powerstoday.
+
+	Exitbooth.HeBANGSthePHONEBOOTH.Goesoutand--
+	jumpslightlyontothephoneboothroof.
+
+	INT.HOSPITALOPERATINGROOM-NIGHT
+
+	OCKispreppedforsurgery.GOWNEDPERSONNELhurryabout
+	withafeverishurgency.TheCHIEFSURGEONchecksthe
+	SENSORSattachedtoOCK'Shead.Theseseasoned
+	professionalsareastonishedandfrightened.
+
+				CHIEFSURGEON
+			(whispers)
+		Lookatthesebrainwavereadings.The
+		mentalactivityistentimesofany
+		normalman...!
+
+				BRAINMAN
+			(whispers)
+		Equipmentmalfunction...?
+
+				CHIEFSURGEON
+			(whispers)
+		Hell,yeah...his.
+			(checksOck'schest)
+		MyGod...IthoughtI'dseeneverything...
+
+				SURGEON#2
+			(whispers)
+		Butthisisbeyondmedicine.Thisis
+		madness...!
+
+	OCKlaysbarechested,faceup,allFOURWALDOSsplayed.
+	Heisatruecyborg.Partman,partmachine.Part
+	organic,partmolybdenumsteel.
+
+				NURSE
+			(leaningin,blitzed)
+		Itissofreaky...
+
+				CHIEFSURGEON
+			(sternforthestaff's
+			sake)
+		Okay,letsstopyakkingandgetcracking.
+		Iwanttogoinattheupperthoracic.
+		Thenwe'llworkourwayaround.
+			(slapsOck'sshoulder)
+		Hanginthere,man.
+
+	INSERT:TheWALDOnearesttheslapmoveseversoslightly.
+	ThetriangularCLAWrotatesaquarterturnandthenturns
+	back.
+
+	TheNURSEseesitandSCREAMS.
+
+				CHIEFSURGEON
+			(glares)
+		Nurse!Numbersevenscalpel.
+		Arthroscopestandby.Readout
+		parametersinprogress.Let'sgoin.
+		Youalright?
+
+				NURSE
+		Yes...Yes,ofcourse.Everything's
+		online.
+
+				CHIEFSURGEON
+		Scalpel!No...no...alargerone...
+		thelargestwehave!
+
+	SheslapsaHUGEONEintohispalm.Hetakesadeep
+	breathandgoestowork.MASKEDheadsgatherroundhim.
+	TheSCALPELispoisedatthelinewhereskinmeetssteel.
+	Wemakeanincision.TheINSTRUMENTSgocrazy.WARNING
+	BELLSandBUZZERSsound.
+
+				HEADNURSE
+		Killthealarms!
+
+				BRAINMAN
+		He'sgoingoffthechart!
+
+	AWALDOflashesaroundthesteellegoftheoperating
+	TABLEandclankstight!
+
+				CHIEFSURGEON
+		Mop.Mop!Suturesandclamps!Hurryup!
+
+				SURGEON#2
+		We'relosinghim.Defibrillate!
+
+	AHEARTMACHINEisrushedin.Theyworkfrantically.
+
+				CHIEFSURGEON
+		Zaphim!
+
+				BRAINMAN
+		Stabilizingalphawaves...
+
+	SURGEON#2appliestheCARDIACSHOCKPADS.
+
+	INT.HOSPITALROOM-DAY
+
+				NURSE
+		Youhaveavisitor,Doctor...
+
+	SheleavesOCKandTHORKELalone.
+
+				THORKEL
+			(enjoyingthis)
+		Octavius,I'mafraidIhavebadnewsfor
+		you.
+
+				OCK
+		Thecyclotronisdamaged...
+
+				THORKEL
+		Whatusedtobethecyclotronwas
+		permanentlyshutdownthisafternoon.
+
+				OCK
+		Butmywork!
+
+				THORKEL
+		Yourworkisadisaster!Lookat
+		yourself!
+
+				OCK
+		Myself?Idon'tmatter.Nobodymatters
+		anymore.Toenteranewdimensionwe
+		mustfirstdestroyourown...
+
+				THORKEL
+		Whatareyousaying?
+
+	OCKgetsoffhisbedthrowingawayhissheetwavingwith
+	his4WALDOSand2arms.
+
+				OCK
+		Destroylife.Lifeis...insignificant.
+		Bagsofsleepy,sluggishflesh.What
+		wouldyousay?
+
+				THORKEL
+		Oh,myGod,whatarethosehorrible
+		thingsstickingfromyourbody?
+
+				OCK
+			(getsmoreandmoreexcited)
+		Thorkel,ifItoldyouthatforone
+		momentintimeIbrokeallthelaws!For
+		onebriefgloriousmoment,Ibroke
+		throughtotheotherside.Isaw...I
+		felt...Ibecamecreation.
+
+				THORKEL
+		WhatonEarthareyouramblingabout?
+
+				OCK
+		Destiny!!!Mydestiny!Iseeitallso
+		clearlynow.Universaldestruction,yes.
+		AllIneedisthepower...thenIcan
+		destroythisillusionyoucalllife.It
+		ismydestinytoleadustothelight!
+
+				THORKEL
+		You'reamadman.
+
+				OCK
+		Andyouareafool.Iwillendthe
+		universeasyouknowit.Andinthat
+		finalmoment...I'lllaughmyassoff
+		whileyou'rekissingyoursgoodbye!
+
+				THORKEL
+			(excited)
+		Goodbyeisright,Octavius...You're
+		fired...sacked...canned.Youare
+		history,DoctorOctavius.AndIcouldn't
+		bemorepleasedtobethefirsttotell
+		youthisgoodnews...
+
+	AWALDOshootsupandgrabsTHORKELbythethroat.He
+	GASPSandSCREAMSsilentlyasthetelescopingWALDOlifts
+	himoffhisfeet.Herisesuntilhisheadisjustinches
+	fromtheceiling.
+
+				THORKEL
+			(hislastwords)
+		LetmedownOck...youcrazy...MONSTER!
+		Letmedown!
+
+	ThenOCKsmilesandslamsTHORKEL'Sheadthroughthe
+	ceiling.PLASTERrainsdown.THORKEL'Slegsscissorand
+	kickandthengolimp.OCKthrowshisdeadbodyontothe
+	bed,andcovershimwiththeWHITESHEETS.
+
+				OCK
+		Okey,dokey.
+
+	INT.TAXI-NIGHT
+
+	ThroughtheWINDOWoftheTAXIweseeMADISONSQUARE
+	GARDEN.
+
+	Asitpullsup,asignreads,"MidnightMadness!MTV's
+	RockandWrestling'SLAMMYAwards!"TheTAXIcometoa
+	stop.
+
+				PETER
+			(lookingupatthesign)
+		MTVWrestling?!
+
+				REISS
+			(gettingout)
+		That'stheplace.Paytheman.
+
+	MAXREISSgetsout,heiscarryingaBOX.
+
+				PETER
+		Look,Mr.Reiss...I'mnotreal
+		interestedinwatchingawrestlingmatch.
+
+				REISS
+		Whosaidanythingaboutwatchinga
+		wrestlingmatch?You'reheretowina
+		wrestlingmatch!
+
+				PETER
+		Me?Youmustbekidding.
+
+	REISShustlesPETERinside.
+
+				REISS
+		Youhoparound.Youknow,thewayyou
+		didlastnight.Youropponentgetstired.
+		Hefallsdown.Therefcountstothree,
+		youwin,andwepickupathousandbucks.
+
+	INT.CATACOMBSMADISONSQUAREGARDEN-NIGHT
+
+	WecanheartheCROWDscreamingatsomethinginthe
+	backgroundasREISSleadsPETERtoanemployeeWASHROOM
+	andshowshimtheBOX.
+
+				REISS
+		You'rereallygonnalovethis.
+
+				PETER
+		Look,really,Idon'tknow...
+
+				REISS
+		Youdon'thavetoknow.Iknowenough
+		forbothofus.
+			(pause)
+		Changeinthere.
+
+				PETER
+		Whatisthis?
+
+				REISS
+		Acostume...somethingthatfitsyour
+		talent.Goputiton.I'msureyou'll
+		likeit.
+
+	HeslapstheBOXagainstPETER'Schestandallbutpushes
+	himinside.
+
+	INT.WASHROOM-NIGHT
+
+	PETERtakesthesuitoutoftheBOX.ItistheSPIDER-MAN
+	SUIT!Helooksatitandshrugs.Thenhebeginsto
+	struggleintoit.
+
+	PETERislookingathimselfintheMIRROR.Heisdressed
+	inallbuttheMASK.Andhelooksterrific!Heflexes.
+	Hesmootheshishair.He'sstartingtogetintoit.
+
+	INT.THEARENA-NIGHT
+
+	CRUSHERCOLEisdestroyinganopponent.
+
+	INT.THECATACOMBS-NIGHT
+
+	REISSwincesastheCROWDCHEERSandBOOS.
+
+				PETER
+			(comesout)
+		Howdoesitlook?Ifeellikeit's
+		Halloween.
+
+				REISS
+		Coveryourfacewiththemask.
+
+				PETER
+		Why?
+
+				REISS
+		Mystery,myfriend.Nobodyshouldknow
+		whoyouare...
+
+	INT.THERING-NIGHT
+
+	CRUSHERCOLEisdoingabigflexingnumberandtheCROWD
+	isgoingwild.ThereareMTVCAMERASandSIGNSand
+	BANNERSproclaimingthe"SLAMMIES"everywhere.
+
+				RINGANNOUNCER
+		Andnow,anewchallenger,forthe
+		thousanddollarfight,weighinginatone
+		hundredandfiftypounds...fromparts
+		unknown!HereistheAmazing...
+		Mysterious...IncredibleSuperman...
+
+				REISS
+			(snortsfromringside,
+			hatingthename)
+		No,notSuperman...Spider-Man...
+		SPIDER-MAN!!!
+
+				RINGANNOUNCER
+		...Spider-Man!!!!!
+
+	TheCROWDBOOStheslendernewcomerwhoclimbsawkwardly
+	throughtheropes.Rockmusicblares.TWINREDHEADSin
+	REDBIKINISringabell.
+
+	CRUSHERCOLEandSPIDER-MANcircle.COLEistwice
+	SPIDEY'Ssize.SPIDEYspotsaTVCAMERAforthefirst
+	time.Hemomentarilyfreezes.CRUSHERsneerstheCRUSHER
+	sneer.Thenhecharges!
+
+	Withtheagilityofaspider,SPIDEYleapsoutoftheway.
+	CRUSHERcomesbackathim.SPIDEYleapsagain,bigger!
+	TheacrobaticsgetmoreandmoredramaticasCRUSHERCOLE
+	workshimselfupintoatheatricalrage.Tauntserupt
+	fromtheCROWD.
+
+				OLDLADY
+		Killthesucker,Crusher!
+
+	SPIDEY,reallygettingintoitnow,beginsplayingforthe
+	CAMERAS.
+
+				HIPSTER
+			(betweentwoblondes)
+		Whatsamatter,Crusher,can'tyoucrush
+		thatbug?
+
+				CRUSHER
+			(toSpidey)
+		Okay,WebFace,thisisit!
+
+	HemissesSPIDEYagain!
+
+				HIPSTER
+		Hey,Crusher,youneedainsecticide!
+			(hisblondestitter)
+
+	INT.LIZ/KIM'SDORMROOM-NIGHT
+
+	LIZ'Ssideisallschoolwork.KIM'SsideisallROCK
+	POSTERSandSTUFFEDANIMALS.LIZiscurledupdoing
+	homework.FLASHandKIMsitontheedgeofthebed
+	watchingthe"SLAMMIES"onMTV.
+
+				FLASH
+		WillyoulookatthisSpider-Manguy!He
+		isabsolutelyincredible!
+
+				KIM
+		Liz,getaloadofthisoutfit!IwishI
+		haditfortheHalloweenparty...it's
+		quitesexy.
+
+				LIZ
+		Willyoutwoshush.I'mtryingtowork.
+
+	INT.RING-NIGHT
+
+	Thematchcontinuesinanincreasinglyspectacular
+	choreography.CRUSHERbellowsattheSCREAMINGCROWD.
+	Butthere'sagleaminhiseye.Thisisit!
+	Hecharges.SPIDEY,playingtheCAMERASforallhe's
+	worth,leapsway,wayup.ButthistimeCRUSHERstops
+	deadinhistracks.SPIDER-MANcomesbackdownintoa
+	forearmSMASHthatsendshimreelingintoacorner.
+	CRUSHERdoesaflyingpin.300pounds.WOMP!Theair
+	leavesSPIDEYinarushasCRUSHERcovershim,smothering
+	him.TheCROWDgoesWILD.
+
+				REF
+		One...!
+
+				REISS
+		Getup...!Getup...!
+
+				REF
+		Two...!
+
+	Notrealizinghisownstrengthandpanickyaboutbeing
+	squashed,SPIDER-MANthrowsCRUSHERCOLEoffhimandup
+	intotheair.Wayup!Reisscheers...Spider-Mancomes
+	downandknocksCRUSHERforthefirsttime.
+
+	CRUSHERfliesawayandoutofthearena,eightrowsback!
+	TheHIPSTERseesCRUSHERcomingathimandboltsfromhis
+	seat.CRUSHERlandsonit,inbetweentheTWOBLONDESwho
+	breakintoutterhysterics.
+
+	SPIDEY,surprisedathisownstrength,watchesCRUSHER
+	land.
+
+				SPIDER-MAN
+			(whisperstohimself)
+		Wow...
+
+				REF
+		LadiesandGentlemen,historyismade
+		today,wehaveherethefirstmantowin
+		athousanddollarsagainstthemighty
+		Crusher.
+
+	TheREFraiseshishandinvictory.TheCROWDBOOSand
+	DEBRISrainsdown.ButsomeintheCROWDCHEERwildly,
+	recognizingthenewsensation.
+
+	SPIDER-MANstepsdownfromtherightasREISSleadsthe
+	CHEERS.
+
+				PETER
+		Max!AmIreallygonnagetathousand...
+
+				REISS
+		Wearegoingtogetathousand--
+
+	PETERturnswithREISSandcomesfacetofacewithCRUSHER
+	COLE.Twoominousbeats.
+
+				CRUSHER
+		Hi,whoareyou,kid?
+
+				PETER
+		I'mPeterParker.
+
+				REISS
+		HeisSpider-Man,andIhandlehim...
+		Wheneveryouwantarematchcallme.
+		Nexttimeit'sgonnabetenthousand,
+		whatdoyousay...Crusher?
+
+				SPIDER-MAN
+		Oh,look,Mr.Crusher,I'mreallysorry
+		aboutwhathappenedinthere.Really...
+
+				CRUSHER
+		Oh,well,Idon'tknowwhathappenedto
+		metonight...
+			(measureshismuscles)
+		Ireallydon'tknow...
+
+				REISS
+		Iknow...youlost.Bigmanyoulostto
+		theAmazingSpider-Man.
+
+	EXT.CITYSTREET-NEARAHOSPITAL-DAY
+
+	WEARETIGHTONANEWYORKJOURNALTRUCK.OnitsSIDE
+	BANNERisaPICTUREofSPIDER-MAN'Sface.Headline:"Who
+	ishe?Mega-SmashHitsMTV!"
+
+	TheTRUCKpullsawayandweseePETER,LIZ,HARRYandKIM
+	standingonthesidewalkwaitingtocross.PETERis
+	rockingonhisheelsandsmirking.
+
+				PETER
+			(indicatingtruck)
+		Youknowwhothatis?
+
+				LIZ
+			(walkingahead)
+		Yeah...he'ssomeclownwesawonTVlast
+		night...boydoesFlashthinkhe'shot.
+
+				PETER
+		Hedoes...
+
+				KIM
+		Ilovewrestling.
+
+				HARRY
+		Wrestlingisallbluff.Doyoureally
+		believethislittleguyinastupid
+		Spider-MansuitbeattheCrusher?
+
+				LIZ
+		Hey,webetterrush...visitinghours
+		willbeoversoon.
+
+	INT.HOSPITALCORRIDOR&ROOM-DAY
+
+	TheNURSEleadsPETERandLIZandHARRYintotheroom.
+
+				NURSE
+		DoctorOctavius?Youhavevisitors.
+		DoctorOctavius?
+
+	Weholdforabeat.WhenLIZtakesastepforwardtolook
+	aroundweexpecttheworst.Butnothinggrabsher.
+	PETERseesapileofPLASTERonthefloor.Helooksup
+	andseestheholeintheceiling.LIZandHARRYlookup
+	too.OCKisnotthere.
+
+				PETER
+		Ockisnothere!
+
+				LIZ
+		MyGod,whathappened?
+
+				NURSE
+		I'dbettercallthedoctor!
+
+				HARRY
+		You'dbettercallthepolice!
+
+	KIMscreams.
+
+	INT.CORRIDORTOOCK'SLAB-DAY
+
+	OCK,hidinghisWALDOSunderawhitehospitalrobe.He
+	stallsuntilhereachesthedoor.ThenoneofhisWALDOS
+	peaksoutandsnapsopenthenewlocksonthedoor.
+
+	INT.CONTROLROOM-NIGHT
+
+	OCK,inawhitehospitalrobewalksthroughthesurreal
+	debris.TwoWALDOSreachoutand"sense"therippleson
+	oppositeWALLS.Herunsahandthroughhishair.
+
+				OCK
+		Whatawreck.Whatauseless,wasted
+		wreck.Okey,dokey.Werebuildyou,my
+		damageddarling.Bigger,better,hotter!
+		Aworldclass,supercyclotron!
+
+	HehearsaNOISEbehindhimandreacts.Andherecomes
+	WEINER.Bedraggled,shufflingthroughtheCONTROLROOM
+	door.Heeyeballstheincrediblewreckage.
+
+				WEINER
+		Thereyouare,doc...wherehaveyou
+		been...whoathisplaceismessedup.
+
+	OCKturns,WALDOSwrithing.WEINERseesthemandkindof
+	ducks,rememberinghowhewashitbythemonce.
+
+				WEINER
+			(smirks)
+		Whoa,doc!Youlookalittlemessedup
+		yourself.
+
+				OCK
+		Wherehaveyoubeen,youimbecile?
+
+				WEINER
+		Iwenttothewrestling...
+
+				OCK
+		Wrestling...
+
+				WEINER
+		Iwentafterthekid.Youstillwant
+		thatParkerguy'sdata,don'tyou?
+
+				OCK
+		Well,didyougetit?
+
+				WEINER
+		No,Ifollowedhim...butIlosthimin
+		thecrowd.
+
+				OCK
+		Losthim?You--
+
+				WEINER
+		I'llfindhim,Maestro...Ipromise...
+		soon...maybebytomorrow.
+
+				OCK
+		Sohowwasthewrestling?
+
+				WEINER
+		Fantastic!Therewasthisnewwrestler...
+		beatthemightyCrusher.Youwon't
+		believeit...anothingofaguy...calls
+		himselfthisstupidname...theAmazing
+		Spider-Man...wouldyoubelieveit?
+
+				OCK
+		Spider-Man,huh?Well,maybeI'lljust
+		goandwrestlemyselfoneofthesedays...
+		withallmynewarms...I'msureIcan
+		beatCrusheroranyothermonster.
+
+	SuddenlyOCKthrowsouthisWALDOSfromunderhislong
+	whitecoat,grabsWEINERand,liftshimupintheair,
+	smilescynicallyandwithcruelty!
+
+				OCK
+		WillIbeathim,thisCrusher,willI
+		beathimornot?
+
+				WEINER
+		No...no,please...Imeanyes,yes...
+		you'llbeathimeasily...letmedown...
+		Please...I'lldoanythingforyou...
+
+				OCK
+		TheParkerdata...getmetheParker
+		data,youhear?!!!
+
+	EXT.PETERPARKER'SROOFTOP-DAY
+
+	ACAMERAismountedonaTRIPODfacingus.ATIMERwinds
+	downanditCLICKS.
+
+	REVERSEANGLE-CAMERA'SPOV.
+	SPIDER-MANisclingingtothesideofaWALL.
+
+				SPIDER-MAN
+		Andonelikethis...
+			(changingpose)
+		Andonelookingrealsincere.
+
+	TheWHITEEYESnarrowtoaslit.CLICK.
+	SuddenlyhespotsWEINERclimbingontohisroof.He
+	hides.
+
+	WEINERtiptoesintotheroofapartment.SPIDER-MANjumps
+	inandgrabshim.
+
+				SPIDER-MAN
+		Whatareyoudoinghere?
+
+				WEINER
+		I'mlookingforPeterParker.
+
+				SPIDER-MAN
+		Oh,yes...sowhynotusethefrontdoor?
+
+	SPIDER-MANthrowshimbackontotheroofsothathealmost
+	slidesovertheedge.WEINERturns,facingSPIDER-MAN.
+
+				WEINER
+		Hey,Iknowyou...
+
+				SPIDER-MAN
+		Youdo?
+
+				WEINER
+		IsawyoucrushingtheCrusher.
+
+				SPIDER-MAN
+		Youlikewrestling?
+
+	SPIDER-MANjumpsandreachesWEINER.
+
+				WEINER
+		Iloveit!YouarethebestwrestlerI
+		haveeverseen...pleasedon'thurtme!
+
+	SPIDER-MANpicksupWEINER,throwshimuptoanantenna
+	abovethebuilding,towhichWEINERclingsdesperately.
+	SPIDER-MANcirclestheantenna.
+
+				WEINER
+		Oh,please...don'tkillme.Pleasehelp
+		medown.
+
+				SPIDER-MAN
+		OfcourseI'llhelpyoudown.Iam
+		Spider-Man...thegoodguy,amInot?
+
+				WEINER
+		Yes...yes,youare.
+
+	SPIDER-MANjumpstotheCHIMNEY,picksWEINERupinhis
+	armsandwhisperstohim.
+
+				SPIDER-MAN
+		Andbytheway,PeterParkerdoesnot
+		livehereanymore...
+
+	SPIDER-MANjumpswithWEINERinhisarmstotheedgeof
+	theroof.
+
+				SPIDER-MAN
+		AndtelltheProfessorhecan'thave
+		Peter'sdata.Goodbye.
+
+	SPIDER-MANdropsWEINERofftheroof,threefloors
+	straightdownintoheavybushesbelow.
+
+	INT.ELECTRODYNEFACTORYSHOP-DAY
+
+	ASIGNtellsusso.ACLERKisdoublecheckingalong
+	listofitemsOCKhasordered.
+
+	CLERK
+	Holycow,whattayabuilding,fella,a
+	cyclotron?
+			(Ockglaresathim)
+		Okay...letsseehere.Pagethree.We
+		got30,000feetof50-gaugecopperco-ax...
+		twin550XKtransformers...cadmium
+		acceleratorrails,ahalfdozen...aGBC
+		relativemulti-phasetransducer...and
+		oneyellowthermos.
+			(finishescomputation)
+		That'llbe$475,989.65...
+
+				OCK
+		Wrapitup...
+
+	CLERK
+	Whataboutthemoney...ordoyoupayby
+	creditcard?
+
+				OCK
+			(alongbeat)
+		Cash!I'llbebacksoon.
+
+	EXT.STREET-OUTSIDEOFABANK-BACKDOOR-NIGHT
+
+	AnARMOREDTRUCKrollsbyandstops.TWOGUARDSopenthe
+	Bank'sDOORS.
+
+	SuddenlyaWALDOsmashesthroughtheDRIVER'SSIDEWINDOW
+	oftheARMOREDTRUCK,wrappingaroundtheDRIVER'SNECK
+	andpullinghimthroughtheWINDOW.TheSHOTGUNgoesfor
+	hisweapon,butaWALDOsmashesinandpullstheGUNout
+	throughhisWINDOW.
+
+	TWOWALDOSshootoutandattachthemselvestotheREAR
+	DOOR.
+
+				BANKGUARD
+		What'sgoingonhere?
+
+	TheWALDOknockshimover.OCKripstheDOORoff!The
+	TRUCKisfullofMONEYBAGS.
+
+				OCK
+		Cash!
+
+	INT.JAMESON'SOFFICE-DAY
+
+	APHOTOASSISTANTlookonasJAMESONgoesoverPETER'S
+	latestPHOTOS.TheyarehisSPIDER-MANshots.
+
+				PETER
+		Doesn'thelookamazinginthatone?
+		Look,he'sflyingintheair!
+
+				JAMESON
+		Idon'tcareifhefliestothemoon.
+		He'sjustanotherwrestlerinasilly
+		costume.Lookatthis,Parker,rightoff
+		thewire.Thisistheguywhohitthat
+		armoredtruckthismorning.Theysayhe
+		hasmetalarms...getmeapictureof
+		thischaracter!
+
+				PETER
+		Metalarms?
+
+				JAMESON
+		Fourofthem.
+
+				PETER
+		Ock...?!
+
+				JAMESON
+		Thewebfacedweirdo...Heisajokeina
+		Halloweencostume...don'tmakemelaugh.
+
+	HetearsupPETER'SSPIDEYPHOTOS.
+
+				JAMESON
+		Nowgetoutofhereanddon'tcomeback
+		withoutsomethingIcanuse!
+
+				PETER
+		Yessir...
+			(stops,andturnsback)
+
+				JAMESON
+		Amegabaloney...Abuginbluetights...
+		whatnext?
+
+				PETER
+		TheJournalsaidhewasamega-smashon
+		MTV...
+
+	INT.CYCLOTRONROOM-NIGHT
+
+	WEINERisputtingonaCLOWNSUIT.Hefastidiouslyputs
+	hisrattyjacketonahangerandhangsitonaPIPE.The
+	PIPEturnsintoasnake.Itis,infact,aWALDO!
+
+				OCK
+			(turningfromwork)
+		Whatdoyouthinkyou'redoing?
+
+				WEINER
+		I'mgoingtotheMasquerade.It's
+		HalloweentonightDoc,aren'tyoucoming
+		totheSchoolBall?Whoa,youcouldgo
+		withoutanoutfit.
+
+	AWALDOwhipsaroundWEINER'Sthroat...AARRRGH!
+
+				OCK
+		You'renotgoingtoanyball,clown.
+		You'regoingtogetmePeterParker's
+		data...
+
+				WEINER
+		Iwasalmostkilledonmylasttry...
+		Lookatallthesebruises...
+
+				OCK
+		Idon'tcareifyoucomebackdead.Just
+		getit!
+
+				WEINER
+			(croaking)
+		Costyouathousandbucks,ifIgetit.
+
+	TheWALDOcoilstightenaroundWEINER'Sthroat.
+
+				WEINER
+		Allright...bosspleaseletgo...
+		PLEASE...
+
+				OCK
+		Justgetit,Weiner.I'mrunningoutof
+		time.Ifyoufailmeagain,youwon't
+		havetoconcernyourselfwithmoney
+		anymore...DOYOUGETMECLOWN?!
+
+	WEINERcroakshisassent.
+
+	INT.CAFETERIA-NIGHT
+
+	Itisalldressedupforaparty:LIGHTS,STREAMERS,
+	GLITTERBALL,theWORKS!HARRYisdressedasaSPACEMAN;
+	PETERwearshisregularclothes.
+
+				HARRY
+		Youshouldhavewornacostume.Itold
+		youtowearacostume.
+
+				PETER
+		It's...embarrassing.
+
+				HARRY
+		There'sLiz...
+
+	LIZiscrossingthedancefloordressedasanINDIAN
+	PRINCESSinanMINI-DRESS.
+
+				PETER
+		Yeah...
+
+	ROZ,dressedasaCOWBOY,amblesover.
+
+				ROZ
+		...howdypartners.
+
+				PETER/HARRY
+		Hiya,ProfessorRosomorf.
+
+				HARRY
+		AnywordonDoctorOctavius?
+
+				ROZ
+			(fallinginstep)
+		NothingbeyondwhatIreadinthepapers.
+		I'mafraidhe'snotthesamemanweknew.
+		Youknow,I'vebeendiggingthroughthe
+		notesonhisexperiments...
+
+	PETERfollowsLIZwithhiseyes.Shetakesaseatata
+	TABLEnexttoKIMwhowearsaHAREMGIRLoutfitwiththe
+	SALAMANDERaroundherneck.NexttoKIMis...SPIDER-MAN!
+	PETER'Seyesgowide.
+
+				ROZ
+		Youboysmusthavehadanextraordinary
+		classroomexperience.
+
+				PETER
+			(eyeingSpidey)
+		Yessir...oh...I'mgoingtobealittle
+		latewithmypaperonthePlanetary
+		Conjunction,sir...
+
+				ROZ
+		Wheneveryou'reready...I'lllookatit.
+		Iknowit'sgoingtobeanimportant
+		work...andPeter,takemyhat.
+
+	HehandsPETERanoversizedTENGALLONHAT.
+
+				ROZ
+		Itisacostumeparty.
+
+	PETERandHARRYmaketheirwaythroughthedancefloorto
+	thetable.PETERcan'ttakehiseyesoffSPIDEY.
+
+				HARRY
+		Look,there'sSpider-Man!
+
+				PETER
+		Nottherealone,I'msure...
+
+				HARRY
+		Youcanneverbesure...allkindsof
+		crazystuffcanhappenatamasquerade
+		ball...
+
+				PETER
+		IbetIknowwhoitis.
+
+	Astheytakeseats,PETERseesthatSPIDER-MANistrying
+	toreadtheBUGLE'Ssportssectionbypartylight.KIM
+	waves.PETERnodsandtheBIGHATfallsoverhisface.
+
+				PETER
+		Hiya,Liz...
+
+	LIZmovestoFlash,who'sdressedintheSPIDER-MAN
+	costume.
+
+				LIZ
+		Hiya,Peter.WhoisintheSpider-Man
+		costume?
+
+				PETER
+		It'saverycleveroutfityou'vegot
+		there,Flash.
+
+				FLASH
+		Takeahike,asshole.
+
+				LIZ
+			(toPeter)
+		Howdidyourecognizehim?
+
+				PETER
+		Hisprettyblueeyesgivehimaway...
+
+				HARRY
+		Anyway,who'llbesittingwithyouatthe
+		HalloweenBall?
+
+				LIZ
+			(whisperstoFlash)
+		Iwannadance...Hey,Spider-Man...Shall
+		weFlashdance?
+
+				FLASH/SPIDER-MAN
+		Hey,I'mreadingthepaper,okay?
+
+	LIZturnswithamildpout.Nervously,PETERpondershis
+	chance.HARRYnudgeshim.
+
+				HARRY
+		Takehernow,it'seasy...
+
+	HARRYturnstoKIManddoesaclankingshimmyintheSPACE
+	SUIT.
+
+				HARRY
+		Wannadance,Schechrezaa?
+
+				KIM
+		I'mpooped.
+
+				LIZ
+		I'mnot...
+
+	ShereachesforHARRY'Shand.
+
+				FLASH
+		Holyjumpingjellybeans,willyalookat
+		thesepicturesofSpider-Man?Wow!Is
+		thisguygreatorwhat?
+
+	LIZlooks.Sheshrugs.Thensheshrieks.
+
+				LIZ
+		Hey,Peter!Theseareyourpictures!
+
+				FLASH
+		Can'tbe...
+
+				LIZ
+		Itsayshere"PhotosbyPeterParker."
+
+	PETERreacts,thenlooksoverFLASH'Sothershoulder.
+
+	INSERT:TherearethreePHOTOSofSPIDER-MANinthepaper.
+	PETERBLUSHES,smiling.
+
+				FLASH
+			(takesoffhisheadmask)
+		Youknowthisguy,Parker?
+
+				PETER
+		Well,yeah...sortof...
+
+				FLASH
+		Wow...I'llgiveyouanythingifyou
+		introduceus.
+
+				HARRY
+			(toLiz)
+		Willyougrantmethisdance...?
+
+	LIZjoinshimprovocatively.
+
+				KIM
+		Hey,Flash-Man...Wannadance...?
+
+				FLASH
+		Well,whynot.
+
+	PETERisleftalone,PETERleavestowardtheentrance.
+	AttheREARDOORaBIGLIZARDpassesaNOTEtoaDALLAS
+	COWGIRLwhopassesittoaKANGAROO.TheKANGAROOhops
+	acrossthedancefloortotheSTAGEwherehehandsthe
+	NOTEtoaYOUNGWOMANinaBASEBALLUNIFORM.
+
+	SheclimbstheSTAGEwheresheisbathedinaSPOTLIGHT.
+	ShegetsaDRUMROLLfromtheband.TherearesomeBOOS
+	asthebadstops.
+
+				YOUNGWOMAN
+		Thankyou,thankyou.Wehaveaspecial
+		surpriseguesttonight.
+			(booo)
+		TheEmpireStateUniversityMasquerade
+		Ballpresents...The"Slammy"winning
+		starofMTV'Swrestlingtournament...The
+		AmazingSpider-Man!
+
+	FLASH,amazedturnstoLIZ.Hepointstohimselfand
+	mouths,"Me?"(TheREAL)SPIDEYdropsfromtheceilingand
+	landsinapose.TheCROWDcheers.HedoesafliptoLIZ
+	andextendsahand.TheBANDstartsup.LIZdemurs.
+
+				FLASH
+			(whispersfirmly)
+		Goahead...goahead!
+
+	LIZtakesSPIDEY'Shandandtheymoveslowlyandsexily
+	ontothedancefloor.Theydoashortsimplenumber.
+	SPIDEYreturnsLIZtoFLASH.
+
+				LIZ
+			(toFlash)
+		Comeon...Flash...
+
+	FLASHtakesLIZfromPETER(SPIDER-MAN).
+
+	LIZandFLASHdancewildly.Theyfinishtobigcheers.
+	TherealSPIDER-MANslidestocenterfloor.Thecrowd
+	backsawayasSPIDEYspinsoutthegreatestdancenumber
+	infilmhistory.He'salloverthefloorandonthewalls
+	andontheceilingandontheGLITTERBALL.HetakesLIZ
+	andflieswithher.Hebreakstheplaceup.Thendrops
+	inapose.BIGCHEERS.
+
+	LIZstopsbreathless,veryneartoSPIDER-MAN'Sface.
+
+				LIZ
+			(whispersbreathless)
+		Whoareyou...?
+
+				PETER
+		Onedayyou'llknow...
+
+				LIZ
+			(alongbeat)
+		Yousoundveryfamiliar.
+
+				PETER/SPIDER-MAN
+		SureIdo...I'myourfriendly
+		neighborhoodSpider-Man!
+
+	Hejumpsawayanddisappears,leavingtheCROWDaghastand
+	LIZinlove.
+
+	INT.BENANDMAY'SFAMILYROOM-NIGHT
+
+	BENisflickingthroughthechannelsofhisTV,aggravated
+	asusual.It'sallROCKVIDEOS!
+
+				BEN
+			(toMay)
+		Whatabunchofcrap.Goddamnrockand
+		roll'sscrewedupthewholeTV.
+
+	HeflicksoffthesetandturnstoMAYwho'sasleeponthe
+	couch.Hegentlynudgesher.
+
+				BEN
+		Comeon,May.Wakeupandgotosleep.
+
+	EXT.TAXI-NIGHT
+
+	ItenterstheEASTRIVERDRIVE.
+
+	INT.TAXI-NIGHT
+
+	Asthecityrollsby.
+
+				SPIDER-MAN
+			(fearful)
+		Hey!Can'tyougoanyfaster?
+
+				CABBIE
+		What'mIin,arace?
+
+				SPIDER-MAN
+			(fightinghisfear)
+		Idon'tknow...Igetthistinglinginmy
+		brain,likesomedangerislurkingjust
+		ahead.I'mworriedaboutAuntMayand
+		UncleBen...
+
+				CABBIE
+		Yourfamily?
+
+				SPIDER-MAN
+		Well,theyarekindofmyparents.They
+		raisedme.Ilostbothofmyparentsin
+		acaraccident...pleasesteponit!
+
+				CABBIE
+		Steponit...sonowyouwanttokill
+		yourselfinanotheraccident...notwith
+		me,Boychick.
+
+				SPIDER-MAN
+		ButI'mtellingyou...I'vegotthis--
+
+				CABBIE
+		...tingling...Iknow.AndIgot
+		ulcers...Everybody'sgotsomethingto
+		worryabout.
+
+				SPIDER-MAN
+		Please...Faster...Please.
+
+				CABBIE
+		Okay,youaskedforit.
+
+	EXT.THESTREET-NIGHT
+
+	TheTAXIskidsandswerveslikecrazy,bumpinginto
+	everythinginsight.
+
+	INT.BENANDMAY'SBEDROOM-NIGHT
+
+	AGLASSSHATTERS.AUNTMAYsitsupinbedwithastart.
+
+				AUNTMAY
+		What'sthat?
+
+				BEN
+		What?It'snothing...gobacktosleep...
+			(anothercrash)
+		Oh,I'llgolook.Gobacktosleep.
+
+	INT.BENANDMAY'SKITCHEN-NIGHT
+
+	WEINERisgoingthroughthedrawers.HefindsaniceBONE
+	HANDLEKNIFEandpocketsit.
+
+				WEINER
+		Hmmm...
+
+	INT.BENANDMAY'SLIVINGROOM-NIGHT
+
+	BENdescendsthestairsfromthebedroom.Hepeersoff
+	intothedarknessandpullshisROBEtightaroundhimas
+	iftowardoffsomeunacknowledgeddanger.
+
+	EXT.TAXI-NIGHT
+
+	TAXIdrivingfastthroughSTREET.
+
+	INT.TAXI-NIGHT
+
+				CABBIE
+		Somecrazykindatown,huh?Youhear
+		aboutthathold-up?Theguywiththesix
+		arms?Hey,Iseeitallonthisjob.
+			(abeat)
+		Whatkindaoutfitisthat,anyway?
+
+				SPIDER-MAN
+			(panicked)
+		Look,I'mreallyinahurry.
+
+	BANG!ABLOWOUT.TheCABBIEfightsthewheeltothe
+	sideoftheroad.ThenheturnstoSPIDEY.
+
+				CABBIE
+			(sly)
+		Yousaidthemagicwords,wehaveaflat
+		Boychick.
+
+	INT.BENANDMAY'SFAMILYROOM-NIGHT
+
+	BENcomesinandlooksaround.Alongbeat.Thena
+	noise.
+
+				BEN
+		Mice...
+
+	INT.BENANDMAY'SDININGROOM-NIGHT
+
+	AveryscaredWEINERhides,eyeswidening.WEINERtakes
+	theBONEHANDLEKNIFEfromhispocket.Itglintsinthe
+	MOONLIGHT.Hemovesoff.
+
+	INT.BENANDMAY'SKITCHEN-NIGHT
+
+	BENislookingformice.Heopensacloset.Nothing.He
+	shiftsaround.Nothing.Hemovesoff.
+
+	EXT.59THSTREETBRIDGE-NIGHT
+
+	TheCABBIEslowlychangestheTIRE.Fearingtheworst,
+	SPIDEYgetsout,lookingforaride.ATRUCKapproaches.
+	SPIDEYlooksdownattheCABBIEandthenupattheTRUCK.
+
+				CABBIE
+		Hey!Youwannahandmethatlugwrench?
+
+	HelooksuptoseeSPIDEYgoby,stucktothesideofthe
+	TRUCKlikeaspider.
+
+				CABBIE
+		Somecrazykindatown...
+
+	EXT.THETRUCK-NIGHT
+
+	SPIDEYstaresattheletteringonthesideoftheTRUCK.
+	Itsays,"VictorySportingGoods."
+
+				SPIDER-MAN
+			(athought)
+		Sportinggoods...
+
+	INT.BENANDMAY'SDININGROOM-NIGHT
+
+	BENcomesinquietly.Helooksaround.Heopensa
+	closet.Nothing.HehearsaCRASH.Hewheels.A
+	SHADOWYFIGURErunsbyadoorway!
+	BENtakesofflikeashot!
+
+	INT.BENANDMAY'SHOUSE-NIGHT
+
+	BENrunsthroughtherooms.
+
+	INT.BENANDMAY'SFAMILYROOM-NIGHT
+
+	BENfliesinandgoesrighttotheRIFLEonthewall.WE
+	hearWEINERclatteringaroundthehouseinthebackground
+	asBENgoestoadrawerandpullsoutaBOXofBULLETS.
+	HebeginstofighttheBULLETSintotheRIFLE.
+	WEINERcomesflyinginandtackleshim.Theyfalltothe
+	floor,fourhandsontheRIFLE.Theyscuffle.
+
+				WEINER
+		AllIwantitthekid'scomputercrap!
+
+				BEN
+		LetgobeforeIblowyourbrain'sout.
+
+	EXT.FORESTHILLSSTREET-NIGHT
+
+	TheTRUCKpullsawayleavingPETERinaPOOLofSTREET
+	LAMPLIGHT.He'swearingaFOOTBALLJERSEYandSHORTSand
+	carryingaSPORTSBAG.Hebeginstorun.
+
+	INT.BENANDMAY'SBEDROOM-NIGHT
+
+	MAYhearsaCRASH.Shepullsthecoversuparoundher
+	chininfear.
+
+				BEN(V.O.)
+		Letgo!
+
+				WEINER(V.O.)
+		Youletgo!
+
+	EXT.BENANDMAY'SHOUSE-NIGHT
+
+	PETERrunsupandhearsaSHOT.Herunsinside.
+
+	INT.BENANDMAY'SFAMILYROOM-NIGHT
+
+	PETERrunsin.HeseesWEINERstandingtherewiththe
+	RIFLE.Theyfaceoffacrosstheroom.Themomenthits
+	PETERlikeapunchinthechest.
+
+				PETER
+		UncleBen!
+
+				BEN
+			(awheeze)
+		Peter...
+
+	PETERrushestoBEN.
+
+				PETER
+		OhmyGod...UncleBen...
+
+	PETERtriestoreviveBEN,whileWEINERrunsout.
+
+	INT.HOSPITALWAITINGROOM-NIGHT
+
+	PLASTICFURNITURE,GARISHLIGHTING,CIGARETTESinthe
+	ASHTRAYS.
+
+				AUNTMAY
+			(abravebutfragilefront)
+		Bengetsthrougheverything.He'llbe
+		alright.Thedoctorsare...
+
+	AUNTMAYandPETERembrace,leaningoneachotherfor
+	support.
+
+				DETECTIVE
+			(compassionate)
+		Excuseme.Youthenephew?
+
+	PETERrises,nods.AsAUNTMAYwipesawayasniffle...
+
+				DETECTIVE
+		Youruncle'sabraveman.Apparently,
+		theperpetratorwasaftersomethingof
+		yours.Youruncledidn'tknowwhatit
+		wasbuthestooduptohimanyway.You
+		oughttobeproudofhim.
+
+				PETER
+		Iam...howishe...
+
+	Agrim-facedDOCTORwalksslowlyacrosstheroomto
+	them...MAYstandsupslowly.
+
+				DETECTIVE
+		AsktheDoctor.
+
+				AUNTMAY
+		How'smy...how'smyhusbanddoing...?
+
+				DOCTOR
+		Mrs.Parker,I'msorry.Wetried.
+
+	MAYcollapses.
+
+				DOCTOR
+		Crashcart!STAT!
+
+	TheDetectivepullsPETERgentlyaway.TheSTAFFworkson
+	MAY.
+
+				DETECTIVE
+		Letthemedicshandleit.
+			(pause)
+		Look,ifitmakesyoufeelanybetter.
+		We'regonnanailthisguy.Hecrashed
+		hisgetawaycar.Wegothimtrappedina
+		warehouseonJackson.
+
+				NURSE
+			(toPeter)
+		She'salright.Shejustfainted.We'll
+		havetocheckherforsymptomsofshock.
+		Ifyouwanttowait,youcangetsome
+		coffeeonthethirdfloor.
+
+				PETER
+		No,I...IthinkIwannagooutforsome
+		freshair.
+
+	EXT.WAREHOUSE-NIGHT
+
+	COPCARS,COPS,SEARCHLIGHTSplayingtheirBEAMSagainst
+	theACMECHEMICALSTORAGEBUILDING.GUNFIREflashesfrom
+	oneoftheWINDOWS.
+
+	EXT.COPCAR-NIGHT
+
+	ELITECOPSinBASEBALLCAPSareplottingstrategy.
+
+				COP#1
+		Thatplaceisloadedwithsolventsand
+		chemicals.Ifweblastourwayin,it's
+		gonnagouplikearomancandle.
+
+				COP#2
+		Wecouldgointhroughthefifthfloor
+		washroom.
+
+				COP#1
+		What'sthatupthere?Throwalighton
+		that!
+
+	COP#1directstheBEAMoftheSEARCHLIGHT.
+
+	EXT.WAREHOUSEWALL-NIGHT
+
+	SPIDER-MANisclimbingit,trappedintheGLAREofthe
+	SEARCHLIGHT.Hefreezes.
+
+				COP#1
+		He'sgotapartner!
+
+	EXT.COPCAR-NIGHT
+
+	EveryCOP'SWEAPONistrainedupwardatSPIDER-MAN!
+
+				COP#2
+			(onradio)
+		Wegotanaccompliceupthere!Andwe
+		gotaclearshot.Dowehaveago?
+
+				RADIO
+			(filtered)
+		That'sago.
+
+	EXT.WAREHOUSEWALL-NIGHT
+
+	GUNSHOTSeruptaroundSPIDER-MANandheskittersaroundto
+	evadethem.
+
+	INT.THEWAREHOUSE-NIGHT
+
+	Thinkingthey'reshootingathim,WEINERshootsback.In
+	thecornerofhiseyeheseesSPIDER-MANatasideWINDOW.
+	HeaimshisrifleandSPIDEYducksoutoftheway.
+	ThefrightenedWEINERmovestothesideWINDOWtoblow
+	SPIDEYaway.AshemovespastthefrontWINDOWSheislit
+	bytheSEARCHLIGHTSthatplayonhisfacedarkly.
+	SPIDEYleapsinatFRONTWINDOWanddropsneatlybehind
+	WEINER,landingapose.
+
+				SPIDER-MAN
+			(cold,hard)
+		Sayyourprayers,Weiner!
+
+	WEINERwhipsaroundandfires.SPIDEYleapstoavoidit
+	andlandsonaSTACKofPAINTCANS.
+
+				WEINER
+		Youain'ttakin'me...Spider-Man...who
+		everyouare...
+
+	SPIDEYgathershimselftighter.Heleaps.AsecondGUN
+	BURSTcomesinbehindhim,SeveralPAINTCANSeruptin
+	cascadesofCOLOR.
+
+				SPIDER-MAN
+			(hangingonceiling)
+		Hey,creep!
+
+	WEINERaimsandfires,severaltimes.Heisemptyinghis
+	RIFLE.SPIDEYleapsawayandlandsonthetopofaCASK
+	marked"CAUTION-FLAMMABLESOLVENT!"
+
+				SPIDER-MAN
+			(taunting)
+		Tryagain.
+
+	TheCASKgiveswayandSPIDEYisplungedintothe
+	FLAMMABLESOLVENT.WEINERsmileshisstupidgrinand
+	takesaim.
+
+	SPIDEYleapsoutoftheCASKandstickstotheroofBEAM.
+	He'ssoppingwet.HishandslipsdowntheBEAMasthe
+	SOLVENTworksagainsthisstickingpower.
+
+	HefallstothefloorandscramblesbehindsomePAINT
+	CANS.WEINER,crazed,fireswildly.OneoftheCANS
+	EXPLODES.PAINTflowsfromit...burning!
+
+	SPIDEYpeeksoutandseesaYELLOWRIVEROFFLAMEcreeping
+	towardhim.HesniffshisSOLVENTsoakedoutfit.
+
+	Hebacksdowna"corridor"ofPAINTCANS.TheYELLOWFIRE
+	follows,nowjoinedbyaRIVEROFBLUEFIREfromanother
+	can.They'refollowingthetrailofSOLVENThe's
+	dripping!
+
+	He'strapped!
+
+				COP(V.O.)
+			(onbullhorn)
+		Thisisyourlastchance,youtwo.
+		Eitheryou'recomingout,orwe'recoming
+		in!
+
+	SPIDEY'SagainsttheWALL!PAINTCANStohisrightand
+	left,andaRIVERofREDFLAMEjoinstheYELLOWandBLUE
+	astheycreeptowardhim!
+
+	Heclimbsbackwardsupthewall,facetowardtheBLAZE.
+	TheCOLOREDFIRESjoinandfollowhimupthewall!
+	They'relickingathisfeet!
+
+				WEINER
+			(atthewindow)
+		Stayback!
+			(gunburst)
+		Whoa...staybackdownthere!
+
+	SPIDEYisinchesfrombeingtorched.HeseesaPIPE.He
+	reachesoutandgrabsit.Heswingsoutabovetheflames.
+	ButthePIPEbeginstobend!
+
+	ThePIPEbendsdown...down...andthenbreaks!SPIDEY
+	hangsprecariouslyasWATERcascadesoutofthePIPEand
+	putsouttheFIRE.
+
+	SPIDEYdropsdownandresthisheadinhishandsto
+	collecthimself.Thenlooksup.TheGUNisathishead.
+
+				WEINER
+		Standup,you.
+
+	SPIDEYstands.
+
+				COP(V.O.)
+		Youhavethirtysecondstocomeout!
+
+				WEINER
+		You'remyticketoutahere.Gimmethat
+		stupidmask!
+
+	SPIDER-MANhesitates.ThenhebeginstoraisetheMASK,
+	butstopsandshakeshisheadno.
+
+				WEINER
+		ThenI'lltakeitmyself.
+
+	HereachesforthemaskandSPIDER-MANflipshimacross
+	theroom.WEINERlandsinaCARGOnetandbecomes
+	ensnared.
+
+				SPIDER-MAN
+		Well,lookwhatwe'vecaughtinourweb...
+
+				WEINER
+		Don'thurtme,man.Pleasedon'thurtme...
+
+	INT.WAREHOUSEHALLWAY-NIGHT
+
+	COPSarepoisedatthedoor.Asignal.Theycrash
+	inside.
+
+	INT.WAREHOUSEPAINTROOM-NIGHT
+
+				COP#1
+		Holdyourfire!
+
+	WEINERishangingfromtheceilinginthetheCARGONET.
+				WEINER
+		Getmeoutofthismadhouse!
+
+	Hefallsdown,immediatelyencircledbythePOLICE
+	OFFICERS.SPIDER-MANfliesabovetheirheads,crashing
+	throughtheWINDOWanddisappearsintothedarkofnight.
+
+	INT.CYCLOTRON-NIGHT
+
+	Aweird,flickeringBLUELIGHTdancesaroundtheholein
+	theCYCLOTRON.Thenitcutsout.AHELMETEDMANpulls
+	himselfoutofaHATCH.HeflipsuptheHELMET.
+	OCKisfinishingputtingtogetherhisnewequipment.
+
+				OCK
+			(smiling)
+		Okey,dokey.
+
+	OCKgoesaboutcheckingouttheCYCLOTRON.Itlooksgood.
+
+	INT.CONTROLROOM-NIGHT
+
+	OCKstartsflickingswitchesandreadingDIALS,doinga
+	"missioncountdown"forhisnextexperiment.Thisplace
+	hasbeen"hotrodded"tothemax.
+
+				OCK
+			(readingdialsandnumbers)
+		Amperage,okay.Flux,14.Negative
+		variabledifferential...goodenough.
+
+	Heshutsitdown.TheWHINEwhirsdown.
+
+				OCK
+		Okey,dokey...nowallIneedisParker's
+		data.WherethehellisWeiner?Damnit...
+		Ican'ttrustanybody.
+			(throwshisWaldointheair)
+		Onlyyou,mybabies...onlyyoucanI
+		trust...Okay...IfIhavetodo
+		everythingmyself...I'mgoingtodoit.
+			(tohisequipment)
+		I'llbeback...mybabies...mynew
+		babies!
+
+	OCKhidestheWALDOSunderhiscoatandleavestheroom.
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	ThereismoreEQUIPMENTthanbefore.PETERisdeepat
+	work.HisSPIDER-MANUNIFORMhangsontheWALL.Thereis
+	aknockattheDOOR.
+
+				LIZ(V.O.)
+		Hey,Peter!Areyoufinishedwithmy
+		computeryet?Igotapapertoo,you
+		know...
+
+				PETER
+			(panicked)
+		OhmyGod...oh,it'syou,Liz...I
+		didn'texpectyou...uh...givemea
+		minute.
+
+	HehideshisSPIDER-MANCOSTUME.
+
+	INT.THEHALLWAYLANDING-NIGHT
+
+	LIZwaitsimpatiently.
+
+				PETER
+			(openingthedoor)
+		Hi,Liz.Comeonin.
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	LIZenters,lookingaround.PETERcoversforthisand
+	that.
+
+				LIZ
+		Whatwereyoudoinginhere?
+
+				PETER
+			(lookingaround)
+		Cleaningup.Comeon.I'llgetyour
+		computer.Where'sFlashparked?
+
+	HepicksuptheCOMPUTERandturnstoher,butshe's
+	alreadylookingaroundtheapartment.
+
+				LIZ
+		Flashdidn'tcome.
+
+				PETER
+			(holdingit)
+		Oh.Well...howareyougoingtogetit
+		home?
+
+	LIZwalksintotheroom.
+
+				LIZ
+		Taxi...Iguess.
+
+	ShediscoversthePRINTSofSPIDEYthatPETERhastapedup
+	aroundtheapartment.
+
+				LIZ
+		Youmustspendalotoftimewiththis
+		Spider-Manguy...Peter!Don'tyouthink
+		yououghttounplugthat!
+
+	PETERlooksandseesthatheistetheredtothewall.
+	Embarrassed,heputstheCOMPUTERbackdown.
+
+				PETER
+			(embarrassed)
+		I,uh,I'llgodowntothecorner...see
+		itIcanhailthattaxi.
+
+	PETERleaves.LIZsmiles.ShelikesPETER.Whyishe
+	so...?
+
+	INT.HALLWAY-NIGHT
+
+	ASHADOWofaMANcanbeseenhiding.PETERdoesnot
+	noticehim.
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	There'saKNOCKattheDOOR.
+
+				LIZ
+			(crossingtoit,wondering)
+		Peter...?
+
+	SheisabouttoopenthedoorwhenFOURWALDOSsmash
+	throughit,obliteratingit.OCKstandsintheshattered
+	doorway,WALDOSwrithing.
+
+				LIZ
+		DoctorOctavius...!You're...You're...
+			(findsthewords)
+		You'resoweird!...withthose...whatdo
+		youcallthose...
+
+				OCK
+		Waldos...DidyouhearaboutSpider-Man?
+			(movingWaldoslikespider'slegs)
+		That'sme...therealSpider-Man...now
+		tellme,whereisthatjerkyfriendof
+		yours...Parker?
+
+				LIZ
+			(protecting)
+		Peter?...oh...he'snothere.He'sgone.
+		Idon'tthinkhe'llbebackforawhile.
+
+				OCK
+			(runninghisWaldoinherhair)
+		Youwouldn'tlietoyourProfessornow,
+		wouldyou?
+
+				LIZ
+		Ofcoursenot.WhywouldIlieabouta
+		thinglikethat?Really.He's...out.
+
+				OCK
+		We'llwait.
+		OCKgrabsLIZ'SHAIRwithhisWALDOS.
+
+				LIZ
+		Whatareyoudoing...letmego!Please...
+		takethosethingsoutofmyhair!
+
+				OCK
+		MyWaldos,youmean.
+
+				LIZ
+		Whateveryoucallthem...please...
+
+	OCKshootsoutTWOWALDOS.Simultaneouslyeachgrabsa
+	CHAIRfromdifferentpartsoftheroomandbringsthemto
+	theTABLE.
+
+				OCK
+		Sit.
+
+	Shedoes.Hedoes,too,andfoldshisWALDOSacrosshis
+	chest.
+
+				OCK
+			(chatty)
+		He'saniceboy.Alittlenerdymaybe,
+		butnice,wouldn'tyousay?
+
+				LIZ
+		Oh,Idon'tknow.Maybe.He'svery
+		inexperienced.
+
+	ONEofOCK'SWALDOSrestsontheTABLEcurledaroundthe
+	COMPUTER.LIZletsherhandrestonit.OCKwarms
+	immediately.
+
+				OCK
+		Youknow,you'reafascinatingyounglady...
+
+				LIZ
+		Thankyou...
+
+				OCK
+		You'resorefreshing.You'reso...
+
+				LIZ
+		Shocking...?
+
+				OCK
+			(gonetofar)
+		Oh,Iwouldn'tsayshocking...
+
+				LIZ
+		Iwould!
+
+	ShestickshisWALDOintheELECTRICWALLSOCKETbehind
+	theCOMPUTER!TheCURRENTsizzlesthroughhimandhe
+	leapsup,WALDOSakimbo,likethe"cartooncat."LIZruns
+	outthedoor.
+
+	OCKextricateshimselffromthecurrentandgiveschase.
+
+	INT.HALLWAY-NIGHT
+
+	LIZburstfromtheDOOR.
+
+				LIZ
+		Peter...!
+
+	ShelooksbothwaysforPETER,doesn'tseehim,andtakes
+	off!OCKburstsfromthedoorwayandrunsoffafterLIZ.
+
+	EXT.THESTREET-NIGHT
+
+	LIZrunningasfastasshecan,butOCKisgaining
+	quickly.
+
+	EXT.PETERPARKER'SAPARTMENT-NIGHT
+
+	ATAXIdrivesupanddisgorgesPETER.
+
+				PETER
+		Waithere...
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	Hewalksin.It'sempty
+
+				PETER
+		Liz?
+
+				LIZ(V.O.)
+			(screamingfromthestreet)
+		Peter!Help!Peter!
+
+	PETERspringsintoaction.HegrabshisSPIDEYSUITout
+	ofadrawerandstartstakingoffhisclothes.
+
+	EXT.STREET-NIGHT
+
+	LIZlooksbackandseesOCKCARTWHEELINGtowardher.She
+	can'toutrunhim.Shemusthide.There'saCONSTRUCTION
+	SITEontheright.Sheducksdownthealleynexttoit.
+
+	INT.CONSTRUCTIONALLEY-NIGHT
+
+	LIZrunsintoitandfindsherselftrappedonthreesides
+	byahighCYCLONEFENCE.Behindher,OCK'SWALDOSstretch
+	outlikewaterbuglegs.Hebug-walksintothealleyand
+	laughsdownatherfromhisperchatoptheWALDOS.
+
+				OCK
+		PeterParkerhassomethingIwant...And
+		I'mgoingtohavesomethinghewants.
+
+	ShedashespasthimandrunsintotheoutboardCARGO
+	ELEVATOR.
+
+	INT.ELEVATOR-NIGHT
+
+	ShelooksfortheUPBUTTONandfindsnothing!OCK,on
+	hisfeetnow,isonthewiremeshELEVATORCAGEina
+	flash.HetearstheouterDOORaway.
+
+	LIZstartspressingKNOBSandLEVERSinpanic.TheLIGHT
+	goeson.AWARNINGBELLclangs.Shefinallyfindsthe
+	switchandtheCARleapsupjustasOCKtearsoffits
+	frontdoor.
+
+	LIZ,safeforthemoment,watchesOCKrecedebelow,
+	shakingthetornoffdoorinarage.
+
+	EXT.CONSTRUCTIONSITE-NIGHT
+
+	ExtendingWALDOoverWALDO,OCKclimbstheELEVATOR
+	HOUSINGchasingtherisingCARinside.
+
+	EXT.CONSTRUCTIONROOF-NIGHT
+
+	TheCARarrivesandLIZjumpsout.She'sonnothingbuta
+	narrowGIRDER!ShetightropesontheGIRDER.OCKgetsto
+	thetop.Helooksacrossather.She'sstuckbetweentwo
+	unfastenedGIRDERS,atadeadend.Heslowlytelescopesa
+	WALDOtowardher.She'sgotnoplacetorun,noplaceto
+	hide.HegrabsherbytheBLOUSEandliftsheroffthe
+	GIRDER.
+
+				SPIDER-MAN(V.O.)
+		Putherdown,Ock.
+
+	OCKlooksacrossthestreet.There,onthetopofatall
+	building,isSPIDER-MAN.
+
+				SPIDER-MAN
+		Iknowwhat'shappeningtoyou,Ock.
+		I'vebeenthroughalotofchangesmyself
+		lately.Youhavetolistentome.
+
+				OCK
+			(holdingLiz)
+		Whothehellareyou?
+
+				SPIDER-MAN
+		Spider-Man.
+
+				LIZ
+			(seeingSpidey)
+		Spider-Man...
+
+				OCK
+		That'salotofcrap,clown...Iam
+		Spider-Man,notyou.
+			(pointstoLiz)
+		Askyougirlfriend.
+			(toLiz)
+		Tellhim!
+
+				SPIDER-MAN
+		I'magoodfriendofPeterParker'sOck.
+		Justlikethatgirlyou'reholding.Now
+		lethergo.
+
+	OCKthinksforamoment,thenhebeginstoextendthe
+	kickingandscreamingLIZoutoverthestreet,tenstories
+	up.
+
+				OCK
+		Lethergo?Whatanexcellentidea.If
+		youdonotdeliveryourfriend,Mr.
+		Spider-Man,yes.Yes,ofcourse,I'll
+		lethergo.
+
+				LIZ
+		Putmedown,youmechanicalmutant!
+
+	LIZishavingnoneofthis.Shekicks,shefights.She
+	twists.Sheflailsaround,makingthingsalittleworse.
+	Thegroundisyawningdeathbeneathher.RRIIPP!
+	PARTofherBLOUSEtearsawayandLIZplummets!
+	SPIDER-MANswoopsdownonaWEB-STRANDinhis
+	characteristiccompoundcurve.Hereachesoutforthe
+	fallingLIZandmisseshercleanly.TheWEBistooshort.
+
+				LIZ
+			(fallingaway)
+		Youjerk!
+
+	HeTHWIPSherwithasecondWEBandtogethertheyswingto
+	aHIGHGIRDERwherehedepositshersafeandsound.
+
+				LIZ
+			(straighteningherself)
+		TellyourfriendPeternexttimeI'llget
+		thetaximyself...
+
+				OCK
+			(screams)
+		Hey...youjerk...youphonySpider-Man...
+		Preparetomeetyourdeath,bug.
+
+	SPIDEYTHWIPSabeamandswingsacrosstowardOCK.
+
+				SPIDER-MAN
+			(whispers)
+		Actually,I'mratherfondofliving...
+		especiallynow...
+			(helooksatLiz)
+
+	HelandsonOCK'SGIRDERandthetwoprogenyofthe
+	cyclotronfaceoffforthefirsttime,tenstoriesabove
+	thestreet.
+
+				SPIDER-MAN
+			(alastappealtoreason)
+		Octavius.Juststopandthink.
+
+				OCK
+		Iamthinking,insect.I'mthinking
+		aboutexterminatingyou!
+
+				SPIDER-MAN
+		Okay,ifthat'sthewayyouwantit...
+		Let'sseewhatthosechromeknucklescan
+		do,Doc...
+
+	AWALDOlancesoutandcatchesSPIDEYflushonthejaw.
+	ItknockshimtoanotherGIRDER.SPIDEYhangsonand
+	rollsover.Herubshisjaw.
+
+				LIZ
+		Great...
+
+	SPIDEYgetsreadytogointoactionandgetspummeledby
+	anotherbarrageofblowsfromabove.
+
+				OCK
+		NowImustkillyou,youcretinousclown.
+
+	OCKthrowsaroundhouseWALDOthatnearlyknocksSPIDEY
+	offtheGIRDER.He'sjustbarelyhangingon.
+	ButSPIDER-MAN'Snotdoneyet.HeTHWIPSaHIGHBEAMand
+	swingsintoabetterattackposition.ThetwoSUPER-
+	ADVERSARIESengageinbattle.
+
+	WithOCKswingingfromhisWALDOSlikeametalmonkeyand
+	SPIDEYswingingfromhisWEBSlike,well,likeSPIDEY,
+	theyclangandbangthroughtheGIRDERSofthe
+	CONSTRUCTIONSITE.
+
+				OCK
+		OnceIdisposeofyou,Spider-Man,noone
+		willbeabletostopme.
+
+				SPIDER-MAN
+		Stopyoufromwhat...?
+
+				OCK
+		Mydestiny!
+
+	OCKthrowshisbiggestpunchyet.
+
+	SIRENScannowbeheardinthestreet.
+
+	SPIDEYavoidsWALDOstrikeafterWALDOstrike.OCKeludes
+	WEBafterWEB.ButSPIDEY'Sagilitysoonhashimturning
+	circles.
+
+				SPIDER-MAN
+		Overhere,Octopus!
+
+				OCK
+		That'sProfessorOctopustoyouSpider
+		Jerk!
+
+				SPIDER-MAN
+		Giveitup,Professor.You'llnever
+		catchme!
+
+	OCKtakesthreestepsandsoarsthroughtheair.
+
+	EXT.BRICKWALL-NIGHT
+
+	OCK,misjudgingtheleap,soarsrightpastSPIDEYandinto
+	analley!Screamingalltheway...
+
+	EXT.THEALLEY-NIGHT
+
+	OCKandTWOWALDOSpressedagainsteachoftheopposing
+	walls.It'satenuousgrip.Then,veryslowly,sparks
+	flyingfromhisWALDOS,OCKslidesdownintothealley.
+
+				SPIDER-MAN
+		Solong,sucker.
+
+	EXT.STREET-NIGHT
+
+	COPCARSpullup.COPSleapfromthem.
+
+	EXT.SIDEWALL-NIGHT
+
+	OCKmakesitdown,seestheCOPS,ducksoutofsight.
+
+	EXT.COPCARS-NIGHT
+
+	TheSEARCHLIGHTSgoon.SPIDER-MANswingsbackacrossthe
+	streettotheCONSTRUCTIONSITE.
+
+				COP#1
+		Thereheis!
+
+				COP#2
+		It'sthatSpider-Man!
+
+	EXT.THEROOF-NIGHT
+
+	SPIDEYlandsnexttoLIZinapose.Litbytheflashing
+	BILLBOARD,he'sweirderlookingthanever.SPIDEYputsan
+	armaroundLIZandextendsaWEBSHOOTER.
+
+				LIZ
+		Whatdoyouthinkyou'redoing?
+
+				SPIDER-MAN
+		I'mrescuingyou.
+
+	WiththatSPIDEYleapswayoutandheandLIZswoopaway
+	onaWEB-STRAND.
+
+				LIZ
+		Thanksbutnooooooooooo!
+
+	EXT.THECOPCARS-NIGHT
+
+	ALLWEAPONSpointupwardatSPIDEY'Smovement.
+
+				COP#2
+		Hewon'tgetawaythistime!
+
+				COP#1
+		Holdyourfire!He'sgotagirl.
+
+				COP#2
+		Lookslikehe'sgotahostage.
+
+	EXT.WEBSTRAND-NIGHT
+
+	SPIDEYseestheWEAPONSaimedupward.Heshootsout
+	anotherWEBandswingsoffinadifferentdirection.LIZ
+	whoopswiththeG-force.
+
+				LIZ
+		Waitaminute.Whereareyoutakingme?
+		SPIDEYhoundedbythePolice,rejectedbythegirl.
+
+				SPIDER-MAN
+		Ibetterjusttakeyoubackwhereyou
+		belong.
+
+	HeshootsoutanotherWEB.
+
+				SPIDER-MAN
+		Holdontight.
+
+				LIZ
+			(TimesSquare)
+		Wherearewe?
+
+				SPIDER-MAN
+		Openyoureyes.
+
+	TheyarestandingontheROOFoftheCENTRALTOWERofthe
+	EMPIREUNIVERSITYBUILDING.LIZopenshereyes.It'san
+	extraordinarysight.
+
+				LIZ
+			(theEmpireStateBuilding)
+		Ifyou'retryingtoimpressmeSpidey,I
+		wantyoutoknowI'mnoteasy.Okay,I'm
+		impressed...nowputmedown,Spidey...
+		putmedown.
+
+				SPIDER-MAN
+		IlikethewayyousaySpidey...Nobody
+		callsmeSpidey...nowwego...
+
+	EXT.DORMITORY-NIGHT
+
+	Theyswoopdown...anddown...stoppingononeofthe
+	building'sSILLS,actuallyrightinfrontofaWINDOWin
+	theDORMITORYBUILDING.
+
+				LIZ
+			(TavernontheGreen)
+		Wow...look,thisisourdormitory.I
+		cangettomyroom.Hey,waitaminute...
+		there'sFlash,ifI'mnotmistaken.
+
+				SPIDER-MAN
+		Liz?
+
+				LIZ
+		Youknowmyname?
+
+				SPIDER-MAN
+		Liz,listentome.There'ssomethingI
+		havetotellyou.
+
+				LIZ
+		Okay,putmedownandwecantalk,
+		alright?
+
+				SPIDER-MAN
+		DoyouknowwhoIam?
+
+				LIZ
+		AllIknowisyou'retheAmazing
+		Spider-Man...orbetteryou'reSpideythe
+		goodguyontheblock...you'reaweirdo
+		inaclownspidersuit.
+
+				SPIDER-MAN
+		Andthat'sallyouknowaboutme?
+			(abeat,asigh)
+		Okay,letsgetyourboyfriend.
+
+				LIZ
+		Whichone?
+
+				SPIDER-MAN
+		Howmanydoyouhave?ImeantFlash.
+
+				LIZ
+		Well,Flashisnotexactlymyboyfriend...
+
+				SPIDER-MAN
+		He'snot?Thenwhois?
+
+				LIZ
+		There'ssomeoneIlike,buthe'stooshy
+		tonotice.
+			(Flashappears)
+
+				SPIDER-MAN
+		Flash!
+
+				FLASH
+		Liz!
+			(abeat)
+		SPIDER-MAN!!!
+
+				LIZ
+			(toSpider-Man)
+		Youknoweverybody...Flashwehaveto
+		callPeter!
+
+	FLASHrushesrightpastLIZtotheWINDOW.There'sa
+	NEWSPAPERinhishand.
+
+				FLASH
+		Hey,theywon'tletup,man!
+			(showsDailyBugle)
+		Theykeepcallingyouanaccomplicein
+		thatburglarymurder.Butthat'sacrock,
+		ain'tit?I'mwithyou,Spidey,100%
+
+				SPIDER-MAN
+		Thanks.
+
+				FLASH
+			(realizing)
+		Bytheway,whatareyoudoingwith...
+		Liz?
+
+				SPIDER-MAN
+		Sheneededalift.
+
+				FLASH
+		Oh...okay!Thiscallsforabeer!A
+		lotofbeer!
+
+				SPIDER-MAN
+		Thanks,butIhavesomebusinesstotake
+		careof.
+
+				FLASH
+		Well...takecareofthatlater.Wait
+		here.I'llgetthebeer.
+
+	Hedisappears.LIZcomes,tentatively,totheWINDOW
+	whereSPIDEYsquats,desireandpassioninhisWHITEEYES.
+
+				LIZ
+			(accusatory)
+		How'dyouknowthiswasFlash'splace?
+
+				SPIDER-MAN
+		PeterParkertoldmeallaboutit.
+
+				LIZ
+		PetertoldyouallaboutFlash?
+
+				SPIDER-MAN
+		No...hetoldmeallaboutyou.Seeyou
+		later.
+			(hejumpsaway)
+
+	INT.DORM-NIGHT
+
+	FLASHcomesinwithmoreBEERthanamanoughttocarry.
+
+				FLASH
+		Hey,where'dhego?Hey,Spider-Man!!
+
+	ButSPIDER-MANhasdisappeared.
+
+				LIZ
+			(distracted)
+		PetertoldyourHeroallaboutme...
+
+				FLASH
+		Hewould,wouldn'the...thatjerk!
+
+	EXT.PETERPARKER'SROOF-NIGHT
+
+	SPIDER-MANlandsonit.HedropsintheSKYLIGHT.
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	HedropsintotheroomandpullsoffhisMASK.Theplace
+	hasbeenransacked.COMPUTERDISCSarealloverthe
+	floor.PETERpullsafilemarked"PlanetaryConjunction."
+	Heopensit.
+
+	ApieceofPAPERfallsout.Itsays,"Kissitgoodbye,
+	WallCrawler!"
+
+				PETER
+			(whispersangrily)
+		Octavius!!!
+
+	EXT.EMPIRESTATEUNIVERSITYQUAD-DAY
+
+	PETERishurryingalong.KIMinsunningherself
+	wonderfully.
+
+				PETER
+			(hurryingby)
+		Kim!HaveyouseenHarry?
+
+				KIM
+		Sure,lotsoftimes.Whatabrainiac...
+
+				PETER
+		Yeah...haveyouseenhimtoday?
+
+				KIM
+		No,ununh.
+
+				LIZ
+			(catchingup)
+		Peter...!
+
+				PETER
+			(keepswalking)
+		Hi...haveyouseenHarry?
+
+				LIZ
+		No.Whatanight,huh?
+
+				PETER
+			(laughs)
+		Yeah,thatwassomeridehome...must
+		havebeenprettyexciting.
+
+				LIZ
+		Itwas...okay.Look,Igottwotickets
+		toLesMiserables...wannago?
+
+				PETER
+		Sorry...I'mreallybusy...Imean,not
+		tonight...seeyoulater.
+
+				LIZ
+			(thinking)
+		Hey,Peter...howdidyouknowaboutlast
+		night...?
+
+				PETER
+		Whataboutlastnight?
+
+				LIZ
+		MyexcitingridewithSpider-Man...
+
+				PETER
+		Oh...Sorry...Igottahurry...Ihaveto
+		findHarry...I'llseeyoulater.
+
+				LIZ
+		Peter!
+
+	PETERrunsoff.Heseesacarapproachandflagsit.
+
+				PETER
+		Hey!CanIgetaliftdowntown?
+
+				FLASH
+		Takeyourshoesforawalk,Dork.
+
+	FLASHgetsoutofhiscar,andcrossesthelawntoward
+	LIZ.
+
+	INT.CONTROLROOM-DAY
+
+	OCKishardatwork.Theroom,stillrippled,hasbeen
+	"hotrodded"tothemax.Lotsofjerry-riggedstuffhas
+	beenadded.
+
+	OCKtakesasipfromtheTHERMOSandflicksonthesmall
+	TAPERECORDER.
+
+				OCK
+		WearenewinsertingPeterParker'sdata
+		ontonight'sPlanetaryConjunction.
+
+	INSERT:TheCOMPUTERSCREENdisplaysPeterParker'sname
+	andIDnumberandthetitle,"ThePlanetaryConjunction
+	andit'seffectonEarthGravity."
+
+				OCK
+		Yes,yes!Goon!Goon!
+
+	INSERT:NUMBERSEQUENCESappearontheSCREEN.Thena
+	GRAPHICoftheEARTHmovingintolinewithSATURN,
+	JUPITER,theSUNandtheMOON.InthecorneraNUMBER
+	rises.
+
+				OCK
+		Enormous.It'senormous.
+			(torecorder)
+		TheParkercalculationsadd4%
+		gravitationalforceatthemomentoffull
+		PlanetaryConjunction.
+			(hitssomekeys)
+		Addingthistopresentmaximumpower
+		potential,Iget...
+
+	HelooksupandseestheSCREENaGRAPHIC"HOLE"opening
+	uprightthroughtheEARTH!ThewideningHOLEis
+	swallowingeverything!
+
+				OCK
+		Iknewit.Iknewit!Universal
+		destruction!It'sdoable!Iamputting
+		acountdownclockonthePlanetary
+		Conjunctionnow!
+
+	ALARGEDIGITALDISPLAYreads,"13:00:03."Thelast
+	secondscountdownto,"12:59:59!"
+
+				OCK
+			(playingthecomputer)
+		Okey,dokey.Nowlet'sseeifIhave
+		enoughpowertodrivethisbeast.
+
+	HestartshittingKEYSonhisCOMPUTER.
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	PETERisworkingonLIZ'SCOMPUTER.ThereisaKNOCKat
+	hisbrandnew,unpaintedDOOR.Hehurriestoitandpulls
+	theKNOBsoquickly(forgettinghisownstrength)thatthe
+	wholeassemblycomesoffinhishand.
+
+				PETER
+			(pullingHarryaside)
+		Igottaremembertohavethatfixed.
+			(opensthedoor)
+		Thereyouare,I'vebeenlookingforyou
+		allovertown.
+
+				HARRY
+		Whathappened?
+
+				PETER
+		Wherewereyou?
+
+				HARRY
+		Iwenttothewrestling,wantedtosee
+		thatAmazingSpider-Man,buthedidn't
+		showup.
+
+				PETER
+		Listen,Harrysomethingterriblehappened.
+
+				HARRY
+		What?What?
+
+				PETER
+		MyPlanetaryConjunctionpapers...they
+		werestolen...
+
+				HARRY
+		OhmyGod...Areyousure...?Whowould
+		dosuchathing?
+
+				PETER
+		Ock...
+
+				HARRY
+		Ofcourse...butwhy...?
+
+				PETER
+		Wehavetofindout,sitdown.
+			(indicatescomputer)
+		IwanttoaccessDr.Octavius'main
+		program.Iwanttoknowabouthis
+		experimentswiththecyclotron.Canyou
+		doit?
+
+				HARRY
+			(startshacking)
+		Icantry.Icouldaccessthesystemin
+		thedorm.Okay.AndthroughthatI
+		couldcrackthemainline.
+
+				PETER
+		Alright.Nowifwecanjustdisruptthe
+		Octaviusfile...
+
+				HARRY
+		Okay,let'stry.
+
+	HARRYcrackshisknuckleslikeasafecrackerandbendsto
+	thetask.ThePHONERINGS.PETERhitshisjerry-rigged
+	SPEAKERPHONE.HARRYkeepshacking.
+
+				PETER
+		Yeah?
+
+				JAMESON(V.O.)
+		Parker?PeterParker?ThisisJ.Jonah
+		Jameson!
+
+				PETER
+			(lookingoverHarry'sshoulder)
+		Mr.Jameson,yougotmeatabadtime.
+
+				JAMESON(V.O.)
+		Ineedpicturesofyourfriend,the
+		AmazingSpider-Man.ButIneedbadguy
+		shots,yougotit?Lotsofbadguyshots.
+		We'regonnapinthatinsecttothewall.
+		Whaddayasay?
+
+	PETERhangsup.TheDIALTONEcutsoffJAMESON.
+
+	INT.JAMESON'SOFFICE-NIGHT
+
+	OnlyheandthePHOTOASSISTANTarethere.
+
+				JAMESON
+		Whataboutthatkid?Onthejobalready?
+
+	INT.CONTROLROOM-NIGHT
+
+	OCKispacingaroundthehotroddedroom.Hechecksthis
+	andthat.HelooksattheCOUNTDOWNCLOCK(06:00:10)and
+	throwshimselfdowninhisCHAIR.Heresumeshischeck-
+	down.
+
+				OCK
+		Fusioncells...?Allup.Internal
+		temperature...okay.Risk?
+			(alongbeat)
+		Acceptable.
+			(anotherbeat)
+		Let'sfly.
+
+	HestartsflickingonSWITCHESandDIALS.TheWHINEwhirs
+	up.HethrowstheREDPOWERTHROTTLE.ThePOWERDIAL
+	goesto90!
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	PETERandHARRYareataCOMPUTER.TheLIGHTSflickerand
+	dim.Thentheygobackon.PETERandHARRYlookateach
+	otherandshrug.
+
+				HARRY
+		Gotsomething!
+
+	INSERT:DIGITALCLOCKdisplay:"06:00:03"
+
+				PETER
+		Whatisit?
+
+				HARRY
+		Letmesee.It'ssomekindofcountdown
+		clock.
+
+				PETER
+		Countdowntowhat?
+
+				HARRY
+		Idon'tknow,butwhateveritis,it's
+		onlysixhoursaway.
+
+				PETER
+		ThePlanetaryConjunction?
+
+				HARRY
+		Couldbe...
+
+				PETER
+		OrDocOck'sendoftheworldexperiment...
+		Orboth!
+
+				HARRY
+		Waitaminute.You'renottellingmeyou
+		thinktheworldisgonnaendtonight...?
+
+				PETER
+		Youwanttowaitaroundtillmidnightto
+		findout?
+
+				HARRY
+		No,but...
+
+				PETER
+		Let'sseewhatelsewe'vegot.
+
+	AnothersetofnumbersrollupontheSCREEN.Theyare
+	accompaniedbyELECTRICALSYMBOLS.
+
+				HARRY
+		What'sthat?
+
+				PETER
+		Itmightbeacalculationoftheamount
+		ofpowerheneedstocreatethehole
+		betweentheforceandtheanti-force.
+
+				HARRY
+		That'salotofenergy.Whatcould
+		generatepowerlikethat?
+
+				PETER
+		TheclosestyoucouldcomeistheNew
+		YorkCitySubwaySystem.
+
+	Again,thelightsflickerandthendimandtheyreturn.
+
+	HARRY/PETER
+			(together)
+		WegottatalktoProfessorRosomorf!!
+
+	INT.BROADWAYEXPRESS-NIGHT
+
+	ROZboardsandtakesaseat.TherearetheusualSUBWAY
+	TYPES.AFATWOMAN.APIMPLYTEENAGERandhisdate,a
+	TALLSKINNYGIRLinaPARTYDRESS.
+
+	ROZ,makingnotationsinaPAD,takesnonoticeofthem.
+	Hesitsdown,closeshisPAD,andtapsaPENCILagainst
+	hischin.
+
+				ROZ
+		Plutonium...
+
+	EXT.MAJORINTERSECTION-NIGHT
+
+	TAXISgoby.TWOLOVERSstroll.Wehearafamiliar
+	WHINE.The"WALK"and"DON'TWALK"signsFLASHatthe
+	sametime.
+
+	BOY
+	Makeupyourmind!
+
+	ThesignsEXPLODE!TheCOUPLEstopsintheirtracks.The
+	BOYlooksattheGIRL.
+
+				GIRL
+		What'sgoingon?
+
+	AnARCofELECTRICITYnowshootsbetweentheLIGHTPILLARS
+	oftheSUBWAYSTATIONonthecorner.
+
+	INT.BROADWAYLOCAL-NIGHT
+
+	SPARKSflybythewindow.ROZ,obliviousatfirst,isnow
+	stunnedbytheshow.
+
+	EXT.SUBWAYTRAINENTRANCE-NIGHT
+
+	TheARCSofELECTRICITYcontinuetorise.TheSTREET
+	LIGHTSbuckleandbendintoweirdshapes.
+
+				WOMAN
+		OhmyGod!
+
+				MAN
+		Getback!Getback!
+
+	EXT.INTERSECTION-NIGHT
+
+	TWOTAXISroarthroughtheintersectionandCOLLIDE.The
+	ETHNICDRIVERSleapoutandbeginarguing.
+
+	INT.TRAIN-NIGHT
+
+	PEOPLESCREAMandfallbackastheTRAINseemstochange
+	angles.
+
+	EXT.SUBWAYENTRANCE-NIGHT
+
+	AbuildingROARrisesfromtheSUBWAYENTRANCE.Thenthe
+	soundofaTRAINWHISTLE!TheBOYlooksdowntheSTAIRS
+	andhastoleapoutofthewayastheBROADWAYEXPRESS
+	comeshighballinguptheSTEPSandblaststhroughthe
+	SUBWAYentrance.
+
+	TheTRAINsailsthroughtheair.
+
+	EXT.LUXURYCONDOHIGH-RISE-NIGHT
+
+	TheTRAINcrashesintothebuildinginastormof
+	cyclotrongeneratedDaliphysics.
+
+	EXT.THESTREET-NIGHT
+
+	TheTHROBandPULSErecede.SCREAMS,HONKS,SIRENScanbe
+	heard.
+
+	EXT.LUXURYCONDOHIGH-RISE-NIGHT
+
+	AsplendidlyturnedoutMIDDLE-AGEDWOMANwakesfromher
+	satinsleeptoseethataSUBWAYTRAINisinthemiddleof
+	herBEDROOM.TheWALLthroughwhichthetrainhascome
+	sagsandrippleslikeithasmeltedandpartially
+	resolidified.
+
+				WOMAN
+		Henry!!!
+
+	SeveralPASSENGERSclimboutoftheWINDOWSoftheTRAIN
+	orpryopentheDOORS.
+
+				WOMAN
+		Whatareyoudoinghere?Getoutofhere!
+		Getoutofhere!
+
+	EXT.THESTREET-NIGHT
+
+	ACROWDhasgatheredtogawkandpoint.Theylookupand
+	weseetheirPOV.
+
+	TheMIDDLECARoftheTRAINissimply"embedded"inthe
+	HIGH-RISE,itsrearstickingoutofthebuildingfifteen
+	storiesup.FromitsCOUPLINGdanglestheLASTCAR.
+
+	INT.MIDDLECAR-NIGHT
+
+	Thecarisbisectedinthemiddlebythefusedbrickand
+	glassoftheWALLofthebuilding.PASSENGERSonthe
+	outsideoftheWALLpresstheirfacestotheGLASSand
+	poundforhelp.
+
+	ROZcomestotheaidofaMOTHERwithTWOCHILDREN.
+
+	EXT.THESTREET-NIGHT
+
+	TheCROWDseessomethingelse.Swinginghighinthesky
+	isyourfriendlyneighborhoodSPIDER-MAN.TheCOUPLEand
+	TWODRIVERSargueaboutwhatthismeans.
+
+				WOMAN
+		It'sSpider-Man!
+
+				TRUCKDRIVER#1
+		Getoutahere,youbum!
+
+				WOMAN
+		Hey,whatareyoutalkingabout?!
+
+				TRUCKDRIVER#2
+			(backatwoman)
+		What'sthematter,ladydon'tyouread
+		thepapers?
+
+	ThisistheDRIVERofaDAILYBUGLEtruckcarryingthe
+	historicallyfamousBugleheadline,"Spider-Man-Threat
+	orMenace?"
+
+				MAN
+		GoSpidey!Go!
+
+	INT.LASTCAR-NIGHT
+
+	It'snearlyvertical!Peoplearetumbledovereachother.
+	ThescaredTEENAGERistearingatthedoor.TheSKINNY
+	GIRLscreamsinamechanicalway.TheDOORopens.He
+	nearlyfalls!
+
+	TheSKINNYGIRLscreamsagain.Hemanagestogetback
+	inside.Shelooksathim,safenow.Butshescreams
+	againanyway.
+
+	ROZstrugglestorighthimselfagainstapole.ABAGOF
+	GROCERIESgoesslidingpasthim.Itcontinuesdownward
+	andouttheOPENDOOR.
+
+	INSERT:TheBAGtumblesdownthroughtheair.Down,down,
+	anddown...
+
+	INT.MIDDLECAR-NIGHT
+
+	SPIDEY'SfaceappearsintheWINDOWupsidedown.
+
+				SPIDER-MAN
+		Hello,everybody...
+
+	HeslidestheWINDOWdownandflipsinside.Hewalks
+	throughthepartingPASSENGERStotheBUILDINGWALL.He
+	feelsit.
+
+				SPIDER-MAN
+		Okay,everyone,standbackandstaycool.
+
+	HehurlshimselfatthefusedGLASSportionandbounces
+	backontothefloor.Herollsover,flexinghisshoulder.
+
+				WOMAN
+			(whining)
+		IsthattherealSpider-Man?
+
+	SPIDEYdoesaTRIPLEFLIPtohisfeet.Hereachesupfor
+	theoverheadRAILINGandpullsitdowneasily.Oohsand
+	aahs.SPIDER-MANpointsitattheGLASSandheftsit.
+
+				SPIDER-MAN
+		Somebodywannagivemeahandwiththis?
+
+	FirsttheWOMAN,andthenallofthem,takeuppositions
+	ontheBATTERINGRAM.
+
+				SPIDER-MAN
+		Onthree.One...Two...Three!
+
+	TheyramtheGLASSanditshatters.
+
+	INT.THELUXURYCONDOHIGH-RISE-NIGHT
+
+	HENRYstandsattheopenDOORoftheTRAINinhisbedroom
+	astheyallcomerushingthroughintotheroom.
+
+	HENRY
+	Comeon.Comeon.That'sit.Step
+	livelynow.
+
+	WIFE
+	Henry,therugs!
+
+	HENRY
+	Oh,shutup!
+
+				SPIDER-MAN
+		Haveaniceevening,Ma'am...andyou
+		too,Henry.
+
+	EXT.THESTREET-NIGHT
+
+	TheFIRETRUCKSarriveandbeginassemblingaLADDER.
+
+	INT.THELASTCAR-NIGHT
+
+	SPIDEYarrivesattheDOORatthetopoftheCAR.Hesees
+	ROZatthebottom.THREEPEOPLEarebetweenthem.The
+	SKINNYGIRLseesSPIDEY.Shescreams.
+
+				SPIDER-MAN
+		Okay,folks,justhangon...
+
+	HescampersdowntheGRAB-HANDLEStothepeoplebelow.
+	FOURPASSENGERSclingtoSEATSandBARS.
+
+				SPIDER-MAN
+		Okay,oneatatime.Youfirst,Ma'am...
+
+	AFATWOMANmakesa"whome?"gesture.SPIDEYthrowsher
+	overhisshoulder.
+
+	INSERT:THECOUPLINGwhichholdsthetwoCARSatright
+	anglesbeginstobendopen.
+
+	SPIDER-MAN,theFATWOMANoverhisshoulder,goeshand
+	overhandtothetopandtheWOMANisdumpedintothe
+	MIDDLECAR.
+
+	INSERT:THECOUPLINGbendsopenalittlemore.
+
+	SPIDEYhelpstheTEENAGERandtheSKINNYGIRLoutofthe
+	CAR.Shetakesthedreadfulstepbetweencars.Shelooks
+	down.Shescreams.Shestepsacross.
+
+	EXT.LUXURYCONDOHIGH-RISE-NIGHT
+
+	TheFIRELADDERisup.ButitisaboutTENFEETshortof
+	whereit'saimedat.TheendoftheCAR.AFIREMAN
+	standsatitsapex.
+
+				FIREMAN
+			(intowalkie)
+		Gimmemoreladder!Ineedmoreladder!
+
+	WALKIE
+	Negativeonthat,you'reatfull
+	extension!
+
+	INT.LASTCAR-NIGHT
+
+	NowonlyROZisleft.SPIDEYapproacheshim.Heclings
+	toaPOLE.
+
+	INSERT:TheCOUPLINGbendsopen!TheCARishangingthere
+	frommemory!
+
+				ROZ
+		ThisisDoctorOttoOctavius'work.I
+		mustgetbacktomyuniversity.Imust
+		stopOck...he'sgonecrazy.Canyou
+		helpme?
+
+				SPIDER-MAN
+		Surething,justdon'ttakethetrain.
+		Comeon...givemeyourhand.
+
+				ROZ
+		Spider-Man!Listentome!Ifhecando
+		thiswiththetrain,ifhe'scomethis
+		far,thenIcanprettywellpredicthis
+		nextstep.He'llgotoPlutoniumSL270
+		forthepower.Hemustbestopped...or
+		elsehe'lldestroyourworld.
+
+	TheCOUPLINGshrieksandtheCARlurches.
+
+				SPIDER-MAN
+		Let'sgetyououtofherefirst,
+		Professor.
+
+				ROZ
+		WaitSpider-Man.Idon'tthinkIcan
+		makeit...Youmustn'twastetimesaving
+		me...youmustsavetheworld!Youmust
+		goandstopOck!
+
+				SPIDER-MAN
+		WherecanIfindhim...?
+
+				ROZ
+		HeislookingforPlutoniumSL270I'm
+		sure...
+
+	TheCARlurchesonitssideandROZfliesoutoftheDOOR.
+	SPIDEYTHWIPSoutaWEBthatgirdlesROZ'Swaist.
+
+				SPIDER-MAN
+		ThinkRosomorf,thinkwhereonecanfind
+		Plutonium?WherecouldhefindSL270...?
+
+	EXT.LUXURYCONDOHIGH-RISE-NIGHT
+
+	ROZishanginginmid-airontheWEB.
+	ROZshouts.
+
+				ROZ
+			(shouting)
+		There'sonlyoneplacehecangetthe
+		PlutoniumSL270...
+
+				SPIDER-MAN
+		Where...?
+
+				ROZ
+		Toxic...toxicdump...anytoxicdump
+		wouldhaveSL270.
+
+	SPIDEYswingsROZinanarctotheFIREMAN.HemissesROZ
+	onthefirstpass.ROZlooksupatSPIDEYwhostandsin
+	thedoorway,manipulatingtheWEB.
+
+	TheFIREMANgrabsROZ.Then,withanawfulSCREECHof
+	steel,theCARpullsloosefromtheCOUPLING.With
+	SPIDER-MANinsideit,theCARplungestenstoriestothe
+	streetbelow.
+
+	EXT.STREET-NIGHT
+
+	COPS,FIREMEN,PRESS,theworks.TheCROWDGASPS.CAMERA
+	STROBESpopastheLASTCARcrashestotheSIDEWALK.We
+	holdseveralbeatsontheincrediblerubble.
+
+	Then,aWEBBEDHAND.SPIDER-MANgroggilypullshimself
+	fromthewreckage.
+
+				COP(V.O.)
+		Putyourhandsup,Spider-Man.
+
+				SPIDER-MAN
+		You'remakingabigmistake.
+
+				COP
+		Andyou'relookingattwentyyears.
+
+	SPIDER-MANshootsaWADofWEBGOOontotheCOP'SGUNand
+	leapsupontotheLUXURYCONDO...andswingsupoutofthe
+	frame.TheCOPaimsandshoots.TheBULLETmakesa
+	THWUMPnoise.TheWEBGOOstretchesoutaboutthreefeet
+	andfallslimp.
+
+				COP
+		Whatthehell!
+
+	EXT.BACKOFBUILDING-NIGHT
+
+	SPIDER-MANswingspainfully,onehandedandlimp,atthe
+	endofaWEBSTRAND.Afterfallingtenstories,heis
+	groggyandweak.Hecan'tthink.Hecan'tfocus.Hecan
+	barelyholdontohisWRISTGIZMOS.Thisbugisspent.
+
+				SPIDER-MAN
+		Mustgoon...mustfindOck...SL270
+		Plutonium...mustgetthatcrazyold
+		loony...beforehegetstothe
+		Plutonium...toxicdump...wherearethe
+		toxicdumps...?
+
+	Hehangstherewithtwohandstocatchhisbreathand
+	thinks.HeshootsaWEBupdiagonallyandswingsacross
+	onit.Thistimehecatchesonandholds,butbarely.
+
+	INT.AUNTMAY'SFAMILYROOM-NIGHT
+
+	LIZisstanding.AUNTMAYisseatedontheCOUCH,she
+	looksweak,paleandalone.
+
+				AUNTMAY
+		You'reaslovelyasPetersaidyouwere.
+
+				LIZ
+			(embarrassed)
+		Thankyou.Hereallywantedsobadlyto
+		comeseeyou.Hecalledmeupoutofthe
+		blue.
+
+				AUNTMAY
+			(greatconcern)
+		TellmeaboutPeter.What'shebeenup
+		to?Heseemssopreoccupied.
+
+				LIZ
+		Oh,youknowPeter...he'sallcaughtup
+		insomekindofstudyhe'sdoing.Things
+		arereallycrazyattheuniversitynow.
+		Thingsarecrazy...everywhere.Iguess
+		Peter'sjust...well,youknow...pulled
+		intohisshell.
+
+				AUNTMAY
+			(reminiscing)
+		WhenPeterwaslittle,helovedtohide.
+		Intheclosets.Underthesink.He
+		alwaysneededasecretplace.Butwhen
+		I'dlookforhim,he'dalwayslaugh...he
+		wantedtobefound.
+
+				LIZ
+		Yeah...well.Idon'tthinkhewantsme
+		tofindhim...Well,I'dbetterbegoing.
+		MyfriendFlashispickingmeup.
+
+				AUNTMAY
+		ThisFlash...heisn'tyourboyfriend,is
+		he?
+
+				LIZ
+		No...notreally...Ithinkyoucanguess
+		why...
+
+	Theysmileknowinglyateachother.
+	LIZgoestowardtheDOOR.
+
+				AUNTMAY
+		Elizabeth...?
+		Sheturns.
+
+				AUNTMAY
+		Finderskeepers,losersweepers.
+
+				LIZ
+		What?
+
+				AUNTMAY
+		That'swhatIusedtosaytoPeterwhenI
+		foundhim.
+
+	EXT.FIFTHAVENUE-NIGHT
+
+	SPIDER-MANswingshighaboveit.Thisisnotthe
+	confidentswingerwithLIZinhisarms.Thisisaguy
+	who'smakingitbythenarrowestofmargins.Thereisa
+	trafficjambelow.
+
+				SPIDER-MAN
+		GottofindOck...gottofindthetoxic
+		dumps.
+			(grabshishead)
+		Oh!Oh!Oh...yeah!
+
+	Helooksdownatthetraffic.WePANacrossthemanyCARS
+	untilwecometoanon-descriptGREENCAR.
+
+	INT.GREENCAR-NIGHT
+
+	OCKishonkingtheHORN.SomethinglandsonhisROOF.
+	ThenSPIDEYstickshishead,upsidedown,inthe
+	windshield.
+
+				SPIDER-MAN
+		What'sup,Ock?
+
+				OCK
+		You!!!
+
+	AWALDOsmashesthroughtheWINDSHIELDbutmissesSPIDEY.
+	OCKleapsfromtheCAR.
+
+				OCK
+			(ontherun)
+		You'readoomedbug,WallCrawler.I've
+		notimetowasteonyounow.
+
+	EXT.STREET-NIGHT
+
+	OCKrunsthroughHONKINGTRAFFIC.SPIDER-MANleapsfrom
+	CARtoCAR.
+
+	OCKturnstoseeSPIDER-MANleaptoaLIMOatthecurb.
+	OCKturnstailandrunsdownanalley.AFEMALECOPpops
+	outofaDOORWAY.Herpartner,aBIG,YOUNGCOP,pulls
+	hisGUN.
+
+				FEMALECOP
+			(gunpoised)
+		Alright!Freeze!Upagainstthewall
+		andspread'em
+
+	OCKcomplies.Heraiseshishands...andspreadsthe
+	WALDOStofullextension!TheBIGCOPscreamsandfaints.
+	ThelittleFEMALECOP'SeyesPOP.OCKswatstheGUNfrom
+	herhand.Hestartstochokeher.
+
+	SPIDEYcomesswingingtotherescue.HelandsontheROOF
+	nearby.
+
+				SPIDER-MAN
+		Hey,youbigOCK,whydon'tyoupickon
+		someoneyourownsize?!
+
+				OCK
+		AlrightSpider-Bug...hereI'vecomefor
+		you...
+
+	OCKleavestheCOPandattacksSPIDER-MAN,shootinghis
+	ironfistathim.OCKrunstotheendofthealley.
+	SPIDEYstaggerstohisfeetandresumesthechase.
+	OCKbreaksintoaredCorvetteconvertible,startingit
+	withaWALDO.
+
+	SPIDER-MANcomesoutintimetoseetheVettedriveaway.
+	ACHINESELAUNDRYTRUCKispassing.SPIDEYTHWIPSitand
+	iswhippedaway.
+
+	HecrawlsovertotheWINDOW.
+
+				SPIDER-MAN
+		Hey,driver.Couldyoufollowthatred
+		Vetteforme?
+
+	ThesurprisedCHINAMANletslooseastreamofCHINESE
+	expletives,completewithappropriatesuggestivegestures.
+	SPIDER-MANcrawlstothetopoftheTRUCKandsurveysthe
+	situation.Heseesaseaofmovingtraffic.HeTHWIPSup
+	aWEBandswingsaway.
+
+	SPIDEYswingsalongfromBUILDINGtoBUILDING.TheRED
+	VETTEismakingheadway.Suddenly,SPIDER-MANspotsa
+	blueMGwithitstopup.
+
+				SPIDER-MAN
+			(swinging)
+		FlashThompson...IneverthoughtI'dbe
+		happytoseeyou.
+
+	EXT.BLUEMG-NIGHT
+
+	SPIDEYswoopsdownontheBLUEMG.
+
+	INT.BLUEMG-NIGHT
+
+	SPIDEYwedgesdownintothecar,rightbetweenFLASHand
+	LIZ.SheWHOOPS.FLASHisthrilled.
+
+				SPIDER-MAN
+		Sorryaboutthat!
+
+				FLASH
+		Spider-man!Thisisunbelievable...!
+
+				SPIDER-MAN
+		Flash,Ineedyourhelp.
+
+				FLASH
+		Yougotit.
+
+				SPIDER-MAN
+		Youanygoodwiththisthing?
+
+				FLASH
+		I'mthebest.
+
+				SPIDER-MAN
+		Okay...catchthatVette!
+
+				FLASH
+		Roger,wilco,overandout.
+
+	Heswerves.SPIDEYfallsalloverLIZ.Theybeginto
+	careenthroughtraffic,threepeasinaverysmallpod.
+
+	EXT.WESTSIDECARCHASEMONTAGE-NIGHT
+
+	WithSPIDEYjammedinbetweenLIZandFLASH,theMGchases
+	theVETTE.SinceneitherOCKnorFLASHisanygoodat
+	this,bothcarsquicklycareenintoPOLES,FENCES,HOTDOG
+	CARSandbeginfallingapart.
+
+	OnRIVERSIDEDRIVEtheMGbeginstolurchandSTEAM.The
+	VETTElookseatenaway.TheGEORGEWASHINGTONBRIDGE
+	loomsahead.
+
+	TheVETTEroarsthroughtheTOLLBOOTH.TheyspotOCK
+	stuckintraffic.
+
+				FLASH
+		WhyishegoingtoNewJersey,andwhois
+		itinthatshittyredcar...
+
+				LIZ
+		Don'tyourecognizehim...it'sOck!
+
+				SPIDER-MAN
+		NewJerseyhasthelargesttoxicwaste
+		dumpintheworld.
+
+				FLASH
+		Whatdoeshewantwithtoxicwaste?
+
+				SPIDER-MAN
+		He'slookingforPlutonium,mydear...
+		Thecarhastoslowdown...it'sinatrafficjam.
+
+				FLASH
+		Sorry...can'tdoanythingaboutthis
+		traffic.
+
+	SPIDER-MANjumpsoutofthecar.
+
+				SPIDER-MAN
+		Trytostaywithme.Idon'twantto
+		losehim!
+
+	SpeedingalongtheBRIDGE,OCKseesnoone.Buthigh
+	above,SPIDEYswingsfromTOWERtoTOWERafterhim.At
+	thelastTOWER,SPIDEYleapsdownontoaBIGTRUCK.The
+	VETTEweavesandSPIDEYcrossestoanotherBIGTRUCK.For
+	amomentheiscaughtbetweentheTWOTRUCKS,buthemakes
+	itacross.
+
+	TheVETTEtakesanexit.SPIDEYleapstothenextSIGN.
+	HeaimshisWRISTGIZMOandwaitsforthenextcartotake
+	theexit,butnonedoes.Deflated,hedropstothe
+	ground.HelooksuptoseeasignonaCYCLONEFENCE.It
+	says,"DUMPNUMBER7--KEEPOUT--RADIOACTIVEMATERIAL!"
+
+				SPIDER-MAN
+		Bingo.
+
+	INT.TOXICWASTEDUMP-NIGHT
+
+	Thelandscapehasanightmarishvision,weirdlylitby
+	"safetylights."VATSandDRUMSoozeallkindsofbad
+	stuff.AlightisoninadilapidatedSHACK.
+
+	INT.THESHACK-NIGHT
+
+	OCKistossingawaytheCANISTERSuntilhecomestoone
+	marked,"HAZARD!!PLUTONIUMSL270HAZARD!!"
+
+				OCK
+		Okey,dokey...
+
+				SPIDER-MAN
+		Openthatnow,andyou'llspoilChristmas.
+
+	SPIDEY'SpeeringinfromaHOLEintheROOF.
+
+				OCK
+		Insect!Iamgoingtosquashyouto
+		death...OnceIlaymyWaldosonyour
+		skinnybones...
+
+	OCKhurlsaDRUMatSPIDEY.Iteruptsinasizzleof
+	LIQUIDandGAS.ThentheSIX-ARMEDFIENDrunsforthe
+	doorwithhisSL270.
+
+	EXT.THESHACK-NIGHT
+
+	OCKcomesflyingoutandSPIDER-MANgrabsaWALDO.
+	SPIDEYdoesabackflipandwhipsOCKsohardtheWALDO
+	snapsoff!OCKrecoilsitandreactsinhorror.
+	Witharoar,OCKattacksSPIDER-MAN.Theybattleas
+	SUPER-ADVERSARIES.OCKgainstheupperhandandtosses
+	SPIDEYintoapileofRUSTINGDRUMS.AGASenvelopes
+	SPIDER-MANandhebeginscoughing.
+
+	EXT.THEDUMP-NIGHT
+
+	OCK'SWALDOSarecoiledaroundSPIDER-MAN'Sneckasthe
+	WEBSLINGERisdraggedthroughthedump.HisWHITEEYES
+	narrowandblink.ThereisacappedWELLbehindaWARNING
+	SIGN.OCKtearsofftheCAPandthenhurlsthegroggy
+	SPIDEYdowntheWELL.
+
+				OCK
+		Goodbye,Spider-Man!
+
+	INT.THEWELL-NIGHT
+
+	SPIDEYfalls.HecannotgrabontotheslimyWALLS.At
+	thebottomofthefoulpitisabubblingBLUEluminescent
+	POOL.SPIDEYclawsfranticallyattheWALLS.
+
+				SPIDER-MAN
+		Noooooooooooooo!
+
+	Hegetsaholdandslidesdowntowithinafootofthe
+	POOL.Itsweirdlightshinesupathim.Helooksupat
+	thestarrysky.
+
+				SPIDER-MAN
+			(tohimself)
+		Okaynow,Spidey.Easydoesit.
+
+	HeshootsaWEBabouthalfwayupthePIT.Ithitsthe
+	wall,sizzles,anddropsbackdown.
+
+				SPIDER-MAN
+			(tohimself)
+		Don'tgiveup,Spidey.Don'tgiveup.
+
+	TheWEBGIZMOsquirtsoutapatheticpatooeyofWEBGOO.
+	Thenithisses,empty!
+
+				SPIDER-MAN
+		Empty...nowwhatdoIdo?
+
+				OCK
+		Soyou'veavoidedthenuclearpool,have
+		you,Spider-Man?
+
+				SPIDER-MAN
+		Well,sofarsogood.ButIcan'thold
+		onmuchlonger.
+
+				OCK
+		Pity...!
+
+				SPIDER-MAN
+		Oh,comeon,Ock,beagoodsport.Let's
+		talkthisoverfacetoface...throwmea
+		line...
+
+	SPIDEYreachesout.
+
+				OCK
+		Okay...facetoface...Catchthis!
+
+	OCK,wayupattheopeningabove,raisesahugeDRUMabove
+	hishead.TheDRUMleakstoxicwasteinORANGETENDRILS.
+	HeisabouttodropitdownonSPIDER-MAN...
+
+				FLASH
+		Don'tdoit,Professor!
+
+	WenowseeFLASHandLIZintheBLUEMG.
+
+				OCK
+			(putsdownthedrum)
+		Iknowyou...andyou,younglady.Both
+		ofyouareinmyphysicclass,aren't
+		you...?Come...youcanhelpme.Ineed
+		togetsomeofthesedrumstomy
+		laboratory...helpme...andI'llgive
+		youspecialgrades.What'dyousay?
+
+	SuddenlyhecatchesFLASHwithaWALDOandstartstochoke
+	him.LIZscreamsandtriestohelpFLASH.
+
+				LIZ
+		Leavehimalone!!!
+
+	AnotherWALDOgrabsher.
+	ROZnowappearsonthescene.
+
+				ROZ
+		LeavethemaloneOtto!
+
+				OCK
+		But,theywon'thelpme.Everybodyis
+		tryingtodestroymyexperiment.Andso
+		areyou,Rosomorf.
+
+	AnotherWALDOgrabsROZbyhisarm.
+
+				ROZ
+		Otto...Iwaswrong.I'vegoneoveryour
+		research.It'sbrilliant,Otto.It's
+		mad,butit'sbrilliant.Youhavemuch
+		worklefttodo.Iwanttohelpyou,
+		Otto.Forthesakeofscience,goanddo
+		yourexperiment.Leave...thesekids
+		aloneandI'llhelpyou.
+
+				OCK
+		Youwill?Youtoo?
+
+	BothFLASHandLIZshaketheirheadsokeydokey.OCK
+	gesturestoFLASHandLIZ.
+
+				OCK
+		Helpmewiththesedrums,Ineedtoget
+		themtomylaboratoryimmediately.
+
+				ROZ
+		Doashesays.
+
+	OCKpushesFLASHandLIZwithhisironarm.GrippingLIZ
+	beherhair,heshovesherintotheCAR.
+
+				OCK
+		Drive,Flash,beforeIflushyourgirl
+		rightdownthetoilet!
+
+				SPIDER-MAN
+		ProfessorRosomorf,it'snogood,double
+		dealing...whydidyouhelphim...?
+
+	ROSOMORFfindsaropeandlooksintothewell.
+
+				ROZ
+		Don'tloseyourenergyscreaming.Catch
+		thisropeandclimbup,comeon!
+
+	INT.ROZ'SCAR-NIGHT
+
+	Theydrivealongthehighway.SPIDEYisrecovering,
+	workinghisneck.
+
+				ROZ
+		I'vebeenthroughtheOctaviusdata.He
+		hasenoughpowerwithhisPlutonium.
+		Especiallyifhegetshishandson
+		Parker'sdata,therehehasenoughpower
+		todowhathewantstodo.Andweare
+		notgoingtostophimintimebeforethe
+		PlanetaryConjunctionoccurstonight...
+
+				SPIDER-MAN
+		Stopthecar.Ihaveanidea.
+
+	They'reinthemiddleofRIVERSIDEDRIVEbutaPHONEBOOTH
+	iscomingupontheright.
+
+	INSERT:ROZ'SfootstabstheBRAKE.
+
+	INT.ROZ'SCAR-NIGHT
+
+	SPIDEYgetsoutofthecar.Thenhepatshimselfwhere
+	hispocketsoughttobe.
+
+				SPIDER-MAN
+		Doyouhaveadime?
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+	HARRYisthere,workingontheCOMPUTER,PHONERINGS,
+	HARRYpicksup.
+
+				PETER
+		Harry?!
+
+				HARRY
+		Peter,whereareyou?
+
+	INT.PHONEBOOTH-NIGHT
+
+				SPIDER-MAN
+		Listen,Harry.Youmustgetmypaper
+		beforeOckusesit...
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+				HARRY
+		YourPlanetaryConjunctiondata?It's
+		toolate...Ock'sgotyourpaper,it'sin
+		hiscomputeralready.
+
+	INSERT:TheCOMPUTERSCREENdisplaysagraphicoftheSUN,
+	EARTH,andMOONliningupwithJUPITERandSATURN.
+
+				HARRY
+		Butdon'tworry...hecanneveruseit
+		withoutPlutonium.
+
+				SPIDER-MAN(V.O.)
+		He'sgotthePlutonium,andhe'sonhis
+		waybacktothelab!Andhe'sgottwo
+		prisonerswithhim...LizandFlash!
+
+				HARRY
+		Don'tworry...heneedsahugeamountof
+		power...thousandsofvoltsof
+		electricity...togettotheAnti-Force.
+
+				SPIDER-MAN
+		Hecangettothepower.Electrical
+		power...tothemax.Nuclearpower...SL
+		270.Andnow,atthemomentoffull
+		PlanetaryConjunction.Whenallthe
+		planetslineupwiththesun...maximum
+		gravitationalpower.TheConjunctionis
+		Ock'sfinalpowersource.
+
+				HARRY
+		Damn...theConjunctionisdueat
+		midnight!Whatarewegoingtodo?
+
+	EXT.UNIVERSITYGROUNDS-NIGHT
+
+	TheBLUEMGarrivesandcomestoastop.OCKlooksathis
+	twoprisonersinthebackseatandsmilestohimself...
+	PicksuponeDRUMoneachshoulder.
+
+				OCK
+		Okey,dokey...havefun,youngones...
+		forthelasttime.
+
+	OCKleaves.LIZandFLASHaretiedtogetherintheback
+	seatoftheCAR.
+
+				LIZ
+			(stillministering)
+		Whatdowedonow?
+
+				FLASH
+		Wekisstheworldgoodbye.Ifheis
+		right,allthereislefttodois...
+
+				LIZ
+		Wait...IthinkIcanreleasemyright
+		hand...
+
+	INT.PETERPARKER'SAPARTMENT-NIGHT
+
+				HARRY
+		Howmuchtimeisleft?Wait...Ican
+		findout...myGod...59minutes!
+
+	INT.PHONEBOOTH-NIGHT
+
+				SPIDER-MAN
+		TheonlywaywecaninterferewithOck's
+		planistofindacomputercenter...fast.
+
+				HARRY(V.O.)
+		OurUniversityhasthebiggestcenterin
+		town.
+
+				SPIDER-MAN
+		Yeah,butwho'sgonnawork'em?
+
+	EXT.UNIVERSITYGROUNDS-NIGHT
+
+	ProfessorOCKcomesforsomemoredrums.HeseesthatLIZ
+	andFLASHhavedisappeared.OCKpicksupTWODRUMS.
+	HARRYseeingFLASHandLIZcomerunningtotheschool
+	grounds.
+
+				HARRY
+		IthinkIcangetsomehelp...Ican
+		teachanyonehowtoworkacodeinfive
+		minutes.
+
+				SPIDER-MAN(V.O.)
+		Thendoit!
+
+	INT.COMPUTERLAB-NIGHT
+
+	TheLIGHTSareoff,buttheCOMPUTERSareon.HARRYlooks
+	overLIZ'Sshoulderasshecracksthroughacode.Her
+	SCREENreadsout,"CONNECTICUT.TECH.FullyOp,Line
+	Backlog,SecurityMaxLevel."ThelastlineisFLASHING.
+
+				KIM
+		Hey,thisiseasy.
+
+	TheyallrunfromCOMPUTERtoCOMPUTER.
+
+				FLASH
+		Hey,HarryIneedhelp.
+
+				HARRY
+		Coming!
+
+	HARRYtypesinKARNAKYLTDandgetsthesameresponse.He
+	looksathisDIGITALWRISTWATCH."01:00:02"becomes
+	"00:59:59"aswewatch.ThenaWARNINGBUZZER!
+
+				KIM
+		Igotone!Igotone!
+
+				LIZ
+		Harry!Getoverhere!
+
+	HARRYhurriestoKIM'Ssideandelbowsheroutofthe
+	CHAIR.TheSCREENisflashing"WARNING,SecurityBreach!"
+	HARRY'Shandsflyoverthekeys.TheKIDSgatheraround.
+	LINEDRAWINGSoftheCYCLOTRON(progressingfromlargeto
+	smalldetail)appearoneaftertheother.Finally,a
+	PIPE.ThereisaCIRCLEaroundaJOINT.Andthelegend
+	"H20".
+
+				HARRY
+		Agoddamnwaterleak...
+
+				FLASH
+		Hey,lookatthis.EmpireState
+		University.Thisisourcyclotron,
+		right?
+
+				HARRY
+			(serious)
+		Whatdoesitsay?
+
+				FLASH
+			(hitstwokeys)
+		Itsays"noinformationonnet."
+
+				HARRY
+		Damn...wecan'tdoit...
+
+				KIM
+		Youmean...wecan'tstoploonyOck...
+
+				HARRY
+		Imeantheworldisindanger...
+
+				FLASH
+		WemustfindPeter,heknowsthese
+		computersbetterthanallofus.
+
+				HARRY
+		Yes,butwherethehellishe?
+
+				LIZ
+			(mysteriously)
+		IbetheiswithSpider-Man...
+
+	Suddenlythelightsdim.Aheavynoise.Anearthquake.
+
+	EXT.OUTERSPACE-PERPETUALDARK
+
+	TheEARTHismovingintolinewiththeotherPLANETSof
+	theCONJUNCTION.
+
+	EXT.SCIENCECENTER-NIGHT
+
+	HARRYandFLASHandLIZandKIM,(theEARTHisSHAKING)
+	comeoutrunningfromthebuildingbeneathanenormous
+	HANGINGMOON.Theyarefrightened.
+
+	Suddenlyitallstops.It'squiet,thekidslookatthe
+	sky.
+
+				LIZ
+		Lookatthemoon...Ihaveneverseenit
+		sobig.
+
+				FLASH
+		Whatisthat...
+
+				HARRY
+		Mustbethesun.
+
+	Wenowseethesky.Withthesunononeside,andthe
+	moonontheother.Theywatchit,shocked,frightenedout
+	oftheirwits.
+
+	EXT.ENDOFTHEWORLDMONTAGE-NIGHT
+
+	SuddenlyfromOCK'SbasementlabaBLUEBEAMofLIGHT
+	breaksthrough.AWHINEstarts,itmovesmagicallyoutof
+	theWINDOWandPANSaroundasleepyNEWYORKwhichdoesn't
+	knowthattheendisuponit.ThedreadedWHINEbuilds
+	throughout!Peoplestopintheirtracks,lookuptothe
+	strangelookingskyline.Cameracomesdowntoastreet
+	whereROZisDRIVINGSPIDER-MANfasttowardthe
+	UNIVERSITY.
+
+	INT.ROZ'SCAR-NIGHT
+
+	ROZlooksoutovertheskylineofNEWYORK.Lighted
+	buildingsFLAREUPandthenGODARK.TheLIGHTEDSPIREof
+	theEmpireStateBuildingFLARESUPandEXPLODES.
+
+				SPIDER-MAN
+		It'sstarted.SteponitProfessor,or
+		we'llnevermakeit.
+
+	TheylookacrossthecampusandastrangeLIGHTiscoming
+	outoftheSCIENCECENTER.
+
+				ROZ
+		Ourcampus...rightthere...seethose
+		beamsfromOck'slab.We'relate...it's
+		coming...theConjunctionwillhappenin
+		afewseconds.
+
+	SPIDER-MANmassageshisarm.
+
+				SPIDER-MAN
+		Stopthecar...!Comewithme.
+
+				ROZ
+		Where...?What...?
+
+	SPIDER-MANSHOOTSoutaWEBandfliestowardtheSCHOOL
+	BUILDINGtakingROZwithhim.
+
+	INT.EXPERIMENTALCHAMBER-NIGHT
+
+	Itisapatchworkofmake-shiftrepairs.OCKlooksin
+	throughaWINDOWthat'sbeenmeltedout.Heislostina
+	madrapture.
+
+	INT.CONTROLROOM-NIGHT
+
+	REDPOWERTHROTTLEisat95%POWER!
+	SPIDER-MANandROZenter,shieldingtheireyesfromthe
+	GLARE.TheCOUNTDOWNCLOCKreads,"00:08:18".
+
+				OCK
+			(lookingback,madly)
+		Aha!YouneverincludedtheConjunction
+		inyourcalculations,didyou?!Rosomorf!
+
+				ROZ
+		Damnthecalculations!MyGod,Otto,you
+		havetohearme!Theworldweknowwill
+		collapse!Everythingwehavedevotedour
+		livesto...allthepatterns,allthe
+		harmonies...everythingwillbedestroyed.
+
+				OCK
+		Anewworldwaits!Rosomorf!Itismy
+		destiny!!!
+
+				ROZ
+		Itiscosmicsuicide!Youhavenoright!
+
+	ROZflingshimselfthroughtheMELTEDWINDOWintothe
+	EXPERIMENTALCHAMBER.Hegrabsforthe"BULLET"butthe
+	WALDOSgrabhimandthrowhimback.ROZstaggers
+	backward...intothearmsofSPIDER-MAN.
+
+				ROZ
+		Youhavetostophim...Spider-Manyou
+		havetostophim.
+
+				SPIDER-MAN
+		I'mafraidwe'retoolate.
+
+	SPIDER-MANattacksOCK,tryingtopushhimawayfromthe
+	THROTTLE.OCKpushesSPIDER-MANawayfromhimsostrongly
+	thatSPIDER-MANisknockeddown.OCKnudgesthePOWER
+	THROTTLEforwardandtheWHINEincreasestoanear
+	shatteringpitch.TheCOUNTDOWNCLOCKreads,"00:06:48".
+	Weareat96%POWER!
+
+	EXT.THESCIENCECENTER-NIGHT
+
+	WePANdownfromtheMOONtoaSTREETfullofSIRENSand
+	SHADOWYFIGURESrunninginthenight.LIZandKIMand
+	HARRYcomenearer.AveryWEIRDlightisemanatingfrom
+	theCENTER.
+
+				LIZ
+		He'sinthere.IknowPeterisinthere.
+		Shebreaksintoarun.
+
+				FLASH
+		Liz,don't...Lizcomeback...comeback!
+		LIZrunsinside.Theyrunafterher.ABOLTOF
+		ELECTRICITYflashesacrossthedoorway,stoppingthem.
+
+	INT.THECONTROLROOM-NIGHT
+
+	ThePLANETSareplayingontheCOMPUTERSCREEN.Thingsin
+	theroombegintorise,weightless.TheENERGYSTORMis
+	brewing!
+
+				OCK
+		Okey,dokey!!Myenergystormhas
+		started.MyAnti-Forceison!History
+		isbeingmade...Spider-Man,Rosomorf
+		cheerupfriends...we'reonourwayto
+		theunknowncosmos...wethreeareabout
+		tovisitheaven...realGodsheaven.
+
+				ROZ
+			(seestheskythroughthewindow)
+		Spider-Man!TheConjunction!It's
+		happening!
+
+	EXT.THESKY-STRANGECOLORS-NIGHT
+
+	TheCONJUNCTIONisnowhappening.
+
+	INSERT:SurrealDIALSspinmadly.
+
+	INT.SCIENCECENTER-NIGHT
+
+	LIZrunsintoaHALLWAYgoneberserk.Stuffisflying
+	everywhere.TILESpullfromtheWALLSandcrashtothe
+	ceiling.
+
+				LIZ
+		Peter!Peter,whereareyou?!
+
+	INT.CONTROLROOM-NIGHT
+
+	OCKthrowstheREDPOWERTHROTTLEto97%POWER.
+	Cacophony!The"BULLET"beginstoPULSEandTHROB!The
+	DIALSspin!TheCOUNTDOWNCLOCKreads,"00:05:58".
+
+	EXT.SCIENCECENTER-NIGHT
+
+	TheFULLMOONhangsoverthebuilding.FLASHandHARRY
+	andKIMstandattheentrancetotheCENTER.
+	FLASHstartstoruntothebuilding.
+
+				FLASH
+			(screaming)
+		Liz!Lizcomeonout!
+
+	TheyrunforwardbutastheyreachtheFRONTSTEPSthe
+	buildinglurchesupward.Thebottomstepbecomesawall
+	ofSTONEandDIRT,sixfeethigh.
+
+				HARRY
+		Getback!Flash...getback!
+
+				FLASH
+		Wow...!
+
+	Thenthebuildinglurchesupwardagain!Thistimeit
+	pullsFREEfromtheground.TheKIDStakecoverasWATER
+	LINESBURSTandELECTRICALWIRESSPARK.
+
+	INT.SCIENCECENTERHALLWAY-NIGHT
+
+	LIZopensadoor.
+
+				LIZ
+		Peter!
+
+	ThebuildinglurchesthrowingherbackacrosstheHALL
+	whereshecrashesthroughanotherdoor.
+
+	INT.CHEMISTRYLAB-NIGHT
+
+	Allmannerofstuffisflyingaround.LIZcomessliding
+	acrossthefloor.ShecrashesintoaCABINET.GLASSWARE
+	startstofallonher,butcrashesintotheCEILING
+	instead.SheisdraggeduptheWALL.Shekicksand
+	screamsagainsttheAnti-Force.
+
+	EXT.SCIENCECENTER-NIGHT
+
+	FLASH,KIMandHARRYlookonasheavyELECTRICALCABLES
+	stretchupwardtotherisingCENTERandthensnapin
+	showersofsparks.AstheyfallawaytheCENTERbecomes
+	airborne.TheCABLESwaveupatit,shootingarcsof
+	ELECTRICITYdirectlyatthebuilding.
+
+	INT.CHEMISTRYLAB-NIGHT
+
+	LIZslidesdowntheWALL.ShegrabsattheWINDOWand
+	looksout.Therestoftheuniversityrecedesbeneath
+	her,nowahundredfeetbelow.Andthey'restillrising!
+	FLASHandHARRYlookup.
+
+				FLASH
+		OhmyGod...Lizisinsidethere!
+
+				HARRY
+		AndProfessorRosomorfandcrazyOck.
+
+				FLASH
+		WhataboutPeter?Ishetherewiththem?
+
+				HARRY
+		No,butIbetSpider-Manis.
+
+	EXT.STREETINFRONTOFUNIVERSITY-NIGHT
+
+	PeoplelookupattheSCIENCECENTER.ACYCLIST,riding
+	andlooking,crashesintoaTAXI.MAXREISSleapsout
+	withtheBEAUTIFULSTARLETfromtheTAXI.
+
+				MAX
+		That'ssomeshow...ifeverIsawone.
+
+	INT.JAMESON'SOFFICE-NIGHT
+
+	He'slookingouthiswindowseeingtheUniversity'sLab
+	Buildingflyingby.Upanduptowardthesky.
+
+				JAMESON
+			(shouting)
+		Tearoutthefrontpage!Changethe
+		headline...Thebiggestnewsishappening
+		rightnow...weneedphotos...acamera...
+		getmeacamera...!
+
+	EXT.SKY-NIGHT
+
+	AverylongshotoftheSCIENCECENTERrisingintothe
+	CLOUDS.
+
+	INT.AUNTMAY'SBEDROOM-NIGHT
+
+	ShepullsasideaCURTAINandwatchestheSCIENCECENTER
+	rise.
+
+	INT.CONTROLROOM-NIGHT
+
+	OCKworkstheCOMPUTERastheCONSOLEsendsupSHOWERSof
+	SPARKS.Heglancesatthe"BULLET"whichnowPULSES.
+	TheCOUNTDOWNCLOCKat"00:04:18".
+
+				ROZ
+		WhereisitgoingOtto?
+
+				OCK
+		Otherworlds,Roz,othertimes,other
+		dimensions,whoknows?Whocares?
+
+				ROZ
+		Then...why?
+
+				OCK
+		Truth,Rosomorf.Lookatit!Thenew
+		truth!Thenewway!
+
+				SPIDER-MAN
+		Don'tlistentohimProfessorRoz.
+
+				OCK
+		No,youdon'tlistentothatclown,he
+		can'tsaveyou,ortheworldforthat
+		matter.
+
+	AWALDOreachesinandripsROZoffSPIDEY,flinginghim
+	backagainstaWALL.ROZlandsinaheapbeneathaFIRE
+	STATION(HOSE,EXTINGUISHER,AXE).
+
+	WeseetheWALDOreachoutforSPIDER-MAN.Itwraps
+	aroundhisFOOTandbeginstotug,slowly...
+
+				OCK
+		Onceandforall,Spider-Man...onceand
+		forallwe'llendthelegendofyour
+		powers.
+
+	OCKknocksSPIDER-MANwitharealBIGBLOWwithhisWALDO.
+	OCKisslowlydraggingSPIDER-MANtoaHUGEHOLEthat's
+	beenrippedinthefloorbytheBEAMSofELECTRICITY.
+	WeseeNewYorkahalfamiledownthroughthehole.We
+	seeSPIDEYbeingdrawnacrosstheHOLE.ThenROZcomes
+	flyinginwiththeFIREAXE.
+
+	ROZhacksawayattheWALDOandchopsitoff!Thestump
+	withdraws.OCKexaminesitinpainandfury!
+
+				OCK
+			(ultimatebetrayal)
+		You!!Youweremyteacher!!!
+
+	ROZdoesn'tevenlookback.HeandSPIDEYareattheedge
+	oftheHOLEandhe'sshakingSPIDEYfuriously.
+	OCKsendsouthisotherWALDOandbeginsbangingitonthe
+	floorinafrenzyoneithersideofROZandSPIDEY.Like
+	achilddenied,hesmasheshissteelfistsagainstthe
+	flooragainandagain.
+
+				OCK
+		Youweremyteacher!Andyouwantto
+		destroymyexperiment.Youarea
+		scientistforheavensake...don'tyou
+		wanttoknowwhat'supthere?
+
+				ROZ
+		Yes,butnotonaccountofourworld.We
+		haveonlyoneworld...onlyonelife.
+		Thefloorbeginstocrazeandthencracklikeicearounda
+		holeonapond.BANG!BANG!SPIDEYcomestojustasthe
+		sectionoffloorbeneathhimselfandROZgiveswayand
+		fallsthrough.
+
+	SPIDEYgrabsholdoftheedgeanddangles.Helooksdown
+	andseesROZfallingawaybeneathhim,disappearinginto
+	thedark.
+
+				ROZ
+			(callingbackfromthedarkskies)
+		Spider-Man!Onlyyoucansaveusnow...
+
+				SPIDER-MAN
+		Roz!!!
+			(turnstoOck)
+		Murderer!!!
+
+				OCK
+		Forgetthatoldfool,insect.My
+		Spider-Man...Comejoinmeonmy
+		fantasticvoyagetothe7thheaven.
+
+	EXT.OUTERSPACE-PERPETUALDARK
+
+	ThePLANETSarevirtuallyinline!
+
+	INT.SCIENCECENTERHALLWAY-NIGHT
+
+	LIZcomesrunningthroughit.ABOLTOFELECTRICITY
+	shootsfromtherighttotheleftinfrontofher.She
+	slamsonthebrakesandrunstheotherway.
+
+				LIZ
+		Peter!Peter!
+
+	INT.CONTROLROOM-NIGHT
+
+	TheCOUNTDOWNCLOCKisat,"00:02:59".OCKthrowsthe
+	POWERTHROTTLEto98%POWER.HelaughsandaWEBsplats
+	againsthisGLASSES.SPIDEYscramblestohisfeet.OCK,
+	stilltryingtogettheWEBGOOoffhisGLASSES,is
+	slammedintotheCONSOLEbySPIDER-MAN.SPARKSflyand
+	WALDOSflailblindly,smashingthings.OCKtearsoffhis
+	GLASSESandsquintsthroughtheFIREandSMOKEandGLARE.
+	SPIDER-MANTHWIPStheceilingandswingsintoadropkick!
+	OCKrecovers.HegrabsSPIDEYandslamdunkshimthrough
+	theholeinthefloor.
+
+	EXT.THEBOTTOMOFTHEBUILDING-NIGHT
+
+	SPIDER-MANfallsthroughtheair.HeshootsupaWEBand
+	THWIPS,itstickstotheROCKYbottomoftheFOUNDATION.
+	OCKappearsintheHOLE.HeseesSPIDEY'Sdilemma,
+	hangingonathreadofWEB.Ahalf-brokenWALDOsnakes
+	downandCLIPStheWEB.
+
+	ButtheWEBstickstotheWALDO!OCKshakesit,buthe
+	can'tgetloose.SPIDER-MANshootsoutanotherWEBatthe
+	ROCKBOTTOMand,withtheleverage,hepullsOCKout.
+	OCKswingsdowninawidearcandhisWALDOScatchonthe
+	ROCKupsidedown.Heholdsonfiercely.
+
+	OCKscramblesouttothesideoftheCENTERandbegins
+	lookingforanentry.SPIDER-MANisrightonhistail.
+	Thebuildingpitchessideways!OCKturnstofaceSPIDER-
+	MAN,hisbrokenWALDOSoutforBATTLE.
+
+	SPIDEYgrabsanEXPOSEDPIPEandbreaksitoff,
+	brandishingitlikeabroadsword.
+
+				SPIDER-MAN
+		Let'shaveit,oldboy!
+		AbizarreDUELtakesplace.TheCENTERpitchesthisway
+		andthat.SPIDEYandOCKmovefromfootholdtofoothold,
+		fromWINDOWtoLEDGEtoPARAPET.
+
+	NowtheCENTERpitchestoa45degreeangle.TheyDUEL
+	upsidedown!AWINDOWGRATEcrashesopenandLIZcomes
+	flyingout,holdingontotheGRATEfordearlife!
+
+				SPIDER-MAN
+		Liz!!
+		OCKseizestheopportunitytowhackSPIDEYacrossthe
+		head.SPIDEYloseshisfootingbutthebuildingnow
+		lurchesbackandLIZgoesflyingbackinside.SPIDEY
+		ducksinsidetooandpullstheGRATE.
+
+	SPIDER-MANuseshisgreatstrengthtomoveaHUGEPIECEof
+	SCIENTIFICMACHINERYinfrontoftheGRATE.
+
+				SPIDER-MAN
+		Comeon.
+
+				LIZ
+		Where'sPeter?Hemustbeheresomewhere.
+
+				SPIDER-MAN
+			(pullingherahead)
+		He'saround,don'tworry...we'llfind
+		him.
+
+	INT.CONTROLROOM-NIGHT
+
+	TheCOUNTDOWNCLOCKisat,"00:01:00"asSPIDEYcomes
+	flyinginwithLIZintow.
+
+				LIZ
+		Thisbuildingisflying.I'mina
+		goddamnflyingbuilding...
+
+				SPIDER-MAN
+		Ithinkwehavetopullsomeofthese
+		cables.Trythoseoverthere.I'llwork
+		onthese.Wegottaslowthisthingdown
+		somehow.Wegothelicopterscoming.
+
+	LIZlooksatsomeWIRING,apprehensiveabouteventouching
+	it.
+
+				SPIDER-MAN
+		Pull!
+
+	SheyanksoutaCABLE.Thebuildingpitches.Butwhen
+	SPIDEYpullsoneout,itrightsitself.
+
+	EXT.SCIENCECENTER-NIGHT
+
+	TheBIGBEAMSstartcuttingoutonebyone.TheCENTER
+	beginstoPITCHandYAW.TheCHOPPERSaregettingcloser.
+
+	INT.CONTROLROOM-NIGHT
+
+	TheCOUNTDOWNCLOCKreads,"00:00:15"asSPIDEYandLIZ
+	continuetopullWIRESandCABLES.TWOWALDOSerupt
+	throughthefloorandgrabSPIDEY.TheypullSPIDEYto
+	thefloor.Entangledinthesemolybdimumpythons,SPIDEY
+	strugglesvaliantly.LIZleapstohisaid.
+
+				LIZ
+		OhmyGod...
+
+	AthirdWALDO,abrokenone,snakesupfromtheHOLEand
+	beginsfeelingblindlyaroundontheCONSOLEforthePOWER
+	THROTTLE.
+
+				SPIDER-MAN
+		Thepower!
+
+	LIZseesthedamagedWALDOSheadingfortheREDTHROTTLE.
+	TheCOUNTDOWNCLOCKisat"00:00:10".LIZleapsandtries
+	towrestleitaway.Itwhipsinherarmsandsheholdson
+	tight.Itbangsheragainstthewallandthenthe
+	CONSOLE.Sheholdson."00:00:03".TheWALDOcrashes
+	LIZagainstthewallwhicheruptsinSPARKS.Sheletsgo
+	ofit.ItheadsforthePOWERTHROTTLE!"00:00:01!"
+	SPIDER-MANcan'tbreakthegripoftheWALDOS,buthecan
+	pullwithsuper-humanstrength.HeyanksOCKupthrough
+	theSTONEfloor.OCKhitstheceilingoftheCONTROL
+	ROOM.ONEWALDOgrabson.TheotheronethrowstheRED
+	POWERTHROTTLE!
+
+				OCK
+		Spider-Man.You'reendiscoming.Life
+		initspresentformisending...new
+		dimensions,newhorizons...
+
+	TheUNIVERSALBULLETbeginstoGLOW.TheGLOWsharpensto
+	aPOINTofLIGHT.SPIDER-MANholdsontightagainsta
+	rushingENERGYFLOWthat'spullingeverythingintheroom
+	towardsthePOINTofLIGHT.
+
+				LIZ
+			(bracingagainstthestorm)
+		Whatishappening?
+
+				SPIDER-MAN
+			(similarlybraced)
+		Idon'tknow!!!
+
+	LIZstartstoslipawayintotheflow.Shestruggles
+	againstit.
+
+				LIZ
+		Ican't...holdon!
+
+	SPIDEYTHWIPSherandshegrabsontotheWEB.
+
+				SPIDER-MAN
+		Holdtight,Liz,holdtight!
+
+	OCKdropscalmly,beatifically,totheflooroftheroom.
+	Hemovesslowly,underhisownpower,intotheLIGHT.
+
+				OCK
+			(spacedout)
+		Youcutmypower...there'stoolittle
+		power...It'ssotiny...sotiny...
+		there'sonlyspace...forme.ButI've
+		doneit,Spider-Man.Ihavebroken
+		through...I'vebrokenthrough!
+
+				LIZ
+		Don'tdoit,Dr.Octavius!
+
+				OCK
+		Okey...dokey...Nowthat'swhatIcall
+		anexperiment!!!
+
+	AshenearstheLIGHTheactuallybecomesapartofit.
+	HeradiatesLIGHT.Heshimmersandshines.Hefillsthe
+	roomwithBLINDINGLIGHT.
+
+	SPIDEYandLIZshieldtheireyes,andasthelight
+	diminishes,thestormsubsides.They'resafe.Exceptfor
+	thefactthatthey'reinafloatingbuilding,10,000feet
+	abovethecity!
+
+	EXT.SCIENCECENTER-NIGHT
+
+	AgainstthebackdropoftheMOON,aSQUADRONof
+	HELICOPTERSapproachestheCENTER.FromtheirPOV,aHUGE
+	CRACKopensacrossthefaceofthebuilding.TheCENTER
+	beginstodropinPULSINGSURGES.
+
+	INT.CONTROLROOM-NIGHT
+
+	SPIDER-MANisattheCONSOLEpullingandputtingback
+	WIRES.LIZ,fascinated,looksinattheWINDOWwhereOCK
+	disappeared.
+
+				SPIDER-MAN
+		Ican'tcontrolher.She'sdroppingtoo
+		fast!Alright...let'sgo!
+
+				LIZ
+		ButwhataboutPeter?We'vegottofind
+		Peter!
+
+				SPIDER-MAN
+		Peterwillbeokay,Ipromiseyou...
+		Let'sgobeforeit'stoolate.
+			(hegrabsher)
+
+				LIZ
+		Gowhere?
+
+	EXT.THECENTER-NIGHT
+
+	Itrotatesanddrops.TheHELICOPTERScomeinlikethe
+	cavalry.
+
+	INT.CONTROLROOM-NIGHT
+
+	Tryingtoleaveit,LIZandSPIDEYareconfrontedwitha
+	nightmare.Theroomistiltedata45%angle.PIPESare
+	bursting.SPIDEYhelpsLIZthroughtheobstacles.Debris
+	rainsdown.Theycomefacetofacewithadiagonalmaze
+	ofPIPES.
+
+				SPIDER-MAN
+		Maybethere'sanotherway...
+
+	AHUGECRACKopensabovethem.
+
+				LIZ
+		It'sbreakingapart!
+
+				SPIDER-MAN
+		Alright,keepmoving,astepatatime!
+
+	Theyscalethemaze,butastheyemergeontheotherside,
+	halfthefloorfallsaway!CentralParkawaits,8,000
+	feetbelow.
+
+				LIZ
+		Wehavetogoback.
+
+				SPIDER-MAN
+		Wecan'tgoback.
+
+	Helooksacrossatthedoor.Itismidwayupadiagonal
+	wall.HeshootsaWEBupattheceilingbetween
+	themselvesandthedoor.ThenheextendsahandtoLIZ.
+
+				LIZ
+		Forgetit...
+
+				SPIDER-MAN
+		Okay,haveityourway.
+
+	HeswingsacrossandlandsontheLEDGEoftheDOOR.Then
+	heswingstheWEBbacktoherlikeatrapeze.
+	LIZcatchestheWEBandlooksacrossatSPIDER-MAN,
+	furious.
+
+				LIZ
+			(shoutingacross)
+		WhatamIsupposedtodowiththis!
+
+				SPIDER-MAN
+			(shoutingback)
+		Goahead.It'seasierthanitlooks!
+		We'vegottotrythefireescape.
+
+	LIZswingsacrosslikeTARZANandSPIDEYgathersherinon
+	theLEDGE.Shedoesacomic"phew"andtheLEDGEbuckles
+	beneaththembutholds.SPIDER-MANtriestoopenthe
+	door,butit'sstuck.
+
+				LIZ
+		Thedoorisstuck.
+
+	SPIDER-MANbendshisbacktothetask.Ittakeallhis
+	strength,butwithacomicAAAAARGGHH!HebendstheDOOR
+	open.
+
+	EXT.FIREDOOR-NIGHT
+
+	TheyburstoutontotheROCKFOUNDATIONofthebuilding.
+	NewYorkisrushinguptomeetthem.TheWINDcreatedby
+	theirfallbuffetsthem.TheHELICOPTERSarrive,andthe
+	fallingbuildingplungesrightpastthem.TheHELICOPTERS
+	lookacrossateachother,helpless.
+
+	EXT.THECENTER-NIGHT
+
+	Itdropslikeastone.
+
+	EXT.FIREDOOR-NIGHT
+
+	SPIDEYandLIZarefallingawayfromtheDOOR,sliding
+	alongtheROCK.LIZisstoppedbyaRETAININGWALL.
+	SPIDEYkeepssliding.HeTHWIPSthewallandthen
+	disappearsovertheedge.LIZscreams!
+
+	LIZfightstoherfeetandgrabsontotheWEBSTAND.She
+	pullsonitwithallherstrength.Shepullsandpulls
+	andpulls.WeseetheWEBrunningupbetweentheROCKS.
+	ShegivesonelastpullandcomesupwithanEMPTYWEB
+	END.
+
+	Along,longbeat.
+
+				PETER(V.O.)
+		Liz,Uphere!
+
+	LIZlooksupandseesPETERhangingouttheWINDOWtwo
+	storiesaboveher.HethrowsoutaROPELADDER.LIZ
+	grabsit.Shebeginstoclimb.
+
+	INT.CLASSROOM-NIGHT
+
+	PETERpullsLIZthroughtheWINDOW.Thereisnotimefor
+	anembrace.
+
+				PETER
+		Comeon.I'vefoundawaydown.
+
+				LIZ
+			(atlonglast,love)
+		Iknewyouweregoingtosaythat.
+
+	TheyrunoutoftheROOM.WePANdownandsee,crumpled
+	beneaththeWINDOW,theSPIDER-MANsuit.
+
+	INT.LARGEPHYSICSLAB-NIGHT
+
+	ThisistheLABwesawintheopeningsequence.PETERhas
+	turnedonthelights.He'sgotahandfulofROPE.
+
+				LIZ
+		Where'sthewayout?
+
+				PETER
+		Rightthere!
+
+	WearelookingattheHUGEAMERICANFLAG.
+
+				PETER
+		Comeon,helpmewiththis.
+
+	EXT.THEFOUNDATION-NIGHT
+
+	LIZisalreadydowntheROPELADDERandisholdingitfor
+	PETER.HecomesdownwithaHUGEbundleofRED,WHITE&
+	BLUE.
+
+				PETER
+		Okay,standstill.
+
+	HetiessomeROPEaroundherwaist.
+
+				LIZ
+		Isthisgoingtowork?
+
+				PETER
+		HowdoIknow?
+
+				LIZ
+		Ijustadoreconfidenceinaman.
+
+				PETER
+		Comeon...
+
+	TheymovetotheedgeoftheROCKandlookdown.CENTRAL
+	PARKisstillacouplethousandfeetdown.
+
+				LIZ
+		Whatisityousaywhenyoujump?
+
+				PETER
+		Yourprayers.
+
+	TheySCREAMasthebuildinglurchesagain,knockingthem
+	totheground.TheystarttoslideacrosstheROCK.They
+	reachoutforeachotherbuttheirhandsdon'tquite
+	reach.
+
+	Slowly,theyinchbacktogether,buttheFOUNDATIONcracks
+	betweenthem.
+
+	EXT.THECENTER-NIGHT
+
+	Itspinsandfallsbeneathus.Down,downitgoes.And
+	thenitcrashesintotheGREATLAWN.Ahugecloudof
+	debrisshootsupward.
+
+	EXT.THESKY-NIGHT
+
+	ThereisabeautifulFULLMOON.PETERandLIZfloatdown
+	intotheframelitbyitswonderfullight.
+
+	TheAMERICANFLAGwhichhasturnedintoahugeparachute.
+	Theyholdeachothertight.TheycanhearSIRENSbelow.
+	Theybegintolaughwithrelief.Thentheystop.The
+	windbillowsLIZ'SskirtandplayswithPETER'Shair,and
+	snapsintheAMERICANFLAG.
+
+				LIZ
+		Wehavealottothankyourfriend
+		Spider-Manfor.
+
+				PETER
+		Somehow,Idon'tthinkwe'veseenthe
+		lastofhim.
+
+				LIZ
+		Peter...!Finders,keepers...
+
+				PETER
+		What...?Whatisit?Whydoyoulook
+		likethat?
+
+				LIZ
+		IthinkI'minlove.
+
+				PETER
+			(evenhiseyesblush)
+		Youare...
+
+				LIZ
+		Withyourfriend...
+
+				PETER
+		Spider-Man?You'reinlovewith
+		Spider-Man?
+
+				LIZ
+		Iam...youthinkwe'llseehimagain?
+
+				PETER
+		Wemight...youneverknow.
+		Hekissesher.
+
+				LIZ
+		Oh.
+			(bittersweet)
+		Thismaybetheendofabeautiful
+		friendshipyouknow?
+
+				PETER
+		Nah.
+
+	Theylandinthecenteroftheparkundertheparachute.
+	Theystaythereandkiss...completelycoveredbythe
+	flag.Camerapullsuptoshowthebuildingfloatingaway.
+
+	THEEND
+
+
+
+
+
+
+
+
+
+
+Spider-Man
+Writers:  DavidKoepp
+Genres:  Action  Adventure  Sci-Fi
+UserComments
+
+
+
+
+
+
+
+

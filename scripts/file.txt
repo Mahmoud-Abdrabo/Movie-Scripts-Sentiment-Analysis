@@ -1,0 +1,3901 @@
+
+
+
+
+12-Script
+
+
+
+
+CUTFROMBLACK
+
+TITLE:FIN
+
+EXTERIOR-LA-DAY
+Finofred1957ChevyImpalaconvertibledriving
+somewhereintheWest.Acarpassesgoingtheother
+way.
+
+TITLE:PLACE:LosAngeles
+
+MUSIC:ShadowyMenOnAShadowyPlanet"GoodCop,
+BadCop."
+
+EXTERIOR-LA-DAY
+POVdrivingonfreewayinrain.
+
+EXTERIOR-LA-DAY
+Peoplewithumbrellasstandingoncorner.
+
+EXTERIOR-LA-DAY
+Peoplewithumbrellawalkingoverbridge.
+
+EXTERIOR-LA-DAY
+Peoplewalkacrossdowntownintersectionwith
+umbrellas,businbackground.
+
+EXTERIOR-LA-DAY
+Rainandshadowonpavement.
+
+EXTERIOR-LA-DAY
+LAriverwide,medium,close.Weseegraffiti
+swampedbyhighwater.
+
+EXTERIOR-LA-DAY
+Largemanwalkingwithumbrella.
+
+WEHEAR:THUNDER
+
+MUSICSTOPS
+
+			FIRSTWOMAN
+	I'vebeenhereoneyearandI'velived
+	throughanearthquake,fires,floods...
+
+			SECONDWOMAN
+	Therains...itjustkeepscoming...the					
+	floods...thehillsidesarecomingdown...
+	youcan'tgettoandfromworkandit's
+	justamess.
+
+EXTERIOR-LA-DAY
+Peoplewalkingagainsthighwinds,umbrellareversed.
+
+EXTERIOR-LA-DAY
+Familywalkingintherain.Childrenprotectedby
+plasticbags.
+
+
+			THIRDWOMAN
+	Yousurvivebynaturalinstincts,you
+	gowiththeflow.
+
+SFX:THUNDER
+
+EXTERIOR-LA-DAY
+Woman'sfootsteppingacrossswollengutter.
+
+MUSICRESTARTS
+
+EXTERIOR-LARIVER-DAY
+Prowofbuttressinrapids.Therainshavestopped,
+onlythefloodsremain.
+
+EXTERIOR-BEACH-EVENING
+Wavesbreakingonbeach.
+
+EXTERIOR-OCEAN-NIGHT
+Tankeratnight.
+
+EXTERIOR-AIRPORT-NIGHT
+Airplanelightscomeon.
+
+EXTERIOR-OCEAN-NIGHT
+Landinglightsoverwater.
+
+EXTERIOR-AIRPORT-NIGHT
+Airplanelandingatnight.
+SFXjetpassingoverhead.
+
+EXTERIOR-LA-NIGHT
+Camerapansoverthecityandovertheocean.
+
+EXTERIOR-LA-NIGHT
+Thepanningcitylightsconvergewithapassingcar.
+
+EXTERIOR-LA-NIGHT
+ItisTONY,ahandsomemaninhis30's,drivingon
+Melrose.Heapproachesanintersectionthatis
+blockedbyatruck.Heflasheshisheadlights
+signalingtothetrucktomoveandlethimbybut
+thetruckstops.TONYisstuck.
+
+EXTERIOR-LA-DAY
+ALLEN,astoutcomedian,atatempjob,answering
+phones.
+
+
+			TALKSHOWHOST(V.O.)
+	Andwe'rebackwith"Interpreting
+	YourDreams."AndIbelievewe
+	haveAlleninHollywoodonline...
+	12.HelloAllen...areyouthere?
+	Hello..?
+
+ALLENhastheTALKSHOWHOSTonholdsohedoesn't
+hearher.
+
+
+			ALLEN
+	Okay...holdon.YeahI'lltakecareof
+	youinasecond...I'mtransferring
+	youover..
+
+			TALKSHOWHOST
+	Weareliveontheair....Hello...?
+
+			ALLEN
+	Hello.?YeahokayI'vegotsomebodyelse
+	onhold...I'mgoingtotransferyou
+	over.Itmightbeasecond,justholdon.
+
+			TALKSHOWHOST
+	(aside)I'monhold..
+
+EXTERIOR-THEBIGISLANDFROMABOVE-DAY
+TheBigIslandfloatsinsparklinglight.WEHEARa
+radioshowfilteredthroughthesmallspeakerofan
+oldradio.
+		
+
+			TALKSHOWHOST
+	Okay,we'regoingtohavetogo...
+	
+			ALLEN
+	Okay,ohdoctor.
+
+			TALKSHOWHOST
+	Hello?
+
+EXTERIOR-RANCHHOUSEFROMABOVE-DAY
+Weseerooftopsofranchbuildingsfromhighabove.
+WeHEARthesoundofaplaneflyingoverhead.We
+HEARALLEN'Svoice.
+
+
+			ALLEN
+	Areyouthere?
+
+EXTERIOR-RANCHHOUSE-DAY
+TheRanchHousestandsisolatedinadryisland
+valley.Theplanepassesoverhead.
+
+
+			TALKSHOWHOST
+	You'reliveontheair.
+
+INSERTVIEWonRADIO.WeHEAR
+
+			ALLEN
+	CanIusemyrealnameontheradio?
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELissittinginfrontofamirrorputting
+onhermakeup.Sheislisteningtothebroadcast.
+ShepaysattentiontoALLEN'sdreamwhenhesaysthe
+word"invisible".
+
+TheTALKSHOWHOSTspeaksflatly,angrily.
+
+
+			TALKSHOWHOST
+	Whatisyourdream?
+
+			ALLEN
+	FirstofallI'minvisible.Isee
+	myselflookinginamirror.I'm
+	havingthisdreamalmosteverynight.
+
+MARIE-NOELlistensmorecarefullytotheradio.
+
+
+			TALKSHOWHOST
+	Yes?
+
+VIEWON:ASparklinglake.
+
+VIEWON:MARIE-NOELthrowingbouquetatherwedding.
+
+
+			ALLEN
+	AndthenextthingyouknowI'm
+	gettingmarried.Idon'tknowto
+	whom....
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELlooksinthemirroragain;the
+conversationontheradioaffirmssomethingshe
+knowstobetrue.
+
+
+			TALKSHOWHOST
+	Andhowlonghaveyoubeenhaving
+	thisdream?
+
+			ALLEN
+	Likeanentiresolidmonth.
+
+			TALKSHOWHOST
+	Uhhuh...
+
+EXTERIOR-LAHARBOR-DAY
+AtruckwipestheframeandweseeMARIE-NOEL
+walkingalongthehighwayataleisurelypace.
+
+
+			ALLEN
+	ThenallofasuddenIseemyself
+	walkingdownaroadbytheharbor....
+
+TheTALKSHOWHOSTinterrupts.WEHEARatelephone
+ring.
+
+
+			TALKSHOWHOST
+	Andhowdoyoufeelatthispoint
+	inthedream?
+
+EXTERIOR-LA-NIGHT
+TONY,havingbeenstoppedbythetruck,cutsdowna
+sidestreettogetaroundthegridlock.WeHEAR
+ALLEN'sphoneRING.
+
+
+			ALLEN
+	Canyouholdonforonesecond...
+	Hello.
+
+			TALKSHOWHOST
+	No,actuallywecan't...Hello?
+
+INTERIOR-OFFICE-DAY
+ALLENistryingtojuggletoomanythingsatonce.
+Hetriestotransferincomingcallswithoutlosing
+them.HehastheTALKSHOWHOSTonholdagain.
+
+
+			ALLEN
+	Yeah,I'vegottwootherlines.
+	Canyouholdasecond?Great....
+
+			TALKSHOWHOST
+	Hello!AllenfromHollywood!
+
+			ALLEN
+	Hello...yeah...holdon.Ican
+	transferyounow.
+
+EXTERIOR-HARBOR-DAY
+AMANfixesthetireofanoldMercedesasMARIE-
+NOELwalksintoframe.MARIE-NOELstoopsdownand
+looksathisface.Themanhasnoawarenessofher.
+Sheisinvisible.
+
+
+			TALKSHOWHOST
+	Areyouthere?Hello?
+
+			ALLEN
+	Hi.Hi.Sorry.
+
+			TALKSHOWHOST
+	Allenwedon'thavethetime....
+
+			ALLEN
+	Sorry..
+
+			TALKSHOWHOST
+	Allenwe'reontheairandyou
+	cannotputmeonhold.
+
+			ALLEN
+	I'mreallysorry....
+
+			TALKSHOWHOST
+	GoonwithyourdreamAllen.
+
+			ALLEN
+	AmIon?
+
+			TALKSHOWHOST
+	Yes.
+
+			ALLEN
+	Okay.I'mwalkingalongtheroaddown
+	bytheharbor,andI'minvisible,and
+	Igoaroundlookingatpeopleknowing
+	thattheycan'tevenseemeandin
+	thisdream.....
+
+INTERIOR-CAR-DAY
+MARIE-NOELisnowinthecarwiththedriverwho
+fixedtheflat.ThedrivercannotseeherandMARIE-
+NOELflickshiseartoteasehimandtesther
+invisibility.
+
+
+			ALLEN
+	...Iridearoundwithpeople.Iget
+	intheircars,Igoallovertown.
+
+INTERIOR-OFFICE-DAY
+ALLENhasrisentoapeakinenergy.
+
+
+			ALLEN
+	Imeanhere...this,this,this.
+
+			TALKSHOWHOST
+	Andhowdoesitfeeltoyou?
+
+VIEWonPHONE:WEHEARaRING
+		
+			ALLEN
+	Canyouholdonasecond?
+
+NOTE:DISCONTINUITY-Glassesdisappearfrom
+ALLEN'sHand.
+
+VIEWONALLEN
+HeturnstoacolleagueintheofficewhiletheTALK
+SHOWHOSTlanguishesonhold.
+		
+
+			ALLEN
+	I'vegottwojuicecommercials.I'm
+	likethespokesmanforthecompanynow.
+	IgotaBaskeandRobbins,andI'mon
+	availforacoupleofbeerthingsthat
+	aregoingon..
+
+WEHEARanotherRING.Ahandintheforeground
+picksupaphone.ALLENgoesbacktothelineof
+theTALKSHOWHOST.
+
+
+			COLLEAGUE
+	Hello...
+
+			ALLEN
+	Dr.PowellI'mback....
+
+EXTERIOR-LA-NIGHT
+TONYcontinueshisshortcutaroundthegridlock.His
+carpassescamerainasuburbanneighborhood.
+
+
+			TALKSHOWHOST
+	Ithinkwe'rerunningoutoftime
+	hereAllen.
+
+			ALLEN
+	Sorrytoputyouonhold....You
+	seethenIgetoutofthecar...
+
+EXTERIOR-LA-EVENING
+ALLENwalksfromhisjobtohiscar.
+
+		
+			ALLEN
+	...andIwalkallday...
+
+EXTERIOR-LA-NIGHT
+MARIE-NOELwalksdownHollywoodBlvd.Creaturesof
+thenightsurroundher.
+
+
+			ALLEN
+	...andallnight.
+
+			TALKSHOWHOST
+	Don'tputmeonhold...
+
+EXTERIOR-LA-NIGHT
+ALLENwalkingonabackstreet.
+
+
+			ALLEN
+	No,no,no,no.I'matwork.I'matwork.
+
+			TALKSHOWHOST
+	Isthisarealcall?
+
+			ALLEN
+	Whatdoyouthink?DoyouthinkI'd
+	makeafakecallinthemiddleofwork?
+
+EXTERIOR-SIDESTREETLA-NIGHT
+TONYturnsthecornerandheadsbacktoMelrose
+towardapointbeyondthegridlock.
+
+
+			TALKSHOWHOST	
+	I'mfeelingveryleftoutherebecause
+	you'renottellingmehowyoufeel.
+	I'mtellingyou....
+
+EXTERIOR-MELROSEBLVD.-NIGHT
+MARIE-NOELwalkstowardcameraasALLENentersframe
+ontheleft.ALLENandMARIE-NOELpassatthecorner.
+Neithernoticestheother.TONYpullsintotheframe
+attheintersectionandMARIE-NOELseesTONYwho
+doesnotnoticeeitherALLENorMARIE-NOEL.MARIE-
+NOELrunstoTONY'Sconvertiblecarandjumpsinthe
+back.SheridesjoyfullyasTONYspeedsoff.
+
+
+			ALLEN
+	Andthenthisreallystrangething
+	happens.
+
+			TALKSHOWHOST
+	Whatdoyoudoforaliving?
+
+			ALLEN
+	WhileI'mwalking...I'manActor...
+	
+			TALKSHOWHOST
+	Soinotherwordsyouareinlimboin
+	yourdailylife.
+				
+			ALLEN
+	I'mwalking,andIseemyselfwalking,
+	butIdon'tstop,Ijustkeeponwalking.
+
+			TALKSHOWHOST
+	Youmustbefeelinginvisibleinyour
+	dailylifeandit'scomingoutinyour
+	dreams.
+
+			ALLEN
+	Iwanttoknowwhatyouthinkaboutthe
+	dream,letmefinishit!Canyouholdon
+	asecondplease?
+
+			TALKSHOWHOST
+	Youcannotputmeonhold....I'msorry
+	butwe'regoingtohavetogotoMike
+	inDowneyonline13.Thankyouverymuch
+	forcalling.
+
+
+TITLE:"STARTHERE"
+
+EXTERIOR-LA-SUNRISE
+Weseeadistantmountainsilhouettedagainstthe
+morninglight.WeHEARaplaneinthedistance.The
+planeisvisibleasaspeckintheframeandflies
+closetothemountain.Thesunrisestotheopening
+cadenceof:
+
+MUSIC:MOZARTSYMPHONY34#1
+
+Theplanegrowsmorefaintasthesuncontinuesto
+rise.
+
+
+EXTERIOR-PARK-SUNRISE
+TONYandMARIE-NOELwalkacrossaplayingfield.
+Theylookbehindthemfearfully.
+
+MUSIC:EvanLurie"Deception"
+
+
+			TONY
+	Comeon...
+
+			MARIE-NOEL
+	Thisisn'tthewaywecame.
+
+			TONY
+	Yesitis.
+
+TITLE:"ACTORCREDIT"
+
+EXTERIOR-PARK-SUNRISE
+TONYandMARIE-NOELarriveataparkbench.They
+sitontopofit,resting,waiting,thenthey
+interrupteachother.
+
+
+			TONY
+	Let'snot.
+
+			MARIE-NOEL
+	Let'snot.Sorry.
+
+			TONY
+	We'lljustgohomeandwe'llwaititout.
+
+			MARIE-NOEL
+	Thisplacestinks!
+
+MARIE-NOELstandsupandmovestotheothersideof
+thebench,herbacktowardsTONY.
+
+EXTERIOR-PALACE-NIGHT
+BRENDAwalksthroughtheraintowardthedoorsof
+theconcert.Wawaguitarburstsfromtheinside
+throughtheunopeneddoors.BRENDAlooksmurderous
+inherwildhairandhotpants.
+
+INTERIOR-HALLOWEENPARTY
+TONYandMARIE-NOELwanderseparatelyaroundthe
+partyascostumedhipstersswaywiththemusic.TWO
+WOMENreactinhorrorassomethingunseenoccurs
+whichcausesthecrowdtopanic.ASHEEPisleft
+standingintheemptyhall.
+
+TITLE:"ACTORCREDIT"
+
+EXTERIOR-BENCHINSAMEPARK-SUNRISE
+TONYandMARIE-NOELbothscratchtheirearsatthe
+sametime.AfaintsoundofthundercausesTONYto
+lookintothedistance.Theyinterrupteachother
+again.
+
+
+			TONY
+	Let'snot.
+
+			MARIE-NOEL
+	Youknow.....Youknow,atthispointI'm
+	blamingitallonbadkarma.Thisishow
+	wedie,man.Iwishthey'djustgetit
+	overwith.
+
+MUSICSTARTS
+
+
+			TONY
+	Don'tgiveup.Imeannothinghashappened
+	tous.She'llprobablybeattheboatwaiting
+	foruswhenwegetthere.
+
+EXTERIOR-ADJACENTSTREET-SUNRISE
+BRENDAfastwalksonastreetnexttothepark.As
+sheapproaches,shesuddenlystops.WEHEARthe
+soundofrain.Itisaclearmorning.Perplexed,
+shelaughs.
+
+EXTERIOR-PARK-SUNRISE
+TONYandMARIE-NOELwalkurgentlythroughawooded
+sectionofthepark.Thesoundofthundergets
+louderandloudergettingclosertothem.TONYgrabs
+MARIE-NOEL'Sarmasthefearfulsoundpassesclose
+tothemwithoutincident.
+
+EXTERIOR-ADJACENTSTREET-SUNRISE
+BRENDAwalkspastthecamera,stillperplexedbythe
+oddoccurrence.
+
+EXTERIOR-LA-SUNRISE
+WeseethemountainagainandcontinuetoHEARthe
+airplane.
+
+EXTERIOR-WESTLOSANGELES-SUNRISE
+Thefogiscomingin.Topsofbuildingsdisappear.
+
+
+			TONY
+	Let'snotbenaiveabouttheearthquake...
+
+EXTERIOR-CENTURYCITYFROMTHEAIR-SUNRISE
+Thefoggetsthicker...
+
+	
+			TONY
+	It'sagoodsign...
+
+VIEWonWILSHIREBLVD...ThickFog.
+
+
+			TONY
+	That'swhatsavedus.
+
+EXTERIOR-LA-SUNRISE
+Weseethesilhouetteofbuildingsfromadistance.
+Thesunrisesabovethem.
+
+EXTERIOR-PARK-SUNRISE
+TONYandMARIE-NOELcontinuetowalkurgently
+throughawoodedsectionofthepark.
+
+
+			MARIE-NOEL
+	Letmetellyou,Ihadapremonition.Ihad
+	theworstfeelingwhenshesaidshewasgoing
+	togoupandseetheband.
+
+EXTERIOR-PARK-DAY
+TONYandMARIE-NOELwalkalong,totallyengulfedin
+fog.
+
+			MARIE-NOEL
+	Whatifwegetitfornotwarningher?
+
+THEIRPOV
+Weseeasheepstandingbesideatreeinthefog.
+
+EXTERIOR-PARK-MORNING
+Throughafogweseeasheepstandingnexttoatree.
+MARIE-NOELandTONYarriveatthetree.Theyare
+horrified.
+
+INTERIOR-ALLEN'SBEDROOM-MORNING
+ALLEN'sphonerings.Hewakessuddenlyandsitsup
+inbed;hisansweringmachinegoeson.
+
+WeHEARMUSIC:"BeMyBaby"
+comingfromasourceoutsideofthebedroom.
+
+
+			ALLEN'SVOICE
+	HithisisALLENat969-8895.I'mnot
+	homerightnowbutifyouwanttoleave
+	meamessageI'llgetbacktoyouassoon
+	asyoucan...
+
+ALLENlistensforaminute.Heisnotquiteawake.
+
+TITLE:"ActorCredit"
+
+ALLENgetsupandwalkstothemirrorwaitingfor
+hislongmessagetoend.Helooksmelodramatically
+athisface.WeHEARTHUNDER.Hepullsathisface.
+Hesitsbackdownonhisbedwaitingtoseeif
+someoneisontheline.
+
+
+			ALLEN'SVOICE
+	Ifit'simportantandduringthedayyou
+	cancallmeatKnappCommunications.The
+	numberis(213)932-1465.Uh,Ishouldbe
+	thereallday.Andifit'snotimportant
+	andyoudon'twanttocallmethereleave
+	amessageonthismachinebutdon'thang
+	upIreallyhatethatand,uh,that'sit,bye.
+
+WeHEARaBEEPbutnooneisontheline.ALLEN's
+headhitsthepillowandheflashesto.
+
+ClipofScorcese'sMeanStreets.WhereKeitel'shead
+hitsthepillow.
+
+ALLENwalkingsatisfied.
+
+SCENEFROMALLEN'sPizzacommercial,elbowsout.
+
+EXTERIOR-STREETINFRONTOFALAN'SAPARTMENT
+Cameradolliespastapickuptruck.Thebackofthe
+truckisfilledwithshoppingcarts.Amanis
+loadingshoppingcartsintothetruck.Asthecamera
+reachesthedoorofthetruckwehearthesourceof
+theloudmusic.WeseeEUGENE,ahomelessman,who
+hashishandouttothedriverofthetruck.The
+truckpullsawayandEUGENElooksaroundin
+confusion.WeHEARTHUNDER.EUGENElooksatALLEN's
+building.
+
+SCENEFROMALLEN'sdeodorantcommercial,elbowsin.
+
+BacktoALLENrubbinghiseyes
+
+TITLE:"DirectorCredit"
+
+CUTTOBLACK
+
+
+SILENCE
+
+MUSIC:Bach:WellTemperedClavier#10
+
+Rackfocus:MOON
+
+INTERIOR-ISLAND-NIGHT
+MARIE-NOELissittinginthedark,smokinga
+cigarette.
+
+
+			MARIE-NOEL(V.O.)
+	Mydespairhasastrangeshape.Itdoesn't
+	hurtlikesomethingthathurtsyourbody.
+	It'sseeingthecontinuity.....
+
+TITLE:MARIE-NOELataboutthetimeofthetragic
+lossofherhalf-sister.
+
+VIEWONTONY,speakingtoMARIE-NOEL.
+
+
+			MARIE-NOEL(V.O.)
+	.....ofsomethinghopelessgoingonandon
+	yearafteryear.....
+
+VIEWONLosAngelesatnight
+
+
+			MARIE-NOEL(V.O.)	
+	....WhenIclosemyeyesIseethecity....
+
+EXTERIOR-24HRGASSTATION-NIGHT
+MARIE-NOELwalksaimlessly.
+
+
+			MARIE-NOEL(V.O.)
+	ButwhenIgooutallIseearecluesand
+	patterns.....
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELwritesatanolddesk.Windblows
+throughanopenwindow.
+
+
+			MARIE-NOEL(V.O.)
+	...ortheendlesswaitforcoincidence.
+
+EXTERIOR-24HRGASSTATION-NIGHT
+MARIE-NOELisataloss.Shehasexhaustedher
+options.
+
+
+			MARIE-NOEL
+	Eventsslowlyunfoldwiththepossibility
+	thatmypatiencewillbecomeaccidentalwaste.
+
+VIEWonMARIE-NOELspeakingtoTONY.
+
+
+			MARIE-NOEL
+	ButatthesametimeIseethatit'sexactly
+	whatputMominthepositionshewasalwaysin.
+
+			TONY
+	Thefirsttimeyoufeelsexualyouseefate
+	allaroundyou?Isthatwhatyouwant?
+
+			MARIE-NOEL
+	Yes,andIreallydeserveit.
+
+			TONY
+	Ihavethefeelingthatthat'sdad'sonly
+	motive.
+
+VIEWofEclipseoftheMoon.
+
+
+			TONY
+	Theythinkweareselfish...
+
+TITLE:TONYinthecity,FILMOREontheisland.
+
+
+			TONY
+	Theythinkweshouldprocreate.
+
+TONYbreathesasigh.
+
+
+			INTERVIEWER(V.O.)
+	Sothereweretwoguysandwhatweretheir
+	names?
+
+EXTERIOR-FRONTYARDOFALLEN'SHOUSE-NIGHT
+ALLENsquintsfromthebrightnewscameralights.
+
+			ALLEN
+	Nottwoguys,agirlandaguy.Theywere
+	related.Marie-Noelthat'shername,notvery
+	GreekIknow...
+
+			INTERVIEWER
+	Andshewastheoneyouweremarriedto?
+
+			ALLEN
+	Yes.
+
+			INTERVIEWER
+	Whoownthishouse?
+
+			ALLEN
+	Ido,Imeanwedid.
+
+MUSICSTARTS
+
+EXTERIOR-LOSANGELES-DAY
+TONYacrossrailroadtracks.
+
+
+			MARIE-NOEL(V.O.)
+	Youstandtoloseeverythingyouworked
+	forinthelast60years.Theranch,
+	ourinheritance....
+
+EXTERIOR-LOSANGELES-DAY
+TONYwalksonthesidewalknexttoabusystreet
+flippingacoin.
+
+
+			MARIE-NOEL(V.O.)
+	Whyhaveyousetouttoproveeverythingis
+	herebychance?
+
+EXTERIOR-ISLANDBACKCOUNTRY-DAY
+MARIE-NOELwalksacrossagrassyfieldandseesa
+vortexofoakleavesswirlingunderatree.Wesee
+sheissuddenlydisturbedbyherownfeelings.
+
+
+			MARIE-NOEL(V.O.)
+	Iwasn'ttooyoungtoknowwhathappenedthe
+	lasttimewewerefoundout.Youdon'tact
+	likeI'mthenexttodie.
+
+EXTERIOR-FRONTYARDOFALLEN'SHOUSE-NIGHT
+ALLENcontinueshisinterview.
+
+			ALLEN
+	Itstartedthisway.
+
+			INTERVIEWER
+	Soyou'reanactor?
+
+			ALLEN
+	Yes.I'manactor.That'swhereImet
+	theguy.
+
+INTERIOR-ELEVATOR-DAY
+ALLENstandsinsideelevatorandTONYgetsin.
+
+
+			ALLEN
+	Imethimatacastingcallforacommercial...
+	HesaidhisnamewasTony.
+
+EXTERIOR-HOLLYWOOD-DAY
+ALLENwalksalongthesidewalkonhiswaytoa
+castingcall.
+
+
+			ALLEN
+	Iwaslate...
+
+INTERIOR-ALLEN'STEMPJOB-DAY
+ALLENtalksonthephonewearingsunglasses.
+
+
+			ALLEN
+	SoIhadtomakeupanexcuseforwork..
+
+WIDERviewonALLENatwork.
+
+
+			ALLEN
+	SometempjobIwasworkingdowntown.
+
+VIEWonRainyskywithjetandpalmtree.
+
+VIEWonLAriver.
+
+VIEWonPEOPLEatbusstop.
+
+
+			ALLEN
+	Itwasraining,andtherewasthisfloodand
+	everybodywasjittery.
+
+EXTERIOR-FRONTYARDOFALLEN'SHOUSE-NIGHT
+ALLENcontinueshisinterview.
+
+
+			ALLEN
+	Becausesomethingthatbiginnaturedoesn't
+	usuallyhappenaroundhereexceptanearthquake,
+	oryouroccasionalrarewintersnowstormevery
+	tenortwentyyears.
+
+EXTERIOR-AGAINSTBLACK-NIGHT
+MARIE-NOELspeakstoTONY.
+
+
+			MARIE-NOEL(V.O.)
+	Iknowwhyyou'resohappyallthetime.
+	Thisplaceisafreelunch.
+
+VIEWofTONYflippingcoin.
+
+VIEWofcliffsonisland.
+
+
+			MARIE-NOEL(V.O.)
+	Realityisarefractionfromaphysical
+	process.Thesumofthestarsisnothing.
+	
+MUSICBUILDS,wehearWIND
+
+VIEWoftreesblowing.
+
+VIEWofMARIE-NOELwriting.
+
+EXTERIOR-LOSANGELES-DAY
+WePANwithanambulanceasitpasses.Tonywalks
+alongflippingcoin.Walkingacrosscrosswalk,he
+changeshisdirection.Comestoanintersection.
+
+MUSICSTOPS
+
+WeHEAR:Citystreetambiance.
+
+TONYflipsagain,sees"Heads"walkson.
+
+EXTERIOR-LosAngeles-DAY
+Comestoanimpasse,givesup.
+
+MUSIC:WolfgangAmadeusMozart:ConcertforPiano&
+Orchestra#20
+
+EXTERIOR-FRONTYARDOFALLEN'SHOUSE-NIGHT
+ALLENcontinueshisinterview.
+
+TITLE:ALLEN'Stabloidinterview,attheend,after
+itwasallover.
+
+
+			CAMERAMAN
+	Okay,readytoroll.
+
+			INTERVIEWER
+	What'syourname?
+
+			ALLEN
+	Allen.
+
+			INTERVIEWER
+	Andyouwerekidnappedbyaliens,didyousay?
+
+			ALLEN
+	No,no,no,no.Iwasinvolvedwiththiswoman
+	andthisguy.
+
+			INTERVIEWER
+	Wait,wait,wait,letmeunderstandthis...you
+	wereinvolvedwithagoddess?LikeaGreek
+	goddess?
+
+			ALLEN
+	WithaGreek,Zeus,Athenatypegoddess.
+
+			INTERVIEWER
+	Whereisshenow?
+
+			ALLEN
+	She'slikehuntingquailintheSierrasnow.
+	
+			INTERVIEWER	
+	What?
+		
+			ALLEN	
+	Sheleftmefordirt.
+
+			INTERVIEWER	
+	Andwereyoumarried?
+
+			ALLEN
+	Yeah,weweremarriedrightbefore....
+	
+
+TITLE:"Allenataboutthetimethedisasters
+started"
+
+INTERIOR-ALLEN'SAPARTMENTBUILDING-DAY
+ALLENwaitsinanemptyapartment,tiredoflife.
+
+EXTERIOR-ALLEN'SBUILDING-DAY
+TONYwalkspastthebuildingstillflippingacoin.
+
+INTERIOR-ALLEN'SBUILDING-DAY
+WEHEARadoorslam.OffScreen:ALLENandARTEMIS
+(asAUGUST)walkintolivingroom.AUGUSTleadsthe
+wayin,glancesintotheroomontheleft.
+
+WEHEARDoorslam.OffScreen.ALLENandAUGUST(asARTEMIS)walkintolivingroom.AUGUSTleadsthewayin,glancesintothebedroomontheleft.
+			ALLEN
+	Lookaround.It'sa1bedroom,1/2bath
+	inthehallandfullvanity...laundry	
+	downstairs.
+
+			AUGUST
+	Isitquiet?
+
+			ALLEN
+	Veryquiet.Whereyoufrom?
+
+Auguststopsinleftofframe,turnstoALLEN.
+
+
+			AUGUST
+	Nashville.
+	
+			ALLEN	
+	FirsttimeinLA?
+
+			AUGUST
+	Yeah,Ijustgota"Seventeen"coverand
+	everyonesaidIshouldcomehere.
+
+			ALLEN
+	Whereareyoustaying?
+
+			AUGUST
+	WithmyAunt.
+
+			ALLEN
+	Doyouact?
+
+Augustapproachesthecamera.Sheiswearing1/2
+moonearrings.
+
+
+			AUGUST
+	No,justmodelingfornow.ButI'veheardabout
+	somereallygreatworkshopsfrommyagent.
+
+AUGUSTfeelssatisfiedwithwhatsheseesasshe
+gazesintothebedroom.ALLENdrawscloser.
+
+			ALLEN
+	I'manactor.TVcommercials,somestage.
+	Iknowjustabouteverybodyintown,free
+	advice,comeswiththerent.
+
+			AUGUST.
+	Howmuchisit?
+
+			ALLEN
+	Well,thefirstmonth'sfree.You'vegot
+	tocomeupwithsomekindofsecuritydeposit,
+	figureonemonthandthenthelastmonth
+	andthatcomestohalfthepricepublished
+	inthead.
+
+			AUGUST.
+	(Noresponse)
+
+			ALLEN
+	Doesthatseemlikealot?
+
+			AUGUST
+	WellforTennesseestandards,butIdon'tknow.
+
+			ALLEN
+	Doyouknowwhytheapartment'sonlyhalfper
+	monthofthegoingrateforthissizeapartment
+	inHollywood?
+
+			AUGUST.
+	No.
+
+			ALLEN
+	BecauseIsleephere1nightaweek.
+
+AUGUSTlooksatthebedroom,looksin,shockedby
+whatshehasjustheard.Sheseemsconfusedfora
+moment.SheturnsandfacesALLEN.ALLENstaresat
+herwhileblockingthedoorway.Shehesitatesand
+makeshimbudge.ALLENbacksoffandAugustslowly
+walksoutoftheapartment.ALLENisleftstanding
+aloneintheemptyapartment.
+
+MUSIC:BachConcertoinDMinor
+
+EXTERIOR-DISNEYLAND-DAY
+TONYwalksalongthestreetandseestheMonorail
+pass.
+
+VIEWonTONYashewalkspasttheBigDonut.
+
+VIEWonTONYashewalkspastthethemerestaurant
+atLAX.
+
+VIEWonTONYashewalkspasttheChineseTheaterin
+Hollywood.TONYlooksatpeoplehepasses.
+
+INTERIOR-ALLEN'SAPARTMENT-DAY
+ALLENincorridor.Allenexitsandthreepeoplecome
+outoftheirapartmentssimultaneously.
+
+WEHEARaTELEPHONE
+
+EXTERIOR-STREETINLOSANGELES-DAY
+EUGENEwalksalongthestreet.Hehearsapayphone
+ring.EugenepicksitupandHEARSavoice.
+
+			VOICE
+	TONY,areyouthere?Comeon!
+	Pickupthephone!
+
+EUGENEpanicsandrunsoff.
+
+
+MUSIC:GuyKlucevsek's"Reprieve."
+
+INTERIOR-BLACKBARBERSHOP-DAY
+WePANfromthepayphoneinthebarbershopwherea
+manisonthephone...
+
+
+			VOICE
+	TONY,areyouthere,Tony!Tony!Tony!
+
+...andfindTONYatthedoorlookingatthecoin.It
+indicatesheshouldgointoaBarbershop.TONY
+looksinsidetheBarbershopandseesthreatening
+faces.Heentersanyway.GoesuptoGUYSELLINGSODA
+whotakesthecoinoutofTONY'shandandgiveshim
+asoda.TONYispuzzled.
+
+DISSOLVE:
+
+Tonyissitinginachairwithaclothwrappedupto
+hisneck.ThebarberlooksatTONY'Shair.TONYis
+tryingtoopenthecanbutcan'tfigureitout.
+			
+
+			TONY
+	Doyouhaveachurchkey?
+
+Everybodyinthebarbershoplaughs.Thebarberopens
+thesodaforhim.
+
+
+			BARBER
+	Whatwillitbe?
+
+			TONY
+	I'll......
+
+Thugsslowlygetupfromtheirchairs,dropping
+theirmagazines,surroundingTONY.
+
+
+			GUYS
+	Yeah,what'llitbeman?
+
+TONYlooksaroundatthe8meanfacesaroundhim.
+
+
+			TONY
+	Iwanttocuremypassiveaggressive
+	personality.FromnowonwhenIwant
+	somethingI'mgoingtoaskforit.
+	I'mgoingtolearnhowtobemore
+	observantofsignsandconsiderhow
+	otherpeoplemightneedclearersignals
+	fromme.
+
+			GUY1
+	Whydon'tyougetajob.That'swhat
+	themansays....
+
+			GUY2
+	...Youlookgood,you'ddogreatin
+	aninterview.
+
+			GUY1
+	Joinagroup.Dosomethingforother
+	people.
+
+			GUY3
+	Goupandtalktopeople.Seeifyou
+	havesomeoneincommon...
+
+			GUY4
+	Dosomecharitywork...
+		
+			ALL
+	Mingle..Becreative.Takechances.
+	Takeownership.
+
+			GUY3
+	Ridethebus....
+
+
+MUSIC:RachmaninoffPreludeinGminorOp23,No.5
+
+INTERIOR-OFFICE-DAY
+Awomansitsintheshadowsofagovernmentwelfare
+office.
+
+
+			BRENDA
+	Thiscaseisamess.Wedon'tknowwhatis
+	goingonwiththechild.No,no,no,no,
+	nono,thecoupleisstonewalling.Nobodyhas
+	seenthechild,inwhat,15years.
+	Everyvisitismarked"guardianunavailable".	
+	Nobodybothersbecauseit'stheisland.And
+	getthis,thecouple,they'renotmarried.No.
+	They'rethestep-childrenoftheownerof
+	theislandwhoisnowdeceased...	
+
+EXTERIOR-CATALINAEXPRESSTERMINAL-EARLYMORNING
+BRENDAwalksintotheterminal.
+
+
+			BRENDA(continuing)
+	...IhaveasniffwritandI'mgoingout	
+	therenextweek.
+
+
+EXTERIOR-OFFAVALON-DAY
+TheCatalinaExpresspullsintotheharbor.BRENDA
+stepsontotheprowoftheboatlettingoffsteam.
+
+MUSIC:BeethovenViolinSonata#4DMajor
+
+VIEWofParasailinAVALONHARBOR
+
+EXTERIOR-AVALONHARBOR-DAY
+TheCATALINAEXPRESSpullsuptotheDOCK.
+
+VIEWonTheCasino,aCatalinaLandmark.
+
+WeHEARthesoundofcoffeecups.
+
+INTERIOR-ISLANDOFFICE-DAY
+DAVE,anopposingAttorney,andTOSHI,hisassistant,
+meetacrossthetablewithTONYandhisattorney
+DOOLITTLE.
+
+
+			DOOLITTLE
+	Theisyourmeetingsowhydon'twegetdown
+	tobusiness.
+
+			DAVE
+	Soundsfine.
+
+			DOOLITTLE
+	CallBostonifyouwant.Idon'tthinkthe
+	timechangewillmakeanydifference
+
+Nervouslooksamonglawyers.TONYisoblivious.
+
+
+			DAVE
+	YournameisFilmoreWest,correct?
+
+TONYdoesnotanswer.
+
+
+			DOOLITTLE
+	We'rerequestinganenvironmentalimpactstudy
+	ontheemploymentangleinAvalon.
+
+			DAVE
+	Areyoukidding?Anylossinjobswillbe
+	absorbedintheFederaltourismfranchise.
+	Employmentwilldouble,propertyandleases
+	willincreaseinvalue.Theoverallbenefit
+	willbestunningtotheaveragecitizenof
+	Avalon.
+
+			DOOLITTLE
+	Whatifwetelleverybodyaboutthenational	
+	resourceshere.Ifyou'llrememberyourhistory	
+	gentlemen,thecivilwarwaswonbythe
+	collateralintheTreasurycreatedbythe
+	Californiagoldrush.Wethinkthegovernment
+	needsabighitofcashrightnowtocurethe
+	deficit.RememberwhatChurchillsaid,agreat
+	governmentneverhastofacethetruthnorpay
+	cash.
+
+			DAVE
+	Couldwehaveamoment?
+
+DOOLITTLEandTOSHIstandandwalkfromthetable.
+
+EXTERIOR-AVALONDOCK-DAYBRENDAstormsoffthe
+boat.
+
+MUSIC:Mendolshon:Symphony#4inA,Op.90
+(Italian)
+
+
+			DOOLITTLE
+	We'relookingverygoodhere.Justdon'tgive
+	themanythingtheycanuse.Donotsayanything.
+
+INTERIOR-ISLANDOFFICE-DAY
+DAVEandTOSHIstandandwalktothecornerofthe
+room.
+
+
+				DAVE
+	Whatifwebringupthelegalityofhim
+	impersonatinghisgrandfather.
+
+			TOSHI
+	Ithinkweneedsomethingstronger.Any
+	sexualharassmentsuitsorchildabuse.
+	He'saguardian.
+
+EXTERIOR-AVALONINFORMATIONBOOTH-DAY
+BRENDAentersframeandspeakswithanOFFICER.
+
+
+			BRENDA
+	Hello,I'mfromthedepartmentofHuman
+	ServicesinLA.I'mlookingforamissing
+	childwhomaybesomewhereontheisland.
+
+			SHERIDAN
+	Name?
+	
+			BRENDA
+	AMarie-ChristineWest?Herguardianisa
+	Mr.FilmoreWest.
+
+INTERIOR-INNONMT.ADA-DAY		
+TONYandDOOLITTLEastheyconfer.
+
+		
+			TONY
+	IthinkIknowwhat'sgoingonhere.
+
+			DOOLITTLE
+	Good,good,good,good,justdon'tsayanything.
+
+EXTERIOR-AVALONINFORMATIONBOOTH-DAY
+BRENDAcontinuestospeakwiththeOFFICER.
+
+
+			BRENDA
+	Didtheyhaveachildwiththem?Ordidthey
+	takethischildwiththem?
+
+TheOFFICERinterruptsBRENDA.
+
+
+			OFFICER
+	They'rebrats.They'reveryunpopular	
+	aroundhere.They'rekeepingtheproperty	
+	valuesfromtripling.
+
+			BRENDA
+	Great,wherecanIfindthem?
+
+			SHERIDAN
+	ProbablyFrance.Whatwouldyoudoifyou	
+	ownedallofCatalinaandAnacapa..?
+
+MUSIC:BeethovenStringQuartet#8inEminorOp.59
+#2Trk#1
+
+EXTERIOR-AVALON-DAY
+BRENDAwalks,somewhatdazed,pastthestorefronts
+ofAVALON.
+
+
+			OFFICER
+	...allthewaytoSanMiguelincluding	
+	theBigIslandwhichhasgolddeposits
+	andtheIRSarelookingforthem?
+
+BRENDA'sexpressionchanges.Shebecomesmaniacal.
+
+INTERIOR-INNONMT.ADA-DAY
+DAVEandTOSHIsitdownagain,readywitharesponse.
+
+
+			DOOLITTLE	
+	Don'tsayanything.
+
+OPPOSINGATTORNEYhandsTONYthedocuments.
+
+
+			DAVE
+	I'dliketodirectyourattentiontothe	
+	signaturesonthesedocuments.
+
+DOOLITTLEripsthedocumentoutofDAVE'Shand.
+
+
+			DOOLITTLE
+	Thisisintolerable!
+
+			DAVE
+	Oneisareconveyenceofaseconddeedof	
+	trust,andtheotherisyourrecentletter
+	tous.Youwouldhavebeen4yearsoldat
+	thetimeofthefirstdocument.
+
+WEHEARthesoundofasmallearthquake.ALLPARTIES
+looupandaroundanditstops.
+
+EXTERIOR-AVALON-DAY
+BRENDAisalarmedattheearthquake.Shespins,
+disoriented.
+
+INTERIOR-INNONMT.ADA-DAY
+TONYhasaknowinglookonhisface.Theearthquake
+isagoodsign.
+
+
+			TONY
+	Youguysbelieveinfairytalesdon'tyou?
+
+			DAVE
+	Wewanttoknowwhoyouare.
+
+			TONY
+	ThisremindsmeoftheTempestwherethe
+	rightfulDukeisrobbedofhiskingdomby
+	hisevilbrother...
+
+			TOSHI
+	Wereyouborninthiscountry?
+
+			TONY
+	...andtheevilbrotherputsthegoodDuke
+	andhisdaughterouttoseainasmallboat
+	todie.Andattheendofthestory....
+
+			DOOLITTLE
+	Myclientisusingafigureofspeech.
+
+			DAVE
+	Thenwherearewegoingwiththis,guys?
+
+			TONY
+	Youtwoaregoingtojail.
+
+			DOOLITTLE
+	We'resaying....youdon'thaveenoughmoney.
+
+TONYturnstoTOSHI.
+
+
+			TONY
+	Whatdoyousaynext?
+
+			TOSHI
+	We'rejustrepresentingtheUnitedStates	
+	Governmentinanattempttotakewhatthe
+	peoplehavearightto.
+
+			TONY
+	BigBrother.Orwell!No,no,That'stoorecent.
+
+			DOOLITTLE
+	Thesituationisirreversible.
+
+DOOLITTLEtriestokeepTONYfromstandingup.
+
+
+			DAVE
+	Whatareyougoingtodo?Actitoutforus.
+
+TONYheatsup.
+
+
+			TONY
+	...Andit'srainingandhailingandlightning's	
+	strikingandyouguysthinkthatI'mdead,but
+	I'mnot.I'mreallybackinthebigislandwith
+	mydaughter.
+
+DOOLITTLEputshishandonTONY'Sshoulderto
+restrainhim.
+
+
+			TONY
+	Andyouknowwhatwe'redoing.Playingchess,
+	andhavingapicnic!
+
+TONYstandsuptoleaveandcrashesintoawaiter
+whotripsandspillsdishesonthefloor.
+
+MUSIC:BACHConcertoinDminor
+
+EXTERIOR-AVALONHARBOR-DAY
+Touristboatscomeandgo.
+
+INTERIOR-AVALONCLOTHINGSHIP-DAY
+BRENDAlooksatamapoftheChannelIslands.She
+seestheBigIsland.Awomanbehindthecounter
+comesuptoher.
+
+
+			COUNTERPERSON
+	Hi.CanIhelpyou?
+
+			BRENDA
+	WhichwaytotheBigIsland?
+
+ThecameratiltsuptoamapoftheChannelislands.
+
+EXTERIOR-THEBIGISLAND-DAY
+WepanuptorevealtheBigIslandinthemiddleof
+theChannel.
+
+EXTERIOR-THEBIGISLAND-DAY
+TONY'sboatenterstheharbor.
+
+EXTERIOR-THEBIGISLAND-DAY
+TONY'sboatdocksoldfishingpier.
+
+INSERT:Waterlappingoverrocks.
+
+WEHEAR:SEAGULLS,thenaHELICOPTERapproaching
+overhead.
+
+
+EXTERIOR-THEBIGISLANDDOCK-DAY
+TheRANCHHANDrunstoTONY'Sboattohelphim
+unloadsupplies.
+
+VIEWofHELICOPTERpassingoverhead.
+
+TIGHTERVIEWONTONYandRANCHHAND
+
+
+			RANCHHAND
+	Youmusthavesleptalongtime.
+
+			TONY
+	I'vebeensleepingalotlately.
+
+			RANCHHAND
+	Yeahabout2years.
+
+TheRANCHHANDhelpsTONYunloadsuppliesfromthe
+boat.TONYstartswalkingdownthedockwithan
+outboardmotor.
+
+
+			RANCHHAND
+	AwomannamedReggieSwanconfirmedshe'll
+	arriveMarch4th.She'llbestayinguntil
+	September.Igotthebunkhouseallready
+	forher.
+
+TheRANCHHANDgoesbackforasecondboxasTONY
+continuesdownthedock.
+
+
+			RANCHHAND
+	Therehavebeenquiteafewfly-oversby
+	theparkservice.Thelast6months	
+	therehasbeensurfontheNorthpoint.
+	Anyonewhocanaffordaboathasbeen
+	streamingupherelikefreewaycommuters.
+
+			TONY
+	Yeah.
+
+			RANCHHAND
+	Thisthingwiththesurfershasbecome
+	somesortofacult.Therehavebeena
+	fewentriesontheSouthshore,youngmen
+	lookingforMarie-Noel...Ivacatedthem
+	immediately.
+
+			TONY
+	Uhhuh.
+
+			RANCHHAND
+	Theparkservicehasbeenontheisland
+	almostfulltime,asexpected,andthe
+	monkfromthemonasteryarrivedfor
+	anotheryear.
+
+
+EXTERIOR-ISLANDSHORELINEFROMMOUNTAINTOP-DAY
+Thesunkicksoffthewater.
+
+EXTERIOR-BIRD'SEYEVIEWOFMARIE-NOEL'SHIDEOUT-
+DAY
+Thehideoutisnestledundereucalyptustreesinan
+islandcanyon.
+
+MUSIC:SCHUBERT'SWINTERREISE
+
+EXTERIOR-HIDEOUT-DAY
+Itisahotsunnyday.MARIE-NOELsitsinahammock
+reading.
+
+VIEWONBOOK:SheisreadingWarandPeace.
+
+INTERIOR-HOUSE-DAY
+BRENDAstandsinsidethehousebythewindow.She
+holdsMARIE-NOEL'Sbowandarrow.Sheraisesit
+slowly,aimingatMARIE-NOEL.BRENDAlooksangryand
+possessed.
+
+BRENDA'SPOV
+ThelethalarrowheadispointedatMARIE-NOEL'S
+head.
+
+CLOSERVIEWONBRENDA
+BRENDAisabouttoreleasethearrowwhensheHEARS
+aPUPPY.
+
+BRENDA'SPOVonPUPPY
+AcuteDalmatianlooksupather,longingtobe
+pickedup.
+
+VIEWONBRENDA
+BRENDAputsdownthebowandarrowtopickupthe
+PUPPY.AssoonasshereachesforthePUPPY...
+
+EXTERIOR-ISLANDHOUSE-DAY
+MARIE-NOELputsdownherreadingandgoesintothe
+house.
+
+VIEWONBRENDA
+...ThePUPPYskittersaway.BRENDAfollowsit.
+
+EXTERIOR-RANCHHOUSE-DAY
+EUGENEstandsoutsidetheranchhouse.Hestares
+withablankexpressiononhisface,asifhedoes
+notknowwhatheisdoingthere.
+
+INTERIOR-RANCHHOUSEKITCHEN-DAY
+Sheentersandstartslookingforsomethingmissing.
+Thehousehasbecomeareadinglibrary,openedbooks
+everywhere.Thereisagascookingstoveinarustic
+kitchen.
+
+INTERIOR-ELSEWHEREINRANCHHOUSE-DAY
+ThePUPPYrunsthroughthehouse.
+
+INTERIOR-RANCHHOUSEKITCHEN-DAY
+MARIE-NOELcontinueshersearch,weseeacrude
+sleepingarea,anoffice,acouchandafireplace.
+Sheisavisitor.Shelivesoutofsuitcases.
+
+VIEWonDOOR
+
+ThePUPPYrunsoutthedoorandBRENDAfollows.
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELcontinueshersearchinthediningroom.
+Shelooksunderthetable,onthemantle.
+
+EXTERIOR-RANCHHOUSE-DOORSTEP
+EUGENEentersthehousewithaheavystep.
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELcontinueshersearchinTONY'soffice.
+Shesitsdownadeskandrummagesthroughit.
+
+INTERIOR-RANCHHOUSE-DAY
+EUGENEwalksthroughthehouse.
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELcan'tfindwhatsheislookingforonthe
+messywritingdesk,orinthedrawers.SheHEARSa
+CARHORNandboltsoutofframe.
+
+INTERIOR-KITCHEN-DAY
+MARIE-NOELrunsintothekitchenandseesthesheep.
+
+
+			MARIE-NOEL
+	Wherehaveyoubeen.He'shere.
+
+MARIE-NOELopensthedoorforTONYwhoisstill
+wearinghissuitandcarriesfoodinacardboardbox.
+Thesheeplooksupathim.HeturnstoMARIE-NOEL
+andhandsheradressbox.
+
+
+			MARIE-NOEL
+	Dresses?
+
+			TONY
+	Moreintheboat.
+
+			MARIE-NOEL
+	Books?
+
+			TONY
+	Likewise.
+
+			MARIE-NOEL
+	HowwasLA?
+
+			TONY
+	Adryhole.
+
+EXTERIOR-RANCHHOUSE-DAY
+EUGENErunsawayfromthehouse.
+
+INTERIOR-KITCHEN-DAY
+TonysitsdownandstackspackagesofPopTartsin
+frontofhim.Heopensapackageandstartseating
+voraciously.Thesheepisstandingnexttohimand
+hestrokesit.MARIE-NOELsitsdownandstarts
+readingtheLATIMES.Shelooksup.
+
+
+			MARIE-NOEL
+	Whydidyoulettheanimalsgo?Here's	
+	astoryaboutanimalsthatcausederosion
+	ontheChannelIslands.Wedon'tneedany	
+	moreattentionrightnow.
+	
+			TONY
+	Iscatteredthemfortheirown	
+	protection.Anditdoesn'tbotherme	
+	becauseanyanimal,nomatterwhereit	
+	starts,turnsoutthesame.
+
+TONYeatspoptarts.
+
+
+			MARIE-NOEL
+	Doyourememberseeingmymoonearrings	
+	anywherehaveyou?
+
+			TONY
+	Theonesyouwerewearingthenight.....
+
+			MARIE-NOEL
+	Thenightofthegreatunpleasantness?
+
+MARIE-NOELgetsupandstartslookingforsomething
+inthekitchendrawer.TONYseesWarandPeaceon
+thekitchentable.
+
+
+			TONY
+	IsthereanythingaboutHalloweenin	
+	EdgarAllenPoe?
+
+MARIE-NOELsitsupandstopstheconversation.
+
+MUSICStarts:HeavyRock
+
+FLASHBACK:HalloweenConcert.VIEWonaudience
+Dancing..Theshowonstage..Imageofdeath..Viewon
+Sheepinfog.
+
+MUSICStops
+
+
+			MARIE-NOEL
+	OK,let'sjuststoptalkingaboutit....
+
+			TONY
+	Iguessit'sabouttime.Itwasstarting
+	tobugme.
+
+VIEWONMARIE-NOEL
+ShethinksaboutthenighttheylostMARIE-CHRISTINE.
+
+MUSIC:BachUnaccompaniedCelloSuites-Suite#2
+PreludeS1008
+
+
+			MARIE-NOEL(V.O.)
+	20November,themirrorneverreflectsmy
+	despair,justwaterrunninginthesink.
+
+MUSICSTOPS
+
+VIEWonTONY'Shandsopeninguppoptarts.TONY
+looksather.
+
+
+			TONY
+	Youcanstoplivingoutofsuitcasesand
+	fixtheplaceup?
+
+			MARIE-NOEL
+	Oh,andyoucangoandenjoyyourlifein
+	LA.
+
+			TONY
+	What'sthatsupposedtomean?
+
+			MARIE-NOEL
+	Yougettocomeandgoasyoupleaseand
+	I'mstuckhereinthisdirtyhideout.
+	
+			TONY
+	I'minthesamesituationyouare.	
+	Movingorsittingstillisthesame	
+	thing,they'reeverywhere.
+
+			MARIE-NOEL
+	Whataboutthegovernment?
+
+			TONY
+	Ithinkwecanstallthegovernment
+	untilthenextgubernatorialelection.
+
+			MARIE-NOEL
+	Forgetit.
+
+Shethinksaboutherselfandherowndilemma.
+
+MUSIC:BachUnaccompaniedCelloSuites-Suite#2
+PreludeS1008
+
+
+			MARIE-NOEL(V.O.)
+	Ifmydilemmaisthedilemmaofart,what
+	wouldtheartcharacterdo?
+
+MUSICSTOPS
+
+MARIE-NOELstartslookingunderbooks.
+
+
+			TONY
+	Ifanythinghappenstomeyou	
+	shouldtakethetrainEast...
+
+TONYpointsEast.
+
+
+			TONY
+	...WebothcamefromtheWest.Ithink	
+	we'llbeheadingthatway.
+
+			MARIE-NOEL
+	Well,you'llbeallsetupinLAif	
+	anythinghappenstome.
+
+Hepausesanddoesn'tanswerrightaway.
+
+
+			TONY
+	We'vehadagoodlife.We'vebeenlucky.
+	Alltheseextrayearsareforstories.	
+	There'snothinglefttodoexcepttosee
+	howwefitintothem.
+
+MARIE-NOELbecomessilentanddistracted,diggingin
+adrawer.
+
+
+			MARIE-NOEL
+	Youknow,I'velookedeverywhere.There	
+	arenoreferencestotwopeopleleavinga	
+	HalloweenpartyanywhereinWestern,Eastern,
+	Sumerian,orcomicbookliterature.
+
+			TONY
+	Ithoughtweweregoingtodropthat.
+	
+			MARIE-NOEL
+	Whatwasyourmother'sfavoritebook?
+
+			TONY
+	HowshouldIknow?
+
+			MARIE-NOEL
+	Webothshouldhavewrittenthesethings
+	down.That'swhyIhaveadiarynow.
+
+MARIE-NOELlooksatTONYintheeye.
+
+
+			TONY
+	You'llknowwhattodowhenthetime	
+	comes.
+
+			MARIE-NOEL
+	IprotestinadvanceanyrolewhereI
+	amresolvedasineffective,irrelevant,	
+	marginal,unabletoinfluence,yetalways
+	influencedand,inshort,anyrolewhereI
+	amvictimizedbycircumstance.Theseare
+	mypoliticsandsomeone'sgoingtohave	
+	todealwiththem.
+
+			TONY
+	Good.
+
+		
+EXTERIOR-RANCHHOUSE-DAY
+Thehousestandsintheafternoonlight.
+
+MUSIC:RavelStringQuartetinF
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELsitsatthewritingdesk.Lightanda
+warmbreezecomesinthewindow.
+
+
+			MARIE-NOEL(V.O.)
+	16,November.Youaskedmetorememberthe
+	timebeforeIcamehere.Iremembera	
+	shipwreckandastormthatwashedoutall
+	theroads.
+
+INTERIOR-RANCHHOUSE-DAY
+MARIE-NOELstandsatthedoorwayinabeautiful
+dress,eyesclosed.
+
+
+			MARIE-NOEL(V.O.)
+	Irememberadreamfrommychildhood.In
+	thedreamaprincecomesfromthesea...
+
+EXTERIOR-PIER-DAY
+TONYwalktowardhisboat.
+
+	
+			MARIE-NOEL(V.O.)
+	...andliveswithmeandmyoldfather.
+	TherewasEngland,..
+
+INTERIOR-OLDMININGCAMP-DAY
+MARIE-NOELwritesinherdiaryonanoldsink.
+
+
+			MARIE-NOEL(V.O.)
+	...backstagewithmymotherallthose	
+	yearswhileIgrewsoslowly.France,	
+	India...	
+	
+EXTERIOR-ISLAND-DAY
+TONY'Sboatsteamsouttosea.
+
+
+			MARIE-NOEL(V.O)
+	FrenchIndochina...
+
+VIEWofOCEANwithCacti.
+
+
+			MARIE-NOEL(V.O)
+	thenhere...besidethearbitrarysea.
+
+MUSIC:Vierne:FinalefromSymphony#1
+
+EXTERIOR-MOUNTAINSIDE-DAY
+BRENDAtriestocatchthepuppybutitgetsaway
+fromher.Sherealizesshehasbeentrickedand
+standsup,angryatZEUS.WestarttoPANandcut
+to..
+
+INTERIOR-RESTROOMINAVALON-DAY
+BRENDAhassameexpressionlookinginamirror.She
+realizesthatsomethingiswrong.Sheseesthather
+fingernailsarepainteddarkred,herhairispuffedout
+andfrightful,shehasdarkmakeuponlipsandeyes.
+Shetriestoremovethemakeupandnailpolishand
+pullherselftogether.Sherealizesthatsheisin
+theMen'sroom.
+
+EXTERIOR-AVALON-DAY
+BRENDA,havingcorrectedherself,walkstowardthe
+boatgoingbacktothemainland.
+
+EXTERIOR-ANOTHERPARTOFTHEHARBOR-DAY
+REGGIEstandsforgottenattheendofthedock,
+surroundedbyaveryfloralluggage.
+
+MUSIC:BACHToccatainDmajor
+
+TITLE:"2Yearslater"
+
+
+MUSIC:BachToccatainDMajor
+
+TITLE:"2Yearslater"
+
+EXTERIOR-ALLEN'SBUILDING-DAY
+Morninglight.
+
+INTERIOR-ALLEN'SBUILDING-DAY
+ALLENasleeponcouch.Hehasgained50pounds.
+Thereareemptybeercansandemptypizzaboxeson
+thefloor.AWOMANunlocksthedoorandwefollow
+herintotheapartment.Sheistiredfromabusiness
+trip.SheseesALLEN.
+
+
+			WOMAN
+	Whatareyoudoinginmyapartment?What	
+	areyoudoinghere?
+
+ALLENwakesup,startled,rubbinghiseyes.
+
+
+			WOMAN
+	Andwho'spizzaisthis?Excuseme!
+
+			ALLEN
+	Calmdown.Weweren'texpectingyoufor	
+	awhile,wehadtheexterminatorcomein
+	likeyourequested...
+
+			WOMAN
+	Ohyoudid?
+
+H.TOMappearsfromthenextroom,groggy.
+
+
+			WOMAN
+	Andwhothehellisthis?
+
+			ALLEN(asidetoH.TOM)
+	Takethisstuffoutforher.
+
+H.TOMstartsfranticallycollectingthegarbage.
+
+
+			WOMAN
+	You'vegotpizzainmyplace...you're
+	lyinghere.Who'sclothesarethese?
+
+ALLENpicksuphisbagofthings.H.TOMfinishes
+hiscleanup.
+
+
+			ALLEN
+	There'snopizzahere;there'snoclothes	
+	here.
+
+			WOMAN
+	Youhadnopermissiontocomeintomy	
+	place.Aguysleepinginmybedroom,	
+	sleepingonmycouch.
+
+			ALLEN
+	I'mgoingtorequesttotheboardthat
+	youperhapsshouldbekickedoutforyour	
+	badsculpture.
+
+ALLENandH.TOMexit.
+
+
+			WOMAN
+	Ohyouare?Getthehelloutofhere.
+	Whatkindofmanagerareyouanyway?
+
+TheWOMANslamsthedoorandshakesherheadin
+amazement.
+
+MUSIC:ArneMellnasTransparence
+
+EXTERIOR-AUNTDEBBIE'SHOUSE-DAY
+AgreencabpullsupinfrontofagarishEncino
+home.JULIENNEgetsout,dressedplainly,withone
+suitcase.Thecableavesandshegivesaskeptical
+onceovertothehouse.Sheisabouttobeginher
+newlife.Isthisit?Shewalksupthepathwayto
+thedoorandnoticesagreatquantityofmushrooms
+growingonthefrontlawn.Shestepsoverthe
+flowers,kneelsdownandpicksuponeofthe
+mushrooms.Shelooksatitandwonders.
+
+VIEWofSUN
+Apartialeclipseisinprogress.
+	
+EXTERIOR-HOLLYWOOD-DAY
+WeseeAUNTDEBBIEtakingherdailyconstitutional
+onHollywoodBlvd.Sheiswearingablueandwhite
+terryclothjumpsuitandtennisshoes.Sheisfast
+walkingthroughobstaclesbeforeheronthesidewalk.
+Sheisadeterminedandphysicallyfit65yearold.
+
+MUSIC:DvorzakCelloConcertoinBminorop104
+
+EXTERIOR-LA-DAY
+ThecamerapansfromAUNTDEBBIEtoALLENtoH.TOM
+whoallconvergeatthesamestreetcorner.
+
+
+			ALLEN
+	Hi,AuntDebbie?
+
+			AUNTDEBBIE
+	What'sthatonyourface?
+
+ALLENfingershisunshavenface.
+
+
+			AUNTDEBBIE
+	Didyoumovethatrefrigeratortomynew	
+	building?
+
+			ALLEN
+	Yes.
+
+			AUNTDEBBIE
+	Liar.Yourcardoesn'twork.
+
+FLASHBACK:
+ALLENandH.TOMstandnexttoALLEN'Sbrokendown
+car.
+
+
+			AUNTDEBBIE
+	Who'sthis?
+
+			H.TOM
+	I'mhisassistantma'am.
+
+			ALLEN
+	Shutup!
+
+FLASHBACK:
+H.TOMshavesinaparkfountainsurroundedby
+homelesspeople.
+
+
+			AUNTDEBBIE	
+	Doeshepayrent?
+
+			H.TOM
+	Noma'am.WhenIfindajobI'mgoingto
+	payrent.
+
+			ALLEN
+	Hepicksupmyresidualchecksandhe'sa	
+	reallygoodplumber.
+
+			AUNTDEBBIE	
+	Didyoustealanothercarfromatourist?
+
+FLASHBACK:
+TwoJAPANESEtouristsadmireastaronHollywood
+Blvd.asALLENandH.TOMmakeoffwiththeircar.	
+
+
+			H.TOM
+	Noma'am.
+
+			ALLEN
+	Shutup!
+	(toAUNTDEBBIE)
+	Nowedidn't.
+
+			AUNTDEBBIE
+	Thatrefrigerator,didyoustrapiton	
+	topofthecar?
+
+FLASHBACK:
+Thestolencarrollsthroughandintersectionwith
+therefrigeratorstrappedtothetop.
+
+
+			ALLEN
+	No!
+
+			AUNTDEBBIE
+	Andthendidyouditchtheircar?
+
+FLASHBACK:
+Fromabove,ALLENandH.TOMremovetherefrigerator
+fromthetopoftherentalcar.
+
+
+			H.TOM
+	Noma'am.Thecarwastowed...
+
+			ALLEN
+	Shutup!
+
+ALLENpushesH.TOM.
+
+
+			AUNTDEBBIE
+	Soyoufakedhomelessnessandbeggedfor	
+	freechicken.
+
+FLASHBACK:
+ALLENandH.TOMstandatthewindowofafastfood
+standfakinghomelessness.ALLENhasWillWorkFor
+Foodwrittenonhisstomach.
+
+
+			ALLEN
+	WhatareyousayingAuntDebbie?
+
+			AUNTDEBBIE
+	Therefrigeratorisallscrapedupandhas	
+	nofreon.Andyousmellrancid.Andwhy	
+	areyousofat!
+
+AUNTDEBBIEexits,ALLENknowssheisnotfinished
+andcounts..
+
+			ALLEN
+	One,two,three..
+
+			AUNTDEBBIE
+	Yourcousinjustarrived.Whenyousee
+	her,besociable!
+
+DEBBIEfinallyexits.
+
+
+			ALLEN
+	YouknowI'vebeenhavingthesedreams	
+	latelywheremymotherfindsmefloating
+	downtheriverinalittlewickerbasket	
+	anditturnsoutthat(shoutsinthe	
+	directionofAUNTDEBBIE)Iamnot	
+	relatedtoyou!
+
+MUSIC:JOHNADAMS"FearfulSymmetries"
+
+EXTERIOR-LA-DAY
+TONYcontinueshissearch,flippingacointo
+indicatethedirectionheshouldsearch.Hetiresof
+thisandturnsaround,walkingaimlessaroundLA.
+
+EXTERIOR-BUSBENCH-DAY
+TONYsitsonabenchtalkingtoseveralpeople.They
+areannoyedandwalkaway.Aweirdmanwithanodd
+headdresssitsnexttoTONY.Tonygetsupand
+leaves.
+
+EXTERIOR-LA-DAY
+TONYwalksoffandwalksintoalineofworkers
+carrying2x4s.Heducksandalmostgetsdecapitated,takes
+refugeatabusbench.AMUSICIANissittingonthe
+farendofthebusbenchreading.
+
+		
+			TONY
+	Doyouhavethetime?
+
+			MUSICIAN
+	2:30.
+	
+			TONY	
+	DoyoumindifIaskyouaquestion?
+	
+			MUSICIAN
+	Yes.
+
+			TONY
+	Whyareyouherrightnow?
+
+			MUSICIAN
+	What?
+
+			TONY
+	Whydidyoucomeupjustthisminute?
+
+			MUSICIAN
+	I'mgoingtowork,man.
+
+			TONY
+	Isthisthebusyoualwaystake?
+
+			MUSICIAN
+	No,I'mlate.
+
+			TONY
+	You'relate!Whyareyoulate?
+
+			MUSICIAN
+	Ioverslept,man.
+
+			TONY
+	Nothingcausedyoutobelate?
+
+			MUSICIAN
+	I'mjustsittingherewaitingfor
+	thebus.What'sthebigdeal?Doyou	
+	havetotalktome?
+
+THEMUSICIANgetsupinfrustrationandleaves.Tony
+exitsframeinforeground.Arunawaycarcareens
+intothebenchgoingbackwardsanddestroysthe
+benchwheretheyjustsat.
+
+VIEW
+ATirerollsupthehillpropelledbythecrash.
+TONYandthemanre-enterframe.
+
+EXTERIOR-BUSBENCH-ASBEFORE
+Thecarhasaroofrackwithabikeonit.Aman
+runsupthecarholdingabicycletire.TONYand
+themanlookatthedamage.Themandespairs.
+
+
+			CARMAN
+	Ohmygod!Ican'tfuckingbelievethis!
+	Mycarmusthavepoppedoutofpark!It
+	couldhavehityou.Ohmygod,Ican't
+	believethis...800bucks...Ohmygod!
+
+TONYrunsinPanic.
+
+MUSIC:GuyKlucevsek"Reprieve"
+
+VIEWONTONY
+Thetiredoesnotfallfromitsownweight,it
+startsrollingbackdownthehill.
+
+
+			CARMAN
+	Call911!
+	
+
+EXTERIOR-STREET-DAY
+TONYrunsdownthestreetandnoticesthatthewheel
+startschasinghim.
+
+TONYrunsdownthehilltryingtoescapefromthe
+runawaytire.
+
+VIEWONTONY
+LookinginsidetheTruck.CamerafollowsTONYin.
+Helooksbackinterror.
+
+TONY'SPOVthetiregainsonthetruck..
+
+SEQUENCE:
+TheTruckstopsforacat.
+Thedoorsshut.
+ThelightcrossesTony'sfaceandgoesblack.
+SFXDoorslock
+THERollingtireinnocentlyhitsthetruckandgets
+stuck.
+Apurringcatwalksawayfromthetruck.
+
+MUSIC:GuyKlucevsek"LooseninguptheQueen"
+
+EXTERIOR-DOWNTOWNLA-DAY
+TRUCKmovesalongfreewayheadedacrosstown.
+
+EXTERIOR-PARK-DAY
+ALLENandH.TOMsiteatingtheir"beggedfor"
+chicken.
+
+
+			ALLEN
+	IhaveageniusIQ.Myparentswould
+	havekilledifIwentintobusiness.	
+	They'dloveit.
+
+MUSIC:BachSuite#2S.1008
+
+
+			ALLEN
+	Iftheywerealive,youknowwhatI'dtell	
+	them?I'dtellthemI'matempinan	
+	insurancecompany.
+
+			H.TOM
+	Ifyouassigneverythingtoinfantile	
+	motives,lifebecomesboring.Your	
+	religiononlyexplainsyoursexlife.
+
+			ALLEN
+	You'renotlistening.Idon'twanttobe	
+	poor.Butit'snotlikeI'mdoingsomeI
+	gottastarvethinghere.IfIhadenough
+	moneyI'dbehappy.
+
+			H.TOM
+	Andthenagainyoumayberight,forall	
+	thewrongreasons.Twentyyearsinthe
+	mindisunfortunatelynottwentyyearsin	
+	thebodyanditgetworseandworseas
+	yougo.
+
+			ALLEN
+	Notme.Ikeepmynutreallow.Basically	
+	Iliveoffmyrelatives.Youknow?Free
+	rent.AllthechicksIcanpluckfrommy
+	aunt'sbuilding.AllIneedisonenational	
+	commercialayearandIcanlivelikea	
+	king.
+
+			H.TOM
+	Thingsarestrangerinotherplaces.
+
+			ALLEN
+	Wheredoyougetthesethingsyousay,
+	man.Areyoustillonacid?
+
+			H.TOM
+	Ijustsaythingsthatcomeintomyhead,	
+	becausethey'remoreenjoyablethanmy
+	ownthoughts.
+
+WepullbacktorevealALLENandH.TOMeatinglunch
+underamonumenttotheF-104.
+
+EXTERIOR-AUNTDEBBIE'SBACKYARD-DAY
+JULIENNEissittingatatableinthesun,balancing
+hercheckbook.Shenoticesthattheamountofone
+check,#1527,isthesameasthenumberofthecheck.
+
+MUSIC:Tahitianchoir
+Segueto:
+
+MUSIC:A.CorelliConcertoVII
+Segueto:
+
+MUSIC:ProkofievRomeoandJuliette
+
+JULIENNElooksupandAuntDEBBIEpassesinfrontof
+her.
+
+
+			JULIENNE
+	There'stwochoicesformerightnow.	
+	I'meitherpregnantorfeelingafalse	
+	pregnancy.Thefirstoneisimpossible.
+
+			AUNTDEBBIE
+	Areyoutryingtotellyourmotherthat	
+	you'reknockedup?
+
+			JULIENNE
+	Incredibleweatherwe'rehaving.
+
+			AUNTDEBBIE
+	Ihateitbecauseitmakesmyskindry,	
+	especiallymyprivateparts.
+
+			JULIENNE
+	InMaine,it'sbeenfrozenfortwomonths.
+
+			AUNTDEBBIE
+	Whyareyouhereanyway?
+
+			JULIENNE
+	Totakecareofyou.Ithoughtthatgiving
+	itallupandtakingcareofmyold
+	motherwouldbethesimplestlife	
+	possible.Whatyou'retellingmeaboutmy	
+	cousinAllenisupsetting.
+
+			AUNTDEBBIE	
+	Criminy....Yousurefeelsorryfor	
+	yourself.
+
+			JULIENNE	
+	Damnright!Ididn'tcomeheretoget
+	drawnintoslum-lording.Whatdidyou
+	getintomom?
+
+AUNTDEBBIElikestochangethesubjectmidsentence,
+andwanderfreelytheworldofdenigration.
+
+
+			AUNTDEBBIE
+	Mydearhusband,blesshissoulTHE	
+	BASTARD.(withatwinkleinhereye)He
+	wasverygoodtome..
+
+			JULIENNE
+	Youalwayssaidthat.....
+
+			AUNTDEBBIE
+	Itwasmyidea,nothis!Nowyou're	
+	cousinAllenisthebastard.
+
+			JULIENNE
+	Lookmom,IcameoutherebecauseI	
+	neededto.I'vewentthroughatimewith	
+	somanyregrets.Igotostentatiousand	
+	solemnandIhatedmyself,andanyonewho
+	behavedthesameway.Independenceworks
+	betteralone.I'magirlShane,youknow
+	thegunfighterwhohunguphisguns.
+
+			AUNTDEBBIE
+	Youdidn'tgivethemenoughsex,that's
+	yourownfault.
+
+			JULIENNE
+	Toomanypeopleinmypasthavebeen
+	hurt,andallofthemnamedTony.
+	
+			AUNTDEBBIE
+	Haveyouseenallthesemushroomsaround	
+	thehouse?
+
+			JULIENNE
+	FatoProfungus...Ibelievethey'recalled.
+
+			AUNTDEBBIE
+	Youwouldknowthat.Butdon'teatthem.	
+	Mrs.Johnsonupthestreetsaysthey
+	makeyouhorny. Andwhenareyougoingto	
+	learntodrive?
+
+			JULIENNE
+	Probablynever.Ilikewalking.
+
+EXTERIOR-THEVALLEY-DAY
+JULIENNEwalksalongVenturaBlvd.lookingat
+storefronts.
+
+EXTERIOR-LA-DAY
+TONYwalksingarmentdistrict.
+
+EXTERIOR-THEVALLEY-DAY
+JULIENNEwalksalongthestreetinfrontofahome
+withamotorhomeparkedinfrontofit.
+
+EXTERIOR-ANOTHERPARTOFLA
+TONYwalksonHollywoodBlvd.,lookingforcluesin
+people'sfaces.
+
+
+MUSIC:GuyKlucevsek"BlueWindow"
+
+EXTERIOR-FORESTLAWN-DAY
+Wepullbackfroma"helpwanted"signasthetruck
+pullsintothedrivewayofthecemetery.
+
+EXTERIOR-MORTUARY-DAY
+TwoguysopenthebackofthetruckandweseeTONY
+standinginatranceinthebackofthetruck.
+
+INTERIOR-MORTUARYOFFICE-DAY
+TheMORTICIANsitsdownathisdesktointerview
+TONY.
+
+
+			MORTICIAN
+	Andwhatqualifiesyouforthisjob?
+
+			TONY
+	Well,whatisthejob?
+
+			MORTICIAN
+	Stateprivacylawsrequirethatwewatchover
+	ourguestsdayandnightfromtheminutethey
+	arrivetothedayofthefuneral.
+
+			TONY
+	Youmeanthebodies?
+
+			MORTICIAN
+	Yes.You'rethebodywatcher.
+
+			TONY
+	Oh.Thebodywatcher.
+
+			MORTICIAN
+	Well,doyouhaveanyquestions?
+
+			TONY
+	Oh,no.
+
+			MORTICIAN
+	Ihaveafewquestions,ifyoudon'tmind.
+
+			TONY
+	Okay.
+
+			MORTICIAN	
+	Forexample,whydoyouwantthisjob?
+
+			TONY
+	Iwanttomeetpeople.
+
+			MORTICIAN	
+	Deadpeople?
+
+			TONY
+	No,no.IfIworkatnightI'llmeetpeople
+	duringtheday.See,Idon'tsleepmuchat
+	night.
+
+			MORTICIAN
+	Youhavetwolives?Ihavetwolives.I've
+	alwayswantedtobeastandupcomic.Do
+	youmindifIshowyousomeofmymaterial?
+
+			TONY
+	Goahead.
+
+			MORTICIAN
+	Amansaystohisdoctorhecan'tremember
+	thingsfromoneminutetothenextthe
+	doctorsays,"Howlonghasthisbeengoing
+	on?"Themansays,"Howlonghaswhatbeen
+	goingon?"
+
+TONYlaughs.
+
+
+			TONY
+	That'sgood.
+
+INTERIOR-MORGUE-NIGHT
+TONYreads.
+
+MUSIC:"Frascilita"fromLisaGermano"Geekthe
+Girl"
+
+Severalangles.TIMEPASSES.
+
+VIEWONCLOCK12Midnight.2AM.4AM.
+TONYputsdownthebookandopensarefrigerator
+doorandslidesoutabody.Thebodyisinabag.
+Heliftsthebodyontoacartandrollsitundera
+light.Hezipsopenthebagandlooksinside.He
+raisesapalearmofthedeadpersonandthearm
+slowlyfallsoutofframe.TONYlooksforaknifeon
+theworktableandlooksatthefirstknife,itis
+toosmall.Thepicksupasecondknife,itistoo
+large.Hereachesforathirdknife,justright.He
+takesadeepbreathandstartssawingopenthedead
+body.
+
+EXTERIOR-MORTUARY-NIGHT
+TheMORTICIANhurriestothedooroftheMORTUARY
+havingforgottensomethingatwork.
+
+INTERIOR-MORGUE-NIGHT
+Whenhehasthestomachopenheputsdowntheknife
+andscoopsuptheentrailsofthedeadbodywith
+twohandsandholdsthemupinfrontofthecamera.
+Hesawstheentrailslooseandthrowsthemontothe
+floor.
+
+Theentrailssplatteronthecoldtiles.TONYkneels
+overtoexaminethem.
+
+VIEWondoor.
+TheMorticiancomesthroughthedoor,seeswhatTONY
+isdoingandisshocked.
+
+MUSICSTOPS
+
+			MORTICIAN
+	Whatareyoudoing?Youdepravedperson!
+	Isthataclient?Getoutofhere!
+
+			TONY
+	Number12.
+
+			MORTICIAN
+	Mr.Peterson?
+
+			TONY
+	Idunno...Notyet.Iseesomethinghere!
+
+			MORTICIAN
+	Idon'tcarewhatyousee.Getout.
+
+TONYLeaves.TheMORTICIANlooksatthemess,
+horrified.
+
+
+EXTERIOR-THEVALLEY-NIGHT
+JULIENNEwalkspastadrugstoreanddecidestogo
+in.
+
+SOURCEMUSIC:"GreenTambourine"theLemonPipers
+
+INTERIOR-PHARMACY-NIGHT
+PANisreadingapornographicmagazine.Heistapped
+ontheshoulderbyHERMES,ayoungmanwithalight
+beard.
+
+
+			PAN
+	Ohhi.
+
+			HERMES
+	Weneedtotalk.
+
+			PAN
+	OK.
+
+JULIENNEenterstheframeandstartsupanaisle.
+
+INANOTHERPARTOFTHESTORE:
+
+
+			PAN
+	I'vebeenlivingquietlybymyself,	
+	exceptforthemoon-lightorgiesandme	
+	scoringtwiceaday.
+
+			HERMES
+	Dadwantstotalktoyou...becauseyou're	
+	family.
+
+			PAN
+	Hermes,I'llpayyouifyougetmeback	
+	intotheorganization.I'vegotthisnew	
+	pornographyyouhavetosee...
+
+HERMESdirectsPAN'SattentiontowardTONY,who
+appearsbehindthem.TONYheadsdownthesameaisle
+asJULIENNE.HERMESsmiles.
+
+VIEWONTONY
+
+
+			PAN
+	HismotherwasJefferson'smistress.
+	
+			HERMES
+	Weshouldhelphim.
+
+			PAN
+	No.
+
+EROS,asmallchildwithatoybowandarrow,shoots
+anarrowatJULIENNE.Ithitsherandshepicksit
+up.Shelooksaroundanddoesnotseewhereitcame
+from.
+
+
+			PAN
+	Helivesonmyisland.Therewillalways
+	beasmanydemigodsasthereareminor	
+	poets.Therearetoomanyofthem.They	
+	havegoodlives.Theydon'tneedany	
+	help.
+
+TONYapproachesJULIENNE.JULIENNEapproachesTONY.SheseesTONYandsmiles.
+
+
+			JULIENNE
+	GodIhaveaheadache.Doyouknowthe	
+	bestthingforheadaches?	
+
+			TONY
+	Isthatwhyyoucameherejustnow?
+
+			JULIENNE
+	...mostpeoplegotothevegetablesection,
+	IcomeherebecauseIbelievein	
+	headaches....Menwhoareworthanything	
+	alwayshaveheadaches..
+
+JULIENNEpauses,alittleembarrassed.AWOMANcomes
+upbehindthembutdoesnotpayanyattentionto
+them.
+		
+
+			TONY
+	Iwalktogetridofmyheadaches....
+
+			JULIENNE
+	Ithoughtso.Everything'sOKhereas	
+	longasyou'renameisn'tTony.
+
+			TONY
+	OK.
+
+VIEWonPANandHERMES
+
+		
+			PAN
+	Shouldwescrewthingsup?
+
+VIEWonTONYandJULIENNE
+
+	
+			JULIENNE
+	It'sachallengelifeputbeforeme	
+	overcomingmyTonyKarma.
+	Menwantblondsandgoodbreasts.Women	
+	withbreastsalwaysdowell.Theyalso
+	liketomboys.Theytrusttomboys.They	
+	considerthemhonorableandwouldnever
+	havesexwiththemunlessthetomboyasked?
+
+VIEWonPANandHERMES
+
+
+			HERMES
+	No,don't.
+
+PANyellsatthetopofhislungs.HERMESisthrown
+backwardintoacloset.
+
+VIEWonGascomingfromabrokenpipe.
+
+INTERIORVIEWONTONYANDJULIENNE			
+WEHEARanalarm.AWOMANcomesuptoTONYina
+stateoffright.
+
+
+			WOMAN
+	There'sgasleaking.Getout.
+
+TONYstartstorunoutofthestorepullingJULIENNE
+bythehand.HelooksbackandseesaFRAILOLD
+WOMANwhodoesnotunderstandthedanger.TONYwants
+togoback.
+
+
+			TONY
+		(toJULIENNE)
+	I'llmeetyououtside.
+
+TONYgoesbacktohelptheoldWOMAN.
+
+
+			TONY
+	Comeon.there'sagasleak.
+
+TONYtriestopullher.
+
+
+			OLDWOMAN	
+	Don'ttouchme...Manager!
+
+EXTERIOR-STORE-NIGHT
+Thestoreexplodesandburns.	
+
+EXTERIOR-STORE-NIGHT
+JULIENNEinterviewedinfrontoftheSTOREbya
+cameracrew.Flamingstorebehind.
+
+
+			JULIENNE
+	Aniceyoungmanpulledmeoutandthen	
+	wentbackintosavesomeone..andthen	
+	therewasthisexplosion
+
+INTERIOR-DEBBIE'SHOUSE-NIGHT
+ALLENandH.TOMarelisteningtothebroadcast.
+
+
+			AUNTDEBBIE	
+	Whydon'tyougetatempjob.Ican't
+	payyouanymoremoney.
+
+ThePhoneRINGS.ALLENanswersthephone.
+
+
+			ALLEN
+	Hello(toAUNTDEBBIE)Doyouknowa	
+	Tony.
+
+			AUNTDEBBIE
+	Wrongnumber.TheykeepaskingforTONY.	
+	Lookit'syourcousin!
+
+VIEWONTELEVISION
+
+	
+			JULIENNE
+	Thenthestoreblewup.
+
+			DEBBIE
+	Shecouldhavedied.
+
+			ALLEN
+	Holyshit,that'smycousin?
+
+
+EXTERIOR-DOWNTOWN-DAY
+TONYwalksdownastreetshakinganaerosolcan.
+
+MUSIC:JohannSebastianBach-DoubleConcertofor
+2ViolinsBWV1043,LargoMaNonTanto
+
+Hestopsatacorner,shakesthecan,andstarts
+sprayingsillystringintothestreet.Ashedoes
+this,WEHEAR:acaralarmgooffacrossthestreet.
+WESEEablackrangerover.TONYraisesthecanto
+sprayagainandsprays.Thecanemitsasquiggly
+sprayandthesoundfromthecaracrossthestreet
+matchesthesillystring'soscillations.TONYputs
+thecandowninastonishment.
+
+MUSIC:WolfgangAmadeusMozart-ConcertoforPiano
+&Orchestra#20KV466
+
+EUGENEstopsandwatchesTONY.TONYlooksatEUGENE
+andslidesawayfromhisdangerousgaze.
+
+EXTERIOR-ALLEN'SBUILDING-DAY
+TwomenwalkuptoablackRangeRoverthenturnand
+walktowardALLEN'Sbuilding.
+
+EXTERIOR-LA-DAY
+Thewindblows.Atreefalls.Asitfallsits
+branchesbrushonastreetsignforGREENTREEST.
+ThesignbecomeGRAINTREE.
+						
+INTERIOR-ALLEN'SAPARTMENT-DAY
+ALLENpaces.ALLENHEARSaknockatthedoor.ALLEN
+goestothedoor.TwoTHUGSburstin,pushALLENto
+thefloor,guntohishead.
+
+
+			SON
+	Where'sthemoneyGreg?
+
+			ALLEN
+	Mynameisn'tGreg,MynameisAllen.
+
+			FATHER
+	Maybeheisn'tGreg.Theysaidhewasa	
+	bigguy.
+		
+			SON
+	Where'sthemoneyGreg?
+
+			ALLEN
+	Idon'tknowwhatyou'retalkingabout.
+
+			SON
+	Areyouallergictopain?
+
+SONPullsoutagun.
+
+
+			SON
+	WhereisthemoneyGreg?
+
+			FATHER
+	What'swiththegun?Isaidnoguns?
+
+			ALLEN
+	Takemywalletonthecoffeetable.
+	There's$1200inrentreceiptsinthe	
+	kitchendrawer!
+
+			SON
+	IsthatyourblackRangeRoverparked
+	outside?
+
+			ALLEN
+	Idon'thaveanyblackRangeRover.
+
+			FATHER
+	Isthis6600Graintree?
+
+			ALLEN
+	Greentree!
+
+			SON
+	What?
+
+			ALLEN
+	Greentree!
+
+			SON
+	Let'spophim.Heknowsalotnow.
+
+			FATHER
+	Comeon.Hedoesn'tknowanything.
+
+			SON
+	(Aimsgun)
+
+			FATHER
+	Comeon.We'resorry.Haveagoodday.
+
+FATHERpullsSONawayandtheyleave,ALLENgetsup.
+
+
+			ALLEN
+	Youguysdosloppywork.
+
+Adesklampandthelightbulbpops.Itstartleshim.
+
+
+EXTERIOR-THEBIGISLAND-DAY
+Ominouscloudscastshadowonroilysea.
+
+MUSIC:BrianEno-ANOTHERGREENWORLD"Spirits
+Drifting"
+
+EXTERIOR-SKY-DAY
+Cloudspartandlightshinesthrough.
+
+
+			RADIO
+	TheNewYorkDailynewssays..1200people
+
+
+INTERIORPATIO-RANCHHOUSE-DAY
+MARIE-NØELlistenstotheradio.Sheiswearinga
+blackwig.Sheapplieslipstick.
+
+
+			RADIO
+	Willbereturned..tomorrow..becauseyou	
+	blewit...You'reabsolutelyright..
+
+ANGLEONRADIO
+MARIE-NØEListurningthedialrandomly.
+
+
+			RADIO
+	Andwhat'sgoingtohappen?..tothe	
+	personalityofyourdog...anddon't	
+	forget..ourchildren's	future..please..
+	becauseforceswillgather...totake
+	youaway...
+
+CLOSEUPONMARIE-NØEL
+Shehearssomethingshethinksisinteresting.
+
+
+			RADIO
+	...fromtheisland.
+
+Thentheradiobecomesunintelligible.Sheturnsthe
+dialandonlyhearsstatic.
+
+WEHEARPhoneringing.
+
+INTERIOR-ALLEN'SROOM-DAY
+ALLENsitsinhiseasychairandanswersthephone.
+
+
+			ALLEN
+	Hello?Wouldn'tyouknowit,thephone	
+	doesn'tringalldayandit'syou.
+
+EXTERIOR-LA-DAY
+VIEWonRaincloudsabovesunnyhousesonHighland
+Blvd.
+
+
+			RADIO
+	Matrixlactating....
+
+			ALLEN
+	Younoticesomethingonthewayhome..
+
+EXTERIOR-DOWNTOWNLA-DAY
+TONYwalksalongthestreetflippingacoin.
+
+
+			RADIO
+	...Etcheddroplets.
+		
+
+			ALLEN
+	Convertiblewithyoungbleachblond,	
+	mominback...
+
+EXTERIOR-THEVALLEY-DAY
+JuliennewalksonVenturaBlvd.
+
+
+			ALLEN
+	..mominback...
+
+ANGLEONMARIE-NØEL
+Shedabshefingerintothecolorpurpleonher
+colorpalette.
+
+
+			RADIO
+	Heroicmallfacingdarlings..
+	HastyScotchprecedingflick...
+
+ANGLEONALLEN
+
+
+			ALLEN	
+	Youngdadwithponytaildriving,baby	
+	shotgun,backfrombeach...
+
+VIEWonSUNgoingbehindclouds.
+
+
+			RADIO
+	Normalcantilever...
+
+VIEWonOCEAN.
+
+
+			RADIO
+	...shortofawe...
+
+VIEWonALLENsittinginacurbatnight,headlights
+blindhim.
+
+
+			ALLEN(V.O.)
+	GivestyletoSunsetBlvd.
+
+VIEWonMARIENOEL.Shedabsmakeupandmakesa
+mess.
+
+
+	l'artsanspast...
+
+VIEWonoldmanwalkinghiscatintheWilshire
+district.
+
+
+			ALLEN(V.O.)
+	Atsunsetthecarsmovehomeonebyone..
+
+			RADIO
+	...findingfreckles...
+
+VIEWonJULIENNEwalkingonVenturaBlvd.
+
+
+			ALLEN(V.O.)
+	Andthestagesfloattomeetthewarmlight
+
+VIEWonTONYwalkingonDowntown.
+
+
+			RADIO
+	talented...headyslap...
+
+			ALLEN(V.O.)
+	Mytimeismineagain.
+
+VIEWonALLENdrinkingglassofwateronhisbalcony.
+
+
+			RADIO
+	slap,talented,heady...
+
+MUSIC:LudwigvanBeethoven-PianoConcerto#8in
+Cminor,Op.13"Pathetique"
+
+VIEWonALLENrapidlywigglinghiseyebrows.
+
+HIGHshotofSanMiguelIsland.
+
+MUSIC:BrianEno-ANOTHERGREENWORLD"Spirits
+Drifting"
+
+			RADIO
+	...breaksonnotfindingform...
+
+VIEWonMARIE-NØELapplyingcolortohereyesfrom
+colorpalette.
+
+
+			RADIO
+	ditchedglue...laughterpullingOrion...Wrist
+	onloan...
+
+TONYwalkingbytallpoplarsintheValleyon
+Mulhollanddrive.
+
+
+			RADIO
+	...bowedto&clean...
+
+VIEWonmountainfieldofflowers.
+VIEWonPlaneinlandingpattern.
+VIEWonTONY'sPOVwalkingonMelrose.
+VIEWonALLENhangingupthephone.
+VIEWonMARIE-NØELputtingonhermakeupfaster.
+VIEWonearthquakedamagedbuildings.
+VIEWon3peoplecomingoutofdoorssimultaneously.
+
+
+			RADIO
+	secretcycledfrom...theobvious...lodged
+	stylehawkedfromhome...searingmaterial
+	lushastrash...
+
+VIEWoftheTHIELEtwins
+
+MUSIC:LudwigvanBeethoven-PianoConcerto#8in
+Cminor,Op.13"Pathetique"
+
+VIEWonMNputtingonhermakeupfaster,andfaster
+tillitisanevenbiggermess.
+
+VIEWofDowntownLAinawindstorm.
+VIEWoftheSantaMonicaBayatsunrise.
+
+
+			RADIO
+	feetliftingheavyball...toshoulderin	
+	backwardworld...lovelycart...lucky...
+	faucetofdistantlakes...badswathforever
+	poor...
+
+MARIE-NØELpullsoffherblackwig.Shelooksoff
+cameraasifshehearssomething.
+
+EXTERIOR-LA-MORNING
+Closeonpre-sunriseLA.
+Earthquakeshakesthebuildingsassunrises.
+
+WEHEARthesoundofaHELICOPTER.
+
+VIEWonLA.Amoonrisesineclipse.
+
+MUSIC:HaydnStringQuartetOp76,Allegrocon
+Spirito
+
+
+EXTERIOR-LASTREET-NIGHT
+Twocarspassinthenightgoingoppositedirections.
+
+MUSIC:Haydn-StringQuartet:"Sunrise"		
+
+EXTERIOR-LAGOOGIERESTAURANT-NIGHT
+TONYsitsinanallnightrestaurantlateatnight.
+Heeatslikeahorse,10entreesinfrontofhim.
+
+WEHEAR:Ajetlanding
+
+MUSIC:Identify
+
+TONYlooksoutthewindowandseesatotaleclipse
+ofthemoon.
+
+VIEWONJETLANDING
+VIEWONLANDINGLIGHTSONWATER
+
+EXTERIOR-HOLLYWOODSTREET-NIGHT			
+TONYwalkalongthesidewalkinthemiddleofthe
+night.EUGENEstopsTONY.TONYavoidshim,but
+EUGENEheadshimoff.
+
+MUSIC:?
+
+			EUGENE	
+	Havealight?
+
+			TONY
+	Idon'tsmoke.
+
+Eugene,standinginfrontofTONY,searchesinhis
+pocketsandfindsalighter,thenabookandthen
+somestring.TONYlooksattheEUGENE'sfaceand
+eyes.EUGENEhandsTONYthebook.
+
+TONYlooksatthebookthenEUGENEfindsacigarette.
+Thelighterwon'tlight.Themanrealizesheis
+imposingonTONYandtriestogetthebookback
+whileholdingthecigaretteinhishand.EUGENE
+givesTONYthelighterandtakesbackthebook.
+ThepriorityishissmokingtriumphsandTONYends
+uplightinghimup.Thelightershootsupinabig
+flametoTONY'Ssurprise.TONYcan'tturnoffthe
+lighter.Thereisapoweroutage.....
+
+EXTERIOR-HOLLYWOOD-NIGHT
+Apoweroutagedarkensalargerectangleinthe
+middleofagridofcitylights.
+
+SOUND:Caralarms,housealarms
+
+EXTERIOR-HOLLYWOODSTREET-NIGHT
+CAMERAdriftstoTONY'Sface.
+
+EUGENEgrabstheLIGHTERfromTONYandwalksoff
+intothedark.
+
+MUSIC:JohannSebastianBach-Suite#25inAminor
+
+EXTERIOR-SAMEPOSITION-DAY
+RainstreaksfromTONY'Sface.TONYissamestanding
+positionasnightbefore.Menwearingsuitslike
+TONY'Sarestandingatthedoor.Itisraining.The
+camerapushesinandTONYcomesto.Thedooropens
+andtheactorsgoinafterapplaudingforTONY,
+thinkingthatheisalivingstatue.TONYfollows
+theminthedoor.Weseeasignthatsays"Casting."
+
+EXTERIOR-HOLLYWOOD-DAY
+ALLENwalksinahurrydownaHollywoodstreet.
+BARRY,ALLEN'SAGENT,getsoutofhiscarand
+approachesALLEN.
+
+			ALLEN
+	HeyBarry,whatareyoudoinghere?
+
+			BARRY
+	I'mgoingtoseemydaughter'sdanceclass.	
+	Aren'tIallowedtohavealife?
+
+			ALLEN
+	That'sfineYouneverseeyouragentanywhere.
+	It'skindofweird.
+
+			BARRY	
+	I'veheardthatbefore.
+
+ALLENgivesAGENTathirstylook.
+
+			BARRY
+	Doyouwantthis?
+
+BARRYhandsALLENaCoke.
+
+			BARRY
+	16tablespoonsofsugar.	
+	Fatisfunny.Betteryouthanme.
+
+			ALLEN
+	Didyouwipeit?
+
+ALLENburps.
+		
+			BARRY
+	Ialwaysknewyouwereaverytalentedman.
+
+			ALLEN
+	YouknowBarry,whenIwasgrowingupinMaine
+	myneighborswouldsay:Ohyou'regoingto
+	Hollywoodtobeastar,Huh,Thatwaspretty
+	embarrassing,wouldn'tyousay?You'rejust
+	likethem.
+
+			BARRY
+	What?Moi?
+
+			ALLEN
+	Itwasn'tverynice.
+
+			BARRY
+	Whathaven'tIdoneforyoulately
+
+			ALLEN
+	You'realwayssofuckingcondescending.
+	
+			BARRY
+	Whatareyoutalkingcondescending,
+	whatareyousaying?
+
+ALLENleavesframe,BARRYfollows.
+
+EXTERIOR-CASTINGBUILDING-DAY
+ThereisathunderclapandTONYandBARRYrunfor
+cover.BARRYstartsgoinginthedoor.
+
+			BARRY
+	SeeyouAllen.Aren'tyougoingintheactor's	
+	entrance?
+
+			ALLEN
+	Theyalwaysbringusinthebackdoorhere
+	butI'mgoinginthefronttoday.
+
+INTERIOR-LOBBY-DAY
+ALLENandBARRYenterthelobbyofthebuilding.
+		
+			ALLEN
+	YouknowI'veaddedupallthetimemy	
+	commercialshaverunontelevisionandI'm	
+	alreadywaydonewithmy15minutesoffame.
+
+ALLENstartstogetintotheelevator.
+
+			BARRY
+	ShouldItakethatpersonally?
+
+			ALLEN
+	Takeithoweveryou'dlike.
+
+			BARRY
+	Youknowwhat?I'mgoingtotakethesteps.
+	Idon'tfeelcomfortableinthiselevator.
+
+			ALLEN
+	Isthisaboutme?
+
+			BARRY
+	No.Ijustdon'tlikeelevators.Youknow
+	whatandelevatoris.It'sacoffin.Ifit
+	everstops.Didyouknowthat?Thecables
+	areweak,anditstops,there'snoair.
+
+			ALLEN
+	Barry!
+
+			BARRY
+	Iftherewasanearthquakeyouknowwhatwould	
+	happen?
+
+			ALLEN
+	Barry!
+
+			BARRY
+	...you'dbedead.	
+
+			ALLEN
+	Barry!
+
+			BARRY
+	I'dratherwalkandhavethighs.
+
+			ALLEN
+	Barry!
+
+ALLENfinallyinterruptshimandhandshimbackthe
+Pepsi.
+
+			ALLEN
+	I'llcallyouattheofficelater.Ohohoh!
+	I'mscared.
+
+THEELEVATORDOORcloses.
+
+INTERIOR-ELEVATOR-DAY
+
+ALLENteasesBARRYonemoretime.ALLENopensthe
+elevatordoor...
+
+			ALLEN
+	OhBarry,Ialmostforgot...
+
+...andTONYstandingatthedoorwaitingtogetin.
+TONYentersandsettlesinfortheride.
+
+			ALLEN
+	You'reapussyBarry.
+		(toTONY)
+	Casting?
+
+			TONY
+	Sure.
+
+ALLENreactstoTONY'Slackofdetermination.The
+elevatorstartstorise.
+
+EFFECT:EARTHQUAKE
+		
+			ALLEN	
+	Ohmygodit'saearthquake.
+
+			TONY
+	It'sallright.
+
+			ALLEN
+	BARRY!!!!
+
+			TONY
+	It'llbeoversoon.
+
+			ALLEN
+	Areweunderanythingstructural?Getina
+	doorjam.
+
+ALLENhuddlesnexttoTONYintheelevatordoorand
+theshakingincreases.
+
+			ALLEN
+	Doyousmellgas?
+
+Thelightsgoonandoffinthemiddleofthetumult.
+
+			TONY
+	What?
+
+			ALLEN
+	We'regoingtodie.Barrrrrrry!
+
+EXTERIOR-STREET-DAY
+Heavychunksofplasterandbrickhitthepavement.
+
+			ALLENandTONY
+	AAhhhhhhhh!
+
+VIEWOFLOSANGELESNEWSCOVERAGEOFEARTHQUAKE:
+Damagedcars,freeways,collapsedapartmentsand
+parkingstructures,buckledfreeways....
+
+MUSIC:Bocherini-ConcertoinGMajor
+
+			ANNOUNCERMONTAGE(v.o.)
+	6.6officiallyifyouhavebeensleepingall	
+	morning.6.6itwasfeltfromSanDiegotoLas	
+	VegastoModesto.Itwascenteredexactlyunder
+	inNorthridgeanditisaunnamedfault...We
+	areinGranadaHillsandthepowerisstill
+	out...Sadlytherewerethreedeathsreported
+	intheSantaClaritaValleyarea.Theforce
+	blewoutstorefrontwindows,therewere
+	landslidesinPacificPalisadesleftcars
+	cakedinmud.Rupturedgaslinesbuckled	
+	theroads.TheSantaMonicafreewaycollapsed
+	nearLaCieniega.Anapartmentcomplexon
+	14thandIdahoexploded.Onehousetoppled
+	downahill.
+
+Wetiltupfromacollapsedstorefrontandseea
+partialeclipseofthesun.
+
+EXTERIOR-HOLLYWOOD-DAY
+AHOMELESSWOMANandherdaughterstandinfrontof
+aboardedupstorefront.
+
+			HOMELESSWOMAN
+	Aftertheearthquakewasalloverwewent
+	downto	thelobbyandsaddowninthe
+	lobbyofthebuilding...
+
+EXTERIOR-LA-DAY
+Weseeabuildingwhereawallhasfallenoff
+exposingthecontentsofahotelroom...broken
+windows...fallenbrick...cracksinwalls...more
+fallenfacades.
+
+			HOMELESSWOMAN
+	...untilthesuncameup.Andthenwewentoff
+	toourroomtoseeiftherewasanydamage,it
+	wasprettybad.Itwasquiet,therewasn't
+	anybodydriving,therewerepeoplejust
+	wanderingaround,youknowwewalkedoutand
+	welookedandwesawthecracks.....andyou
+	knowdownthestreetoverherebesidethe
+	buildingwasoff,abigbelltowerupthe
+	streetwastiltedhalfwaydown,itwassortof	
+	scary......
+	
+EXTERIOR-STREET-DAY
+ThecameraDOLLIESpastadamagedcarinanalley.
+Wereachadoorblockedbyrubble.TONYandALLEN
+emerge.
+
+			HOMELESSWOMAN
+	...andyouknowdownthestreetoverhere	
+	besidethebuildingwasoff,abigbell
+	towerupthestreetwastiltedhalfwaydown,
+	itwassortofscary......
+
+			TONY
+	Whatabeautifuldayforanearthquake.
+	
+			ALLEN
+	I'vegotocheckmybuilding.I'vegotto
+	turnthegasoff.Wedon'thaveany
+	earthquakekits.Where'syourcar?
+	
+			TONY
+	Idon'townacar.Iwalk.
+
+			ALLEN
+	Youwalk?
+	
+		TONY
+	YeahIwalk.
+
+			ALLEN
+	Wheredoyoulive?
+
+			TONY
+	Outoftown.
+
+			ALLEN
+	Whereoutoftown....likeNewYorkoutoftown,	Texasoutoftown?
+	
+			TONY
+	Acoupleofhoursoutoftown.
+
+			ALLEN
+	LikePalmSpringsoutoftown?
+
+			TONY
+	Yeah,likePalmSpringsoutoftown.
+
+TONYwalksaway.
+	
+			ALLEN
+	Andyoudon'thaveacar?
+
+MUSIC:
+
+EXTERIOR-VINESTREETfromabove-DAY
+TONYandALLENtheirwayacrosstheroad.
+
+EXTERIOR-EARTHQUAKEDAMAGEDSTREET-DAY
+TONYandALLENwalkalongtogetherandmeeta
+DERANGEDWOMAN.Sheisverybigandsexy.Butsheis.
+
+			DERANGEDWOMAN
+	There'snoloveintheworld!Imissmyfriend
+	morethananythingthat'severhappenedtome.
+	Shehadfavoritesofcourse.
+
+SheappraochesALLEN.Thewomanhasbecomesexier
+talkingtoALLEN.TONYinterrupts.
+
+			TONY
+	Thismakesmehappytoknow.WeIhavetogo
+	now.
+
+			DERANGEDWOMAN
+	Youyourselfmayknowsomeonesheliked.
+
+SheworksALLENup.
+
+			TONY
+	Loser.You'resuchaloser.Youhave
+	terribletasteinclothes!Allyourtaste
+	isinyourfriggin'mouth!
+
+Thewomanflees.ALLENisamazed.
+
+			ALLEN
+	Whatareyoudoing?
+
+			TONY
+	Youdon'twanttohaveanythingtodowith
+	her.
+
+			ALLEN
+	Ibegtodiffer.Isthattricyclelisted.
+	Thisneverhappenstomeduringtheday.
+
+
+EXTERIOR-ALLEN'SBUILDING-DAY
+Peopleholdinghouseholditemspassthem.People
+aremovingout.
+
+EXTERIOR-ALLEN'SBUILDING
+WEHEARPanic,chaos.
+
+INTERIOR-ALLEN'SBUILDING-DAY
+WepickupJULIENNEwithagroupofpeoplemoving
+thingsout.OneofthemholdsaZEBRAHEAD.JULIENNE
+comesfromastorageroom.Sheisholdinganice
+lampandaboxofpictures.JULIENNEforgets
+somethingandgoesback.Apicturedropsonthe
+floor.ItisapictureofALLENandJULIENNEand
+AUNTDEBBIE
+
+INTERIOR-ALLEN'SBUILDING-DAY
+ALLENandTONYenterthebuilding.Theyworktheir
+waythroughthecrowdinthehalltowardALLEN'S
+APARTMENT.Thetenantsholdpersonalitems.Theyare
+angryatALLEN.
+
+			ALLEN
+	Whyareyoumovingout?
+
+			FLEEINGTENANT
+	Thisplaceiscondemned.Nouseofpaying
+	youanymorerent.
+
+			ALLEN
+	Don'tthinkyou'regoingtogetyoursecurity
+	depositback.
+
+ALLENstopsathisdoorandtriestoopenit.It
+won'tbudge.TONYhearssomethingupstairsand
+startsupthestairs.ThegroupwiththeZEBRAHEAD
+passeshimcomingdownthestairs.
+
+			VOICE
+	Watchoutforthefloorupthere,it'sweak.
+
+			TONY	
+	OK.
+
+TONYandJULIENNEmeetatthetopofthestairs.
+JULIENNEisvisiblyprettier.
+
+			JULIENNE
+	Ithoughtyouweredead?
+
+			TONY
+	Isurvived.
+
+			JULIENNE
+	Wehavetostartmeetinglikethis.
+
+CharminglookformTONY.Hiseyeslockwith
+JULIENNE's.Sheleansoverforakiss.THECAMERA
+movestowardhim.Tonystepsforwardtokissand
+SUDDENLY....TONYfallsstraightdownoutofframe.
+
+INTERIOR-STORAGEROOM
+TONYturnsandfallsintoaroom.Heendsupina
+dustyroom.Helooksup,unabletogetout,he
+slowlydriftsintoatrance.
+
+VIEWONALLEN'SAPARTMENT
+ALLENforcesopenthedoortohisapartmentandsees
+thateverythingisonthefloorandbroken.Hepicks
+uphisCOATandafewvaluablesandleaves.ALLEN
+comesbackoutlookingforTONY.ALLENseesJULIENNE.
+
+			ALLEN
+	Whatareyoudoinghere?
+
+			JULIENNE
+	Someone'sfalleninthefloorupstairs.
+
+			ALLEN
+	Don'tworryaboutit..Justadeadbeat.
+	Wehavetogetoutofherethere'sgoing
+	beanaftershock.
+
+ALLENhurriesheroutofthebuilding.Thereisan
+aftershock.WehearSCREAMS.
+
+			TENANT'SVOICE
+	Whocheckedthegasmain,asshole!
+
+MUSIC:Dvorak-CelloConcerto#14inBminor
+Op104Adagio
+		
+INTERIOR-STORAGETONYstandsintheroomina
+trance
+
+EXTERIOR-ALLAN'SAPARTMENT-DAY
+Thecameratiltsdownandweseethatthebuilding
+iscondemned.Achainlinkfencepreventssquatters
+frommovingin.
+
+INTERIOR-WRECKEDBUILDING-DAY
+TONYwandersinAbandonedbuilding.
+Hepicksupapicturefromthefloor.HeseesALLEN
+andJULIENNEstandingtogether.
+
+INTERIOR-AVALONOFFICE-DAY
+TONYandTONY'SLAWYERstandinfrontofanopen
+window.
+
+			JIM
+	Thegovernmenthasflip-floppedinmaybetwoor	threeyearstheproblemwillcomeupagainbutit	leastitgivesussomebreathingroom.
+
+			TONY
+	I'mthinkingaboutstartingoverinLA.Ilikeit	there,I'vemetsomepeopleIlike.I'mhappyfor	thethefirsttimeinyears.
+
+			JIM
+	Iknewyouwouldbeinspiteofallthedamage.
+
+			TONY
+	Howmuch?
+
+			JIM
+	Allinteriorroadsareout.Raymond'sbarnfell	down.There'snopowerexceptfromgeneratorson	thebigisland
+
+			TONY
+	HaveyouheardfromMarie-Nøel?
+
+			JIM
+	No.Weflewoverandthere'snodamagetoany	
+	structures,butherradioisout.
+
+			TONY
+	IthinkIshouldgetupthere.
+
+EXTERIOR-ISLAND-DAY
+Weseethebigislandfloatinginaseaofreflected
+light.
+
+EXTERIOR-ISLAND-DAY
+TONYwalksfromhisboatonthepiertowardthe
+ranchhouse.
+
+
+MUSIC:Dvorzak-CelloConcerto#17inBminor
+Op104Adagio
+
+EXTERIOR-ZODIAC-NEARISLAND-DAY
+Guysonboathearthunder.Theystopandlookaround,
+hearitandareperplexedasitdiminishes.
+
+
+			ANTHONY
+	Stoptheengine.Listen.
+
+TheyallHEARthunder.
+
+ANTONYplungesoverboardwithhisboardandpackand
+startsPaddling.Thezodiacpullsnexttohim.
+
+
+			ANTHONY
+	I'llbeallright.PickmeuponSunday.
+
+Thezodiacspeedsoff.
+
+
+			FIRSTSURFER
+	What'swithAnthony?Hereallydid	
+	it.He'scrazy.
+
+			SECONDSURFER
+	We'llpickhimuponthewayback.
+
+			FIRSTSURFER
+	Doeshereallythinksomechicklivesonthat	
+	island?
+		
+			FIRSTSURFER
+	Iguessso.
+
+EXTERIOR-ISLANDPLATEAU
+MARIE-NØELwalkinguphillnexttowater,hunting
+withabow.MARIE-NØELhearsthunder
+
+MUSIC:Renedupere"Saltimbanco"
+
+EXTERIOR-ISLANDPLATEAU
+MARIE-NØELclimbsahill,hearingthunder.Shestalks
+throughgrass.Weseeboar'seye.Sheappearsfrom
+behindabush
+
+SlowMoofwideshotMARIE-NØELpickingupnoteand
+readingit.(flashforward)Justaclipofthepaper
+falling.
+
+RETURNTOMAINACTION
+Shetakesherstance.
+
+FLASHFORWARD
+MARIE-NØELreadsthenote,tearfully.
+
+
+			MARIE-CHRISTINE(V.O.)
+	Happy18th.You'renotagingwell,butI
+	shouldn'tmentionthatonyourbirthday
+	shouldI?Icouldnotthinkofabetter
+	waytosurpriseyouthantohidethisin
+	plainsight.Here'satreasuremaptoyour	
+	birthdaypresent,Somethingsthatmayhelp
+	youwhenyouwanttoleavehome.IfI'm
+	gonewhenyoureadthis,thenI'mright,
+	andI'mnotgoingwithyou.Goodluck.Love
+	you.Yoursister.MarieChristine.
+
+MUSIC:BACHHarpsichord
+
+SEQUENCE
+ANTHONYpaddlestowardshore.
+
+MARIE-NØELCries.
+
+ANTHONYpaddlestowardshoregetsturnedawayby
+cliff.
+
+MARIE-NØELsittingwithletteroverlookingsea.
+
+EXTERIOR-ISLANDPLATEAU-SUNSET
+MARIE-NØELreadingletter.
+
+VIEWonISLANDSHORELINE
+
+ANTHONYpaddlestowardrocks.
+
+MARIE-NØELcrying.
+
+ANTHONYpullshimselfoutofthewaterandstandin
+thesun.
+
+MARIE-NØELswattingawayprecursortothegadfly
+Arrowoutofquiver.EYEofBOAR.Shereleases.
+
+
+
+
+
+
+12
+Writers:  LawrenceBridges
+Genres:  Comedy
+UserComments
+
+
+
+
+
+
+
+
